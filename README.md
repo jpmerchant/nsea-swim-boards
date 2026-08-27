@@ -16,10 +16,14 @@ it loads from `/data/` should change when new results come in.
    top10-scy.html
    top10-lcm.html
    records.html
+   records-traditional-scy.html
+   records-traditional-lcm.html
    data/
      top10-scy.json
      top10-lcm.json
      records.json
+     records-traditional-scy.json
+     records-traditional-lcm.json
    ```
    Easiest way if you're not comfortable with git command line: on the
    repo's GitHub page, use **Add file → Upload files** and drag the whole
@@ -52,8 +56,9 @@ containing an iframe pointed at the matching board, e.g.:
 Do this once per page:
 - **Top Times - SCY** → `top10-scy.html`
 - **Top Times - LCM** → `top10-lcm.html`
-- **Team Records - SCY** and **Team Records - LCM** → `records.html`
-  (or split into two record files later if you want them separated by course)
+- **Record Holders leaderboard** (ranked by # of records held, all courses combined) → `records.html`
+- **Team Records - SCY** (classic per-event board: age group → event → holder) → `records-traditional-scy.html`
+- **Team Records - LCM** (same, long course) → `records-traditional-lcm.html`
 
 A fixed `min-height` avoids a tiny/scrolling box; adjust it if a board looks
 cramped after real data loads. If BUILD's widget strips the `style`
@@ -116,7 +121,40 @@ new results:
 }
 ```
 
-`date` fields in both shapes should be ISO format (`YYYY-MM-DD`) — the
+### `data/records-traditional-scy.json` / `data/records-traditional-lcm.json` shape
+
+```json
+{
+  "cutoff_iso": "2025-09-01",
+  "cutoff_label": "9/1/2025",
+  "disclaimer": "...",
+  "footer": "...",
+  "genders": {
+    "Female": {
+      "ageGroups": [
+        {
+          "age": "10 & U",
+          "events": [
+            {"event": "50 Free", "time": "28.91", "date": "2023-02-17",
+             "holder": "Gentry Witmer", "meet": "...", "noRecord": false},
+            {"event": "500 Free", "noRecord": true}
+          ]
+        }
+      ],
+      "relays": [
+        {"event": "10 & U 200 Free Relay", "time": "2:26.19", "date": "2021-11-12",
+         "swimmers": "A. Petroff, E. Amin, N. Crowley, G. Witmer", "meet": "..."}
+      ]
+    },
+    "Male": { "...": "..." }
+  }
+}
+```
+
+An age group with every event `noRecord: true` can be omitted entirely — the
+page only renders age groups that have at least one real record.
+
+`date` fields in all three shapes should be ISO format (`YYYY-MM-DD`) — the
 pages compare them directly against the cutoff date in the browser.
 
 ## Why this setup
