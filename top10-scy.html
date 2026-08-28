@@ -33,10 +33,15 @@
   .age-btn{ font-family:'Inter',sans-serif; font-size:12.5px; font-weight:600; padding:7px 14px; border-radius:6px; border:1px solid var(--line); background:var(--white); color:var(--gray); cursor:pointer; transition:all .15s ease; }
   .age-btn.active{ background:var(--ink); color:var(--white); border-color:var(--ink); }
   .event-tabs{ display:flex; gap:6px; justify-content:center; margin:0 0 20px; flex-wrap:wrap; }
-  .event-tab{ font-family:'Inter',sans-serif; font-size:12px; padding:6px 12px; border-radius:6px; border:1px solid var(--line); background:var(--white); color:var(--gray); cursor:pointer; }
-  .event-tab.active{ background:var(--coral); color:var(--white); border-color:var(--coral); }
+  .stroke-tab{ font-family:'Inter',sans-serif; font-size:13px; font-weight:700; padding:8px 18px; border-radius:8px; border:1.5px solid var(--teal); background:var(--white); color:var(--teal-dark); cursor:pointer; transition:all .15s ease; text-transform:uppercase; letter-spacing:0.03em; }
+  .stroke-tab.active{ background:var(--teal); color:var(--white); }
+  .distance-list{ display:none; }
+  .event-group{ margin-bottom:34px; }
+  .event-head{ display:flex; align-items:baseline; justify-content:space-between; border-bottom:2px solid var(--ink); padding-bottom:6px; margin-bottom:10px; }
+  .event-head h2{ font-family:'Oswald',sans-serif; font-weight:600; font-size:19px; text-transform:uppercase; letter-spacing:0.02em; margin:0; color:var(--ink); }
+  .event-head .count{ font-family:'Space Mono',monospace; font-size:10.5px; color:var(--gray-light); text-transform:uppercase; letter-spacing:0.05em; }
   .event-title{ font-family:'Oswald',sans-serif; font-weight:600; font-size:20px; text-transform:uppercase; letter-spacing:0.02em; text-align:center; margin:0 0 14px; color:var(--ink); }
-  table{ width:100%; border-collapse:collapse; margin-bottom:36px; }
+  table{ width:100%; border-collapse:collapse; }
   thead th{ text-align:left; font-family:'Space Mono',monospace; font-size:10px; text-transform:uppercase; letter-spacing:0.09em; color:var(--gray-light); padding:8px 10px; border-bottom:1px solid var(--line); }
   tbody tr{ border-bottom:1px solid var(--line); }
   tbody tr:last-child{ border-bottom:none; }
@@ -73,14 +78,8 @@
 
   <div class="gender-tabs" id="gender-tabs"></div>
   <div class="age-tabs" id="age-tabs"></div>
-  <div class="event-tabs" id="event-tabs"></div>
-  <div class="event-title" id="event-title"></div>
-  <table>
-    <thead>
-      <tr><th>Rank</th><th>Time</th><th>Name</th><th>Age</th><th>Meet</th><th>Date</th><th>Power Points</th></tr>
-    </thead>
-    <tbody id="results-body"><tr><td colspan="7"><div class="empty-msg">Loading…</div></td></tr></tbody>
-  </table>
+  <div class="event-tabs" id="stroke-tabs"></div>
+  <div id="events-container"><div class="empty-msg">Loading…</div></div>
 </main>
 
 <footer id="footer-text">NSEA Swim &middot; All-Time Top 10 &middot; Short Course Yards</footer>
@@ -100,7 +99,8 @@ let CUTOFF_LABEL = '';
 let DISCLAIMER = '';
 let FOOTER = '';
 
-let state = { gender: 'Female', age: null, event: null };
+let state = { gender: 'Female', age: null, stroke: null };
+const STROKE_ORDER = ['Free', 'Back', 'Breast', 'Fly', 'IM'];
 
 function ageGroupsForGender(gender){
   return AGE_ORDER.filter(a => DATA[a] && DATA[a][gender] && Object.keys(DATA[a][gender]).length);
@@ -108,6 +108,17 @@ function ageGroupsForGender(gender){
 function eventsForGenderAge(gender, age){
   if(!DATA[age] || !DATA[age][gender]) return [];
   return Object.keys(DATA[age][gender]);
+}
+function strokesForGenderAge(gender, age){
+  const events = eventsForGenderAge(gender, age);
+  const present = new Set(events.map(e => e.split(' ').slice(1).join(' ')));
+  return STROKE_ORDER.filter(s => present.has(s));
+}
+function eventsForStroke(gender, age, stroke){
+  const events = eventsForGenderAge(gender, age);
+  return events
+    .filter(e => e.split(' ').slice(1).join(' ') === stroke)
+    .sort((a, b) => parseInt(a) - parseInt(b));
 }
 
 function computeStats(){
@@ -137,7 +148,7 @@ function renderGenderTabs(){
     const btn = document.createElement('button');
     btn.className = 'pill-btn' + (state.gender === g ? ' active' : '');
     btn.textContent = g === 'Female' ? 'Women' : 'Men';
-    btn.onclick = () => { state.gender = g; state.age = null; state.event = null; render(); };
+    btn.onclick = () => { state.gender = g; state.age = null; state.stroke = null; render(); };
     el.appendChild(btn);
   });
 }
@@ -151,59 +162,72 @@ function renderAgeTabs(){
     const btn = document.createElement('button');
     btn.className = 'age-btn' + (state.age === a ? ' active' : '');
     btn.textContent = a;
-    btn.onclick = () => { state.age = a; state.event = null; render(); };
+    btn.onclick = () => { state.age = a; state.stroke = null; render(); };
     el.appendChild(btn);
   });
 }
 
-function renderEventTabs(){
-  const events = eventsForGenderAge(state.gender, state.age);
-  if(!state.event || !events.includes(state.event)) state.event = events[0];
-  const el = document.getElementById('event-tabs');
+function renderStrokeTabs(){
+  const strokes = strokesForGenderAge(state.gender, state.age);
+  if(!state.stroke || !strokes.includes(state.stroke)) state.stroke = strokes[0];
+  const el = document.getElementById('stroke-tabs');
   el.innerHTML = '';
-  events.forEach(ev => {
+  strokes.forEach(s => {
     const btn = document.createElement('button');
-    btn.className = 'event-tab' + (state.event === ev ? ' active' : '');
-    btn.textContent = ev;
-    btn.onclick = () => { state.event = ev; render(); };
+    btn.className = 'stroke-tab' + (state.stroke === s ? ' active' : '');
+    btn.textContent = s;
+    btn.onclick = () => { state.stroke = s; render(); };
     el.appendChild(btn);
   });
 }
 
-function renderTable(){
-  const titleEl = document.getElementById('event-title');
-  const body = document.getElementById('results-body');
-  const rows = (DATA[state.age] && DATA[state.age][state.gender] && DATA[state.age][state.gender][state.event]) || [];
+function eventRowHtml(r, cutoff){
+  const isNew = new Date(r.date) >= cutoff;
+  return `<tr class="${isNew ? 'new-record' : ''}">
+    <td class="rank">${r.rank}</td>
+    <td class="time">${r.time}${isNew ? '<span class="flag">NEW</span>' : ''}</td>
+    <td>${r.first} ${r.last}</td>
+    <td>${r.age}</td>
+    <td class="meet">${r.meet}</td>
+    <td class="date">${r.date}</td>
+    <td>${r.points ?? ''}</td>
+  </tr>`;
+}
+
+function renderEventTables(){
+  const container = document.getElementById('events-container');
+  const events = eventsForStroke(state.gender, state.age, state.stroke);
   const cutoff = new Date(CUTOFF_ISO);
 
-  if(!rows.length){
-    titleEl.textContent = '';
-    body.innerHTML = '<tr><td colspan="7"><div class="empty-msg">No events on file for this group.</div></td></tr>';
+  if(!events.length){
+    container.innerHTML = '<div class="empty-msg">No events on file for this group.</div>';
     return;
   }
 
-  titleEl.textContent = `${state.age} ${state.gender === 'Female' ? 'Women' : 'Men'} — ${state.event}`;
-
-  const sorted = rows.slice().sort((a,b) => a.rank - b.rank);
-  body.innerHTML = sorted.map(r => {
-    const isNew = new Date(r.date) >= cutoff;
-    return `<tr class="${isNew ? 'new-record' : ''}">
-      <td class="rank">${r.rank}</td>
-      <td class="time">${r.time}${isNew ? '<span class="flag">NEW</span>' : ''}</td>
-      <td>${r.first} ${r.last}</td>
-      <td>${r.age}</td>
-      <td class="meet">${r.meet}</td>
-      <td class="date">${r.date}</td>
-      <td>${r.points ?? ''}</td>
-    </tr>`;
+  container.innerHTML = events.map(ev => {
+    const rows = (DATA[state.age][state.gender][ev] || []).slice().sort((a,b) => a.rank - b.rank);
+    return `
+      <section class="event-group">
+        <div class="event-head">
+          <h2>${ev}</h2>
+          <span class="count">${rows.length} on file</span>
+        </div>
+        <table>
+          <thead>
+            <tr><th>Rank</th><th>Time</th><th>Name</th><th>Age</th><th>Meet</th><th>Date</th><th>Power Points</th></tr>
+          </thead>
+          <tbody>${rows.map(r => eventRowHtml(r, cutoff)).join('')}</tbody>
+        </table>
+      </section>
+    `;
   }).join('');
 }
 
 function render(){
   renderGenderTabs();
   renderAgeTabs();
-  renderEventTabs();
-  renderTable();
+  renderStrokeTabs();
+  renderEventTables();
 }
 
 fetch(DATA_URL, {cache: 'no-store'})
@@ -226,8 +250,8 @@ fetch(DATA_URL, {cache: 'no-store'})
     render();
   })
   .catch(err => {
-    document.getElementById('results-body').innerHTML =
-      '<tr><td colspan="7"><div class="empty-msg">Could not load results data.</div></td></tr>';
+    document.getElementById('events-container').innerHTML =
+      '<div class="empty-msg">Could not load results data.</div>';
     console.error('Failed to load', DATA_URL, err);
   });
 </script>
