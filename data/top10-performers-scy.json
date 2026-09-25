@@ -1,6 +1,6 @@
 {
-  "cutoff_iso": "2025-09-01",
-  "cutoff_label": "9/1/2025",
+  "cutoff_iso": "2026-09-01",
+  "cutoff_label": "9/1/2026",
   "disclaimer": "This board reflects the meet results currently on file and may not capture every historical swim. If you notice a missing or incorrect entry, let a coach know so we can update the records.",
   "footer": "NSEA Swim \u00b7 Top 10 Performers \u00b7 Short Course Yards",
   "age_order": [
@@ -791,6 +791,26 @@
           },
           {
             "rank": 7,
+            "time": "23.28",
+            "first": "Lily",
+            "last": "Clifford",
+            "age": 8,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 8,
+            "time": "23.30",
+            "first": "Jocelyn",
+            "last": "Waldkirch",
+            "age": 8,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 9,
             "time": "23.98",
             "first": "Henley",
             "last": "Fortier",
@@ -800,33 +820,13 @@
             "points": null
           },
           {
-            "rank": 8,
-            "time": "25.25",
-            "first": "Kira",
-            "last": "Stepantsova",
-            "age": 8,
-            "meet": "2026 NC NSEA May Flowers Dual",
-            "date": "2026-05-29",
-            "points": null
-          },
-          {
-            "rank": 9,
-            "time": "25.45",
-            "first": "Avery",
-            "last": "Williams",
-            "age": 7,
-            "meet": "2024 NC BAC Battle at the Beach",
-            "date": "2024-01-13",
-            "points": null
-          },
-          {
             "rank": 10,
-            "time": "27.03",
-            "first": "Abigail",
-            "last": "fitzgerald",
+            "time": "24.36",
+            "first": "Sawyer",
+            "last": "Akins",
             "age": 10,
-            "meet": "2023 NC BAC vs NSEA Dual",
-            "date": "2023-09-24",
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
             "points": null
           }
         ],
@@ -883,6 +883,16 @@
           },
           {
             "rank": 6,
+            "time": "25.62",
+            "first": "Sawyer",
+            "last": "Akins",
+            "age": 10,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 7,
             "time": "26.06",
             "first": "Avery",
             "last": "Williams",
@@ -892,7 +902,17 @@
             "points": null
           },
           {
-            "rank": 7,
+            "rank": 8,
+            "time": "26.22",
+            "first": "Kira",
+            "last": "Stepantsova",
+            "age": 8,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 9,
             "time": "26.93",
             "first": "Jilly",
             "last": "Murano",
@@ -902,33 +922,13 @@
             "points": null
           },
           {
-            "rank": 8,
+            "rank": 10,
             "time": "26.98",
             "first": "Charlotte",
             "last": "Cook",
             "age": 10,
             "meet": "2025 NC BAC vs NSEA Dual",
             "date": "2025-09-20",
-            "points": null
-          },
-          {
-            "rank": 9,
-            "time": "27.40",
-            "first": "Finley",
-            "last": "Harrison",
-            "age": 8,
-            "meet": "2022 NC BAC-NSEA Dual",
-            "date": "2022-09-24",
-            "points": null
-          },
-          {
-            "rank": 10,
-            "time": "28.33",
-            "first": "Kira",
-            "last": "Stepantsova",
-            "age": 8,
-            "meet": "2026 NC RSA Cupid Cuts",
-            "date": "2026-02-13",
             "points": null
           }
         ],
@@ -1087,6 +1087,16 @@
           },
           {
             "rank": 6,
+            "time": "17.84",
+            "first": "Sawyer",
+            "last": "Akins",
+            "age": 10,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 7,
             "time": "17.88",
             "first": "Ada",
             "last": "Hovis",
@@ -1096,7 +1106,7 @@
             "points": null
           },
           {
-            "rank": 7,
+            "rank": 8,
             "time": "18.13",
             "first": "Jilly",
             "last": "Murano",
@@ -1106,7 +1116,7 @@
             "points": null
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "18.65",
             "first": "Vivienne",
             "last": "Naegele",
@@ -1116,23 +1126,13 @@
             "points": null
           },
           {
-            "rank": 9,
-            "time": "19.79",
-            "first": "Avery",
-            "last": "Williams",
-            "age": 7,
-            "meet": "2023 NC BAC Halloween Bash",
-            "date": "2023-10-28",
-            "points": null
-          },
-          {
             "rank": 10,
-            "time": "21.31",
-            "first": "Piper",
-            "last": "Sorensen",
-            "age": 9,
-            "meet": "2024 NC BAC v NSEA Dual Meet",
-            "date": "2024-09-29",
+            "time": "19.18",
+            "first": "Jocelyn",
+            "last": "Waldkirch",
+            "age": 8,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
             "points": null
           }
         ],
@@ -2295,6 +2295,16 @@
         "25 Back": [
           {
             "rank": 1,
+            "time": "19.67",
+            "first": "Banks",
+            "last": "Smith",
+            "age": 10,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 2,
             "time": "21.36",
             "first": "August",
             "last": "Howell",
@@ -2304,7 +2314,27 @@
             "points": null
           },
           {
-            "rank": 2,
+            "rank": 3,
+            "time": "21.37",
+            "first": "Will",
+            "last": "Lance",
+            "age": 10,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 4,
+            "time": "22.10",
+            "first": "Kirin",
+            "last": "Lee",
+            "age": 8,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 5,
             "time": "22.19",
             "first": "Crosby",
             "last": "Howell",
@@ -2314,7 +2344,7 @@
             "points": null
           },
           {
-            "rank": 3,
+            "rank": 6,
             "time": "22.30",
             "first": "Kai",
             "last": "Farrell",
@@ -2324,7 +2354,7 @@
             "points": null
           },
           {
-            "rank": 4,
+            "rank": 7,
             "time": "22.89",
             "first": "Zachary",
             "last": "Matthews",
@@ -2334,7 +2364,27 @@
             "points": null
           },
           {
-            "rank": 5,
+            "rank": 8,
+            "time": "23.84",
+            "first": "Jude",
+            "last": "Nemeth",
+            "age": 8,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 9,
+            "time": "23.96",
+            "first": "Declan",
+            "last": "McNamara",
+            "age": 9,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 10,
             "time": "24.01",
             "first": "Jones",
             "last": "Bowen",
@@ -2342,61 +2392,41 @@
             "meet": "2026 NC NSEA Spring Showers Dual",
             "date": "2026-04-17",
             "points": null
-          },
-          {
-            "rank": 6,
-            "time": "24.18",
-            "first": "Avery",
-            "last": "Trott",
-            "age": 9,
-            "meet": "2024 NC BAC v NSEA Dual Meet",
-            "date": "2024-09-29",
-            "points": null
-          },
-          {
-            "rank": 7,
-            "time": "24.40",
-            "first": "Blue",
-            "last": "Andrews",
-            "age": 8,
-            "meet": "2025 NC NSEA Fall 12U Intrasquad",
-            "date": "2025-11-07",
-            "points": null
-          },
-          {
-            "rank": 8,
-            "time": "24.45",
-            "first": "Ellison",
-            "last": "Kane",
-            "age": 10,
-            "meet": "2024 NC BAC v NSEA Dual Meet",
-            "date": "2024-09-29",
-            "points": null
-          },
-          {
-            "rank": 9,
-            "time": "25.09",
-            "first": "Ian",
-            "last": "Angel",
-            "age": 10,
-            "meet": "2024 NC BAC v NSEA Dual Meet",
-            "date": "2024-09-29",
-            "points": null
-          },
-          {
-            "rank": 10,
-            "time": "25.55",
-            "first": "Nevin",
-            "last": "Luther",
-            "age": 7,
-            "meet": "2025 NC NSEA v WOW 12U Dual #1",
-            "date": "2025-04-11",
-            "points": null
           }
         ],
         "25 Breast": [
           {
             "rank": 1,
+            "time": "22.69",
+            "first": "Banks",
+            "last": "Smith",
+            "age": 10,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 2,
+            "time": "25.11",
+            "first": "Jude",
+            "last": "Nemeth",
+            "age": 8,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 3,
+            "time": "25.15",
+            "first": "Declan",
+            "last": "McNamara",
+            "age": 9,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 4,
             "time": "25.18",
             "first": "Ian",
             "last": "Angel",
@@ -2406,17 +2436,17 @@
             "points": null
           },
           {
-            "rank": 2,
-            "time": "26.98",
-            "first": "Banks",
-            "last": "Smith",
-            "age": 9,
-            "meet": "2025 NC BAC vs NSEA Dual",
-            "date": "2025-09-20",
+            "rank": 5,
+            "time": "25.65",
+            "first": "Kirin",
+            "last": "Lee",
+            "age": 8,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
             "points": null
           },
           {
-            "rank": 3,
+            "rank": 6,
             "time": "27.09",
             "first": "Teo",
             "last": "Bromstead",
@@ -2426,7 +2456,7 @@
             "points": null
           },
           {
-            "rank": 4,
+            "rank": 7,
             "time": "29.34",
             "first": "Powell",
             "last": "Andrews",
@@ -2436,7 +2466,7 @@
             "points": null
           },
           {
-            "rank": 5,
+            "rank": 8,
             "time": "29.47",
             "first": "Blue",
             "last": "Andrews",
@@ -2446,53 +2476,23 @@
             "points": null
           },
           {
-            "rank": 6,
-            "time": "31.66",
-            "first": "Declan",
-            "last": "McNamara",
-            "age": 8,
-            "meet": "2025 NC NSEA v WOW 12U May Dual",
-            "date": "2025-05-30",
+            "rank": 9,
+            "time": "32.45",
+            "first": "Matthew",
+            "last": "Lance",
+            "age": 7,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
             "points": null
           },
           {
-            "rank": 7,
+            "rank": 10,
             "time": "33.39",
             "first": "Banks",
             "last": "Hunter",
             "age": 10,
             "meet": "2024 NC BAC v NSEA Dual Meet",
             "date": "2024-09-28",
-            "points": null
-          },
-          {
-            "rank": 8,
-            "time": "33.44",
-            "first": "Kai",
-            "last": "Farrell",
-            "age": 8,
-            "meet": "2024 NC BAC v NSEA Dual Meet",
-            "date": "2024-09-28",
-            "points": null
-          },
-          {
-            "rank": 9,
-            "time": "34.66",
-            "first": "Jones",
-            "last": "Bowen",
-            "age": 8,
-            "meet": "2025 NC NSEA Fall 12U Intrasquad",
-            "date": "2025-11-08",
-            "points": null
-          },
-          {
-            "rank": 10,
-            "time": "35.93",
-            "first": "Callahan",
-            "last": "McNamara",
-            "age": 7,
-            "meet": "2026 NC NSEA May Flowers Dual",
-            "date": "2026-05-29",
             "points": null
           }
         ],
@@ -2519,6 +2519,26 @@
           },
           {
             "rank": 3,
+            "time": "21.51",
+            "first": "Kirin",
+            "last": "Lee",
+            "age": 8,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 4,
+            "time": "21.76",
+            "first": "Will",
+            "last": "Lance",
+            "age": 10,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 5,
             "time": "23.31",
             "first": "August",
             "last": "Howell",
@@ -2528,7 +2548,7 @@
             "points": null
           },
           {
-            "rank": 4,
+            "rank": 6,
             "time": "25.41",
             "first": "Jones",
             "last": "Bowen",
@@ -2538,17 +2558,7 @@
             "points": null
           },
           {
-            "rank": 5,
-            "time": "26.33",
-            "first": "Kirin",
-            "last": "Lee",
-            "age": 8,
-            "meet": "2026 NC NSEA May Flowers Dual",
-            "date": "2026-05-29",
-            "points": null
-          },
-          {
-            "rank": 6,
+            "rank": 7,
             "time": "27.78",
             "first": "Blue",
             "last": "Andrews",
@@ -2558,7 +2568,7 @@
             "points": null
           },
           {
-            "rank": 7,
+            "rank": 8,
             "time": "28.59",
             "first": "Kai",
             "last": "Farrell",
@@ -2568,7 +2578,7 @@
             "points": null
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "29.48",
             "first": "Banks",
             "last": "Hunter",
@@ -2578,7 +2588,7 @@
             "points": null
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "30.10",
             "first": "Nevin",
             "last": "Luther",
@@ -2586,21 +2596,21 @@
             "meet": "2025 NC NSEA v WOW 12U May Dual",
             "date": "2025-05-30",
             "points": null
-          },
-          {
-            "rank": 10,
-            "time": "35.09",
-            "first": "Matthew",
-            "last": "Lance",
-            "age": 7,
-            "meet": "2025 NC NSEA Fall 12U Intrasquad",
-            "date": "2025-11-07",
-            "points": null
           }
         ],
         "25 Free": [
           {
             "rank": 1,
+            "time": "16.27",
+            "first": "Banks",
+            "last": "Smith",
+            "age": 10,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 2,
             "time": "16.36",
             "first": "Crosby",
             "last": "Howell",
@@ -2610,7 +2620,7 @@
             "points": null
           },
           {
-            "rank": 2,
+            "rank": 3,
             "time": "17.62",
             "first": "Kai",
             "last": "Farrell",
@@ -2620,7 +2630,7 @@
             "points": null
           },
           {
-            "rank": 3,
+            "rank": 4,
             "time": "18.20",
             "first": "Ian",
             "last": "Angel",
@@ -2630,7 +2640,17 @@
             "points": null
           },
           {
-            "rank": 4,
+            "rank": 5,
+            "time": "18.54",
+            "first": "Declan",
+            "last": "McNamara",
+            "age": 9,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 6,
             "time": "19.03",
             "first": "August",
             "last": "Howell",
@@ -2640,7 +2660,17 @@
             "points": null
           },
           {
-            "rank": 5,
+            "rank": 7,
+            "time": "19.11",
+            "first": "Jude",
+            "last": "Nemeth",
+            "age": 8,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 8,
             "time": "19.13",
             "first": "Ellison",
             "last": "Kane",
@@ -2650,7 +2680,7 @@
             "points": null
           },
           {
-            "rank": 6,
+            "rank": 9,
             "time": "19.16",
             "first": "Kirin",
             "last": "Lee",
@@ -2660,43 +2690,13 @@
             "points": null
           },
           {
-            "rank": 7,
+            "rank": 10,
             "time": "19.56",
             "first": "Zachary",
             "last": "Matthews",
             "age": 10,
             "meet": "2025 NC BAC vs NSEA Dual",
             "date": "2025-09-21",
-            "points": null
-          },
-          {
-            "rank": 8,
-            "time": "21.14",
-            "first": "Blue",
-            "last": "Andrews",
-            "age": 8,
-            "meet": "2026 NC RSA Cupid Cuts",
-            "date": "2026-02-13",
-            "points": null
-          },
-          {
-            "rank": 9,
-            "time": "21.94",
-            "first": "Declan",
-            "last": "McNamara",
-            "age": 8,
-            "meet": "2025 NC BAC Battle at the Beach",
-            "date": "2025-01-11",
-            "points": null
-          },
-          {
-            "rank": 10,
-            "time": "22.05",
-            "first": "Jones",
-            "last": "Bowen",
-            "age": 8,
-            "meet": "2025 NC NSEA Fall 12U Intrasquad",
-            "date": "2025-11-08",
             "points": null
           }
         ],
@@ -5133,6 +5133,16 @@
           },
           {
             "rank": 8,
+            "time": "1:20.70",
+            "first": "Corbin",
+            "last": "Tinney",
+            "age": 12,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 9,
             "time": "1:20.88",
             "first": "Linc",
             "last": "Jabaley",
@@ -5142,7 +5152,7 @@
             "points": 163
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "1:20.93",
             "first": "Carter",
             "last": "Frank",
@@ -5150,16 +5160,6 @@
             "meet": "2026 NC NSEA May Flowers Dual",
             "date": "2026-05-29",
             "points": 162
-          },
-          {
-            "rank": 10,
-            "time": "1:22.48",
-            "first": "Corbin",
-            "last": "Tinney",
-            "age": 12,
-            "meet": "2026 NC NSEA May Flowers Dual",
-            "date": "2026-05-29",
-            "points": 130
           }
         ],
         "200 Back": [
@@ -5515,6 +5515,16 @@
           },
           {
             "rank": 6,
+            "time": "35.80",
+            "first": "August",
+            "last": "Howell",
+            "age": 11,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 7,
             "time": "36.66",
             "first": "Linc",
             "last": "Jabaley",
@@ -5524,7 +5534,7 @@
             "points": 238
           },
           {
-            "rank": 7,
+            "rank": 8,
             "time": "36.97",
             "first": "Beckett",
             "last": "Howell",
@@ -5534,7 +5544,7 @@
             "points": 222
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "37.06",
             "first": "Ryker",
             "last": "Eder",
@@ -5542,16 +5552,6 @@
             "meet": "2020 NC HPSC Polar Bear Invita",
             "date": "2020-01-04",
             "points": 218
-          },
-          {
-            "rank": 9,
-            "time": "37.10",
-            "first": "August",
-            "last": "Howell",
-            "age": 11,
-            "meet": "2026 NC WOW Summer Spectacular",
-            "date": "2026-07-25",
-            "points": 353
           },
           {
             "rank": 10,
@@ -5657,13 +5657,13 @@
           },
           {
             "rank": 10,
-            "time": "44.23",
+            "time": "44.16",
             "first": "Carter",
             "last": "Frank",
             "age": 12,
-            "meet": "2026 NC WOW Summer Spectacular",
-            "date": "2026-07-26",
-            "points": 95
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
           }
         ],
         "50 Fly": [
@@ -5739,6 +5739,16 @@
           },
           {
             "rank": 8,
+            "time": "35.21",
+            "first": "Carter",
+            "last": "Frank",
+            "age": 12,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 9,
             "time": "35.31",
             "first": "Linc",
             "last": "Jabaley",
@@ -5748,7 +5758,7 @@
             "points": 208
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "35.86",
             "first": "Corbin",
             "last": "Tinney",
@@ -5756,16 +5766,6 @@
             "meet": "2026 NC WOW Tri-County",
             "date": "2026-01-24",
             "points": 291
-          },
-          {
-            "rank": 10,
-            "time": "36.08",
-            "first": "August",
-            "last": "Howell",
-            "age": 11,
-            "meet": "2026 NC WOW Summer Spectacular",
-            "date": "2026-07-25",
-            "points": 279
           }
         ],
         "50 Free": [
@@ -5851,6 +5851,16 @@
           },
           {
             "rank": 9,
+            "time": "31.70",
+            "first": "Carter",
+            "last": "Frank",
+            "age": 12,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 10,
             "time": "31.71",
             "first": "Corbin",
             "last": "Tinney",
@@ -5858,16 +5868,6 @@
             "meet": "2026 NC NSEA Spring Showers Dual",
             "date": "2026-04-17",
             "points": 289
-          },
-          {
-            "rank": 10,
-            "time": "32.15",
-            "first": "Carter",
-            "last": "Frank",
-            "age": 12,
-            "meet": "2026 NC WOW Summer Spectacular",
-            "date": "2026-07-26",
-            "points": 263
           }
         ],
         "500 Free": [
@@ -6387,6 +6387,16 @@
         "100 IM": [
           {
             "rank": 1,
+            "time": "1:04.31",
+            "first": "Gentry",
+            "last": "Witmer",
+            "age": 14,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 2,
             "time": "1:06.94",
             "first": "Sophie",
             "last": "Wert",
@@ -6396,7 +6406,7 @@
             "points": 462
           },
           {
-            "rank": 2,
+            "rank": 3,
             "time": "1:10.22",
             "first": "Piper",
             "last": "Cockman",
@@ -6406,7 +6416,17 @@
             "points": 399
           },
           {
-            "rank": 3,
+            "rank": 4,
+            "time": "1:10.42",
+            "first": "Eliza",
+            "last": "Amin",
+            "age": 13,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 5,
             "time": "1:10.64",
             "first": "Violet",
             "last": "Derry",
@@ -6416,7 +6436,7 @@
             "points": 337
           },
           {
-            "rank": 4,
+            "rank": 6,
             "time": "1:12.10",
             "first": "Abigail",
             "last": "Blair",
@@ -6426,7 +6446,7 @@
             "points": 339
           },
           {
-            "rank": 5,
+            "rank": 7,
             "time": "1:12.51",
             "first": "Addison",
             "last": "Hicks",
@@ -6436,7 +6456,7 @@
             "points": 280
           },
           {
-            "rank": 6,
+            "rank": 8,
             "time": "1:14.02",
             "first": "Camren Grace",
             "last": "Reaves",
@@ -6446,7 +6466,7 @@
             "points": 236
           },
           {
-            "rank": 7,
+            "rank": 9,
             "time": "1:14.59",
             "first": "Nina",
             "last": "Crowley",
@@ -6456,7 +6476,7 @@
             "points": 264
           },
           {
-            "rank": 8,
+            "rank": 10,
             "time": "1:15.07",
             "first": "Olivia",
             "last": "Crowley",
@@ -6464,26 +6484,6 @@
             "meet": "2022 NC BAC-NSEA Dual",
             "date": "2022-09-24",
             "points": 251
-          },
-          {
-            "rank": 9,
-            "time": "1:15.18",
-            "first": "Lilah",
-            "last": "Taylor",
-            "age": 14,
-            "meet": "2025 NC WOW v NSEA July Dual Meet",
-            "date": "2025-07-27",
-            "points": 205
-          },
-          {
-            "rank": 10,
-            "time": "1:16.05",
-            "first": "Lillian",
-            "last": "Amin",
-            "age": 13,
-            "meet": "2022 NC BAC-NSEA Dual",
-            "date": "2022-09-24",
-            "points": 224
           }
         ],
         "1000 Free": [
@@ -7367,6 +7367,16 @@
           },
           {
             "rank": 8,
+            "time": "38.76",
+            "first": "Eliza",
+            "last": "Amin",
+            "age": 13,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 9,
             "time": "39.62",
             "first": "Lillian",
             "last": "Amin",
@@ -7376,7 +7386,7 @@
             "points": 276
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "40.30",
             "first": "Kemper",
             "last": "Yarnoz",
@@ -7384,16 +7394,6 @@
             "meet": "2023 NC BAC vs NSEA Dual",
             "date": "2023-09-23",
             "points": 209
-          },
-          {
-            "rank": 10,
-            "time": "42.67",
-            "first": "Gina",
-            "last": "Neu",
-            "age": 13,
-            "meet": "2025 NC BAC vs NSEA Dual",
-            "date": "2025-09-20",
-            "points": 130
           }
         ],
         "50 Fly": [
@@ -7409,6 +7409,16 @@
           },
           {
             "rank": 2,
+            "time": "28.29",
+            "first": "Gentry",
+            "last": "Witmer",
+            "age": 14,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 3,
             "time": "28.30",
             "first": "Violet",
             "last": "Derry",
@@ -7416,16 +7426,6 @@
             "meet": "2023 NC BAC vs NSEA Dual",
             "date": "2023-09-23",
             "points": 603
-          },
-          {
-            "rank": 3,
-            "time": "28.62",
-            "first": "Gentry",
-            "last": "Witmer",
-            "age": 13,
-            "meet": "2025 NC BAC vs NSEA Dual",
-            "date": "2025-09-20",
-            "points": 627
           },
           {
             "rank": 4,
@@ -7449,6 +7449,16 @@
           },
           {
             "rank": 6,
+            "time": "30.59",
+            "first": "Eliza",
+            "last": "Amin",
+            "age": 13,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 7,
             "time": "30.82",
             "first": "Camren Grace",
             "last": "Reaves",
@@ -7458,7 +7468,7 @@
             "points": 410
           },
           {
-            "rank": 7,
+            "rank": 8,
             "time": "31.81",
             "first": "Abigail",
             "last": "Blair",
@@ -7468,7 +7478,7 @@
             "points": 387
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "32.06",
             "first": "Nina",
             "last": "Crowley",
@@ -7478,7 +7488,7 @@
             "points": 370
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "32.30",
             "first": "Addison",
             "last": "Hicks",
@@ -7486,16 +7496,6 @@
             "meet": "2022 NC BAC-NSEA Dual",
             "date": "2022-09-24",
             "points": 307
-          },
-          {
-            "rank": 10,
-            "time": "32.35",
-            "first": "Lilah",
-            "last": "Taylor",
-            "age": 14,
-            "meet": "2025 NC BAC vs NSEA Dual",
-            "date": "2025-09-20",
-            "points": 304
           }
         ],
         "50 Free": [
@@ -9015,6 +9015,16 @@
           },
           {
             "rank": 4,
+            "time": "36.61",
+            "first": "Jaxon",
+            "last": "Kehn",
+            "age": 14,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 5,
             "time": "38.19",
             "first": "Gavin",
             "last": "Derry",
@@ -9024,24 +9034,14 @@
             "points": 192
           },
           {
-            "rank": 5,
-            "time": "39.00",
-            "first": "Jaxon",
-            "last": "Kehn",
-            "age": 14,
-            "meet": "2026 NC NSEA Spring Showers Dual",
-            "date": "2026-04-17",
-            "points": 84
-          },
-          {
             "rank": 6,
-            "time": "39.32",
+            "time": "38.31",
             "first": "Sebastian",
             "last": "Chilcott",
-            "age": 13,
-            "meet": "2025 NC BAC vs NSEA Dual",
-            "date": "2025-09-20",
-            "points": 137
+            "age": 14,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
           },
           {
             "rank": 7,
@@ -9177,13 +9177,13 @@
           },
           {
             "rank": 10,
-            "time": "33.33",
-            "first": "Court",
-            "last": "Yarnoz",
+            "time": "33.19",
+            "first": "Jaxon",
+            "last": "Kehn",
             "age": 14,
-            "meet": "2025 NC BAC vs NSEA Dual",
-            "date": "2025-09-20",
-            "points": 119
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
           }
         ],
         "50 Free": [
@@ -9845,6 +9845,16 @@
           },
           {
             "rank": 5,
+            "time": "1:08.59",
+            "first": "Lila",
+            "last": "Paukovich",
+            "age": 15,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 6,
             "time": "1:08.63",
             "first": "Keener",
             "last": "Witmer",
@@ -9854,24 +9864,14 @@
             "points": 366
           },
           {
-            "rank": 6,
-            "time": "1:08.81",
-            "first": "Lila",
-            "last": "Paukovich",
-            "age": 15,
-            "meet": "2026 NC WOW Summer Spectacular",
-            "date": "2026-07-26",
-            "points": 372
-          },
-          {
             "rank": 7,
-            "time": "1:10.67",
+            "time": "1:10.44",
             "first": "Piper",
             "last": "Cockman",
             "age": 15,
-            "meet": "2026 NC WOW Summer Spectacular",
-            "date": "2026-07-26",
-            "points": 312
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
           },
           {
             "rank": 8,
@@ -10633,6 +10633,16 @@
           },
           {
             "rank": 6,
+            "time": "30.56",
+            "first": "Lila",
+            "last": "Paukovich",
+            "age": 15,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 7,
             "time": "33.09",
             "first": "Camren Grace",
             "last": "Reaves",
@@ -10642,7 +10652,27 @@
             "points": 314
           },
           {
-            "rank": 7,
+            "rank": 8,
+            "time": "33.97",
+            "first": "Sullivan",
+            "last": "Terzaken",
+            "age": 15,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 9,
+            "time": "33.99",
+            "first": "Lilah",
+            "last": "Taylor",
+            "age": 15,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 10,
             "time": "34.51r",
             "first": "Sara Paige",
             "last": "Harvey",
@@ -10650,36 +10680,6 @@
             "meet": "2021 NC BAC SPRING BREAK CHAMPS",
             "date": "2021-03-27",
             "points": 225
-          },
-          {
-            "rank": 8,
-            "time": "35.51",
-            "first": "Kemper",
-            "last": "Yarnoz",
-            "age": 15,
-            "meet": "2024 NC BAC v NSEA Dual Meet",
-            "date": "2024-09-29",
-            "points": 169
-          },
-          {
-            "rank": 9,
-            "time": "35.82",
-            "first": "Olivia",
-            "last": "Crowley",
-            "age": 16,
-            "meet": "2025 NC BAC vs NSEA Dual",
-            "date": "2025-09-21",
-            "points": 146
-          },
-          {
-            "rank": 10,
-            "time": "36.33",
-            "first": "Addison",
-            "last": "Hicks",
-            "age": 16,
-            "meet": "2024 NC BAC v NSEA Dual Meet",
-            "date": "2024-09-29",
-            "points": 121
           }
         ],
         "50 Breast": [
@@ -10705,6 +10705,16 @@
           },
           {
             "rank": 3,
+            "time": "35.69",
+            "first": "Piper",
+            "last": "Cockman",
+            "age": 15,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 4,
             "time": "36.50",
             "first": "Olivia",
             "last": "Crowley",
@@ -10714,7 +10724,7 @@
             "points": 414
           },
           {
-            "rank": 4,
+            "rank": 5,
             "time": "37.13",
             "first": "Keener",
             "last": "Witmer",
@@ -10724,7 +10734,7 @@
             "points": 353
           },
           {
-            "rank": 5,
+            "rank": 6,
             "time": "37.14",
             "first": "Addison",
             "last": "Hicks",
@@ -10734,7 +10744,7 @@
             "points": 353
           },
           {
-            "rank": 6,
+            "rank": 7,
             "time": "38.52",
             "first": "Lillian",
             "last": "Amin",
@@ -10744,7 +10754,7 @@
             "points": 297
           },
           {
-            "rank": 7,
+            "rank": 8,
             "time": "38.53",
             "first": "Kemper",
             "last": "Yarnoz",
@@ -10754,7 +10764,17 @@
             "points": 274
           },
           {
-            "rank": 8,
+            "rank": 9,
+            "time": "38.74",
+            "first": "Lila",
+            "last": "Paukovich",
+            "age": 15,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 10,
             "time": "45.66",
             "first": "Lilly",
             "last": "Eubanks",
@@ -10787,6 +10807,16 @@
           },
           {
             "rank": 3,
+            "time": "28.92",
+            "first": "Lila",
+            "last": "Paukovich",
+            "age": 15,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 4,
             "time": "29.34",
             "first": "Camren Grace",
             "last": "Reaves",
@@ -10796,7 +10826,7 @@
             "points": 495
           },
           {
-            "rank": 4,
+            "rank": 5,
             "time": "30.06",
             "first": "Sophie",
             "last": "Wert",
@@ -10806,7 +10836,7 @@
             "points": 423
           },
           {
-            "rank": 5,
+            "rank": 6,
             "time": "30.99",
             "first": "Kemper",
             "last": "Yarnoz",
@@ -10816,7 +10846,7 @@
             "points": 355
           },
           {
-            "rank": 6,
+            "rank": 7,
             "time": "31.20",
             "first": "Kennedy",
             "last": "Gordon",
@@ -10826,7 +10856,7 @@
             "points": 341
           },
           {
-            "rank": 7,
+            "rank": 8,
             "time": "31.24",
             "first": "Olivia",
             "last": "Crowley",
@@ -10836,7 +10866,17 @@
             "points": 355
           },
           {
-            "rank": 8,
+            "rank": 9,
+            "time": "32.70",
+            "first": "Lilah",
+            "last": "Taylor",
+            "age": 15,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 10,
             "time": "33.12",
             "first": "Addison",
             "last": "Hicks",
@@ -10844,26 +10884,6 @@
             "meet": "2024 NC BAC v NSEA Dual Meet",
             "date": "2024-09-28",
             "points": 216
-          },
-          {
-            "rank": 9,
-            "time": "33.19",
-            "first": "Lillian",
-            "last": "Amin",
-            "age": 15,
-            "meet": "2024 NC BAC v NSEA Dual Meet",
-            "date": "2024-09-28",
-            "points": 227
-          },
-          {
-            "rank": 10,
-            "time": "33.63",
-            "first": "Olivia",
-            "last": "King",
-            "age": 15,
-            "meet": "2019 NC BAC FALL BASH",
-            "date": "2019-10-05",
-            "points": 200
           }
         ],
         "50 Free": [
@@ -12400,6 +12420,36 @@
             "meet": "2024 NC BAC v NSEA Dual Meet",
             "date": "2024-09-28",
             "points": 277
+          },
+          {
+            "rank": 8,
+            "time": "38.18",
+            "first": "Court",
+            "last": "Yarnoz",
+            "age": 15,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 9,
+            "time": "39.86",
+            "first": "Lucas",
+            "last": "Carlton",
+            "age": 15,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 10,
+            "time": "42.79",
+            "first": "William",
+            "last": "Forbes",
+            "age": 15,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
           }
         ],
         "50 Fly": [
@@ -12472,6 +12522,36 @@
             "meet": "2023 NC BAC vs NSEA Dual",
             "date": "2023-09-23",
             "points": 262
+          },
+          {
+            "rank": 8,
+            "time": "31.03",
+            "first": "Lucas",
+            "last": "Carlton",
+            "age": 15,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 9,
+            "time": "33.42",
+            "first": "Cullen",
+            "last": "Frank",
+            "age": 15,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 10,
+            "time": "37.43",
+            "first": "William",
+            "last": "Forbes",
+            "age": 15,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
           }
         ],
         "50 Free": [
@@ -13821,6 +13901,16 @@
           },
           {
             "rank": 5,
+            "time": "31.34",
+            "first": "Sophie",
+            "last": "Wert",
+            "age": 17,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 6,
             "time": "31.77",
             "first": "Carson",
             "last": "Major",
@@ -13830,7 +13920,7 @@
             "points": 397
           },
           {
-            "rank": 6,
+            "rank": 7,
             "time": "32.94",
             "first": "Cadence",
             "last": "Eder",
@@ -13840,7 +13930,7 @@
             "points": 315
           },
           {
-            "rank": 7,
+            "rank": 8,
             "time": "33.01",
             "first": "Camren Grace",
             "last": "Reaves",
@@ -13850,7 +13940,7 @@
             "points": 310
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "33.41",
             "first": "Sallie",
             "last": "Brown",
@@ -13860,7 +13950,7 @@
             "points": 284
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "33.52",
             "first": "Riley",
             "last": "Hubard",
@@ -13868,21 +13958,21 @@
             "meet": "2022 NC BAC-NSEA Dual",
             "date": "2022-09-25",
             "points": 277
-          },
-          {
-            "rank": 10,
-            "time": "33.53r",
-            "first": "Madelyn",
-            "last": "McNeill",
-            "age": 17,
-            "meet": "2024 NC BAC v NSEA Dual Meet",
-            "date": "2024-09-29",
-            "points": 277
           }
         ],
         "50 Breast": [
           {
             "rank": 1,
+            "time": "34.34",
+            "first": "Sophie",
+            "last": "Wert",
+            "age": 17,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 2,
             "time": "35.07",
             "first": "Riley",
             "last": "Hubard",
@@ -13892,7 +13982,7 @@
             "points": 458
           },
           {
-            "rank": 2,
+            "rank": 3,
             "time": "36.08",
             "first": "Cadence",
             "last": "Eder",
@@ -13902,7 +13992,7 @@
             "points": 395
           },
           {
-            "rank": 3,
+            "rank": 4,
             "time": "36.77",
             "first": "Sallie",
             "last": "Brown",
@@ -13912,7 +14002,7 @@
             "points": 354
           },
           {
-            "rank": 4,
+            "rank": 5,
             "time": "36.81",
             "first": "Carson",
             "last": "Major",
@@ -13922,7 +14012,7 @@
             "points": 351
           },
           {
-            "rank": 5,
+            "rank": 6,
             "time": "36.87",
             "first": "Keener",
             "last": "Witmer",
@@ -13932,7 +14022,7 @@
             "points": 348
           },
           {
-            "rank": 6,
+            "rank": 7,
             "time": "38.15",
             "first": "Madelyn",
             "last": "McNeill",
@@ -13975,6 +14065,16 @@
           },
           {
             "rank": 4,
+            "time": "29.70",
+            "first": "Sophie",
+            "last": "Wert",
+            "age": 17,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 5,
             "time": "30.06",
             "first": "Madelyn",
             "last": "McNeill",
@@ -13984,7 +14084,7 @@
             "points": 409
           },
           {
-            "rank": 5,
+            "rank": 6,
             "time": "30.92",
             "first": "Cadence",
             "last": "Eder",
@@ -13994,7 +14094,7 @@
             "points": 347
           },
           {
-            "rank": 6,
+            "rank": 7,
             "time": "31.47",
             "first": "Sallie",
             "last": "Brown",
@@ -15348,6 +15448,16 @@
             "meet": "2024 NC BAC v NSEA Dual Meet",
             "date": "2024-09-28",
             "points": 438
+          },
+          {
+            "rank": 4,
+            "time": "41.31",
+            "first": "Corbin",
+            "last": "Bishop",
+            "age": 17,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
           }
         ],
         "50 Fly": [
@@ -15390,6 +15500,16 @@
             "meet": "2024 NC BAC v NSEA Dual Meet",
             "date": "2024-09-28",
             "points": 558
+          },
+          {
+            "rank": 5,
+            "time": "41.25",
+            "first": "Corbin",
+            "last": "Bishop",
+            "age": 17,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
           }
         ],
         "50 Free": [
@@ -16081,13 +16201,13 @@
           },
           {
             "rank": 10,
-            "time": "1:08.81",
+            "time": "1:08.59",
             "first": "Lila",
             "last": "Paukovich",
             "age": 15,
-            "meet": "2026 NC WOW Summer Spectacular",
-            "date": "2026-07-26",
-            "points": 372
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
           }
         ],
         "1000 Free": [
@@ -16827,6 +16947,26 @@
           },
           {
             "rank": 7,
+            "time": "23.28",
+            "first": "Lily",
+            "last": "Clifford",
+            "age": 8,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 8,
+            "time": "23.30",
+            "first": "Jocelyn",
+            "last": "Waldkirch",
+            "age": 8,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 9,
             "time": "23.98",
             "first": "Henley",
             "last": "Fortier",
@@ -16836,33 +16976,13 @@
             "points": null
           },
           {
-            "rank": 8,
-            "time": "25.25",
-            "first": "Kira",
-            "last": "Stepantsova",
-            "age": 8,
-            "meet": "2026 NC NSEA May Flowers Dual",
-            "date": "2026-05-29",
-            "points": null
-          },
-          {
-            "rank": 9,
-            "time": "25.45",
-            "first": "Avery",
-            "last": "Williams",
-            "age": 7,
-            "meet": "2024 NC BAC Battle at the Beach",
-            "date": "2024-01-13",
-            "points": null
-          },
-          {
             "rank": 10,
-            "time": "27.03",
-            "first": "Abigail",
-            "last": "fitzgerald",
+            "time": "24.36",
+            "first": "Sawyer",
+            "last": "Akins",
             "age": 10,
-            "meet": "2023 NC BAC vs NSEA Dual",
-            "date": "2023-09-24",
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
             "points": null
           }
         ],
@@ -16919,6 +17039,16 @@
           },
           {
             "rank": 6,
+            "time": "25.62",
+            "first": "Sawyer",
+            "last": "Akins",
+            "age": 10,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 7,
             "time": "26.06",
             "first": "Avery",
             "last": "Williams",
@@ -16928,7 +17058,17 @@
             "points": null
           },
           {
-            "rank": 7,
+            "rank": 8,
+            "time": "26.22",
+            "first": "Kira",
+            "last": "Stepantsova",
+            "age": 8,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 9,
             "time": "26.93",
             "first": "Jilly",
             "last": "Murano",
@@ -16938,33 +17078,13 @@
             "points": null
           },
           {
-            "rank": 8,
+            "rank": 10,
             "time": "26.98",
             "first": "Charlotte",
             "last": "Cook",
             "age": 10,
             "meet": "2025 NC BAC vs NSEA Dual",
             "date": "2025-09-20",
-            "points": null
-          },
-          {
-            "rank": 9,
-            "time": "27.40",
-            "first": "Finley",
-            "last": "Harrison",
-            "age": 8,
-            "meet": "2022 NC BAC-NSEA Dual",
-            "date": "2022-09-24",
-            "points": null
-          },
-          {
-            "rank": 10,
-            "time": "28.33",
-            "first": "Kira",
-            "last": "Stepantsova",
-            "age": 8,
-            "meet": "2026 NC NSEA Swim Cupid Classic",
-            "date": "2026-02-13",
             "points": null
           }
         ],
@@ -17123,6 +17243,16 @@
           },
           {
             "rank": 6,
+            "time": "17.84",
+            "first": "Sawyer",
+            "last": "Akins",
+            "age": 10,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 7,
             "time": "17.88",
             "first": "Ada",
             "last": "Hovis",
@@ -17132,7 +17262,7 @@
             "points": null
           },
           {
-            "rank": 7,
+            "rank": 8,
             "time": "18.13",
             "first": "Jilly",
             "last": "Murano",
@@ -17142,7 +17272,7 @@
             "points": null
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "18.65",
             "first": "Vivienne",
             "last": "Naegele",
@@ -17152,23 +17282,13 @@
             "points": null
           },
           {
-            "rank": 9,
-            "time": "19.79",
-            "first": "Avery",
-            "last": "Williams",
-            "age": 7,
-            "meet": "2023 NC BAC Halloween Bash",
-            "date": "2023-10-28",
-            "points": null
-          },
-          {
             "rank": 10,
-            "time": "21.31",
-            "first": "Piper",
-            "last": "Sorensen",
-            "age": 9,
-            "meet": "2024 NC BAC v NSEA Dual Meet",
-            "date": "2024-09-29",
+            "time": "19.18",
+            "first": "Jocelyn",
+            "last": "Waldkirch",
+            "age": 8,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
             "points": null
           }
         ],
@@ -17439,6 +17559,16 @@
           },
           {
             "rank": 7,
+            "time": "35.69",
+            "first": "Piper",
+            "last": "Cockman",
+            "age": 15,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 8,
             "time": "35.95",
             "first": "Abigail",
             "last": "Blair",
@@ -17448,7 +17578,7 @@
             "points": 453
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "36.08",
             "first": "Cadence",
             "last": "Eder",
@@ -17458,7 +17588,7 @@
             "points": 395
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "36.13",
             "first": "Annderson",
             "last": "Petroff",
@@ -17466,16 +17596,6 @@
             "meet": "2025 NC STAR Tarheel States",
             "date": "2025-03-16",
             "points": 547
-          },
-          {
-            "rank": 10,
-            "time": "36.32",
-            "first": "Piper",
-            "last": "Cockman",
-            "age": 12,
-            "meet": "2022 NC NSEA/WOW Dual Meet",
-            "date": "2023-07-22",
-            "points": 536
           }
         ],
         "50 Fly": [
@@ -17571,13 +17691,13 @@
           },
           {
             "rank": 10,
-            "time": "29.75",
+            "time": "29.70",
             "first": "Sophie",
             "last": "Wert",
-            "age": 14,
-            "meet": "2023 NC BAC vs NSEA Dual",
-            "date": "2023-09-23",
-            "points": 489
+            "age": 17,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
           }
         ],
         "50 Free": [
@@ -18923,6 +19043,16 @@
         "25 Back": [
           {
             "rank": 1,
+            "time": "19.67",
+            "first": "Banks",
+            "last": "Smith",
+            "age": 10,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 2,
             "time": "21.36",
             "first": "August",
             "last": "Howell",
@@ -18932,7 +19062,27 @@
             "points": null
           },
           {
-            "rank": 2,
+            "rank": 3,
+            "time": "21.37",
+            "first": "Will",
+            "last": "Lance",
+            "age": 10,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 4,
+            "time": "22.10",
+            "first": "Kirin",
+            "last": "Lee",
+            "age": 8,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 5,
             "time": "22.19",
             "first": "Crosby",
             "last": "Howell",
@@ -18942,7 +19092,7 @@
             "points": null
           },
           {
-            "rank": 3,
+            "rank": 6,
             "time": "22.30",
             "first": "Kai",
             "last": "Farrell",
@@ -18952,7 +19102,7 @@
             "points": null
           },
           {
-            "rank": 4,
+            "rank": 7,
             "time": "22.89",
             "first": "Zachary",
             "last": "Matthews",
@@ -18962,7 +19112,27 @@
             "points": null
           },
           {
-            "rank": 5,
+            "rank": 8,
+            "time": "23.84",
+            "first": "Jude",
+            "last": "Nemeth",
+            "age": 8,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 9,
+            "time": "23.96",
+            "first": "Declan",
+            "last": "McNamara",
+            "age": 9,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 10,
             "time": "24.01",
             "first": "Jones",
             "last": "Bowen",
@@ -18970,61 +19140,41 @@
             "meet": "2026 NC NSEA Spring Showers Dual",
             "date": "2026-04-17",
             "points": null
-          },
-          {
-            "rank": 6,
-            "time": "24.18",
-            "first": "Avery",
-            "last": "Trott",
-            "age": 9,
-            "meet": "2024 NC BAC v NSEA Dual Meet",
-            "date": "2024-09-29",
-            "points": null
-          },
-          {
-            "rank": 7,
-            "time": "24.40",
-            "first": "Blue",
-            "last": "Andrews",
-            "age": 8,
-            "meet": "2025 NC NSEA Fall 12U Intrasquad",
-            "date": "2025-11-07",
-            "points": null
-          },
-          {
-            "rank": 8,
-            "time": "24.45",
-            "first": "Ellison",
-            "last": "Kane",
-            "age": 10,
-            "meet": "2024 NC BAC v NSEA Dual Meet",
-            "date": "2024-09-29",
-            "points": null
-          },
-          {
-            "rank": 9,
-            "time": "25.09",
-            "first": "Ian",
-            "last": "Angel",
-            "age": 10,
-            "meet": "2024 NC BAC v NSEA Dual Meet",
-            "date": "2024-09-29",
-            "points": null
-          },
-          {
-            "rank": 10,
-            "time": "25.55",
-            "first": "Nevin",
-            "last": "Luther",
-            "age": 7,
-            "meet": "2025 NC NSEA v WOW 12U Dual #1",
-            "date": "2025-04-11",
-            "points": null
           }
         ],
         "25 Breast": [
           {
             "rank": 1,
+            "time": "22.69",
+            "first": "Banks",
+            "last": "Smith",
+            "age": 10,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 2,
+            "time": "25.11",
+            "first": "Jude",
+            "last": "Nemeth",
+            "age": 8,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 3,
+            "time": "25.15",
+            "first": "Declan",
+            "last": "McNamara",
+            "age": 9,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 4,
             "time": "25.18",
             "first": "Ian",
             "last": "Angel",
@@ -19034,17 +19184,17 @@
             "points": null
           },
           {
-            "rank": 2,
-            "time": "26.98",
-            "first": "Banks",
-            "last": "Smith",
-            "age": 9,
-            "meet": "2025 NC BAC vs NSEA Dual",
-            "date": "2025-09-20",
+            "rank": 5,
+            "time": "25.65",
+            "first": "Kirin",
+            "last": "Lee",
+            "age": 8,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
             "points": null
           },
           {
-            "rank": 3,
+            "rank": 6,
             "time": "27.09",
             "first": "Teo",
             "last": "Bromstead",
@@ -19054,7 +19204,7 @@
             "points": null
           },
           {
-            "rank": 4,
+            "rank": 7,
             "time": "29.34",
             "first": "Powell",
             "last": "Andrews",
@@ -19064,7 +19214,7 @@
             "points": null
           },
           {
-            "rank": 5,
+            "rank": 8,
             "time": "29.47",
             "first": "Blue",
             "last": "Andrews",
@@ -19074,53 +19224,23 @@
             "points": null
           },
           {
-            "rank": 6,
-            "time": "31.66",
-            "first": "Declan",
-            "last": "McNamara",
-            "age": 8,
-            "meet": "2025 NC NSEA v WOW 12U May Dual",
-            "date": "2025-05-30",
+            "rank": 9,
+            "time": "32.45",
+            "first": "Matthew",
+            "last": "Lance",
+            "age": 7,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
             "points": null
           },
           {
-            "rank": 7,
+            "rank": 10,
             "time": "33.39",
             "first": "Banks",
             "last": "Hunter",
             "age": 10,
             "meet": "2024 NC BAC v NSEA Dual Meet",
             "date": "2024-09-28",
-            "points": null
-          },
-          {
-            "rank": 8,
-            "time": "33.44",
-            "first": "Kai",
-            "last": "Farrell",
-            "age": 8,
-            "meet": "2024 NC BAC v NSEA Dual Meet",
-            "date": "2024-09-28",
-            "points": null
-          },
-          {
-            "rank": 9,
-            "time": "34.66",
-            "first": "Jones",
-            "last": "Bowen",
-            "age": 8,
-            "meet": "2025 NC NSEA Fall 12U Intrasquad",
-            "date": "2025-11-08",
-            "points": null
-          },
-          {
-            "rank": 10,
-            "time": "35.93",
-            "first": "Callahan",
-            "last": "McNamara",
-            "age": 7,
-            "meet": "2026 NC NSEA May Flowers Dual",
-            "date": "2026-05-29",
             "points": null
           }
         ],
@@ -19147,6 +19267,26 @@
           },
           {
             "rank": 3,
+            "time": "21.51",
+            "first": "Kirin",
+            "last": "Lee",
+            "age": 8,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 4,
+            "time": "21.76",
+            "first": "Will",
+            "last": "Lance",
+            "age": 10,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 5,
             "time": "23.31",
             "first": "August",
             "last": "Howell",
@@ -19156,7 +19296,7 @@
             "points": null
           },
           {
-            "rank": 4,
+            "rank": 6,
             "time": "25.41",
             "first": "Jones",
             "last": "Bowen",
@@ -19166,17 +19306,7 @@
             "points": null
           },
           {
-            "rank": 5,
-            "time": "26.33",
-            "first": "Kirin",
-            "last": "Lee",
-            "age": 8,
-            "meet": "2026 NC NSEA May Flowers Dual",
-            "date": "2026-05-29",
-            "points": null
-          },
-          {
-            "rank": 6,
+            "rank": 7,
             "time": "27.78",
             "first": "Blue",
             "last": "Andrews",
@@ -19186,7 +19316,7 @@
             "points": null
           },
           {
-            "rank": 7,
+            "rank": 8,
             "time": "28.59",
             "first": "Kai",
             "last": "Farrell",
@@ -19196,7 +19326,7 @@
             "points": null
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "29.48",
             "first": "Banks",
             "last": "Hunter",
@@ -19206,7 +19336,7 @@
             "points": null
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "30.10",
             "first": "Nevin",
             "last": "Luther",
@@ -19214,21 +19344,21 @@
             "meet": "2025 NC NSEA v WOW 12U May Dual",
             "date": "2025-05-30",
             "points": null
-          },
-          {
-            "rank": 10,
-            "time": "35.09",
-            "first": "Matthew",
-            "last": "Lance",
-            "age": 7,
-            "meet": "2025 NC NSEA Fall 12U Intrasquad",
-            "date": "2025-11-07",
-            "points": null
           }
         ],
         "25 Free": [
           {
             "rank": 1,
+            "time": "16.27",
+            "first": "Banks",
+            "last": "Smith",
+            "age": 10,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 2,
             "time": "16.36",
             "first": "Crosby",
             "last": "Howell",
@@ -19238,7 +19368,7 @@
             "points": null
           },
           {
-            "rank": 2,
+            "rank": 3,
             "time": "17.62",
             "first": "Kai",
             "last": "Farrell",
@@ -19248,7 +19378,7 @@
             "points": null
           },
           {
-            "rank": 3,
+            "rank": 4,
             "time": "18.20",
             "first": "Ian",
             "last": "Angel",
@@ -19258,7 +19388,17 @@
             "points": null
           },
           {
-            "rank": 4,
+            "rank": 5,
+            "time": "18.54",
+            "first": "Declan",
+            "last": "McNamara",
+            "age": 9,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 6,
             "time": "19.03",
             "first": "August",
             "last": "Howell",
@@ -19268,7 +19408,17 @@
             "points": null
           },
           {
-            "rank": 5,
+            "rank": 7,
+            "time": "19.11",
+            "first": "Jude",
+            "last": "Nemeth",
+            "age": 8,
+            "meet": "2026 NC BAC vs NSEA Dual",
+            "date": "2026-09-18",
+            "points": null
+          },
+          {
+            "rank": 8,
             "time": "19.13",
             "first": "Ellison",
             "last": "Kane",
@@ -19278,7 +19428,7 @@
             "points": null
           },
           {
-            "rank": 6,
+            "rank": 9,
             "time": "19.16",
             "first": "Kirin",
             "last": "Lee",
@@ -19288,43 +19438,13 @@
             "points": null
           },
           {
-            "rank": 7,
+            "rank": 10,
             "time": "19.56",
             "first": "Zachary",
             "last": "Matthews",
             "age": 10,
             "meet": "2025 NC BAC vs NSEA Dual",
             "date": "2025-09-21",
-            "points": null
-          },
-          {
-            "rank": 8,
-            "time": "21.14",
-            "first": "Blue",
-            "last": "Andrews",
-            "age": 8,
-            "meet": "2026 NC RSA Cupid Cuts",
-            "date": "2026-02-13",
-            "points": null
-          },
-          {
-            "rank": 9,
-            "time": "21.94",
-            "first": "Declan",
-            "last": "McNamara",
-            "age": 8,
-            "meet": "2025 NC BAC Battle at the Beach",
-            "date": "2025-01-11",
-            "points": null
-          },
-          {
-            "rank": 10,
-            "time": "22.05",
-            "first": "Jones",
-            "last": "Bowen",
-            "age": 8,
-            "meet": "2025 NC NSEA Fall 12U Intrasquad",
-            "date": "2025-11-08",
             "points": null
           }
         ],

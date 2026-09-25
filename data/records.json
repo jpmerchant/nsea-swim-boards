@@ -1,6 +1,6 @@
 {
-  "cutoff_iso": "2025-09-01",
-  "cutoff_label": "9/1/2025",
+  "cutoff_iso": "2026-09-01",
+  "cutoff_label": "9/1/2026",
   "subtitle": "Ranked by number of individual NSEA team records held across LC (meters) and SCY (yards). Tap a swimmer to see every record on their card.",
   "disclaimer": "It's built entirely from the official LC and SCY team record sheets, which only capture the single fastest swim per event, per age group. Results that never became a record \u2014 or any results missing from those exports \u2014 aren't reflected here, so the true all-time leaderboard could look different.",
   "footer": "NSEA SWIM \u00b7 DERIVED FROM LC & SCY TEAM RECORD EXPORTS \u00b7 UPDATED 2026-08-27",
@@ -154,6 +154,13 @@
           "time": "2:12.85",
           "date": "2023-03-17",
           "meet": ""
+        },
+        {
+          "course": "SCY",
+          "event": "50 Fly",
+          "time": "25.09",
+          "date": "2023-03-17",
+          "meet": "2023 ESSZ Age Group Sectionals"
         },
         {
           "course": "SCY",
@@ -557,6 +564,13 @@
     {
       "name": "Gentry Witmer",
       "records": [
+        {
+          "course": "SCY",
+          "event": "100 IM",
+          "time": "1:04.31",
+          "date": "2026-09-18",
+          "meet": "2026 BAC vs NSEA Dual"
+        },
         {
           "course": "LC",
           "event": "50 Back",
@@ -1877,6 +1891,13 @@
       "name": "Sophie Wert",
       "records": [
         {
+          "course": "SCY",
+          "event": "50 Breast",
+          "time": "34.34",
+          "date": "2026-09-18",
+          "meet": "2026 BAC vs NSEA Dual"
+        },
+        {
           "course": "LC",
           "event": "50 Free",
           "time": "28.63",
@@ -1929,13 +1950,6 @@
           "course": "SCY",
           "event": "50 Breast",
           "time": "35.08",
-          "date": "2023-09-23",
-          "meet": "2023 BAC / NSEA DUAL MEET"
-        },
-        {
-          "course": "SCY",
-          "event": "100 IM",
-          "time": "1:06.94",
           "date": "2023-09-23",
           "meet": "2023 BAC / NSEA DUAL MEET"
         },
@@ -2363,18 +2377,6 @@
           "time": "10:52.46",
           "date": "2026-03-20",
           "meet": "2026 STAR Tar Heel States"
-        }
-      ]
-    },
-    {
-      "name": "Riley Hubard",
-      "records": [
-        {
-          "course": "SCY",
-          "event": "50 Breast",
-          "time": "35.07",
-          "date": "2022-09-24",
-          "meet": ""
         }
       ]
     },
