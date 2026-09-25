@@ -14,14 +14,16 @@
   }
   *{box-sizing:border-box;}
   body{ margin:0; background:var(--white); color:var(--ink); font-family:'Inter',sans-serif; min-height:100vh; padding-bottom:60px; }
-  header{ padding:18px 24px 12px; text-align:center; }
   .sub{ color:var(--gray); font-size:13px; max-width:640px; margin:0 auto; line-height:1.5; }
   .sub strong{ color:var(--coral); }
-  .stats-strip{ display:flex; justify-content:center; gap:48px; padding:20px 16px; border-top:1px solid var(--line); border-bottom:1px solid var(--line); background:var(--panel); flex-wrap:wrap; }
+  .stats-strip{ display:flex; justify-content:center; gap:48px; padding:18px 16px; border:1px solid var(--line); border-radius:8px; background:var(--panel); flex-wrap:wrap; }
   .stat{ text-align:center; }
   .stat .num{ font-family:'Oswald',sans-serif; font-weight:700; font-size:26px; color:var(--teal-dark); }
   .stat .label{ font-family:'Space Mono',monospace; font-size:10px; text-transform:uppercase; letter-spacing:0.08em; color:var(--gray-light); margin-top:2px; }
-  main{ max-width:900px; margin:0 auto; padding:0 20px; }
+  main{ max-width:1200px; margin:0 auto; padding:0 16px; }
+  .intro{ padding:18px 0 14px; text-align:center; }
+  .table-scroll{ overflow-x:auto; -webkit-overflow-scrolling:touch; }
+  .source-note{ text-align:center; color:var(--gray-light); font-size:11.5px; margin:24px 0 0; font-family:'Space Mono',monospace; letter-spacing:0.04em; }
   .disclaimer{ display:flex; gap:12px; align-items:flex-start; background:var(--panel); border:1px solid var(--line); border-left:4px solid var(--coral); border-radius:8px; padding:14px 18px; margin:24px 0; font-size:13px; color:var(--gray); line-height:1.55; }
   .disclaimer b{ color:var(--ink); }
   .tabs{ display:flex; gap:8px; justify-content:center; margin:18px 0 30px; flex-wrap:wrap; }
@@ -46,31 +48,30 @@
   tr.new-record{ background:linear-gradient(90deg, var(--coral-light), rgba(252,231,227,0.15)); }
   tr.new-record .time{ color:var(--coral); }
   .flag{ display:inline-block; font-family:'Space Mono',monospace; font-size:9px; font-weight:700; letter-spacing:0.07em; color:#fff; background:var(--coral); padding:2px 6px; border-radius:4px; margin-left:7px; vertical-align:middle; }
-  footer{ text-align:center; color:var(--gray-light); font-size:11.5px; margin-top:20px; font-family:'Space Mono',monospace; letter-spacing:0.04em; }
   .loading{ text-align:center; color:var(--gray-light); padding:40px 0; font-size:13px; }
-  @media (max-width:640px){ thead th:nth-child(4), td.meet{ display:none; } td.ev{ width:auto; } }
+  @media (max-width:640px){ thead th:nth-child(4), td.meet{ display:none; } td.ev{ width:auto; } .stats-strip{ gap:24px; } }
 </style>
 </head>
 <body>
 
-<header>
-  <p class="sub">Swims from <strong id="cutoff-label">—</strong> to present are highlighted in coral.
-    If you notice a missing or incorrect entry, let a coach know so we can update the records.</p>
-</header>
-
-<div class="stats-strip">
-  <div class="stat"><div class="num" id="stat-total">–</div><div class="label">Records on Book</div></div>
-  <div class="stat"><div class="num" id="stat-new">–</div><div class="label">Since Cutoff</div></div>
-  <div class="stat"><div class="num" id="stat-holders">–</div><div class="label">Record Holders</div></div>
-</div>
 
 <main>
+  <div class="intro">
+    <p class="sub"><strong id="season-label">Swims</strong> (<span id="cutoff-label">—</span>) are highlighted in coral.</p>
+  </div>
+
+  <div class="stats-strip">
+    <div class="stat"><div class="num" id="stat-total">–</div><div class="label">Records on Book</div></div>
+    <div class="stat"><div class="num" id="stat-new">–</div><div class="label">This Season</div></div>
+    <div class="stat"><div class="num" id="stat-holders">–</div><div class="label">Record Holders</div></div>
+  </div>
   <div class="disclaimer"><b>This list may be incomplete.</b> <span id="disclaimer-text">Loading…</span></div>
   <div class="tabs" id="gender-tabs"></div>
   <div id="board"><div class="loading">Loading…</div></div>
+
+  <p class="source-note" id="footer-text">NSEA Swim &middot; Team Records</p>
 </main>
 
-<footer id="footer-text">NSEA Swim &middot; Team Records</footer>
 
 <script>
 /*
@@ -82,10 +83,25 @@
 const DATA_URL = './data/records-traditional-lcm.json';
 
 let DATA = null;
-let cutoff = null;
+let SEASON = null;
 let currentGender = 'Female';
 
-function isNew(d){ return d && new Date(d) >= cutoff; }
+/* Season highlight window: cutoff_iso .. cutoff_end_iso (inclusive). If no end date is set, highlights run to present. */
+function seasonWindow(json){
+  const start = new Date(json.cutoff_iso || '1900-01-01');
+  const end = json.cutoff_end_iso ? new Date(json.cutoff_end_iso + 'T23:59:59') : null;
+  const season = json.season_label || '';
+  const range = (json.cutoff_label || '') + (json.cutoff_end_label ? ' – ' + json.cutoff_end_label : ' to present');
+  return { start, end, season, range,
+    isNew: d => { if(!d) return false; const t = new Date(d); return t >= start && (!end || t <= end); },
+    short: season ? season + ' Season' : 'Since ' + (json.cutoff_label || '') };
+}
+function setIntro(w){
+  const s = document.getElementById('season-label'), r = document.getElementById('cutoff-label');
+  if(s) s.textContent = w.season ? w.season + ' season swims' : 'Swims';
+  if(r) r.textContent = w.range;
+}
+function isNew(d){ return SEASON.isNew(d); }
 
 function renderTabs(){
   const el = document.getElementById('gender-tabs');
@@ -94,7 +110,7 @@ function renderTabs(){
     const btn = document.createElement('button');
     btn.className = 'tab' + (currentGender === g ? ' active' : '');
     btn.textContent = g === 'Female' ? 'Women' : 'Men';
-    btn.onclick = () => { currentGender = g; render(); window.scrollTo({top: document.querySelector('main').offsetTop - 20, behavior:'smooth'}); };
+    btn.onclick = () => { currentGender = g; render(); window.scrollTo({top: document.getElementById('gender-tabs').offsetTop - 20, behavior:'smooth'}); };
     el.appendChild(btn);
   });
 }
@@ -157,10 +173,10 @@ function render(){
         <h2>${ag.age}</h2>
         <span class="count">${ag.events.filter(e=>!e.noRecord).length} events on record</span>
       </div>
-      <table>
+      <div class="table-scroll"><table>
         <thead><tr><th>Event</th><th>Time</th><th>Record Holder</th><th>Meet</th><th>Date</th></tr></thead>
         <tbody>${ag.events.map(eventRowHtml).join('')}</tbody>
-      </table>
+      </table></div>
     </section>
   `).join('');
 
@@ -170,10 +186,10 @@ function render(){
         <h2>Relay Records</h2>
         <span class="count">${g.relays.length} on record</span>
       </div>
-      <table>
+      <div class="table-scroll"><table>
         <thead><tr><th>Relay</th><th>Time</th><th>Swimmers</th><th>Meet</th><th>Date</th></tr></thead>
         <tbody>${g.relays.map(relayRowHtml).join('')}</tbody>
-      </table>
+      </table></div>
     </section>
   ` : '';
 
@@ -184,8 +200,9 @@ fetch(DATA_URL, {cache: 'no-store'})
   .then(r => r.json())
   .then(json => {
     DATA = json;
-    cutoff = new Date(json.cutoff_iso || '1900-01-01');
-    document.getElementById('cutoff-label').textContent = json.cutoff_label || '';
+    SEASON = seasonWindow(json);
+    setIntro(SEASON);
+    document.querySelector('.stat:nth-child(2) .label').textContent = SEASON.short;
     document.getElementById('disclaimer-text').textContent = json.disclaimer || '';
     document.getElementById('footer-text').textContent = json.footer || 'NSEA Swim · Team Records';
     computeStats();

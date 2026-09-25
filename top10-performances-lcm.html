@@ -14,14 +14,16 @@
   }
   *{box-sizing:border-box;}
   body{ margin:0; background:var(--white); color:var(--ink); font-family:'Inter',sans-serif; min-height:100vh; padding-bottom:60px; }
-  header{ padding:18px 24px 12px; text-align:center; }
   .sub{ color:var(--gray); font-size:13px; max-width:640px; margin:0 auto; line-height:1.5; }
   .sub strong{ color:var(--coral); }
-  .stats-strip{ display:flex; justify-content:center; gap:48px; padding:20px 16px; border-top:1px solid var(--line); border-bottom:1px solid var(--line); background:var(--panel); flex-wrap:wrap; }
+  .stats-strip{ display:flex; justify-content:center; gap:48px; padding:18px 16px; border:1px solid var(--line); border-radius:8px; background:var(--panel); flex-wrap:wrap; }
   .stat{ text-align:center; }
   .stat .num{ font-family:'Oswald',sans-serif; font-weight:700; font-size:26px; color:var(--teal-dark); }
   .stat .label{ font-family:'Space Mono',monospace; font-size:10px; text-transform:uppercase; letter-spacing:0.08em; color:var(--gray-light); margin-top:2px; }
-  main{ max-width:960px; margin:0 auto; padding:0 20px; }
+  main{ max-width:1200px; margin:0 auto; padding:0 16px; }
+  .intro{ padding:18px 0 14px; text-align:center; }
+  .table-scroll{ overflow-x:auto; -webkit-overflow-scrolling:touch; }
+  .source-note{ text-align:center; color:var(--gray-light); font-size:11.5px; margin:24px 0 0; font-family:'Space Mono',monospace; letter-spacing:0.04em; }
   .disclaimer{ display:flex; gap:12px; align-items:flex-start; background:var(--panel); border:1px solid var(--line); border-left:4px solid var(--coral); border-radius:8px; padding:14px 18px; margin:24px 0; font-size:13px; color:var(--gray); line-height:1.55; }
   .disclaimer b{ color:var(--ink); }
   .tabs, .gender-tabs{ display:flex; gap:8px; justify-content:center; margin:18px 0 10px; flex-wrap:wrap; }
@@ -52,33 +54,32 @@
   tr.new-record .time{ color:var(--coral); }
   .flag{ display:inline-block; font-family:'Space Mono',monospace; font-size:9px; font-weight:700; letter-spacing:0.07em; color:#fff; background:var(--coral); padding:2px 6px; border-radius:4px; margin-left:7px; vertical-align:middle; }
   .empty-msg{ text-align:center; color:var(--gray-light); font-size:13px; padding:30px 0; }
-  footer{ text-align:center; color:var(--gray-light); font-size:11.5px; margin-top:20px; font-family:'Space Mono',monospace; letter-spacing:0.04em; }
-  @media (max-width:640px){ thead th:nth-child(4), td.meet{ display:none; } }
+  @media (max-width:640px){ thead th:nth-child(5), td.meet{ display:none; } .stats-strip{ gap:24px; } .pill-btn{ padding:8px 16px; } .stroke-tab{ padding:8px 14px; } }
 </style>
 </head>
 <body>
 
-<header>
-  <p class="sub">Swims from <strong id="cutoff-label">—</strong> to present are highlighted in coral.<br>Every top-10 swim per event — a swimmer can appear more than once.
-    If you notice a missing or incorrect entry, let a coach know so we can update the records.</p>
-</header>
-
-<div class="stats-strip">
-  <div class="stat"><div class="num" id="stat-total">–</div><div class="label">Total Swims</div></div>
-  <div class="stat"><div class="num" id="stat-new">–</div><div class="label">Since Cutoff</div></div>
-  <div class="stat"><div class="num" id="stat-swimmers">–</div><div class="label">Swimmers</div></div>
-</div>
 
 <main>
+  <div class="intro">
+    <p class="sub"><strong id="season-label">Swims</strong> (<span id="cutoff-label">—</span>) are highlighted in coral.<br>Every top-10 swim per event — a swimmer can appear more than once.</p>
+  </div>
+
+  <div class="stats-strip">
+    <div class="stat"><div class="num" id="stat-total">–</div><div class="label">Total Swims</div></div>
+    <div class="stat"><div class="num" id="stat-new">–</div><div class="label">This Season</div></div>
+    <div class="stat"><div class="num" id="stat-swimmers">–</div><div class="label">Swimmers</div></div>
+  </div>
   <div class="disclaimer"><b>This list may be incomplete.</b> <span id="disclaimer-text">This board reflects the meet results currently on file and may not capture every historical swim.</span></div>
 
   <div class="gender-tabs" id="gender-tabs"></div>
   <div class="age-tabs" id="age-tabs"></div>
   <div class="event-tabs" id="stroke-tabs"></div>
   <div id="events-container"><div class="empty-msg">Loading…</div></div>
+
+  <p class="source-note" id="footer-text">NSEA Swim &middot; All-Time Top 10 &middot; Long Course Meters</p>
 </main>
 
-<footer id="footer-text">NSEA Swim &middot; All-Time Top 10 &middot; Long Course Meters</footer>
 
 <script>
 /*
@@ -90,13 +91,29 @@
 const DATA_URL = './data/top10-performances-lcm.json';
 let DATA = {};
 let AGE_ORDER = [];
-let CUTOFF_ISO = null;
-let CUTOFF_LABEL = '';
+let SEASON = null;
 let DISCLAIMER = '';
 let FOOTER = '';
 
 let state = { gender: 'Female', age: null, stroke: null };
 const STROKE_ORDER = ['Free', 'Back', 'Breast', 'Fly', 'IM'];
+
+/* Season highlight window: cutoff_iso .. cutoff_end_iso (inclusive). If no end date is set, highlights run to present. */
+function seasonWindow(json){
+  const start = new Date(json.cutoff_iso || '1900-01-01');
+  const end = json.cutoff_end_iso ? new Date(json.cutoff_end_iso + 'T23:59:59') : null;
+  const season = json.season_label || '';
+  const range = (json.cutoff_label || '') + (json.cutoff_end_label ? ' – ' + json.cutoff_end_label : ' to present');
+  return { start, end, season, range,
+    isNew: d => { if(!d) return false; const t = new Date(d); return t >= start && (!end || t <= end); },
+    short: season ? season + ' Season' : 'Since ' + (json.cutoff_label || '') };
+}
+function setIntro(w){
+  const s = document.getElementById('season-label'), r = document.getElementById('cutoff-label');
+  if(s) s.textContent = w.season ? w.season + ' season swims' : 'Swims';
+  if(r) r.textContent = w.range;
+}
+
 
 function ageGroupsForGender(gender){
   return AGE_ORDER.filter(a => DATA[a] && DATA[a][gender] && Object.keys(DATA[a][gender]).length);
@@ -120,14 +137,13 @@ function eventsForStroke(gender, age, stroke){
 function computeStats(){
   let total = 0, newCount = 0;
   const swimmers = new Set();
-  const cutoff = new Date(CUTOFF_ISO);
   for(const age in DATA){
     for(const gender in DATA[age]){
       for(const event in DATA[age][gender]){
         for(const row of DATA[age][gender][event]){
           total++;
           swimmers.add(row.first + ' ' + row.last);
-          if(new Date(row.date) >= cutoff) newCount++;
+          if(SEASON.isNew(row.date)) newCount++;
         }
       }
     }
@@ -177,8 +193,8 @@ function renderStrokeTabs(){
   });
 }
 
-function eventRowHtml(r, cutoff){
-  const isNew = new Date(r.date) >= cutoff;
+function eventRowHtml(r){
+  const isNew = SEASON.isNew(r.date);
   return `<tr class="${isNew ? 'new-record' : ''}">
     <td class="rank">${r.rank}</td>
     <td class="time">${r.time}${isNew ? '<span class="flag">NEW</span>' : ''}</td>
@@ -193,8 +209,6 @@ function eventRowHtml(r, cutoff){
 function renderEventTables(){
   const container = document.getElementById('events-container');
   const events = eventsForStroke(state.gender, state.age, state.stroke);
-  const cutoff = new Date(CUTOFF_ISO);
-
   if(!events.length){
     container.innerHTML = '<div class="empty-msg">No events on file for this group.</div>';
     return;
@@ -208,12 +222,12 @@ function renderEventTables(){
           <h2>${ev}</h2>
           <span class="count">${rows.length} on file</span>
         </div>
-        <table>
+        <div class="table-scroll"><table>
           <thead>
             <tr><th>Rank</th><th>Time</th><th>Name</th><th>Age</th><th>Meet</th><th>Date</th><th>Power Points</th></tr>
           </thead>
-          <tbody>${rows.map(r => eventRowHtml(r, cutoff)).join('')}</tbody>
-        </table>
+          <tbody>${rows.map(r => eventRowHtml(r)).join('')}</tbody>
+        </table></div>
       </section>
     `;
   }).join('');
@@ -231,14 +245,12 @@ fetch(DATA_URL, {cache: 'no-store'})
   .then(json => {
     DATA = json.data || {};
     AGE_ORDER = json.age_order || [];
-    CUTOFF_ISO = json.cutoff_iso || '1900-01-01';
-    CUTOFF_LABEL = json.cutoff_label || '';
+    SEASON = seasonWindow(json);
     DISCLAIMER = json.disclaimer || document.getElementById('disclaimer-text').textContent;
     FOOTER = json.footer || document.getElementById('footer-text').textContent;
 
-    document.getElementById('cutoff-label').textContent = CUTOFF_LABEL;
-    document.getElementById('stat-new').previousElementSibling; // no-op, keeps linter quiet
-    document.querySelector('.stat:nth-child(2) .label').textContent = 'Since ' + CUTOFF_LABEL;
+    setIntro(SEASON);
+    document.querySelector('.stat:nth-child(2) .label').textContent = SEASON.short;
     document.getElementById('disclaimer-text').textContent = DISCLAIMER;
     document.getElementById('footer-text').textContent = FOOTER;
 
