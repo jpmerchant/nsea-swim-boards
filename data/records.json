@@ -1,9 +1,12 @@
 {
   "cutoff_iso": "2026-09-01",
   "cutoff_label": "9/1/2026",
+  "cutoff_end_iso": "2027-08-31",
+  "cutoff_end_label": "8/31/2027",
+  "season_label": "2026\u201327",
   "subtitle": "Ranked by number of individual NSEA team records held across LC (meters) and SCY (yards). Tap a swimmer to see every record on their card.",
   "disclaimer": "It's built entirely from the official LC and SCY team record sheets, which only capture the single fastest swim per event, per age group. Results that never became a record \u2014 or any results missing from those exports \u2014 aren't reflected here, so the true all-time leaderboard could look different.",
-  "footer": "NSEA SWIM \u00b7 DERIVED FROM LC & SCY TEAM RECORD EXPORTS \u00b7 UPDATED 2026-08-27",
+  "footer": "NSEA SWIM \u00b7 DERIVED FROM LC & SCY TEAM RECORD EXPORTS \u00b7 UPDATED 2026-09-25",
   "swimmers": [
     {
       "name": "Hance Mayo",

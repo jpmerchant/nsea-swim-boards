@@ -1,6 +1,9 @@
 {
-  "cutoff_iso": "2025-09-01",
-  "cutoff_label": "9/1/2025",
+  "cutoff_iso": "2026-09-01",
+  "cutoff_label": "9/1/2026",
+  "cutoff_end_iso": "2027-08-31",
+  "cutoff_end_label": "8/31/2027",
+  "season_label": "2026\u201327",
   "footer": "NSEA Swim \u00b7 Team Records \u00b7 Short Course Yards",
   "disclaimer": "This board reflects the official SCY (yards) team records on file and may not capture every historical swim. If you notice a missing or incorrect entry, let a coach know so we can update the records.",
   "genders": {
@@ -405,10 +408,10 @@
             },
             {
               "event": "100 IM",
-              "time": "1:06.94",
-              "date": "2023-09-23",
-              "holder": "Sophie Wert",
-              "meet": "2023 BAC / NSEA DUAL MEET",
+              "time": "1:04.31",
+              "date": "2026-09-18",
+              "holder": "Gentry Witmer",
+              "meet": "2026 BAC vs NSEA Dual",
               "noRecord": false
             },
             {
@@ -655,10 +658,10 @@
             },
             {
               "event": "50 Breast",
-              "time": "35.07",
-              "date": "2022-09-24",
-              "holder": "Riley Hubard",
-              "meet": "",
+              "time": "34.34",
+              "date": "2026-09-18",
+              "holder": "Sophie Wert",
+              "meet": "2026 BAC vs NSEA Dual",
               "noRecord": false
             },
             {
@@ -1142,7 +1145,11 @@
             },
             {
               "event": "50 Fly",
-              "noRecord": true
+              "time": "25.09",
+              "date": "2023-03-17",
+              "holder": "Hance Mayo",
+              "meet": "2023 ESSZ Age Group Sectionals",
+              "noRecord": false
             },
             {
               "event": "100 Fly",
