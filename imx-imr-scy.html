@@ -51,6 +51,14 @@
   tr.none td.name{ color:var(--gray-light); font-weight:500; }
   .empty-msg{ text-align:center; color:var(--gray-light); font-size:13px; padding:30px 0; }
   .source-note{ text-align:center; color:var(--gray-light); font-size:11.5px; margin:24px 0 0; font-family:'Space Mono',monospace; letter-spacing:0.04em; }
+  .about{ background:var(--panel); border:1px solid var(--line); border-left:4px solid var(--teal); border-radius:8px; padding:14px 18px; margin:0 0 18px; font-size:13px; color:var(--gray); line-height:1.55; }
+  .about p{ margin:0 0 8px; }
+  .about b{ color:var(--ink); }
+  .about ul{ margin:0 0 10px; padding-left:18px; }
+  .about li{ margin-bottom:3px; }
+  .about .links{ display:flex; gap:10px 20px; flex-wrap:wrap; margin:0; }
+  .about .links a{ font-family:'Space Mono',monospace; font-size:11.5px; font-weight:700; letter-spacing:0.04em; text-transform:uppercase; color:var(--teal-dark); text-decoration:none; border-bottom:1.5px solid var(--teal); }
+  .about .links a:hover{ color:var(--coral); border-color:var(--coral); }
   @media (max-width:640px){ .stats-strip{ gap:24px; } .pill-btn{ padding:8px 16px; } }
 </style>
 </head>
@@ -58,6 +66,16 @@
 <main>
   <div class="intro">
     <p class="sub" id="intro">Loading…</p>
+  </div>
+  <div class="about">
+    <p><b>What are IMR and IMX?</b> Two USA Swimming programs that reward well-rounded swimmers. <b>IM Ready (IMR)</b> uses five shorter-distance events; <b>IM Xtreme (IMX)</b> is the next step up, with five or six longer events. IMR is a stepping stone, not a prerequisite for IMX.</p>
+    <ul>
+      <li>Each program runs on the USA Swimming season, September 1 to August 31.</li>
+      <li>Every required event must be swum in the same course (SCY or LCM), at official meets, and can be spread across different meets.</li>
+      <li>Each swim earns power points for age, sex and event; the points are summed into the swimmer&rsquo;s IMR or IMX score once all events are done.</li>
+      <li>Scores and national, zone, LSC and club rankings are viewed through a USA Swimming account. Participation also counts toward Bronze, Silver and Gold Medal Club recognition.</li>
+    </ul>
+    <p class="links"><a href="https://www.nseaswimteam.com/imx-progress" target="_blank" rel="noopener">NSEA IMX / IMR page</a><a href="https://www.usaswimming.org/times/popular-resources/programs" target="_blank" rel="noopener">USA Swimming Programs page</a></p>
   </div>
   <div class="stats-strip">
     <div class="stat"><div class="num" id="s-complete">–</div><div class="label">Complete</div></div>
