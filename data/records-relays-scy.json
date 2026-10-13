@@ -1,0 +1,826 @@
+{
+ "cutoff_iso": "2026-09-01",
+ "cutoff_label": "9/1/2026",
+ "cutoff_end_iso": "2027-08-31",
+ "cutoff_end_label": "8/31/2027",
+ "season_label": "2026–27",
+ "footer": "NSEA Swim · Relay Records · Short Course Yards",
+ "disclaimer": "This board reflects the fastest relay on file for each event and age group and may not capture every historical swim. If you notice a missing or incorrect entry, let a coach know so we can update the records.",
+ "genders": {
+  "Female": {
+   "ageGroups": [
+    {
+     "age": "10 & Under",
+     "events": [
+      {
+       "event": "200 Free Relay",
+       "time": "2:12.56",
+       "date": "2023-01-14",
+       "swimmers": [
+        "Eliza Amin",
+        "Annderson Petroff",
+        "Mikayla Coleman",
+        "Gentry Witmer"
+       ],
+       "meet": "2023 NC BAC Battle at the Beach"
+      },
+      {
+       "event": "200 Medley Relay",
+       "time": "2:27.25",
+       "date": "2022-10-30",
+       "swimmers": [
+        "Gentry Witmer",
+        "Nina Crowley",
+        "Eliza Amin",
+        "Annderson Petroff"
+       ],
+       "meet": "2022 NC BAC Halloween Bash"
+      }
+     ]
+    },
+    {
+     "age": "11-12",
+     "events": [
+      {
+       "event": "200 Free Relay",
+       "time": "1:52.47",
+       "date": "2024-09-28",
+       "swimmers": [
+        "Nina Crowley",
+        "Eliza Amin",
+        "Annderson Petroff",
+        "Gentry Witmer"
+       ],
+       "meet": "2024 NC BAC v NSEA Dual Meet"
+      },
+      {
+       "event": "200 Medley Relay",
+       "time": "2:12.28",
+       "date": "2024-09-29",
+       "swimmers": [
+        "Gentry Witmer",
+        "Annderson Petroff",
+        "Eliza Amin",
+        "Mikayla Coleman"
+       ],
+       "meet": "2024 NC BAC v NSEA Dual Meet"
+      }
+     ]
+    },
+    {
+     "age": "13-14",
+     "events": [
+      {
+       "event": "200 Free Relay",
+       "time": "1:44.59",
+       "date": "2026-02-28",
+       "swimmers": [
+        "Abigail Blair",
+        "Lila Paukovich",
+        "Piper Cockman",
+        "Gentry Witmer"
+       ],
+       "meet": "2026 NC NCS SC Age Group Championships"
+      },
+      {
+       "event": "200 Medley Relay",
+       "time": "1:55.55",
+       "date": "2026-03-01",
+       "swimmers": [
+        "Gentry Witmer",
+        "Abigail Blair",
+        "Lila Paukovich",
+        "Piper Cockman"
+       ],
+       "meet": "2026 NC NCS SC Age Group Championships"
+      },
+      {
+       "event": "400 Free Relay",
+       "time": "3:47.06",
+       "date": "2026-02-27",
+       "swimmers": [
+        "Abigail Blair",
+        "Lila Paukovich",
+        "Piper Cockman",
+        "Gentry Witmer"
+       ],
+       "meet": "2026 NC NCS SC Age Group Championships"
+      },
+      {
+       "event": "400 Medley Relay",
+       "time": "4:14.71",
+       "date": "2026-02-28",
+       "swimmers": [
+        "Lila Paukovich",
+        "Abigail Blair",
+        "Gentry Witmer",
+        "Piper Cockman"
+       ],
+       "meet": "2026 NC NCS SC Age Group Championships"
+      }
+     ]
+    },
+    {
+     "age": "15-16",
+     "events": [
+      {
+       "event": "200 Free Relay",
+       "time": "1:46.29",
+       "date": "2022-01-16",
+       "swimmers": [
+        "Keener Witmer",
+        "Abby Forbes",
+        "Riley Hubard",
+        "Leah Murtagh"
+       ],
+       "meet": "2022 NC BAC Battle at the Beach"
+      },
+      {
+       "event": "200 Medley Relay",
+       "time": "1:59.65",
+       "date": "2022-01-15",
+       "swimmers": [
+        "Keener Witmer",
+        "Leah Murtagh",
+        "Abby Forbes",
+        "Riley Hubard"
+       ],
+       "meet": "2022 NC BAC Battle at the Beach"
+      },
+      {
+       "event": "400 Free Relay",
+       "time": "3:54.88",
+       "date": "2022-01-14",
+       "swimmers": [
+        "Leah Murtagh",
+        "Abby Forbes",
+        "Riley Hubard",
+        "Keener Witmer"
+       ],
+       "meet": "2022 NC BAC Battle at the Beach"
+      }
+     ]
+    },
+    {
+     "age": "15-18",
+     "events": [
+      {
+       "event": "200 Free Relay",
+       "time": "1:40.04",
+       "date": "2024-02-24",
+       "swimmers": [
+        "Madi Joy",
+        "Violet Derry",
+        "Carson Major",
+        "Keener Witmer"
+       ],
+       "meet": "2024 NC SC Senior Championships"
+      },
+      {
+       "event": "200 Medley Relay",
+       "time": "1:52.15",
+       "date": "2023-12-17",
+       "swimmers": [
+        "Madi Joy",
+        "Sophie Wert",
+        "Abby Forbes",
+        "Keener Witmer"
+       ],
+       "meet": "2023 NC STAR Triad Tropic"
+      },
+      {
+       "event": "400 Free Relay",
+       "time": "3:41.75",
+       "date": "2024-02-23",
+       "swimmers": [
+        "Keener Witmer",
+        "Abby Forbes",
+        "Sophie Wert",
+        "Madi Joy"
+       ],
+       "meet": "2024 NC SC Senior Championships"
+      },
+      {
+       "event": "400 Medley Relay",
+       "time": "4:08.18",
+       "date": "2022-12-10",
+       "swimmers": [
+        "Madi Joy",
+        "Riley Hubard",
+        "Abby Forbes",
+        "Keener Witmer"
+       ],
+       "meet": "2022 NC TAC Titans Blizzard Blitz"
+      }
+     ]
+    },
+    {
+     "age": "Open",
+     "events": [
+      {
+       "event": "200 Free Relay",
+       "time": "1:40.04",
+       "date": "2024-02-24",
+       "swimmers": [
+        "Madi Joy",
+        "Violet Derry",
+        "Carson Major",
+        "Keener Witmer"
+       ],
+       "meet": "2024 NC SC Senior Championships"
+      },
+      {
+       "event": "200 Medley Relay",
+       "time": "1:52.15",
+       "date": "2023-12-17",
+       "swimmers": [
+        "Madi Joy",
+        "Sophie Wert",
+        "Abby Forbes",
+        "Keener Witmer"
+       ],
+       "meet": "2023 NC STAR Triad Tropic"
+      },
+      {
+       "event": "400 Free Relay",
+       "time": "3:41.75",
+       "date": "2024-02-23",
+       "swimmers": [
+        "Keener Witmer",
+        "Abby Forbes",
+        "Sophie Wert",
+        "Madi Joy"
+       ],
+       "meet": "2024 NC SC Senior Championships"
+      },
+      {
+       "event": "400 Medley Relay",
+       "time": "4:08.18",
+       "date": "2022-12-10",
+       "swimmers": [
+        "Madi Joy",
+        "Riley Hubard",
+        "Abby Forbes",
+        "Keener Witmer"
+       ],
+       "meet": "2022 NC TAC Titans Blizzard Blitz"
+      }
+     ]
+    }
+   ]
+  },
+  "Male": {
+   "ageGroups": [
+    {
+     "age": "10 & Under",
+     "events": [
+      {
+       "event": "200 Free Relay",
+       "time": "2:47.69",
+       "date": "2022-01-15",
+       "swimmers": [
+        "William Forbes",
+        "Sam Ortiz",
+        "Carlos Neyra",
+        "Court Yarnoz"
+       ],
+       "meet": "2022 NC BAC Battle at the Beach"
+      }
+     ]
+    },
+    {
+     "age": "11-12",
+     "events": [
+      {
+       "event": "200 Free Relay",
+       "time": "2:05.16",
+       "date": "2023-01-14",
+       "swimmers": [
+        "Gavin Derry",
+        "Court Yarnoz",
+        "Liam Bascome",
+        "Hance Mayo"
+       ],
+       "meet": "2023 NC BAC Battle at the Beach"
+      },
+      {
+       "event": "200 Medley Relay",
+       "time": "2:23.45",
+       "date": "2023-01-15",
+       "swimmers": [
+        "Hance Mayo",
+        "Gavin Derry",
+        "Court Yarnoz",
+        "Liam Bascome"
+       ],
+       "meet": "2023 NC BAC Battle at the Beach"
+      }
+     ]
+    },
+    {
+     "age": "13-14",
+     "events": [
+      {
+       "event": "200 Free Relay",
+       "time": "1:53.61",
+       "date": "2024-09-28",
+       "swimmers": [
+        "Gavin Derry",
+        "Court Yarnoz",
+        "Elias Howell",
+        "Hance Mayo"
+       ],
+       "meet": "2024 NC BAC v NSEA Dual Meet"
+      },
+      {
+       "event": "200 Medley Relay",
+       "time": "2:09.82",
+       "date": "2024-09-29",
+       "swimmers": [
+        "Hance Mayo",
+        "Gavin Derry",
+        "Court Yarnoz",
+        "Elias Howell"
+       ],
+       "meet": "2024 NC BAC v NSEA Dual Meet"
+      },
+      {
+       "event": "400 Free Relay",
+       "time": "3:42.74",
+       "date": "2021-12-10",
+       "swimmers": [
+        "Nathan Neu",
+        "Bryson Edwards",
+        "Ryker Eder",
+        "Laith Ausband"
+       ],
+       "meet": "2021 NC TAC TITANS Blizzard Blitz"
+      },
+      {
+       "event": "400 Medley Relay",
+       "time": "4:03.10",
+       "date": "2021-12-11",
+       "swimmers": [
+        "Bryson Edwards",
+        "Ryker Eder",
+        "Nathan Neu",
+        "Laith Ausband"
+       ],
+       "meet": "2021 NC TAC TITANS Blizzard Blitz"
+      }
+     ]
+    },
+    {
+     "age": "15-16",
+     "events": [
+      {
+       "event": "200 Free Relay",
+       "time": "1:38.97",
+       "date": "2024-09-28",
+       "swimmers": [
+        "Evan Sevast",
+        "JP Summers",
+        "Bryan Blair",
+        "Behr Petroff"
+       ],
+       "meet": "2024 NC BAC v NSEA Dual Meet"
+      },
+      {
+       "event": "200 Medley Relay",
+       "time": "1:50.85",
+       "date": "2024-09-29",
+       "swimmers": [
+        "Evan Sevast",
+        "Behr Petroff",
+        "JP Summers",
+        "Bryan Blair"
+       ],
+       "meet": "2024 NC BAC v NSEA Dual Meet"
+      },
+      {
+       "event": "400 Free Relay",
+       "time": "3:22.86",
+       "date": "2022-12-09",
+       "swimmers": [
+        "Laith Ausband",
+        "Ryker Eder",
+        "Bryson Edwards",
+        "Cole Witmer"
+       ],
+       "meet": "2022 NC TAC Titans Blizzard Blitz"
+      },
+      {
+       "event": "400 Medley Relay",
+       "time": "3:44.36",
+       "date": "2022-12-10",
+       "swimmers": [
+        "Cole Witmer",
+        "Ryker Eder",
+        "Bryson Edwards",
+        "Laith Ausband"
+       ],
+       "meet": "2022 NC TAC Titans Blizzard Blitz"
+      }
+     ]
+    },
+    {
+     "age": "15-18",
+     "events": [
+      {
+       "event": "200 Free Relay",
+       "time": "1:27.28",
+       "date": "2025-02-22",
+       "swimmers": [
+        "Laith Ausband",
+        "Bryson Edwards",
+        "Behr Petroff",
+        "Clem Camacho"
+       ],
+       "meet": "2025 NC SC Senior Championships"
+      },
+      {
+       "event": "200 Medley Relay",
+       "time": "1:34.90",
+       "date": "2025-02-21",
+       "swimmers": [
+        "Bryson Edwards",
+        "Clem Camacho",
+        "Ryker Eder",
+        "Laith Ausband"
+       ],
+       "meet": "2025 NC SC Senior Championships"
+      },
+      {
+       "event": "400 Free Relay",
+       "time": "3:10.45",
+       "date": "2025-02-21",
+       "swimmers": [
+        "Clem Camacho",
+        "Ryker Eder",
+        "Bryson Edwards",
+        "Laith Ausband"
+       ],
+       "meet": "2025 NC SC Senior Championships"
+      },
+      {
+       "event": "400 Medley Relay",
+       "time": "3:29.16",
+       "date": "2025-02-23",
+       "swimmers": [
+        "Bryson Edwards",
+        "Ryker Eder",
+        "Clem Camacho",
+        "Laith Ausband"
+       ],
+       "meet": "2025 NC SC Senior Championships"
+      }
+     ]
+    },
+    {
+     "age": "17-18",
+     "events": [
+      {
+       "event": "200 Medley Relay",
+       "time": "1:34.90",
+       "date": "2025-02-21",
+       "swimmers": [
+        "Bryson Edwards",
+        "Clem Camacho",
+        "Ryker Eder",
+        "Laith Ausband"
+       ],
+       "meet": "2025 NC SC Senior Championships"
+      },
+      {
+       "event": "400 Free Relay",
+       "time": "3:10.45",
+       "date": "2025-02-21",
+       "swimmers": [
+        "Clem Camacho",
+        "Ryker Eder",
+        "Bryson Edwards",
+        "Laith Ausband"
+       ],
+       "meet": "2025 NC SC Senior Championships"
+      },
+      {
+       "event": "400 Medley Relay",
+       "time": "3:29.16",
+       "date": "2025-02-23",
+       "swimmers": [
+        "Bryson Edwards",
+        "Ryker Eder",
+        "Clem Camacho",
+        "Laith Ausband"
+       ],
+       "meet": "2025 NC SC Senior Championships"
+      }
+     ]
+    },
+    {
+     "age": "Open",
+     "events": [
+      {
+       "event": "200 Free Relay",
+       "time": "1:27.28",
+       "date": "2025-02-22",
+       "swimmers": [
+        "Laith Ausband",
+        "Bryson Edwards",
+        "Behr Petroff",
+        "Clem Camacho"
+       ],
+       "meet": "2025 NC SC Senior Championships"
+      },
+      {
+       "event": "200 Medley Relay",
+       "time": "1:34.90",
+       "date": "2025-02-21",
+       "swimmers": [
+        "Bryson Edwards",
+        "Clem Camacho",
+        "Ryker Eder",
+        "Laith Ausband"
+       ],
+       "meet": "2025 NC SC Senior Championships"
+      },
+      {
+       "event": "400 Free Relay",
+       "time": "3:10.45",
+       "date": "2025-02-21",
+       "swimmers": [
+        "Clem Camacho",
+        "Ryker Eder",
+        "Bryson Edwards",
+        "Laith Ausband"
+       ],
+       "meet": "2025 NC SC Senior Championships"
+      },
+      {
+       "event": "400 Medley Relay",
+       "time": "3:29.16",
+       "date": "2025-02-23",
+       "swimmers": [
+        "Bryson Edwards",
+        "Ryker Eder",
+        "Clem Camacho",
+        "Laith Ausband"
+       ],
+       "meet": "2025 NC SC Senior Championships"
+      }
+     ]
+    }
+   ]
+  },
+  "Mixed": {
+   "ageGroups": [
+    {
+     "age": "10 & Under",
+     "events": [
+      {
+       "event": "200 Free Relay",
+       "time": "2:19.69",
+       "date": "2022-09-25",
+       "swimmers": [
+        "Nina Crowley",
+        "Liam Bascome",
+        "Mckinley Meadows",
+        "Gentry Witmer"
+       ],
+       "meet": "2022 NC BAC-NSEA Dual"
+      }
+     ]
+    },
+    {
+     "age": "11-12",
+     "events": [
+      {
+       "event": "200 Free Relay",
+       "time": "2:16.26",
+       "date": "2022-09-25",
+       "swimmers": [
+        "Gavin Derry",
+        "Mila Yarnoz",
+        "Alicia Bald",
+        "Court Yarnoz"
+       ],
+       "meet": "2022 NC BAC-NSEA Dual"
+      }
+     ]
+    },
+    {
+     "age": "13-14",
+     "events": [
+      {
+       "event": "200 Free Relay",
+       "time": "1:44.86",
+       "date": "2022-09-25",
+       "swimmers": [
+        "Violet Derry",
+        "Camren Grace Reaves",
+        "Behr Petroff",
+        "Bryson Edwards"
+       ],
+       "meet": "2022 NC BAC-NSEA Dual"
+      },
+      {
+       "event": "200 Medley Relay",
+       "time": "1:58.88",
+       "date": "2022-09-24",
+       "swimmers": [
+        "Sophie Wert",
+        "Behr Petroff",
+        "Violet Derry",
+        "Bryson Edwards"
+       ],
+       "meet": "2022 NC BAC-NSEA Dual"
+      },
+      {
+       "event": "400 Free Relay",
+       "time": "4:03.10",
+       "date": "2022-09-24",
+       "swimmers": [
+        "Violet Derry",
+        "Camren Grace Reaves",
+        "Behr Petroff",
+        "Bryson Edwards"
+       ],
+       "meet": "2022 NC BAC-NSEA Dual"
+      },
+      {
+       "event": "800 Free Relay",
+       "time": "8:48.22",
+       "date": "2022-09-25",
+       "swimmers": [
+        "Camren Grace Reaves",
+        "Violet Derry",
+        "Behr Petroff",
+        "Bryson Edwards"
+       ],
+       "meet": "2022 NC BAC-NSEA Dual"
+      }
+     ]
+    },
+    {
+     "age": "15-16",
+     "events": [
+      {
+       "event": "200 Free Relay",
+       "time": "1:37.06",
+       "date": "2022-09-25",
+       "swimmers": [
+        "Laith Ausband",
+        "Madi Joy",
+        "Keener Witmer",
+        "Cole Witmer"
+       ],
+       "meet": "2022 NC BAC-NSEA Dual"
+      },
+      {
+       "event": "200 Medley Relay",
+       "time": "1:49.42",
+       "date": "2022-09-24",
+       "swimmers": [
+        "Cole Witmer",
+        "Ryker Eder",
+        "Madi Joy",
+        "Keener Witmer"
+       ],
+       "meet": "2022 NC BAC-NSEA Dual"
+      },
+      {
+       "event": "400 Free Relay",
+       "time": "3:46.72",
+       "date": "2022-09-24",
+       "swimmers": [
+        "Laith Ausband",
+        "Madi Joy",
+        "Keener Witmer",
+        "Cole Witmer"
+       ],
+       "meet": "2022 NC BAC-NSEA Dual"
+      },
+      {
+       "event": "800 Free Relay",
+       "time": "8:04.96",
+       "date": "2022-09-25",
+       "swimmers": [
+        "Laith Ausband",
+        "Madi Joy",
+        "Abby Forbes",
+        "Cole Witmer"
+       ],
+       "meet": "2022 NC BAC-NSEA Dual"
+      }
+     ]
+    },
+    {
+     "age": "15-18",
+     "events": [
+      {
+       "event": "200 Free Relay",
+       "time": "1:37.06",
+       "date": "2022-09-25",
+       "swimmers": [
+        "Laith Ausband",
+        "Madi Joy",
+        "Keener Witmer",
+        "Cole Witmer"
+       ],
+       "meet": "2022 NC BAC-NSEA Dual"
+      },
+      {
+       "event": "200 Medley Relay",
+       "time": "1:49.42",
+       "date": "2022-09-24",
+       "swimmers": [
+        "Cole Witmer",
+        "Ryker Eder",
+        "Madi Joy",
+        "Keener Witmer"
+       ],
+       "meet": "2022 NC BAC-NSEA Dual"
+      },
+      {
+       "event": "400 Free Relay",
+       "time": "3:46.72",
+       "date": "2022-09-24",
+       "swimmers": [
+        "Laith Ausband",
+        "Madi Joy",
+        "Keener Witmer",
+        "Cole Witmer"
+       ],
+       "meet": "2022 NC BAC-NSEA Dual"
+      },
+      {
+       "event": "800 Free Relay",
+       "time": "8:04.96",
+       "date": "2022-09-25",
+       "swimmers": [
+        "Laith Ausband",
+        "Madi Joy",
+        "Abby Forbes",
+        "Cole Witmer"
+       ],
+       "meet": "2022 NC BAC-NSEA Dual"
+      }
+     ]
+    },
+    {
+     "age": "Open",
+     "events": [
+      {
+       "event": "200 Free Relay",
+       "time": "1:37.06",
+       "date": "2022-09-25",
+       "swimmers": [
+        "Laith Ausband",
+        "Madi Joy",
+        "Keener Witmer",
+        "Cole Witmer"
+       ],
+       "meet": "2022 NC BAC-NSEA Dual"
+      },
+      {
+       "event": "200 Medley Relay",
+       "time": "1:49.42",
+       "date": "2022-09-24",
+       "swimmers": [
+        "Cole Witmer",
+        "Ryker Eder",
+        "Madi Joy",
+        "Keener Witmer"
+       ],
+       "meet": "2022 NC BAC-NSEA Dual"
+      },
+      {
+       "event": "400 Free Relay",
+       "time": "3:46.72",
+       "date": "2022-09-24",
+       "swimmers": [
+        "Laith Ausband",
+        "Madi Joy",
+        "Keener Witmer",
+        "Cole Witmer"
+       ],
+       "meet": "2022 NC BAC-NSEA Dual"
+      },
+      {
+       "event": "800 Free Relay",
+       "time": "8:04.96",
+       "date": "2022-09-25",
+       "swimmers": [
+        "Laith Ausband",
+        "Madi Joy",
+        "Abby Forbes",
+        "Cole Witmer"
+       ],
+       "meet": "2022 NC BAC-NSEA Dual"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
