@@ -57,13 +57,13 @@
 </head>
 <body>
 <header>
-  <p class="sub">Swims from <strong id="cutoff-label">&mdash;</strong> to present are highlighted in coral.
+  <p class="sub"><strong id="season-label">Swims</strong> (<span id="cutoff-label">&mdash;</span>) are highlighted in coral.
     If you notice a missing or incorrect entry, let a coach know so we can update the records.</p>
 </header>
 
 <div class="stats-strip">
   <div class="stat"><div class="num" id="stat-total">&ndash;</div><div class="label">Records on Book</div></div>
-  <div class="stat"><div class="num" id="stat-new">&ndash;</div><div class="label" id="stat-new-label">Since Cutoff</div></div>
+  <div class="stat"><div class="num" id="stat-new">&ndash;</div><div class="label" id="stat-new-label">This Season</div></div>
   <div class="stat"><div class="num" id="stat-holders">&ndash;</div><div class="label">Record Holders</div></div>
 </div>
 
@@ -85,9 +85,19 @@ const DATA_URL = './data/records-relays-scy.json';
 
 const GENDER_LABEL = { Female:'Women', Male:'Men', Mixed:'Mixed' };
 const GENDERS = ['Female','Male','Mixed'];
-let cutoff = null;
 function esc(s){ return String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
-function isNew(d){ return d && new Date(d) >= cutoff; }
+/* Season highlight window: cutoff_iso .. cutoff_end_iso (inclusive). If no end date is set, highlights run to present. */
+function seasonWindow(json){
+  const start = new Date(json.cutoff_iso || '1900-01-01');
+  const end = json.cutoff_end_iso ? new Date(json.cutoff_end_iso + 'T23:59:59') : null;
+  const season = json.season_label || '';
+  const range = (json.cutoff_label || '') + (json.cutoff_end_label ? ' – ' + json.cutoff_end_label : ' to present');
+  return { start, end, season, range,
+    isNew: d => { if(!d) return false; const t = new Date(d); return t >= start && (!end || t <= end); },
+    short: season ? season + ' Season' : 'Since ' + (json.cutoff_label || '') };
+}
+let SEASON = null;
+function isNew(d){ return SEASON.isNew(d); }
 function team(arr){ return (arr || []).map(esc).join(', '); }
 
 let DATA = null, currentGender = 'Female';
@@ -139,9 +149,10 @@ function render(){
 fetch(DATA_URL, {cache:'no-store'})
   .then(r => r.json())
   .then(json => {
-    DATA = json; cutoff = new Date(json.cutoff_iso || '1900-01-01');
-    document.getElementById('cutoff-label').textContent = json.cutoff_label || '';
-    document.getElementById('stat-new-label').textContent = 'Since ' + (json.cutoff_label || 'cutoff');
+    DATA = json; SEASON = seasonWindow(json);
+    document.getElementById('season-label').textContent = SEASON.season ? SEASON.season + ' season swims' : 'Swims';
+    document.getElementById('cutoff-label').textContent = SEASON.range;
+    document.getElementById('stat-new-label').textContent = SEASON.short;
     document.getElementById('disclaimer-text').textContent = json.disclaimer || '';
     document.getElementById('footer-text').textContent = json.footer || document.getElementById('footer-text').textContent;
     computeStats(); render();
