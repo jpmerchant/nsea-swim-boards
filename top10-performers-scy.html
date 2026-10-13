@@ -55,6 +55,12 @@
   .flag{ display:inline-block; font-family:'Space Mono',monospace; font-size:9px; font-weight:700; letter-spacing:0.07em; color:#fff; background:var(--coral); padding:2px 6px; border-radius:4px; margin-left:7px; vertical-align:middle; }
   .empty-msg{ text-align:center; color:var(--gray-light); font-size:13px; padding:30px 0; }
   @media (max-width:640px){ thead th:nth-child(5), td.meet{ display:none; } .stats-strip{ gap:24px; } .pill-btn{ padding:8px 16px; } .stroke-tab{ padding:8px 14px; } }
+  /* Top time (rank 1): teal star + framed row, larger Oswald time. Teal keeps coral reserved for NEW. */
+  tbody tr.top-time{ border-top:2px solid var(--teal); border-bottom:2px solid var(--teal); }
+  tbody tr.top-time td{ padding-top:14px; padding-bottom:14px; }
+  tbody tr.top-time td.time{ font-family:'Oswald',sans-serif; font-size:21px; letter-spacing:0.01em; }
+  tbody tr.top-time td.rank{ color:var(--teal-dark); }
+  .top-star{ color:var(--teal); margin-right:6px; font-size:15px; }
 </style>
 </head>
 <body>
@@ -195,9 +201,10 @@ function renderStrokeTabs(){
 
 function eventRowHtml(r){
   const isNew = SEASON.isNew(r.date);
-  return `<tr class="${isNew ? 'new-record' : ''}">
+  const top = String(r.rank) === '1';
+  return `<tr class="${[isNew ? 'new-record' : '', top ? 'top-time' : ''].join(' ').trim()}">
     <td class="rank">${r.rank}</td>
-    <td class="time">${r.time}${isNew ? '<span class="flag">NEW</span>' : ''}</td>
+    <td class="time">${top ? '<span class="top-star" title="Top time">★</span>' : ''}${r.time}${isNew ? '<span class="flag">NEW</span>' : ''}</td>
     <td>${r.first} ${r.last}</td>
     <td>${r.age}</td>
     <td class="meet">${r.meet}</td>
