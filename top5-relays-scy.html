@@ -53,6 +53,12 @@
   .empty-msg{ text-align:center; color:var(--gray-light); font-size:13px; padding:30px 0; }
   footer{ text-align:center; color:var(--gray-light); font-size:11.5px; margin-top:20px; padding:0 16px; font-family:'Space Mono',monospace; letter-spacing:0.04em; }
   @media (max-width:640px){ .stats-strip{ gap:24px; } .col-meet{ display:none; } td.ev{ white-space:normal; } table{ min-width:0; } thead th:nth-child(1){ width:44px; } thead th:nth-child(2){ width:78px; } thead th:last-child{ width:88px; } }
+  /* Top time (rank 1): teal star + framed row, larger Oswald time. Teal keeps coral reserved for NEW. */
+  tbody tr.top-time{ border-top:2px solid var(--teal); border-bottom:2px solid var(--teal); }
+  tbody tr.top-time td{ padding-top:14px; padding-bottom:14px; }
+  tbody tr.top-time td.time{ font-family:'Oswald',sans-serif; font-size:21px; letter-spacing:0.01em; }
+  tbody tr.top-time td.rank{ color:var(--teal-dark); }
+  .top-star{ color:var(--teal); margin-right:6px; font-size:15px; }
 </style>
 </head>
 <body>
@@ -137,9 +143,10 @@ function renderTabs(){
 
 function rowHtml(r){
   const nw = isNew(r.date);
-  return `<tr class="${nw ? 'new-record' : ''}">
+  const top = String(r.rank) === '1';
+  return `<tr class="${[nw ? 'new-record' : '', top ? 'top-time' : ''].join(' ').trim()}">
     <td class="rank">${esc(r.rank)}</td>
-    <td class="time">${esc(r.time)}${nw ? '<span class="flag">NEW</span>' : ''}</td>
+    <td class="time">${top ? '<span class="top-star" title="Top time">★</span>' : ''}${esc(r.time)}${nw ? '<span class="flag">NEW</span>' : ''}</td>
     <td>${team(r.swimmers)}</td>
     <td class="meet col-meet">${esc(r.meet)}</td>
     <td class="date">${esc(r.date)}</td>
