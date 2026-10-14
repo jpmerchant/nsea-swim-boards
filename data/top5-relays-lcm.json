@@ -1,0 +1,285 @@
+{
+ "cutoff_iso": "2026-09-01",
+ "cutoff_label": "9/1/2026",
+ "cutoff_end_iso": "2027-08-31",
+ "cutoff_end_label": "8/31/2027",
+ "season_label": "2026–27",
+ "disclaimer": "This board reflects the relay results currently on file and may not capture every historical swim. If you notice a missing or incorrect entry, let a coach know so we can update the records.",
+ "footer": "NSEA Swim · Top 5 Relays · Long Course Meters",
+ "age_order": [
+  "13-14",
+  "15-16",
+  "15-18",
+  "Open"
+ ],
+ "data": {
+  "Open": {
+   "Female": {
+    "200 Free Relay": [
+     {
+      "rank": 1,
+      "time": "2:27.26",
+      "swimmers": [
+       "Nina Crowley",
+       "Lillian Amin",
+       "Eliza Amin",
+       "Kemper Yarnoz"
+      ],
+      "meet": "2022 NC STAR Andrew E Hartle Invite",
+      "date": "2022-06-05"
+     }
+    ],
+    "200 Medley Relay": [
+     {
+      "rank": 1,
+      "time": "2:53.66",
+      "swimmers": [
+       "Annderson Petroff",
+       "Kemper Yarnoz",
+       "Lillian Amin",
+       "Nina Crowley"
+      ],
+      "meet": "2022 NC STAR Andrew E Hartle Invite",
+      "date": "2022-06-04"
+     }
+    ],
+    "400 Free Relay": [
+     {
+      "rank": 1,
+      "time": "4:17.43",
+      "swimmers": [
+       "Lila Paukovich",
+       "Violet Derry",
+       "Camren Grace Reaves",
+       "Sophie Wert"
+      ],
+      "meet": "2025 NC NCS LC Senior Championships",
+      "date": "2025-07-11"
+     },
+     {
+      "rank": 2,
+      "time": "4:26.52",
+      "swimmers": [
+       "Abby Forbes",
+       "Sophie Wert",
+       "Camren Grace Reaves",
+       "Keener Witmer"
+      ],
+      "meet": "2023 NC NCS LC SR Champs (STAR2)",
+      "date": "2023-07-21"
+     },
+     {
+      "rank": 3,
+      "time": "4:50.46",
+      "swimmers": [
+       "Camren Grace Reaves",
+       "Cadence Eder",
+       "Olivia Crowley",
+       "Sophie Wert"
+      ],
+      "meet": "2022 NC STAR Andrew E Hartle Invite",
+      "date": "2022-06-05"
+     }
+    ],
+    "400 Medley Relay": [
+     {
+      "rank": 1,
+      "time": "4:52.06",
+      "swimmers": [
+       "Violet Derry",
+       "Sophie Wert",
+       "Camren Grace Reaves",
+       "Gentry Witmer"
+      ],
+      "meet": "2025 NC NCS LC Senior Championships",
+      "date": "2025-07-13"
+     },
+     {
+      "rank": 2,
+      "time": "4:54.01",
+      "swimmers": [
+       "Abby Forbes",
+       "Sophie Wert",
+       "Keener Witmer",
+       "Camren Grace Reaves"
+      ],
+      "meet": "2023 NC NCS LC SR Champs (STAR2)",
+      "date": "2023-07-23"
+     },
+     {
+      "rank": 3,
+      "time": "5:31.59",
+      "swimmers": [
+       "Sophie Wert",
+       "Olivia Crowley",
+       "Camren Grace Reaves",
+       "Addison Hicks"
+      ],
+      "meet": "2022 NC STAR Andrew E Hartle Invite",
+      "date": "2022-06-04"
+     }
+    ]
+   },
+   "Male": {
+    "400 Free Relay": [
+     {
+      "rank": 1,
+      "time": "3:41.07",
+      "swimmers": [
+       "Clem Camacho",
+       "Behr Petroff",
+       "Ryker Eder",
+       "Laith Ausband"
+      ],
+      "meet": "2025 NC NCS LC Senior Championships",
+      "date": "2025-07-11"
+     },
+     {
+      "rank": 2,
+      "time": "3:46.99",
+      "swimmers": [
+       "Laith Ausband",
+       "Ryker Eder",
+       "Bryson Edwards",
+       "Cole Witmer"
+      ],
+      "meet": "2023 NC NCS LC SR Champs (STAR2)",
+      "date": "2023-07-21"
+     }
+    ],
+    "400 Medley Relay": [
+     {
+      "rank": 1,
+      "time": "4:04.82",
+      "swimmers": [
+       "Bryson Edwards",
+       "Behr Petroff",
+       "Ryker Eder",
+       "Laith Ausband"
+      ],
+      "meet": "2025 NC NCS LC Senior Championships",
+      "date": "2025-07-13"
+     },
+     {
+      "rank": 2,
+      "time": "4:14.67",
+      "swimmers": [
+       "Cole Witmer",
+       "Ryker Eder",
+       "Bryson Edwards",
+       "Laith Ausband"
+      ],
+      "meet": "2023 NC NCS LC SR Champs (STAR2)",
+      "date": "2023-07-23"
+     }
+    ]
+   }
+  },
+  "13-14": {
+   "Female": {
+    "400 Medley Relay": [
+     {
+      "rank": 1,
+      "time": "5:31.59",
+      "swimmers": [
+       "Sophie Wert",
+       "Olivia Crowley",
+       "Camren Grace Reaves",
+       "Addison Hicks"
+      ],
+      "meet": "2022 NC STAR Andrew E Hartle Invite",
+      "date": "2022-06-04"
+     }
+    ]
+   }
+  },
+  "15-16": {
+   "Male": {
+    "400 Free Relay": [
+     {
+      "rank": 1,
+      "time": "3:46.99",
+      "swimmers": [
+       "Laith Ausband",
+       "Ryker Eder",
+       "Bryson Edwards",
+       "Cole Witmer"
+      ],
+      "meet": "2023 NC NCS LC SR Champs (STAR2)",
+      "date": "2023-07-21"
+     }
+    ],
+    "400 Medley Relay": [
+     {
+      "rank": 1,
+      "time": "4:14.67",
+      "swimmers": [
+       "Cole Witmer",
+       "Ryker Eder",
+       "Bryson Edwards",
+       "Laith Ausband"
+      ],
+      "meet": "2023 NC NCS LC SR Champs (STAR2)",
+      "date": "2023-07-23"
+     }
+    ]
+   }
+  },
+  "15-18": {
+   "Male": {
+    "400 Free Relay": [
+     {
+      "rank": 1,
+      "time": "3:41.07",
+      "swimmers": [
+       "Clem Camacho",
+       "Behr Petroff",
+       "Ryker Eder",
+       "Laith Ausband"
+      ],
+      "meet": "2025 NC NCS LC Senior Championships",
+      "date": "2025-07-11"
+     },
+     {
+      "rank": 2,
+      "time": "3:46.99",
+      "swimmers": [
+       "Laith Ausband",
+       "Ryker Eder",
+       "Bryson Edwards",
+       "Cole Witmer"
+      ],
+      "meet": "2023 NC NCS LC SR Champs (STAR2)",
+      "date": "2023-07-21"
+     }
+    ],
+    "400 Medley Relay": [
+     {
+      "rank": 1,
+      "time": "4:04.82",
+      "swimmers": [
+       "Bryson Edwards",
+       "Behr Petroff",
+       "Ryker Eder",
+       "Laith Ausband"
+      ],
+      "meet": "2025 NC NCS LC Senior Championships",
+      "date": "2025-07-13"
+     },
+     {
+      "rank": 2,
+      "time": "4:14.67",
+      "swimmers": [
+       "Cole Witmer",
+       "Ryker Eder",
+       "Bryson Edwards",
+       "Laith Ausband"
+      ],
+      "meet": "2023 NC NCS LC SR Champs (STAR2)",
+      "date": "2023-07-23"
+     }
+    ]
+   }
+  }
+ }
+}

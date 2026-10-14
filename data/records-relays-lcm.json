@@ -1,0 +1,176 @@
+{
+ "cutoff_iso": "2026-09-01",
+ "cutoff_label": "9/1/2026",
+ "cutoff_end_iso": "2027-08-31",
+ "cutoff_end_label": "8/31/2027",
+ "season_label": "2026–27",
+ "footer": "NSEA Swim · Relay Records · Long Course Meters",
+ "disclaimer": "This board reflects the fastest relay on file for each event and age group and may not capture every historical swim. If you notice a missing or incorrect entry, let a coach know so we can update the records.",
+ "genders": {
+  "Female": {
+   "ageGroups": [
+    {
+     "age": "13-14",
+     "events": [
+      {
+       "event": "400 Medley Relay",
+       "time": "5:31.59",
+       "date": "2022-06-04",
+       "swimmers": [
+        "Sophie Wert",
+        "Olivia Crowley",
+        "Camren Grace Reaves",
+        "Addison Hicks"
+       ],
+       "meet": "2022 NC STAR Andrew E Hartle Invite"
+      }
+     ]
+    },
+    {
+     "age": "Open",
+     "events": [
+      {
+       "event": "200 Free Relay",
+       "time": "2:27.26",
+       "date": "2022-06-05",
+       "swimmers": [
+        "Nina Crowley",
+        "Lillian Amin",
+        "Eliza Amin",
+        "Kemper Yarnoz"
+       ],
+       "meet": "2022 NC STAR Andrew E Hartle Invite"
+      },
+      {
+       "event": "200 Medley Relay",
+       "time": "2:53.66",
+       "date": "2022-06-04",
+       "swimmers": [
+        "Annderson Petroff",
+        "Kemper Yarnoz",
+        "Lillian Amin",
+        "Nina Crowley"
+       ],
+       "meet": "2022 NC STAR Andrew E Hartle Invite"
+      },
+      {
+       "event": "400 Free Relay",
+       "time": "4:17.43",
+       "date": "2025-07-11",
+       "swimmers": [
+        "Lila Paukovich",
+        "Violet Derry",
+        "Camren Grace Reaves",
+        "Sophie Wert"
+       ],
+       "meet": "2025 NC NCS LC Senior Championships"
+      },
+      {
+       "event": "400 Medley Relay",
+       "time": "4:52.06",
+       "date": "2025-07-13",
+       "swimmers": [
+        "Violet Derry",
+        "Sophie Wert",
+        "Camren Grace Reaves",
+        "Gentry Witmer"
+       ],
+       "meet": "2025 NC NCS LC Senior Championships"
+      }
+     ]
+    }
+   ]
+  },
+  "Male": {
+   "ageGroups": [
+    {
+     "age": "15-16",
+     "events": [
+      {
+       "event": "400 Free Relay",
+       "time": "3:46.99",
+       "date": "2023-07-21",
+       "swimmers": [
+        "Laith Ausband",
+        "Ryker Eder",
+        "Bryson Edwards",
+        "Cole Witmer"
+       ],
+       "meet": "2023 NC NCS LC SR Champs (STAR2)"
+      },
+      {
+       "event": "400 Medley Relay",
+       "time": "4:14.67",
+       "date": "2023-07-23",
+       "swimmers": [
+        "Cole Witmer",
+        "Ryker Eder",
+        "Bryson Edwards",
+        "Laith Ausband"
+       ],
+       "meet": "2023 NC NCS LC SR Champs (STAR2)"
+      }
+     ]
+    },
+    {
+     "age": "15-18",
+     "events": [
+      {
+       "event": "400 Free Relay",
+       "time": "3:41.07",
+       "date": "2025-07-11",
+       "swimmers": [
+        "Clem Camacho",
+        "Behr Petroff",
+        "Ryker Eder",
+        "Laith Ausband"
+       ],
+       "meet": "2025 NC NCS LC Senior Championships"
+      },
+      {
+       "event": "400 Medley Relay",
+       "time": "4:04.82",
+       "date": "2025-07-13",
+       "swimmers": [
+        "Bryson Edwards",
+        "Behr Petroff",
+        "Ryker Eder",
+        "Laith Ausband"
+       ],
+       "meet": "2025 NC NCS LC Senior Championships"
+      }
+     ]
+    },
+    {
+     "age": "Open",
+     "events": [
+      {
+       "event": "400 Free Relay",
+       "time": "3:41.07",
+       "date": "2025-07-11",
+       "swimmers": [
+        "Clem Camacho",
+        "Behr Petroff",
+        "Ryker Eder",
+        "Laith Ausband"
+       ],
+       "meet": "2025 NC NCS LC Senior Championships"
+      },
+      {
+       "event": "400 Medley Relay",
+       "time": "4:04.82",
+       "date": "2025-07-13",
+       "swimmers": [
+        "Bryson Edwards",
+        "Behr Petroff",
+        "Ryker Eder",
+        "Laith Ausband"
+       ],
+       "meet": "2025 NC NCS LC Senior Championships"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
