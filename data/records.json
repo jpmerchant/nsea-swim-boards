@@ -6,7 +6,7 @@
   "season_label": "2026\u201327",
   "subtitle": "Ranked by number of individual NSEA team records held across LC (meters) and SCY (yards). Tap a swimmer to see every record on their card.",
   "disclaimer": "It's built entirely from the official LC and SCY team record sheets, which only capture the single fastest swim per event, per age group. Results that never became a record \u2014 or any results missing from those exports \u2014 aren't reflected here, so the true all-time leaderboard could look different.",
-  "footer": "NSEA SWIM \u00b7 DERIVED FROM LC & SCY TEAM RECORD EXPORTS \u00b7 UPDATED 2026-09-25",
+  "footer": "NSEA SWIM \u00b7 DERIVED FROM LC & SCY TEAM RECORD EXPORTS \u00b7 UPDATED 2026-11-03",
   "swimmers": [
     {
       "name": "Hance Mayo",
@@ -246,20 +246,6 @@
           "course": "SCY",
           "event": "200 Free",
           "time": "2:21.78",
-          "date": "2021-03-26",
-          "meet": "NC21071 BAC SPRING BREAK CHAMPS"
-        },
-        {
-          "course": "SCY",
-          "event": "50 Breast",
-          "time": "40.04",
-          "date": "2021-03-26",
-          "meet": "NC21071 BAC SPRING BREAK CHAMPS"
-        },
-        {
-          "course": "SCY",
-          "event": "100 Breast",
-          "time": "1:26.46",
           "date": "2021-03-26",
           "meet": "NC21071 BAC SPRING BREAK CHAMPS"
         },
@@ -569,6 +555,13 @@
       "records": [
         {
           "course": "SCY",
+          "event": "100 Back",
+          "time": "1:00.82",
+          "date": "2026-10-30",
+          "meet": "2026 BAC Halloween Bash"
+        },
+        {
+          "course": "SCY",
           "event": "100 IM",
           "time": "1:04.31",
           "date": "2026-09-18",
@@ -608,13 +601,6 @@
           "time": "1:11.65",
           "date": "2026-06-12",
           "meet": "2026 SC GAME Summer Classic"
-        },
-        {
-          "course": "SCY",
-          "event": "100 Back",
-          "time": "1:01.79",
-          "date": "2026-03-20",
-          "meet": "2026 STAR Tar Heel States"
         },
         {
           "course": "SCY",
@@ -2220,6 +2206,39 @@
       ]
     },
     {
+      "name": "Everett Cassidy",
+      "records": [
+        {
+          "course": "SCY",
+          "event": "50 Breast",
+          "time": "39.11",
+          "date": "2026-10-30",
+          "meet": "2026 BAC Halloween Bash"
+        },
+        {
+          "course": "SCY",
+          "event": "100 Breast",
+          "time": "1:26.09",
+          "date": "2026-10-30",
+          "meet": "2026 BAC Halloween Bash"
+        },
+        {
+          "course": "LC",
+          "event": "50 Breast",
+          "time": "44.51",
+          "date": "2026-07-16",
+          "meet": "2026 NCS LC AG Championships"
+        },
+        {
+          "course": "LC",
+          "event": "100 Breast",
+          "time": "1:38.58",
+          "date": "2026-07-16",
+          "meet": "2026 NCS LC AG Championships"
+        }
+      ]
+    },
+    {
       "name": "Eppy Camacho",
       "records": [
         {
@@ -2325,25 +2344,6 @@
           "time": "1:28.53",
           "date": "2021-06-11",
           "meet": ""
-        }
-      ]
-    },
-    {
-      "name": "Everett Cassidy",
-      "records": [
-        {
-          "course": "LC",
-          "event": "50 Breast",
-          "time": "44.51",
-          "date": "2026-07-16",
-          "meet": "2026 NCS LC AG Championships"
-        },
-        {
-          "course": "LC",
-          "event": "100 Breast",
-          "time": "1:38.58",
-          "date": "2026-07-16",
-          "meet": "2026 NCS LC AG Championships"
         }
       ]
     },

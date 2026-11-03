@@ -110,12 +110,13 @@
      },
      {
       "rank": 10,
-      "time": "1:07.29",
-      "first": "Ophelia",
-      "last": "Tomes",
-      "age": 10,
-      "meet": "2026 NSEA Swim October Suprise",
-      "date": "2026-10-09"
+      "time": "43.41",
+      "first": "Lily",
+      "last": "Clifford",
+      "age": 8,
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
      }
     ],
     "100 Free": [
@@ -1203,6 +1204,26 @@
      },
      {
       "rank": 7,
+      "time": "31.50",
+      "first": "Everett",
+      "last": "Cassidy",
+      "age": 10,
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
+     },
+     {
+      "rank": 8,
+      "time": "31.82",
+      "first": "Everett",
+      "last": "Cassidy",
+      "age": 10,
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
+     },
+     {
+      "rank": 9,
       "time": "32.82",
       "first": "Crosby",
       "last": "Howell",
@@ -1212,7 +1233,7 @@
       "points": 462
      },
      {
-      "rank": 8,
+      "rank": 10,
       "time": "32.99",
       "first": "Gavin",
       "last": "Derry",
@@ -1220,26 +1241,6 @@
       "meet": "2022 NC BAC CUPID QUALIFIER",
       "date": "2022-02-11",
       "points": 452
-     },
-     {
-      "rank": 9,
-      "time": "33.04",
-      "first": "Gavin",
-      "last": "Derry",
-      "age": 10,
-      "meet": "2022 NC BAC Battle at the Beach",
-      "date": "2022-01-16",
-      "points": 450
-     },
-     {
-      "rank": 10,
-      "time": "33.23",
-      "first": "Crosby",
-      "last": "Howell",
-      "age": 10,
-      "meet": "2025 NC BAC Halloween Bash",
-      "date": "2025-10-26",
-      "points": 439
      }
     ],
     "100 Free": [
@@ -1417,6 +1418,16 @@
      },
      {
       "rank": 8,
+      "time": "2:38.33",
+      "first": "Everett",
+      "last": "Cassidy",
+      "age": 10,
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
+     },
+     {
+      "rank": 9,
       "time": "2:40.08",
       "first": "Gavin",
       "last": "Derry",
@@ -1426,7 +1437,7 @@
       "points": 337
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "2:52.13",
       "first": "Gavin",
       "last": "Derry",
@@ -1434,16 +1445,6 @@
       "meet": "2021 NC BAC - NSEA DUAL MEET",
       "date": "2021-09-18",
       "points": 203
-     },
-     {
-      "rank": 10,
-      "time": "2:54.43",
-      "first": "Mckinley",
-      "last": "Meadows",
-      "age": 10,
-      "meet": "2023 NC BAC Cupid Qualifier",
-      "date": "2023-02-12",
-      "points": 181
      }
     ],
     "500 Free": [
@@ -1581,12 +1582,13 @@
      },
      {
       "rank": 10,
-      "time": "46.71",
-      "first": "Kirin",
-      "last": "Lee",
-      "age": 9,
-      "meet": "2026 NSEA Swim October Suprise",
-      "date": "2026-10-09"
+      "time": "37.70",
+      "first": "Everett",
+      "last": "Cassidy",
+      "age": 10,
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
      }
     ],
     "100 Back": [
@@ -1694,6 +1696,16 @@
     "50 Breast": [
      {
       "rank": 1,
+      "time": "39.11",
+      "first": "Everett",
+      "last": "Cassidy",
+      "age": 10,
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
+     },
+     {
+      "rank": 2,
       "time": "40.04",
       "first": "Hance",
       "last": "Mayo",
@@ -1703,7 +1715,7 @@
       "points": 554
      },
      {
-      "rank": 2,
+      "rank": 3,
       "time": "40.42",
       "first": "Everett",
       "last": "Cassidy",
@@ -1713,7 +1725,7 @@
       "points": 535
      },
      {
-      "rank": 3,
+      "rank": 4,
       "time": "41.99",
       "first": "Hance",
       "last": "Mayo",
@@ -1723,7 +1735,7 @@
       "points": 461
      },
      {
-      "rank": 4,
+      "rank": 5,
       "time": "42.29",
       "first": "Everett",
       "last": "Cassidy",
@@ -1732,7 +1744,7 @@
       "date": "2026-10-09"
      },
      {
-      "rank": 5,
+      "rank": 6,
       "time": "42.42",
       "first": "Hance",
       "last": "Mayo",
@@ -1742,7 +1754,7 @@
       "points": 441
      },
      {
-      "rank": 6,
+      "rank": 7,
       "time": "43.77",
       "first": "Hance",
       "last": "Mayo",
@@ -1752,7 +1764,7 @@
       "points": 380
      },
      {
-      "rank": 7,
+      "rank": 8,
       "time": "44.89",
       "first": "Gavin",
       "last": "Derry",
@@ -1762,7 +1774,7 @@
       "points": 332
      },
      {
-      "rank": 8,
+      "rank": 9,
       "time": "46.10",
       "first": "Everett",
       "last": "Cassidy",
@@ -1772,7 +1784,7 @@
       "points": 427
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "46.84",
       "first": "Gavin",
       "last": "Derry",
@@ -1780,21 +1792,21 @@
       "meet": "2021 NC WAVE TYR Fall States",
       "date": "2021-12-11",
       "points": 254
-     },
-     {
-      "rank": 10,
-      "time": "46.88",
-      "first": "Gavin",
-      "last": "Derry",
-      "age": 10,
-      "meet": "2021 NC TAC Big Southern Classic",
-      "date": "2021-11-13",
-      "points": 252
      }
     ],
     "100 Breast": [
      {
       "rank": 1,
+      "time": "1:26.09",
+      "first": "Everett",
+      "last": "Cassidy",
+      "age": 10,
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
+     },
+     {
+      "rank": 2,
       "time": "1:26.46",
       "first": "Hance",
       "last": "Mayo",
@@ -1804,7 +1816,7 @@
       "points": 571
      },
      {
-      "rank": 2,
+      "rank": 3,
       "time": "1:29.42",
       "first": "Everett",
       "last": "Cassidy",
@@ -1814,7 +1826,7 @@
       "points": 506
      },
      {
-      "rank": 3,
+      "rank": 4,
       "time": "1:32.44",
       "first": "Everett",
       "last": "Cassidy",
@@ -1824,7 +1836,7 @@
       "points": 443
      },
      {
-      "rank": 4,
+      "rank": 5,
       "time": "1:34.63",
       "first": "Hance",
       "last": "Mayo",
@@ -1834,7 +1846,7 @@
       "points": 398
      },
      {
-      "rank": 5,
+      "rank": 6,
       "time": "1:38.53",
       "first": "Gavin",
       "last": "Derry",
@@ -1844,7 +1856,7 @@
       "points": 322
      },
      {
-      "rank": 6,
+      "rank": 7,
       "time": "1:42.30",
       "first": "Gavin",
       "last": "Derry",
@@ -1854,7 +1866,7 @@
       "points": 253
      },
      {
-      "rank": 7,
+      "rank": 8,
       "time": "1:42.35",
       "first": "Gavin",
       "last": "Derry",
@@ -1864,7 +1876,7 @@
       "points": 252
      },
      {
-      "rank": 8,
+      "rank": 9,
       "time": "1:43.45",
       "first": "Crosby",
       "last": "Howell",
@@ -1874,7 +1886,7 @@
       "points": 233
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "1:43.56",
       "first": "Crosby",
       "last": "Howell",
@@ -1882,15 +1894,6 @@
       "meet": "2025 NC WOW v NSEA July Dual Meet",
       "date": "2025-07-27",
       "points": 231
-     },
-     {
-      "rank": 10,
-      "time": "1:52.83",
-      "first": "Banks",
-      "last": "Smith",
-      "age": 10,
-      "meet": "2026 NSEA Swim October Suprise",
-      "date": "2026-10-09"
      }
     ],
     "50 Fly": [
@@ -2109,6 +2112,16 @@
      },
      {
       "rank": 2,
+      "time": "1:14.51",
+      "first": "Everett",
+      "last": "Cassidy",
+      "age": 10,
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
+     },
+     {
+      "rank": 3,
       "time": "1:15.63",
       "first": "Hance",
       "last": "Mayo",
@@ -2118,7 +2131,7 @@
       "points": 587
      },
      {
-      "rank": 3,
+      "rank": 4,
       "time": "1:15.70",
       "first": "Hance",
       "last": "Mayo",
@@ -2128,7 +2141,7 @@
       "points": 585
      },
      {
-      "rank": 4,
+      "rank": 5,
       "time": "1:17.06",
       "first": "Everett",
       "last": "Cassidy",
@@ -2137,7 +2150,7 @@
       "date": "2026-10-09"
      },
      {
-      "rank": 5,
+      "rank": 6,
       "time": "1:17.39",
       "first": "Hance",
       "last": "Mayo",
@@ -2147,7 +2160,7 @@
       "points": 537
      },
      {
-      "rank": 6,
+      "rank": 7,
       "time": "1:17.51",
       "first": "Hance",
       "last": "Mayo",
@@ -2157,7 +2170,7 @@
       "points": 533
      },
      {
-      "rank": 7,
+      "rank": 8,
       "time": "1:19.17",
       "first": "Hance",
       "last": "Mayo",
@@ -2167,7 +2180,7 @@
       "points": 640
      },
      {
-      "rank": 8,
+      "rank": 9,
       "time": "1:21.81",
       "first": "Gavin",
       "last": "Derry",
@@ -2177,7 +2190,7 @@
       "points": 419
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "1:22.72",
       "first": "Gavin",
       "last": "Derry",
@@ -2185,16 +2198,6 @@
       "meet": "2022 NC BAC CUPID QUALIFIER",
       "date": "2022-02-13",
       "points": 396
-     },
-     {
-      "rank": 10,
-      "time": "1:23.54",
-      "first": "Gavin",
-      "last": "Derry",
-      "age": 10,
-      "meet": "2021 NC WAVE TYR Fall States",
-      "date": "2021-12-12",
-      "points": 376
      }
     ],
     "200 IM": [
@@ -2240,6 +2243,16 @@
      },
      {
       "rank": 5,
+      "time": "2:53.11",
+      "first": "Everett",
+      "last": "Cassidy",
+      "age": 10,
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
+     },
+     {
+      "rank": 6,
       "time": "2:54.19",
       "first": "Gavin",
       "last": "Derry",
@@ -2249,7 +2262,7 @@
       "points": 438
      },
      {
-      "rank": 6,
+      "rank": 7,
       "time": "3:03.50",
       "first": "August",
       "last": "Howell",
@@ -2259,7 +2272,7 @@
       "points": 334
      },
      {
-      "rank": 7,
+      "rank": 8,
       "time": "3:03.94",
       "first": "Everett",
       "last": "Cassidy",
@@ -2269,7 +2282,7 @@
       "points": 329
      },
      {
-      "rank": 8,
+      "rank": 9,
       "time": "3:04.35",
       "first": "Gavin",
       "last": "Derry",
@@ -2279,7 +2292,7 @@
       "points": 325
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "3:06.61",
       "first": "Gavin",
       "last": "Derry",
@@ -2310,8 +2323,8 @@
       "first": "Taylor",
       "last": "Crane",
       "age": 12,
-      "meet": "2021 NC TAC ESSZ SC AG Section",
-      "date": "2021-03-12",
+      "meet": "2021 NC BAC Battle at the Beac",
+      "date": "2021-01-31",
       "points": 742
      },
      {
@@ -2320,8 +2333,8 @@
       "first": "Taylor",
       "last": "Crane",
       "age": 12,
-      "meet": "2021 NC BAC Battle at the Beac",
-      "date": "2021-01-31",
+      "meet": "2021 NC TAC ESSZ SC AG Section",
+      "date": "2021-03-12",
       "points": 742
      },
      {
@@ -2728,22 +2741,22 @@
     "50 Back": [
      {
       "rank": 1,
-      "time": "29.14",
-      "first": "Gentry",
-      "last": "Witmer",
-      "age": 12,
-      "meet": "2025 NC SC Age Group Championships",
-      "date": "2025-02-16",
-      "points": 765
-     },
-     {
-      "rank": 2,
       "time": "29.14r",
       "first": "Gentry",
       "last": "Witmer",
       "age": 12,
       "meet": "2024 NC GOLD Gobbler Invitational",
       "date": "2024-11-24",
+      "points": 765
+     },
+     {
+      "rank": 2,
+      "time": "29.14",
+      "first": "Gentry",
+      "last": "Witmer",
+      "age": 12,
+      "meet": "2025 NC SC Age Group Championships",
+      "date": "2025-02-16",
       "points": 765
      },
      {
@@ -3954,12 +3967,13 @@
      },
      {
       "rank": 10,
-      "time": "31.09",
+      "time": "29.71",
       "first": "Carter",
       "last": "Frank",
       "age": 12,
-      "meet": "2026 NSEA Swim October Suprise",
-      "date": "2026-10-09"
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
      }
     ],
     "100 Free": [
@@ -4055,12 +4069,13 @@
      },
      {
       "rank": 10,
-      "time": "1:13.59",
+      "time": "1:12.28",
       "first": "Corbin",
       "last": "Tinney",
       "age": 12,
-      "meet": "2026 NSEA Swim October Suprise",
-      "date": "2026-10-09"
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
      }
     ],
     "200 Free": [
@@ -4357,6 +4372,16 @@
       "meet": "2023 NC BAC Battle at the Beach",
       "date": "2023-01-15",
       "points": 725
+     },
+     {
+      "rank": 10,
+      "time": "49.49",
+      "first": "Banks",
+      "last": "Hunter",
+      "age": 12,
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
      }
     ],
     "100 Back": [
@@ -4963,21 +4988,21 @@
      {
       "rank": 6,
       "time": "1:05.63",
-      "first": "Hance",
-      "last": "Mayo",
-      "age": 12,
-      "meet": "2022 NC BAC Halloween Bash",
-      "date": "2022-10-30",
-      "points": 578
-     },
-     {
-      "rank": 7,
-      "time": "1:05.63",
       "first": "Nathan",
       "last": "Neu",
       "age": 12,
       "meet": "2021 NC TAC SC AG Champs",
       "date": "2021-02-25",
+      "points": 578
+     },
+     {
+      "rank": 7,
+      "time": "1:05.63",
+      "first": "Hance",
+      "last": "Mayo",
+      "age": 12,
+      "meet": "2022 NC BAC Halloween Bash",
+      "date": "2022-10-30",
       "points": 578
      },
      {
@@ -4999,6 +5024,16 @@
       "meet": "2022 NC BAC CUPID QUALIFIER",
       "date": "2022-02-12",
       "points": 687
+     },
+     {
+      "rank": 10,
+      "time": "1:24.31",
+      "first": "Carter",
+      "last": "Frank",
+      "age": 12,
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
      }
     ],
     "100 IM": [
@@ -5243,6 +5278,16 @@
      },
      {
       "rank": 3,
+      "time": "25.27",
+      "first": "Gentry",
+      "last": "Witmer",
+      "age": 14,
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
+     },
+     {
+      "rank": 4,
       "time": "25.39",
       "first": "Keener",
       "last": "Witmer",
@@ -5252,7 +5297,7 @@
       "points": 684
      },
      {
-      "rank": 4,
+      "rank": 5,
       "time": "25.40",
       "first": "Gentry",
       "last": "Witmer",
@@ -5262,7 +5307,7 @@
       "points": 740
      },
      {
-      "rank": 5,
+      "rank": 6,
       "time": "25.50",
       "first": "Violet",
       "last": "Derry",
@@ -5270,16 +5315,6 @@
       "meet": "2023 NC STAR Triad Tropic",
       "date": "2023-12-16",
       "points": 674
-     },
-     {
-      "rank": 6,
-      "time": "25.70",
-      "first": "Lila",
-      "last": "Paukovich",
-      "age": 13,
-      "meet": "2025 NC SC Senior Championships",
-      "date": "2025-02-22",
-      "points": 712
      },
      {
       "rank": 7,
@@ -5293,6 +5328,16 @@
      },
      {
       "rank": 8,
+      "time": "25.70",
+      "first": "Lila",
+      "last": "Paukovich",
+      "age": 13,
+      "meet": "2025 NC SC Senior Championships",
+      "date": "2025-02-22",
+      "points": 712
+     },
+     {
+      "rank": 9,
       "time": "25.71",
       "first": "Keener",
       "last": "Witmer",
@@ -5302,7 +5347,7 @@
       "points": 655
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "25.74",
       "first": "Keener",
       "last": "Witmer",
@@ -5310,16 +5355,6 @@
       "meet": "2021 NC TAC SC AG Champs",
       "date": "2021-02-27",
       "points": 652
-     },
-     {
-      "rank": 10,
-      "time": "25.80",
-      "first": "Lila",
-      "last": "Paukovich",
-      "age": 14,
-      "meet": "2025 NC STAR Triad Tropic",
-      "date": "2025-12-13",
-      "points": 647
      }
     ],
     "100 Free": [
@@ -5467,6 +5502,16 @@
      },
      {
       "rank": 5,
+      "time": "2:01.72",
+      "first": "Gentry",
+      "last": "Witmer",
+      "age": 14,
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
+     },
+     {
+      "rank": 6,
       "time": "2:02.16",
       "first": "Keener",
       "last": "Witmer",
@@ -5476,7 +5521,7 @@
       "points": 577
      },
      {
-      "rank": 6,
+      "rank": 7,
       "time": "2:02.42",
       "first": "Abby",
       "last": "Forbes",
@@ -5486,7 +5531,7 @@
       "points": 571
      },
      {
-      "rank": 7,
+      "rank": 8,
       "time": "2:02.62",
       "first": "Gentry",
       "last": "Witmer",
@@ -5496,7 +5541,7 @@
       "points": 604
      },
      {
-      "rank": 8,
+      "rank": 9,
       "time": "2:03.10",
       "first": "Keener",
       "last": "Witmer",
@@ -5506,7 +5551,7 @@
       "points": 556
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "2:03.89",
       "first": "Abby",
       "last": "Forbes",
@@ -5514,16 +5559,6 @@
       "meet": "2020 NC TAC Blizzard Blitz",
       "date": "2020-12-11",
       "points": 539
-     },
-     {
-      "rank": 10,
-      "time": "2:04.00",
-      "first": "Abby",
-      "last": "Forbes",
-      "age": 13,
-      "meet": "2020 NC BAC Battle at the Beac",
-      "date": "2020-01-25",
-      "points": 573
      }
     ],
     "500 Free": [
@@ -5897,6 +5932,16 @@
     "100 Back": [
      {
       "rank": 1,
+      "time": "1:00.82",
+      "first": "Gentry",
+      "last": "Witmer",
+      "age": 14,
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
+     },
+     {
+      "rank": 2,
       "time": "1:01.79",
       "first": "Gentry",
       "last": "Witmer",
@@ -5906,7 +5951,7 @@
       "points": 643
      },
      {
-      "rank": 2,
+      "rank": 3,
       "time": "1:01.88",
       "first": "Gentry",
       "last": "Witmer",
@@ -5916,7 +5961,7 @@
       "points": 639
      },
      {
-      "rank": 3,
+      "rank": 4,
       "time": "1:01.94",
       "first": "Gentry",
       "last": "Witmer",
@@ -5926,7 +5971,7 @@
       "points": 696
      },
      {
-      "rank": 4,
+      "rank": 5,
       "time": "1:02.65",
       "first": "Gentry",
       "last": "Witmer",
@@ -5936,7 +5981,7 @@
       "points": 668
      },
      {
-      "rank": 5,
+      "rank": 6,
       "time": "1:03.22",
       "first": "Gentry",
       "last": "Witmer",
@@ -5946,7 +5991,7 @@
       "points": 646
      },
      {
-      "rank": 6,
+      "rank": 7,
       "time": "1:03.69",
       "first": "Gentry",
       "last": "Witmer",
@@ -5956,7 +6001,7 @@
       "points": 628
      },
      {
-      "rank": 7,
+      "rank": 8,
       "time": "1:04.30",
       "first": "Keener",
       "last": "Witmer",
@@ -5966,7 +6011,7 @@
       "points": 546
      },
      {
-      "rank": 8,
+      "rank": 9,
       "time": "1:04.59",
       "first": "Lila",
       "last": "Paukovich",
@@ -5976,7 +6021,7 @@
       "points": 535
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "1:04.66",
       "first": "Lila",
       "last": "Paukovich",
@@ -5984,16 +6029,6 @@
       "meet": "2025 NC STAR Triad Tropic",
       "date": "2025-12-14",
       "points": 532
-     },
-     {
-      "rank": 10,
-      "time": "1:04.70",
-      "first": "Lila",
-      "last": "Paukovich",
-      "age": 14,
-      "meet": "2026 NC WOW Tri-County",
-      "date": "2026-01-24",
-      "points": 531
      }
     ],
     "200 Back": [
@@ -6594,6 +6629,16 @@
       "meet": "2021 NC OBS NCHSAA 3A State Champs",
       "date": "2021-02-10",
       "points": 643
+     },
+     {
+      "rank": 10,
+      "time": "1:05.71",
+      "first": "Eliza",
+      "last": "Amin",
+      "age": 13,
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
      }
     ],
     "200 Fly": [
@@ -6721,6 +6766,16 @@
      },
      {
       "rank": 3,
+      "time": "1:07.74",
+      "first": "Abigail",
+      "last": "Blair",
+      "age": 14,
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
+     },
+     {
+      "rank": 4,
       "time": "1:10.22",
       "first": "Piper",
       "last": "Cockman",
@@ -6730,7 +6785,7 @@
       "points": 399
      },
      {
-      "rank": 4,
+      "rank": 5,
       "time": "1:10.42",
       "first": "Eliza",
       "last": "Amin",
@@ -6740,7 +6795,7 @@
       "points": null
      },
      {
-      "rank": 5,
+      "rank": 6,
       "time": "1:10.64",
       "first": "Violet",
       "last": "Derry",
@@ -6750,7 +6805,7 @@
       "points": 337
      },
      {
-      "rank": 6,
+      "rank": 7,
       "time": "1:10.90",
       "first": "Violet",
       "last": "Derry",
@@ -6760,7 +6815,7 @@
       "points": 377
      },
      {
-      "rank": 7,
+      "rank": 8,
       "time": "1:12.10",
       "first": "Abigail",
       "last": "Blair",
@@ -6770,7 +6825,7 @@
       "points": 339
      },
      {
-      "rank": 8,
+      "rank": 9,
       "time": "1:12.51",
       "first": "Addison",
       "last": "Hicks",
@@ -6780,7 +6835,7 @@
       "points": 280
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "1:14.02",
       "first": "Camren Grace",
       "last": "Reaves",
@@ -6788,16 +6843,6 @@
       "meet": "2022 NC BAC-NSEA Dual",
       "date": "2022-09-24",
       "points": 236
-     },
-     {
-      "rank": 10,
-      "time": "1:14.17",
-      "first": "Sophie",
-      "last": "Wert",
-      "age": 13,
-      "meet": "2022 NC BAC-NSEA Dual",
-      "date": "2022-09-24",
-      "points": 276
      }
     ],
     "200 IM": [
@@ -7053,8 +7098,8 @@
       "first": "Cole",
       "last": "Witmer",
       "age": 14,
-      "meet": "2021 NC TAC ESSZ SC AG Section",
-      "date": "2021-03-13",
+      "meet": "2021 NC TAC SC AG Champs",
+      "date": "2021-02-27",
       "points": 696
      },
      {
@@ -7063,8 +7108,8 @@
       "first": "Cole",
       "last": "Witmer",
       "age": 14,
-      "meet": "2021 NC TAC SC AG Champs",
-      "date": "2021-02-27",
+      "meet": "2021 NC TAC ESSZ SC AG Section",
+      "date": "2021-03-13",
       "points": 696
      },
      {
@@ -8439,6 +8484,16 @@
      },
      {
       "rank": 7,
+      "time": "1:08.69",
+      "first": "Sebastian",
+      "last": "Chilcott",
+      "age": 14,
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
+     },
+     {
+      "rank": 8,
       "time": "1:11.61",
       "first": "JP",
       "last": "Summers",
@@ -8448,7 +8503,7 @@
       "points": 139
      },
      {
-      "rank": 8,
+      "rank": 9,
       "time": "1:11.88",
       "first": "Behr",
       "last": "Petroff",
@@ -8458,7 +8513,7 @@
       "points": 205
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "1:12.26",
       "first": "Sebastian",
       "last": "Chilcott",
@@ -8466,16 +8521,6 @@
       "meet": "2025 NC BAC vs NSEA Dual",
       "date": "2025-09-20",
       "points": 195
-     },
-     {
-      "rank": 10,
-      "time": "1:13.18",
-      "first": "Sebastian",
-      "last": "Chilcott",
-      "age": 14,
-      "meet": "2026 NC BAC vs NSEA Dual",
-      "date": "2026-09-18",
-      "points": null
      }
     ],
     "200 IM": [
@@ -10359,22 +10404,22 @@
      {
       "rank": 6,
       "time": "2:18.98",
-      "first": "Violet",
-      "last": "Derry",
-      "age": 15,
-      "meet": "2024 NC BAC Halloween Bash",
-      "date": "2024-10-27",
-      "points": 553
-     },
-     {
-      "rank": 7,
-      "time": "2:18.98",
       "first": "Madi",
       "last": "Joy",
       "age": 16,
       "meet": "2022 NC BAC Halloween Bash",
       "date": "2022-10-30",
       "points": 540
+     },
+     {
+      "rank": 7,
+      "time": "2:18.98",
+      "first": "Violet",
+      "last": "Derry",
+      "age": 15,
+      "meet": "2024 NC BAC Halloween Bash",
+      "date": "2024-10-27",
+      "points": 553
      },
      {
       "rank": 8,
@@ -10568,8 +10613,8 @@
       "first": "Cole",
       "last": "Witmer",
       "age": 16,
-      "meet": "2023 NC NCHSAA 4A State Championships",
-      "date": "2023-02-10",
+      "meet": "2023 NC NCHSAA  4A East Regionals",
+      "date": "2023-02-04",
       "points": 769
      },
      {
@@ -10578,8 +10623,8 @@
       "first": "Cole",
       "last": "Witmer",
       "age": 16,
-      "meet": "2023 NC NCHSAA  4A East Regionals",
-      "date": "2023-02-04",
+      "meet": "2023 NC NCHSAA 4A State Championships",
+      "date": "2023-02-10",
       "points": 769
      },
      {
@@ -10949,6 +10994,16 @@
       "meet": "2023 NC BAC Halloween Bash",
       "date": "2023-10-29",
       "points": 239
+     },
+     {
+      "rank": 4,
+      "time": "13:07.80",
+      "first": "William",
+      "last": "Forbes",
+      "age": 15,
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
      }
     ],
     "1650 Free": [
@@ -11178,12 +11233,13 @@
      },
      {
       "rank": 10,
-      "time": "1:13.05",
-      "first": "Sebastian",
-      "last": "Ventura",
+      "time": "1:11.85",
+      "first": "Court",
+      "last": "Yarnoz",
       "age": 15,
-      "meet": "2026 NSEA Swim October Suprise",
-      "date": "2026-10-09"
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
      }
     ],
     "200 Back": [
@@ -11984,22 +12040,22 @@
      {
       "rank": 9,
       "time": "1:02.62",
-      "first": "Noah",
-      "last": "McNeill",
-      "age": 16,
-      "meet": "2025 NC WOW v NSEA July Dual Meet",
-      "date": "2025-07-27",
-      "points": 324
-     },
-     {
-      "rank": 10,
-      "time": "1:02.62",
       "first": "Ryker",
       "last": "Eder",
       "age": 15,
       "meet": "2022 NC BAC-NSEA Dual",
       "date": "2022-09-24",
       "points": 364
+     },
+     {
+      "rank": 10,
+      "time": "1:02.62",
+      "first": "Noah",
+      "last": "McNeill",
+      "age": 16,
+      "meet": "2025 NC WOW v NSEA July Dual Meet",
+      "date": "2025-07-27",
+      "points": 324
      }
     ],
     "200 IM": [
@@ -12293,22 +12349,22 @@
      },
      {
       "rank": 9,
-      "time": "24.90r",
-      "first": "Madi",
-      "last": "Joy",
-      "age": 17,
-      "meet": "2024 NC SC Senior Championships",
-      "date": "2024-02-24",
-      "points": 681
-     },
-     {
-      "rank": 10,
       "time": "24.90",
       "first": "Liza",
       "last": "Murtagh",
       "age": 17,
       "meet": "2021 NC TAC Polar Plunge",
       "date": "2021-01-15",
+      "points": 681
+     },
+     {
+      "rank": 10,
+      "time": "24.90r",
+      "first": "Madi",
+      "last": "Joy",
+      "age": 17,
+      "meet": "2024 NC SC Senior Championships",
+      "date": "2024-02-24",
       "points": 681
      }
     ],
@@ -12319,8 +12375,8 @@
       "first": "Liza",
       "last": "Murtagh",
       "age": 17,
-      "meet": "2021 NC BAC SPRING BREAK CHAMPS",
-      "date": "2021-03-27",
+      "meet": "2020 NC NCS Winter 18U Champs",
+      "date": "2020-12-06",
       "points": 712
      },
      {
@@ -12329,8 +12385,8 @@
       "first": "Liza",
       "last": "Murtagh",
       "age": 17,
-      "meet": "2020 NC NCS Winter 18U Champs",
-      "date": "2020-12-06",
+      "meet": "2021 NC BAC SPRING BREAK CHAMPS",
+      "date": "2021-03-27",
       "points": 712
      },
      {
@@ -13506,21 +13562,21 @@
      {
       "rank": 9,
       "time": "59.99",
-      "first": "Violet",
-      "last": "Derry",
-      "age": 17,
-      "meet": "2026 NC STAR Tarheel States",
-      "date": "2026-03-21",
-      "points": 644
-     },
-     {
-      "rank": 10,
-      "time": "59.99",
       "first": "Keener",
       "last": "Witmer",
       "age": 17,
       "meet": "2024 NC 4A NCHSAA High School Regional East",
       "date": "2024-02-02",
+      "points": 644
+     },
+     {
+      "rank": 10,
+      "time": "59.99",
+      "first": "Violet",
+      "last": "Derry",
+      "age": 17,
+      "meet": "2026 NC STAR Tarheel States",
+      "date": "2026-03-21",
       "points": 644
      }
     ],
@@ -13649,6 +13705,16 @@
      },
      {
       "rank": 3,
+      "time": "1:03.86",
+      "first": "Sophie",
+      "last": "Wert",
+      "age": 18,
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
+     },
+     {
+      "rank": 4,
       "time": "1:04.74",
       "first": "Sophie",
       "last": "Wert",
@@ -13658,7 +13724,7 @@
       "points": 501
      },
      {
-      "rank": 4,
+      "rank": 5,
       "time": "1:04.80",
       "first": "Sophie",
       "last": "Wert",
@@ -13668,7 +13734,7 @@
       "points": 499
      },
      {
-      "rank": 5,
+      "rank": 6,
       "time": "1:05.35",
       "first": "Sophie",
       "last": "Wert",
@@ -13678,7 +13744,7 @@
       "points": null
      },
      {
-      "rank": 6,
+      "rank": 7,
       "time": "1:06.51",
       "first": "Camren Grace",
       "last": "Reaves",
@@ -13688,7 +13754,7 @@
       "points": 436
      },
      {
-      "rank": 7,
+      "rank": 8,
       "time": "1:06.91",
       "first": "Keener",
       "last": "Witmer",
@@ -13698,7 +13764,7 @@
       "points": 422
      },
      {
-      "rank": 8,
+      "rank": 9,
       "time": "1:08.87",
       "first": "Violet",
       "last": "Derry",
@@ -13707,7 +13773,7 @@
       "date": "2026-10-09"
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "1:10.47",
       "first": "Carson",
       "last": "Major",
@@ -13715,16 +13781,6 @@
       "meet": "2023 NC BAC vs NSEA Dual",
       "date": "2023-09-23",
       "points": 304
-     },
-     {
-      "rank": 10,
-      "time": "1:10.84",
-      "first": "Cadence",
-      "last": "Eder",
-      "age": 17,
-      "meet": "2023 NC BAC vs NSEA Dual",
-      "date": "2023-09-23",
-      "points": 293
      }
     ],
     "200 IM": [
@@ -15574,12 +15630,13 @@
      },
      {
       "rank": 10,
-      "time": "27.60",
-      "first": "Piper",
-      "last": "Cockman",
-      "age": 15,
-      "meet": "2026 NSEA Swim October Suprise",
-      "date": "2026-10-09"
+      "time": "25.27",
+      "first": "Gentry",
+      "last": "Witmer",
+      "age": 14,
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
      }
     ],
     "100 Free": [
@@ -15589,8 +15646,8 @@
       "first": "Liza",
       "last": "Murtagh",
       "age": 17,
-      "meet": "2021 NC BAC SPRING BREAK CHAMPS",
-      "date": "2021-03-27",
+      "meet": "2020 NC NCS Winter 18U Champs",
+      "date": "2020-12-06",
       "points": 712
      },
      {
@@ -15599,8 +15656,8 @@
       "first": "Liza",
       "last": "Murtagh",
       "age": 17,
-      "meet": "2020 NC NCS Winter 18U Champs",
-      "date": "2020-12-06",
+      "meet": "2021 NC BAC SPRING BREAK CHAMPS",
+      "date": "2021-03-27",
       "points": 712
      },
      {
@@ -17063,6 +17120,16 @@
      },
      {
       "rank": 6,
+      "time": "1:03.86",
+      "first": "Sophie",
+      "last": "Wert",
+      "age": 18,
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
+     },
+     {
+      "rank": 7,
       "time": "1:03.93",
       "first": "Taylor",
       "last": "Crane",
@@ -17072,7 +17139,7 @@
       "points": 748
      },
      {
-      "rank": 7,
+      "rank": 8,
       "time": "1:03.98",
       "first": "Taylor",
       "last": "Crane",
@@ -17082,7 +17149,7 @@
       "points": 746
      },
      {
-      "rank": 8,
+      "rank": 9,
       "time": "1:04.15",
       "first": "Gentry",
       "last": "Witmer",
@@ -17092,7 +17159,7 @@
       "points": 740
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "1:04.26",
       "first": "Violet",
       "last": "Derry",
@@ -17100,16 +17167,6 @@
       "meet": "2024 NC BAC v NSEA Dual Meet",
       "date": "2024-09-28",
       "points": 535
-     },
-     {
-      "rank": 10,
-      "time": "1:04.31",
-      "first": "Gentry",
-      "last": "Witmer",
-      "age": 14,
-      "meet": "2026 NC BAC vs NSEA Dual",
-      "date": "2026-09-18",
-      "points": null
      }
     ],
     "200 IM": [
@@ -17809,6 +17866,16 @@
      },
      {
       "rank": 9,
+      "time": "13:07.80",
+      "first": "William",
+      "last": "Forbes",
+      "age": 15,
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
+     },
+     {
+      "rank": 10,
       "time": "14:02.04",
       "first": "William",
       "last": "Forbes",
@@ -18085,12 +18152,13 @@
      },
      {
       "rank": 10,
-      "time": "1:13.05",
-      "first": "Sebastian",
-      "last": "Ventura",
+      "time": "1:11.85",
+      "first": "Court",
+      "last": "Yarnoz",
       "age": 15,
-      "meet": "2026 NSEA Swim October Suprise",
-      "date": "2026-10-09"
+      "meet": "2026 NC BAC Halloween Bash",
+      "date": "2026-10-30",
+      "points": null
      }
     ],
     "200 Back": [
@@ -18472,22 +18540,22 @@
      {
       "rank": 8,
       "time": "2:10.21",
-      "first": "Behr",
-      "last": "Petroff",
-      "age": 16,
-      "meet": "2026 NC NCS SC Senior Championships",
-      "date": "2026-02-21",
-      "points": 782
-     },
-     {
-      "rank": 9,
-      "time": "2:10.21",
       "first": "Ryker",
       "last": "Eder",
       "age": 17,
       "meet": "2024 NC STAR Triad Tropic",
       "date": "2024-12-22",
       "points": 756
+     },
+     {
+      "rank": 9,
+      "time": "2:10.21",
+      "first": "Behr",
+      "last": "Petroff",
+      "age": 16,
+      "meet": "2026 NC NCS SC Senior Championships",
+      "date": "2026-02-21",
+      "points": 782
      },
      {
       "rank": 10,
