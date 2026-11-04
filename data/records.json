@@ -5,7 +5,7 @@
  "cutoff_end_label": "8/31/2027",
  "season_label": "2026\u201327",
  "subtitle": "Ranked by number of individual NSEA team records held across LC (meters) and SCY (yards). Tap a swimmer to see every record on their card.",
- "disclaimer": "It's built entirely from the official LC and SCY team record sheets, which only capture the single fastest swim per event, per age group. Results that never became a record \u2014 or any results missing from those exports \u2014 aren't reflected here, so the true all-time leaderboard could look different.",
+ "disclaimer": "It's built entirely from the official LC and SCY team record sheets, which only capture the single fastest swim per event, per age group. Results that never became a record \u2014 or any results missing from those exports \u2014 aren't reflected here, so the true all-time leaderboard could look different. Team records do not include swims by unattached (UN) swimmers or swims at high school meets; those swims appear on the Top 10 lists only.",
  "footer": "NSEA SWIM \u00b7 DERIVED FROM LC & SCY TEAM RECORD EXPORTS \u00b7 UPDATED 2026-11-04",
  "swimmers": [
   {
@@ -723,22 +723,15 @@
     },
     {
      "course": "SCY",
-     "event": "200 Free",
-     "time": "1:37.57",
-     "date": "2025-02-06",
-     "meet": "2025 NC NCHSAA 4A State Championship"
-    },
-    {
-     "course": "SCY",
-     "event": "100 Fly",
-     "time": "47.78",
-     "date": "2025-02-06",
-     "meet": "2025 NC NCHSAA 4A State Championship"
-    },
-    {
-     "course": "SCY",
      "event": "50 Free",
      "time": "20.53",
+     "date": "2024-12-20",
+     "meet": "Triad Tropic Invitational"
+    },
+    {
+     "course": "SCY",
+     "event": "200 Free",
+     "time": "1:38.47",
      "date": "2024-12-20",
      "meet": "Triad Tropic Invitational"
     },
@@ -755,6 +748,13 @@
      "time": "1:48.23",
      "date": "2024-12-20",
      "meet": "Triad Tropic Invitational"
+    },
+    {
+     "course": "SCY",
+     "event": "100 Fly",
+     "time": "48.47",
+     "date": "2024-12-04",
+     "meet": "2024 Toyota US Open Championships"
     },
     {
      "course": "SCY",
@@ -967,9 +967,9 @@
     {
      "course": "SCY",
      "event": "50 Back",
-     "time": "22.50",
-     "date": "2024-02-02",
-     "meet": "2024 NC 4A NCHSAA High School Regional East"
+     "time": "22.57",
+     "date": "2024-02-23",
+     "meet": ""
     },
     {
      "course": "SCY",
@@ -1534,13 +1534,6 @@
     },
     {
      "course": "SCY",
-     "event": "100 Fly",
-     "time": "57.64",
-     "date": "2024-02-02",
-     "meet": "2024 NC 4A NCHSAA High School Regional East"
-    },
-    {
-     "course": "SCY",
      "event": "100 Back",
      "time": "56.61",
      "date": "2023-12-06",
@@ -1550,6 +1543,13 @@
      "course": "SCY",
      "event": "200 Back",
      "time": "2:06.48",
+     "date": "2023-12-06",
+     "meet": "2023 Speedo East Winter Junior Champs"
+    },
+    {
+     "course": "SCY",
+     "event": "100 Fly",
+     "time": "57.82",
      "date": "2023-12-06",
      "meet": "2023 Speedo East Winter Junior Champs"
     },
@@ -1603,6 +1603,13 @@
      "meet": "2023 BAC Battle at the Beach"
     },
     {
+     "course": "SCY",
+     "event": "50 Back",
+     "time": "28.90",
+     "date": "2022-09-25",
+     "meet": "2022 NC BAC-NSEA Dual"
+    },
+    {
      "course": "LC",
      "event": "100 Back",
      "time": "1:06.29",
@@ -1643,13 +1650,6 @@
      "time": "29.72",
      "date": "2022-05-19",
      "meet": "2022 Martha McKee Charlotte Open"
-    },
-    {
-     "course": "SCY",
-     "event": "50 Back",
-     "time": "27.55",
-     "date": "2022-02-05",
-     "meet": "2022 NC 4A East NCHSAA Regional Ch"
     }
    ]
   },
@@ -2562,9 +2562,9 @@
     {
      "course": "SCY",
      "event": "100 Breast",
-     "time": "1:09.43",
-     "date": "2021-02-05",
-     "meet": "2021 NC OBS NCHSAA 4A East Regional"
+     "time": "1:09.60",
+     "date": "2021-02-19",
+     "meet": ""
     },
     {
      "course": "SCY",

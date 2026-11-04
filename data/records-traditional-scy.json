@@ -5,7 +5,7 @@
  "cutoff_end_label": "8/31/2027",
  "season_label": "2026\u201327",
  "footer": "NSEA Swim \u00b7 Team Records \u00b7 Short Course Yards",
- "disclaimer": "This board reflects the official SCY (yards) team records on file and may not capture every historical swim. If you notice a missing or incorrect entry, let a coach know so we can update the records.",
+ "disclaimer": "This board reflects the official SCY (yards) team records on file and may not capture every historical swim. If you notice a missing or incorrect entry, let a coach know so we can update the records. Team records do not include swims by unattached (UN) swimmers or swims at high school meets; those swims appear on the Top 10 lists only.",
  "genders": {
   "Female": {
    "ageGroups": [
@@ -827,10 +827,10 @@
       },
       {
        "event": "50 Back",
-       "time": "27.55",
-       "date": "2022-02-05",
+       "time": "28.90",
+       "date": "2022-09-25",
        "holder": "Madi Joy",
-       "meet": "2022 NC 4A East NCHSAA Regional Ch",
+       "meet": "2022 NC BAC-NSEA Dual",
        "noRecord": false
       },
       {
@@ -859,10 +859,10 @@
       },
       {
        "event": "100 Breast",
-       "time": "1:09.43",
-       "date": "2021-02-05",
+       "time": "1:09.60",
+       "date": "2021-02-19",
        "holder": "Eppy Camacho",
-       "meet": "2021 NC OBS NCHSAA 4A East Regional",
+       "meet": "",
        "noRecord": false
       },
       {
@@ -1032,10 +1032,10 @@
       },
       {
        "event": "100 Fly",
-       "time": "57.64",
-       "date": "2024-02-02",
+       "time": "57.82",
+       "date": "2023-12-06",
        "holder": "Madi Joy",
-       "meet": "2024 NC 4A NCHSAA High School Regional East",
+       "meet": "2023 Speedo East Winter Junior Champs",
        "noRecord": false
       },
       {
@@ -1181,10 +1181,10 @@
       },
       {
        "event": "100 Fly",
-       "time": "57.64",
-       "date": "2024-02-02",
+       "time": "57.82",
+       "date": "2023-12-06",
        "holder": "Madi Joy",
-       "meet": "2024 NC 4A NCHSAA High School Regional East",
+       "meet": "2023 Speedo East Winter Junior Champs",
        "noRecord": false
       },
       {
@@ -2184,10 +2184,10 @@
       },
       {
        "event": "200 Free",
-       "time": "1:37.57",
-       "date": "2025-02-06",
+       "time": "1:38.47",
+       "date": "2024-12-20",
        "holder": "Clem Camacho",
-       "meet": "2025 NC NCHSAA 4A State Championship",
+       "meet": "Triad Tropic Invitational",
        "noRecord": false
       },
       {
@@ -2216,10 +2216,10 @@
       },
       {
        "event": "50 Back",
-       "time": "22.50",
-       "date": "2024-02-02",
+       "time": "22.57",
+       "date": "2024-02-23",
        "holder": "Cole Witmer",
-       "meet": "2024 NC 4A NCHSAA High School Regional East",
+       "meet": "",
        "noRecord": false
       },
       {
@@ -2272,10 +2272,10 @@
       },
       {
        "event": "100 Fly",
-       "time": "47.78",
-       "date": "2025-02-06",
+       "time": "48.47",
+       "date": "2024-12-04",
        "holder": "Clem Camacho",
-       "meet": "2025 NC NCHSAA 4A State Championship",
+       "meet": "2024 Toyota US Open Championships",
        "noRecord": false
       },
       {
@@ -2333,10 +2333,10 @@
       },
       {
        "event": "200 Free",
-       "time": "1:37.57",
-       "date": "2025-02-06",
+       "time": "1:38.47",
+       "date": "2024-12-20",
        "holder": "Clem Camacho",
-       "meet": "2025 NC NCHSAA 4A State Championship",
+       "meet": "Triad Tropic Invitational",
        "noRecord": false
       },
       {
@@ -2365,10 +2365,10 @@
       },
       {
        "event": "50 Back",
-       "time": "22.50",
-       "date": "2024-02-02",
+       "time": "22.57",
+       "date": "2024-02-23",
        "holder": "Cole Witmer",
-       "meet": "2024 NC 4A NCHSAA High School Regional East",
+       "meet": "",
        "noRecord": false
       },
       {
@@ -2421,10 +2421,10 @@
       },
       {
        "event": "100 Fly",
-       "time": "47.78",
-       "date": "2025-02-06",
+       "time": "48.47",
+       "date": "2024-12-04",
        "holder": "Clem Camacho",
-       "meet": "2025 NC NCHSAA 4A State Championship",
+       "meet": "2024 Toyota US Open Championships",
        "noRecord": false
       },
       {
