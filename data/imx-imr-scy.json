@@ -282,34 +282,14 @@
      "meet": "2026 Fall Frenzy BAC v NSEA Dual Meet"
     },
     "50 Back": {
-     "time": "38.65",
-     "date": "2026-10-30",
-     "meet": "2026 NC BAC Halloween Bash"
+     "time": "40.13",
+     "date": "2026-09-18",
+     "meet": "2026 Fall Frenzy BAC v NSEA Dual Meet"
     },
     "50 Free": {
-     "time": "33.44",
-     "date": "2026-10-30",
-     "meet": "2026 NC BAC Halloween Bash"
-    },
-    "100 Back": {
-     "time": "1:25.67",
-     "date": "2026-10-30",
-     "meet": "2026 NC BAC Halloween Bash"
-    },
-    "100 Free": {
-     "time": "1:13.44",
-     "date": "2026-10-30",
-     "meet": "2026 NC BAC Halloween Bash"
-    },
-    "100 IM": {
-     "time": "1:23.84",
-     "date": "2026-10-30",
-     "meet": "2026 NC BAC Halloween Bash"
-    },
-    "200 Free": {
-     "time": "2:40.43",
-     "date": "2026-10-30",
-     "meet": "2026 NC BAC Halloween Bash"
+     "time": "33.75",
+     "date": "2026-10-09",
+     "meet": "2026 NSEA Swim October Suprise"
     }
    }
   },
@@ -2319,6 +2299,44 @@
     },
     "500 Free": {
      "time": "6:10.59",
+     "date": "2026-10-30",
+     "meet": "2026 NC BAC Halloween Bash"
+    }
+   }
+  },
+  {
+   "name": "Lilly Braton",
+   "gender": "Female",
+   "age": 13,
+   "bracket": "13-18",
+   "swims": {
+    "100 Back": {
+     "time": "1:25.67",
+     "date": "2026-10-30",
+     "meet": "2026 NC BAC Halloween Bash"
+    },
+    "100 Free": {
+     "time": "1:13.44",
+     "date": "2026-10-30",
+     "meet": "2026 NC BAC Halloween Bash"
+    },
+    "100 IM": {
+     "time": "1:23.84",
+     "date": "2026-10-30",
+     "meet": "2026 NC BAC Halloween Bash"
+    },
+    "200 Free": {
+     "time": "2:40.43",
+     "date": "2026-10-30",
+     "meet": "2026 NC BAC Halloween Bash"
+    },
+    "50 Back": {
+     "time": "38.65",
+     "date": "2026-10-30",
+     "meet": "2026 NC BAC Halloween Bash"
+    },
+    "50 Free": {
+     "time": "33.44",
      "date": "2026-10-30",
      "meet": "2026 NC BAC Halloween Bash"
     }
