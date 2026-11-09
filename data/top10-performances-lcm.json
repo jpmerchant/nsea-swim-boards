@@ -7826,6 +7826,15 @@
           },
           {
             "rank": 3,
+            "time": "28.00",
+            "first": "Cole",
+            "last": "Witmer",
+            "age": 16,
+            "meet": "2023 NC Carolina Crown Swim Challenge",
+            "date": "2023-04-16"
+          },
+          {
+            "rank": 4,
             "time": "29.42",
             "first": "Bryson",
             "last": "Edwards",
@@ -7834,7 +7843,7 @@
             "date": "2024-04-27"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "time": "30.06",
             "first": "Cole",
             "last": "Witmer",
@@ -7843,7 +7852,7 @@
             "date": "2022-04-30"
           },
           {
-            "rank": 5,
+            "rank": 6,
             "time": "34.42",
             "first": "Noah",
             "last": "McNeill",
@@ -7852,7 +7861,7 @@
             "date": "2024-04-27"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "time": "34.98",
             "first": "Bryan",
             "last": "Blair",
@@ -7861,7 +7870,7 @@
             "date": "2025-06-21"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "time": "35.12",
             "first": "JP",
             "last": "Summers",
@@ -7870,7 +7879,7 @@
             "date": "2024-04-27"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "37.97",
             "first": "Sebastian",
             "last": "Ventura",
@@ -7879,7 +7888,7 @@
             "date": "2026-06-19"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "39.43",
             "first": "Court",
             "last": "Yarnoz",
@@ -8239,21 +8248,21 @@
           },
           {
             "rank": 9,
+            "time": "1:00.42",
+            "first": "Cole",
+            "last": "Witmer",
+            "age": 16,
+            "meet": "2023 NC Carolina Crown Swim Challenge",
+            "date": "2023-04-16"
+          },
+          {
+            "rank": 10,
             "time": "1:01.64",
             "first": "Cole",
             "last": "Witmer",
             "age": 15,
             "meet": "2022 NC TEAM Collegiate Series",
             "date": "2022-06-12"
-          },
-          {
-            "rank": 10,
-            "time": "1:03.78",
-            "first": "Bryson",
-            "last": "Edwards",
-            "age": 16,
-            "meet": "2024 NC WAVE Sprint into Long Course",
-            "date": "2024-04-27"
           }
         ],
         "100 Breast": [
@@ -8562,6 +8571,15 @@
           },
           {
             "rank": 4,
+            "time": "2:16.03",
+            "first": "Cole",
+            "last": "Witmer",
+            "age": 16,
+            "meet": "2023 NC Carolina Crown Swim Challenge",
+            "date": "2023-04-16"
+          },
+          {
+            "rank": 5,
             "time": "2:20.26",
             "first": "Bryson",
             "last": "Edwards",
@@ -8570,7 +8588,7 @@
             "date": "2024-06-14"
           },
           {
-            "rank": 5,
+            "rank": 6,
             "time": "2:20.36",
             "first": "Bryson",
             "last": "Edwards",
@@ -8579,7 +8597,7 @@
             "date": "2024-07-21"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "time": "2:26.52",
             "first": "Bryson",
             "last": "Edwards",
@@ -8588,7 +8606,7 @@
             "date": "2024-06-14"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "time": "2:26.60",
             "first": "Bryson",
             "last": "Edwards",
@@ -8597,7 +8615,7 @@
             "date": "2024-06-01"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "2:31.88",
             "first": "Bryson",
             "last": "Edwards",
@@ -8606,22 +8624,13 @@
             "date": "2023-05-21"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "2:36.72",
             "first": "Ryker",
             "last": "Eder",
             "age": 15,
             "meet": "2023 NC SFSC May Memorial Long Course Invitational",
             "date": "2023-05-21"
-          },
-          {
-            "rank": 10,
-            "time": "2:38.21",
-            "first": "Alex",
-            "last": "Hill",
-            "age": 16,
-            "meet": "2021 NC TAC TITANS Triangle Cl",
-            "date": "2021-06-13"
           }
         ],
         "200 Breast": [
@@ -10122,6 +10131,15 @@
           },
           {
             "rank": 5,
+            "time": "24.81",
+            "first": "Clem",
+            "last": "Camacho",
+            "age": 17,
+            "meet": "10th Annual Carolina Crown 202",
+            "date": "2025-04-13"
+          },
+          {
+            "rank": 6,
             "time": "24.83",
             "first": "Laith",
             "last": "Ausband",
@@ -10130,7 +10148,7 @@
             "date": "2024-07-20"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "time": "24.86",
             "first": "Cole",
             "last": "Witmer",
@@ -10139,7 +10157,7 @@
             "date": "2023-08-01"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "time": "24.97",
             "first": "Clem",
             "last": "Camacho",
@@ -10148,7 +10166,7 @@
             "date": "2025-05-15"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "25.05",
             "first": "Laith",
             "last": "Ausband",
@@ -10157,22 +10175,13 @@
             "date": "2024-06-22"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "25.15",
             "first": "Laith",
             "last": "Ausband",
             "age": 18,
             "meet": "2025 NC NCS LC Senior Championships",
             "date": "2025-07-12"
-          },
-          {
-            "rank": 10,
-            "time": "25.35",
-            "first": "Laith",
-            "last": "Ausband",
-            "age": 18,
-            "meet": "2025 SC GAME Summer Classic",
-            "date": "2025-06-12"
           }
         ],
         "50 Back": [
@@ -12829,12 +12838,12 @@
           },
           {
             "rank": 10,
-            "time": "24.82",
-            "first": "Behr",
-            "last": "Petroff",
-            "age": 16,
-            "meet": "2026 NC MAC Martha McKee Open",
-            "date": "2026-05-14"
+            "time": "24.81",
+            "first": "Clem",
+            "last": "Camacho",
+            "age": 17,
+            "meet": "10th Annual Carolina Crown 202",
+            "date": "2025-04-13"
           }
         ],
         "50 Back": [
@@ -12894,6 +12903,15 @@
           },
           {
             "rank": 7,
+            "time": "28.00",
+            "first": "Cole",
+            "last": "Witmer",
+            "age": 16,
+            "meet": "2023 NC Carolina Crown Swim Challenge",
+            "date": "2023-04-16"
+          },
+          {
+            "rank": 8,
             "time": "28.04",
             "first": "Bryson",
             "last": "Edwards",
@@ -12902,7 +12920,7 @@
             "date": "2026-06-19"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "28.44",
             "first": "Bryson",
             "last": "Edwards",
@@ -12911,22 +12929,13 @@
             "date": "2025-07-25"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "28.53",
             "first": "Bryson",
             "last": "Edwards",
             "age": 18,
             "meet": "2026 NC MAC Martha McKee Open",
             "date": "2026-05-14"
-          },
-          {
-            "rank": 10,
-            "time": "28.60",
-            "first": "Bryson",
-            "last": "Edwards",
-            "age": 18,
-            "meet": "2026 NC NCS LC Senior Championships",
-            "date": "2026-07-11"
           }
         ],
         "50 Breast": [
@@ -15671,12 +15680,12 @@
           },
           {
             "rank": 10,
-            "time": "24.82",
-            "first": "Behr",
-            "last": "Petroff",
-            "age": 16,
-            "meet": "2026 NC MAC Martha McKee Open",
-            "date": "2026-05-14"
+            "time": "24.81",
+            "first": "Clem",
+            "last": "Camacho",
+            "age": 17,
+            "meet": "10th Annual Carolina Crown 202",
+            "date": "2025-04-13"
           }
         ],
         "50 Back": [
@@ -15736,6 +15745,15 @@
           },
           {
             "rank": 7,
+            "time": "28.00",
+            "first": "Cole",
+            "last": "Witmer",
+            "age": 16,
+            "meet": "2023 NC Carolina Crown Swim Challenge",
+            "date": "2023-04-16"
+          },
+          {
+            "rank": 8,
             "time": "28.04",
             "first": "Bryson",
             "last": "Edwards",
@@ -15744,7 +15762,7 @@
             "date": "2026-06-19"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "28.44",
             "first": "Bryson",
             "last": "Edwards",
@@ -15753,22 +15771,13 @@
             "date": "2025-07-25"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "28.53",
             "first": "Bryson",
             "last": "Edwards",
             "age": 18,
             "meet": "2026 NC MAC Martha McKee Open",
             "date": "2026-05-14"
-          },
-          {
-            "rank": 10,
-            "time": "28.60",
-            "first": "Bryson",
-            "last": "Edwards",
-            "age": 18,
-            "meet": "2026 NC NCS LC Senior Championships",
-            "date": "2026-07-11"
           }
         ],
         "50 Breast": [
