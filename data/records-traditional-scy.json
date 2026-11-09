@@ -3,8 +3,8 @@
  "cutoff_label": "9/1/2026",
  "cutoff_end_iso": "2027-08-31",
  "cutoff_end_label": "8/31/2027",
- "season_label": "2026\u201327",
- "footer": "NSEA Swim \u00b7 Team Records \u00b7 Short Course Yards",
+ "season_label": "2026–27",
+ "footer": "NSEA Swim · Team Records · Short Course Yards",
  "disclaimer": "This board reflects the official SCY (yards) team records on file and may not capture every historical swim. If you notice a missing or incorrect entry, let a coach know so we can update the records. Team records do not include swims by unattached (UN) swimmers or swims at high school meets; those swims appear on the Top 10 lists only.",
  "genders": {
   "Female": {
@@ -14,10 +14,10 @@
      "events": [
       {
        "event": "25 Free",
-       "time": "18.45",
-       "date": "2023-01-14",
-       "holder": "Lexi Williams",
-       "meet": "2023 NC BAC Battle at the Beach",
+       "time": "15.80",
+       "date": "2020-01-26",
+       "holder": "Gentry Witmer",
+       "meet": "2020 NC BAC Battle at the Beac",
        "noRecord": false
       },
       {
@@ -58,10 +58,10 @@
       },
       {
        "event": "25 Back",
-       "time": "20.67",
-       "date": "2023-01-14",
-       "holder": "Lexi Williams",
-       "meet": "2023 NC BAC Battle at the Beach",
+       "time": "17.68",
+       "date": "2021-01-30",
+       "holder": "Gentry Witmer",
+       "meet": "2021 NC BAC Battle at the Beac",
        "noRecord": false
       },
       {
@@ -86,10 +86,10 @@
       },
       {
        "event": "25 Breast",
-       "time": "26.06",
-       "date": "2024-01-14",
-       "holder": "Avery Williams",
-       "meet": "2024 NC BAC Battle at the Beach",
+       "time": "21.70",
+       "date": "2021-01-30",
+       "holder": "Gentry Witmer",
+       "meet": "2021 NC BAC Battle at the Beac",
        "noRecord": false
       },
       {
@@ -114,10 +114,10 @@
       },
       {
        "event": "25 Fly",
-       "time": "25.61",
-       "date": "2022-09-24",
-       "holder": "Lexi Williams",
-       "meet": "2022 NC BAC-NSEA Dual",
+       "time": "17.14",
+       "date": "2020-01-26",
+       "holder": "Gentry Witmer",
+       "meet": "2020 NC BAC Battle at the Beac",
        "noRecord": false
       },
       {
@@ -372,10 +372,10 @@
       },
       {
        "event": "25 Back",
-       "time": "18.79",
-       "date": "2023-09-24",
-       "holder": "Eliza Amin",
-       "meet": "2023 NC BAC vs NSEA Dual",
+       "time": "17.68",
+       "date": "2021-01-30",
+       "holder": "Gentry Witmer",
+       "meet": "2021 NC BAC Battle at the Beac",
        "noRecord": false
       },
       {
@@ -883,10 +883,10 @@
       },
       {
        "event": "100 Fly",
-       "time": "58.45",
-       "date": "2023-03-09",
-       "holder": "Abby Forbes",
-       "meet": "2023 Speedo ESSZ Spring SC Championships",
+       "time": "58.43",
+       "date": "2022-03-11",
+       "holder": "Madi Joy",
+       "meet": "2022 Speedo ESSZ Spring SC Cha",
        "noRecord": false
       },
       {
@@ -907,10 +907,10 @@
       },
       {
        "event": "200 IM",
-       "time": "2:15.87",
-       "date": "2023-01-13",
+       "time": "2:14.41",
+       "date": "2022-02-13",
        "holder": "Madi Joy",
-       "meet": "2023 BAC Battle at the Beach",
+       "meet": "2022 NC BAC CUPID QUALIFIER",
        "noRecord": false
       },
       {
