@@ -3,8 +3,8 @@
   "cutoff_label": "9/1/2026",
   "cutoff_end_iso": "2027-08-31",
   "cutoff_end_label": "8/31/2027",
-  "season_label": "2026\u201327",
-  "footer": "NSEA Swim \u00b7 Team Records \u00b7 Long Course Meters",
+  "season_label": "2026–27",
+  "footer": "NSEA Swim · Team Records · Long Course Meters",
   "disclaimer": "This board reflects the official LCM (meters) team records on file and may not capture every historical swim. If you notice a missing or incorrect entry, let a coach know so we can update the records.",
   "genders": {
     "Female": {
@@ -127,18 +127,18 @@
           "events": [
             {
               "event": "50 Free",
-              "time": "30.91",
-              "date": "2021-06-11",
-              "holder": "Gentry Witmer",
-              "meet": "",
+              "time": "30.26",
+              "date": "2019-07-07",
+              "holder": "Keener Witmer",
+              "meet": "2019 NC TAC TITANS July Qualif",
               "noRecord": false
             },
             {
               "event": "100 Free",
-              "time": "1:09.37",
-              "date": "2019-06-21",
-              "holder": "Abby Forbes",
-              "meet": "NC YSST 13th Annual Bob Pratt",
+              "time": "1:09.11",
+              "date": "2019-07-07",
+              "holder": "Keener Witmer",
+              "meet": "2019 NC TAC TITANS July Qualif",
               "noRecord": false
             },
             {
@@ -151,10 +151,10 @@
             },
             {
               "event": "400 Free",
-              "time": "5:17.72",
-              "date": "2019-06-21",
+              "time": "5:02.51",
+              "date": "2019-07-12",
               "holder": "Abby Forbes",
-              "meet": "NC YSST 13th Annual Bob Pratt",
+              "meet": "2019 NC LC AG Championships",
               "noRecord": false
             },
             {
@@ -163,7 +163,11 @@
             },
             {
               "event": "1500 Free",
-              "noRecord": true
+              "noRecord": false,
+              "time": "21:28.09",
+              "date": "2019-06-21",
+              "holder": "Abby Forbes",
+              "meet": "NC YSST 13th Annual  Bob Pratt"
             },
             {
               "event": "50 Back",
@@ -215,34 +219,34 @@
             },
             {
               "event": "50 Fly",
-              "time": "34.03",
-              "date": "2021-06-11",
-              "holder": "Eliza Amin",
-              "meet": "",
+              "time": "32.83",
+              "date": "2019-07-07",
+              "holder": "Abby Forbes",
+              "meet": "2019 NC TAC TITANS July Qualif",
               "noRecord": false
             },
             {
               "event": "100 Fly",
-              "time": "1:18.86",
-              "date": "2021-06-11",
-              "holder": "Gentry Witmer",
-              "meet": "",
+              "time": "1:13.20",
+              "date": "2019-07-12",
+              "holder": "Abby Forbes",
+              "meet": "2019 NC LC AG Championships",
               "noRecord": false
             },
             {
               "event": "200 Fly",
-              "time": "3:01.09",
-              "date": "2019-06-21",
+              "time": "2:39.94",
+              "date": "2019-07-13",
               "holder": "Abby Forbes",
-              "meet": "NC YSST 13th Annual Bob Pratt",
+              "meet": "2019 NC LC AG Championships",
               "noRecord": false
             },
             {
               "event": "200 IM",
-              "time": "2:55.07",
-              "date": "2021-06-11",
-              "holder": "Eliza Amin",
-              "meet": "",
+              "time": "2:51.71",
+              "date": "2019-07-26",
+              "holder": "Abby Forbes",
+              "meet": "NC HPSC Tar Heel States",
               "noRecord": false
             },
             {
@@ -473,10 +477,10 @@
             },
             {
               "event": "50 Breast",
-              "time": "38.11",
-              "date": "2025-04-26",
+              "time": "36.92",
+              "date": "2025-06-22",
               "holder": "Sophie Wert",
-              "meet": "2025 RSA Warm Up to Long Course Invitational",
+              "meet": "2025 GCST MARK MCCAW SUMMER",
               "noRecord": false
             },
             {
@@ -489,10 +493,10 @@
             },
             {
               "event": "200 Breast",
-              "time": "3:02.59",
-              "date": "2025-07-10",
+              "time": "2:59.25",
+              "date": "2025-06-21",
               "holder": "Sophie Wert",
-              "meet": "2025 NC LC SR Championships",
+              "meet": "2025 GCST MARK MCCAW SUMMER",
               "noRecord": false
             },
             {
@@ -646,10 +650,10 @@
             },
             {
               "event": "200 Fly",
-              "time": "3:00.30",
-              "date": "2024-05-31",
-              "holder": "Abby Forbes",
-              "meet": "2024 STAR Andrew E Hartle Invitational",
+              "time": "2:42.75",
+              "date": "2025-06-22",
+              "holder": "Camren Grace Reaves",
+              "meet": "2025 GCST MARK MCCAW SUMMER",
               "noRecord": false
             },
             {
@@ -990,7 +994,11 @@
             },
             {
               "event": "200 Back",
-              "noRecord": true
+              "noRecord": false,
+              "time": "2:36.49",
+              "date": "2019-07-12",
+              "holder": "Cole Witmer",
+              "meet": "2019 NC LC AG Championships"
             },
             {
               "event": "50 Breast",
@@ -1038,10 +1046,10 @@
             },
             {
               "event": "200 IM",
-              "time": "2:56.68",
-              "date": "2022-06-18",
-              "holder": "Hance Mayo",
-              "meet": "2022 MOR Liberty Meet",
+              "time": "2:54.71",
+              "date": "2019-07-26",
+              "holder": "Cole Witmer",
+              "meet": "2019 NC HPSC Tar Heel States",
               "noRecord": false
             },
             {
@@ -1494,10 +1502,10 @@
             },
             {
               "event": "50 Back",
-              "time": "26.69",
+              "time": "26.61",
               "date": "2024-05-16",
               "holder": "Cole Witmer",
-              "meet": "2024 Charlotte Open",
+              "meet": "2024 Charlotte Open-Semi",
               "noRecord": false
             },
             {
