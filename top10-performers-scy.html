@@ -209,7 +209,6 @@ function eventRowHtml(r){
     <td>${r.age}</td>
     <td class="meet">${r.meet}</td>
     <td class="date">${r.date}</td>
-    <td>${r.points ?? ''}</td>
   </tr>`;
 }
 
@@ -231,7 +230,7 @@ function renderEventTables(){
         </div>
         <div class="table-scroll"><table>
           <thead>
-            <tr><th>Rank</th><th>Time</th><th>Name</th><th>Age</th><th>Meet</th><th>Date</th><th>Power Points</th></tr>
+            <tr><th>Rank</th><th>Time</th><th>Name</th><th>Age</th><th>Meet</th><th>Date</th></tr>
           </thead>
           <tbody>${rows.map(r => eventRowHtml(r)).join('')}</tbody>
         </table></div>
