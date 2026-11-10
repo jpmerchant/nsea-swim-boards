@@ -8893,6 +8893,15 @@
      },
      {
       "rank": 7,
+      "time": "3:00.12",
+      "first": "Mikayla",
+      "last": "Coleman",
+      "age": 12,
+      "meet": "2025 NC WOW v NSEA Last Chance Dual",
+      "date": "2025-02-01"
+     },
+     {
+      "rank": 8,
       "time": "3:02.88",
       "first": "Elliana",
       "last": "Henderson",
@@ -8901,7 +8910,7 @@
       "date": "2025-02-01"
      },
      {
-      "rank": 8,
+      "rank": 9,
       "time": "3:18.68",
       "first": "Lilly",
       "last": "Braton",
@@ -8910,7 +8919,7 @@
       "date": "2025-11-07"
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "3:25.82",
       "first": "Mila",
       "last": "Yarnoz",
@@ -18692,6 +18701,15 @@
      },
      {
       "rank": 4,
+      "time": "30.29",
+      "first": "Will",
+      "last": "House",
+      "age": 17,
+      "meet": "2025 NC BAC vs NSEA Dual",
+      "date": "2025-09-20"
+     },
+     {
+      "rank": 5,
       "time": "30.87",
       "first": "Laith",
       "last": "Ausband",
@@ -18700,7 +18718,7 @@
       "date": "2024-09-28"
      },
      {
-      "rank": 5,
+      "rank": 6,
       "time": "41.31",
       "first": "Corbin",
       "last": "Bishop",
@@ -18748,6 +18766,15 @@
      },
      {
       "rank": 5,
+      "time": "26.12",
+      "first": "Will",
+      "last": "House",
+      "age": 17,
+      "meet": "2025 NC BAC vs NSEA Dual",
+      "date": "2025-09-20"
+     },
+     {
+      "rank": 6,
       "time": "41.25",
       "first": "Corbin",
       "last": "Bishop",
@@ -19172,6 +19199,15 @@
      },
      {
       "rank": 6,
+      "time": "58.08",
+      "first": "Will",
+      "last": "House",
+      "age": 17,
+      "meet": "2025 NC BAC vs NSEA Dual",
+      "date": "2025-09-20"
+     },
+     {
+      "rank": 7,
       "time": "59.66",
       "first": "Behr",
       "last": "Petroff",
@@ -22494,6 +22530,15 @@
      },
      {
       "rank": 5,
+      "time": "30.29",
+      "first": "Will",
+      "last": "House",
+      "age": 17,
+      "meet": "2025 NC BAC vs NSEA Dual",
+      "date": "2025-09-20"
+     },
+     {
+      "rank": 6,
       "time": "30.67",
       "first": "Hance",
       "last": "Mayo",
@@ -22502,7 +22547,7 @@
       "date": "2025-09-20"
      },
      {
-      "rank": 6,
+      "rank": 7,
       "time": "30.76",
       "first": "Behr",
       "last": "Petroff",
@@ -22511,7 +22556,7 @@
       "date": "2024-09-28"
      },
      {
-      "rank": 7,
+      "rank": 8,
       "time": "30.87",
       "first": "Laith",
       "last": "Ausband",
@@ -22520,7 +22565,7 @@
       "date": "2024-09-28"
      },
      {
-      "rank": 8,
+      "rank": 9,
       "time": "31.03",
       "first": "Cole",
       "last": "Witmer",
@@ -22529,20 +22574,11 @@
       "date": "2022-09-24"
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "31.42",
       "first": "Bryson",
       "last": "Edwards",
       "age": 16,
-      "meet": "2024 NC BAC v NSEA Dual Meet",
-      "date": "2024-09-28"
-     },
-     {
-      "rank": 10,
-      "time": "31.77",
-      "first": "Hance",
-      "last": "Mayo",
-      "age": 14,
       "meet": "2024 NC BAC v NSEA Dual Meet",
       "date": "2024-09-28"
      }
