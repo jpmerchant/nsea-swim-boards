@@ -1615,6 +1615,15 @@
           },
           {
             "rank": 3,
+            "time": "30.87",
+            "first": "Keener",
+            "last": "Witmer",
+            "age": 12,
+            "meet": "2019 SC Schools Out Summer Cel",
+            "date": "2019-06-02"
+          },
+          {
+            "rank": 4,
             "time": "30.91",
             "first": "Gentry",
             "last": "Witmer",
@@ -1623,7 +1632,7 @@
             "date": "2024-04-28"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "time": "30.94",
             "first": "Keener",
             "last": "Witmer",
@@ -1632,7 +1641,7 @@
             "date": "2019-07-12"
           },
           {
-            "rank": 5,
+            "rank": 6,
             "time": "31.04",
             "first": "Keener",
             "last": "Witmer",
@@ -1641,7 +1650,7 @@
             "date": "2019-07-27"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "time": "31.11",
             "first": "Keener",
             "last": "Witmer",
@@ -1650,7 +1659,7 @@
             "date": "2019-06-22"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "time": "31.12",
             "first": "Keener",
             "last": "Witmer",
@@ -1659,7 +1668,7 @@
             "date": "2019-07-27"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "31.20",
             "first": "Piper",
             "last": "Cockman",
@@ -1668,22 +1677,13 @@
             "date": "2024-06-01"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "31.42",
             "first": "Eliza",
             "last": "Amin",
             "age": 12,
             "meet": "2025 NC MOR Liberty Meet",
             "date": "2025-06-15"
-          },
-          {
-            "rank": 10,
-            "time": "31.45",
-            "first": "Violet",
-            "last": "Derry",
-            "age": 12,
-            "meet": "2021 NC TAC TITANS July Qualifier",
-            "date": "2021-07-11"
           }
         ],
         "50 Back": [
@@ -1918,6 +1918,15 @@
           },
           {
             "rank": 6,
+            "time": "34.62",
+            "first": "Abby",
+            "last": "Forbes",
+            "age": 12,
+            "meet": "2019 SC Schools Out Summer Cel",
+            "date": "2019-06-02"
+          },
+          {
+            "rank": 7,
             "time": "34.65",
             "first": "Eliza",
             "last": "Amin",
@@ -1926,7 +1935,7 @@
             "date": "2025-04-26"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "time": "34.96",
             "first": "Eliza",
             "last": "Amin",
@@ -1935,7 +1944,7 @@
             "date": "2024-06-01"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "35.30",
             "first": "Eliza",
             "last": "Amin",
@@ -1944,22 +1953,13 @@
             "date": "2024-04-27"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "35.49",
             "first": "Keener",
             "last": "Witmer",
             "age": 12,
             "meet": "2019 NC TAC TITANS July Qualif",
             "date": "2019-07-07"
-          },
-          {
-            "rank": 10,
-            "time": "35.63",
-            "first": "Annderson",
-            "last": "Petroff",
-            "age": 11,
-            "meet": "2024 NC GOLD Summer Splash Spectacular",
-            "date": "2024-06-22"
           }
         ],
         "100 Free": [
@@ -2019,6 +2019,15 @@
           },
           {
             "rank": 7,
+            "time": "1:10.41",
+            "first": "Keener",
+            "last": "Witmer",
+            "age": 12,
+            "meet": "2019 SC Schools Out Summer Cel",
+            "date": "2019-06-01"
+          },
+          {
+            "rank": 8,
             "time": "1:10.56",
             "first": "Keener",
             "last": "Witmer",
@@ -2027,31 +2036,22 @@
             "date": "2019-07-26"
           },
           {
-            "rank": 8,
+            "rank": 9,
+            "time": "1:10.88",
+            "first": "Abby",
+            "last": "Forbes",
+            "age": 12,
+            "meet": "2019 SC Schools Out Summer Cel",
+            "date": "2019-06-01"
+          },
+          {
+            "rank": 10,
             "time": "1:11.11",
             "first": "Violet",
             "last": "Derry",
             "age": 12,
             "meet": "2021 NC TAC TITANS July Qualifier",
             "date": "2021-07-11"
-          },
-          {
-            "rank": 9,
-            "time": "1:11.23",
-            "first": "Keener",
-            "last": "Witmer",
-            "age": 12,
-            "meet": "2019 NC HPSC Tar Heel States",
-            "date": "2019-07-26"
-          },
-          {
-            "rank": 10,
-            "time": "1:11.37",
-            "first": "Keener",
-            "last": "Witmer",
-            "age": 12,
-            "meet": "2019 NC NC YSST Bob Pratt Invite",
-            "date": "2019-06-23"
           }
         ],
         "100 Back": [
@@ -2112,6 +2112,15 @@
           {
             "rank": 7,
             "time": "1:26.78",
+            "first": "Keener",
+            "last": "Witmer",
+            "age": 12,
+            "meet": "2019 SC Schools Out Summer Cel",
+            "date": "2019-06-01"
+          },
+          {
+            "rank": 8,
+            "time": "1:26.78",
             "first": "Sophie",
             "last": "Wert",
             "age": 12,
@@ -2119,7 +2128,7 @@
             "date": "2021-05-23"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "1:28.28",
             "first": "Eliza",
             "last": "Amin",
@@ -2128,22 +2137,13 @@
             "date": "2024-04-28"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "1:28.46",
             "first": "Emmie",
             "last": "Backman",
             "age": 12,
             "meet": "2019 NC NC YSST Bob Pratt Invite",
             "date": "2019-06-22"
-          },
-          {
-            "rank": 10,
-            "time": "1:29.10",
-            "first": "Annderson",
-            "last": "Petroff",
-            "age": 11,
-            "meet": "2024 NC WAVE Sprint into Long Course",
-            "date": "2024-04-28"
           }
         ],
         "100 Breast": [
@@ -2322,12 +2322,12 @@
           },
           {
             "rank": 10,
-            "time": "1:27.90",
-            "first": "Violet",
-            "last": "Derry",
+            "time": "1:27.29",
+            "first": "Abby",
+            "last": "Forbes",
             "age": 12,
-            "meet": "2021 NC STAR Spring Splash",
-            "date": "2021-05-22"
+            "meet": "2019 SC Schools Out Summer Cel",
+            "date": "2019-06-01"
           }
         ],
         "200 Free": [
@@ -2351,6 +2351,15 @@
           },
           {
             "rank": 3,
+            "time": "2:32.64",
+            "first": "Abby",
+            "last": "Forbes",
+            "age": 12,
+            "meet": "2019 SC Schools Out Summer Cel",
+            "date": "2019-06-02"
+          },
+          {
+            "rank": 4,
             "time": "2:38.34",
             "first": "Keener",
             "last": "Witmer",
@@ -2359,7 +2368,7 @@
             "date": "2019-07-27"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "time": "2:42.17",
             "first": "Keener",
             "last": "Witmer",
@@ -2368,7 +2377,7 @@
             "date": "2019-07-27"
           },
           {
-            "rank": 5,
+            "rank": 6,
             "time": "2:43.00",
             "first": "Keener",
             "last": "Witmer",
@@ -2377,7 +2386,7 @@
             "date": "2019-06-22"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "time": "2:44.16",
             "first": "Emmie",
             "last": "Backman",
@@ -2386,7 +2395,16 @@
             "date": "2019-06-22"
           },
           {
-            "rank": 7,
+            "rank": 8,
+            "time": "2:44.98",
+            "first": "Keener",
+            "last": "Witmer",
+            "age": 12,
+            "meet": "2019 SC Schools Out Summer Cel",
+            "date": "2019-06-02"
+          },
+          {
+            "rank": 9,
             "time": "2:46.25",
             "first": "Violet",
             "last": "Derry",
@@ -2395,31 +2413,13 @@
             "date": "2021-05-23"
           },
           {
-            "rank": 8,
+            "rank": 10,
             "time": "2:47.13",
             "first": "Gentry",
             "last": "Witmer",
             "age": 11,
             "meet": "2023 NC SFSC May Memorial Long Course Invitational",
             "date": "2023-05-21"
-          },
-          {
-            "rank": 9,
-            "time": "2:48.27",
-            "first": "Eliza",
-            "last": "Amin",
-            "age": 12,
-            "meet": "2025 NC MOR Liberty Meet",
-            "date": "2025-06-15"
-          },
-          {
-            "rank": 10,
-            "time": "2:49.49",
-            "first": "Olivia",
-            "last": "Crowley",
-            "age": 12,
-            "meet": "2021 NC TAC TITANS Triangle Cl",
-            "date": "2021-06-12"
           }
         ],
         "200 Back": [
@@ -2451,6 +2451,24 @@
             "age": 12,
             "meet": "2019 NC HPSC Tar Heel States",
             "date": "2019-07-28"
+          },
+          {
+            "rank": 3,
+            "time": "3:57.95",
+            "first": "Emmie",
+            "last": "Backman",
+            "age": 12,
+            "meet": "2019 SC Schools Out Summer Cel",
+            "date": "2019-06-01"
+          },
+          {
+            "rank": 4,
+            "time": "4:01.76",
+            "first": "Sallie",
+            "last": "Brown",
+            "age": 11,
+            "meet": "2019 SC Schools Out Summer Cel",
+            "date": "2019-06-01"
           }
         ],
         "200 Fly": [
@@ -2474,6 +2492,15 @@
           },
           {
             "rank": 3,
+            "time": "2:58.84",
+            "first": "Abby",
+            "last": "Forbes",
+            "age": 12,
+            "meet": "2019 SC Schools Out Summer Cel",
+            "date": "2019-06-02"
+          },
+          {
+            "rank": 4,
             "time": "3:01.09",
             "first": "Abby",
             "last": "Forbes",
@@ -2657,6 +2684,15 @@
             "age": 12,
             "meet": "2024 NC LC Age Group Championships",
             "date": "2024-07-11"
+          },
+          {
+            "rank": 3,
+            "time": "6:29.86",
+            "first": "Abby",
+            "last": "Forbes",
+            "age": 12,
+            "meet": "2019 SC Schools Out Summer Cel",
+            "date": "2019-06-01"
           }
         ],
         "1500 Free": [
@@ -3541,6 +3577,15 @@
           },
           {
             "rank": 3,
+            "time": "3:43.86",
+            "first": "Ryker",
+            "last": "Eder",
+            "age": 11,
+            "meet": "2019 SC Schools Out Summer Cel",
+            "date": "2019-06-01"
+          },
+          {
+            "rank": 4,
             "time": "3:45.11",
             "first": "Ryker",
             "last": "Eder",
@@ -4319,12 +4364,12 @@
           },
           {
             "rank": 10,
-            "time": "1:31.01",
-            "first": "Gentry",
-            "last": "Witmer",
-            "age": 14,
-            "meet": "2026 SC Gamecock Aquatics Summer Classic",
-            "date": "2026-06-13"
+            "time": "1:30.80",
+            "first": "Eppy",
+            "last": "Camacho",
+            "age": 13,
+            "meet": "2019 SC Schools Out Summer Cel",
+            "date": "2019-06-01"
           }
         ],
         "100 Fly": [
@@ -4678,21 +4723,21 @@
           },
           {
             "rank": 9,
+            "time": "3:19.41",
+            "first": "Eppy",
+            "last": "Camacho",
+            "age": 13,
+            "meet": "2019 SC Schools Out Summer Cel",
+            "date": "2019-06-02"
+          },
+          {
+            "rank": 10,
             "time": "3:19.60",
             "first": "Sophie",
             "last": "Wert",
             "age": 14,
             "meet": "2023 NC SFSC May Memorial Long Course Invitational",
             "date": "2023-05-20"
-          },
-          {
-            "rank": 10,
-            "time": "3:19.65",
-            "first": "Violet",
-            "last": "Derry",
-            "age": 13,
-            "meet": "2022 NC MOR Liberty Meet",
-            "date": "2022-06-19"
           }
         ],
         "200 Fly": [
@@ -5826,21 +5871,21 @@
           },
           {
             "rank": 9,
+            "time": "2:37.91",
+            "first": "Alex",
+            "last": "Hill",
+            "age": 14,
+            "meet": "2019 SC Schools Out Summer Cel",
+            "date": "2019-06-02"
+          },
+          {
+            "rank": 10,
             "time": "2:39.16",
             "first": "Philip",
             "last": "Brown",
             "age": 14,
             "meet": "2019 NC NC YSST Bob Pratt Invite",
             "date": "2019-06-23"
-          },
-          {
-            "rank": 10,
-            "time": "2:45.69",
-            "first": "William",
-            "last": "Forbes",
-            "age": 14,
-            "meet": "2026 GCST MARK MCCAW SUMMER INVITE",
-            "date": "2026-06-19"
           }
         ],
         "200 Back": [
@@ -5918,18 +5963,18 @@
           },
           {
             "rank": 9,
-            "time": "3:12.38",
-            "first": "Gavin",
-            "last": "Derry",
-            "age": 13,
-            "meet": "2024 NC STAR Andrew Hartle Invite",
-            "date": "2024-06-01"
+            "time": "2:50.06",
+            "first": "Alex",
+            "last": "Hill",
+            "age": 14,
+            "meet": "2019 SC Schools Out Summer Cel",
+            "date": "2019-06-01"
           },
           {
             "rank": 10,
-            "time": "3:13.63",
-            "first": "Court",
-            "last": "Yarnoz",
+            "time": "3:12.38",
+            "first": "Gavin",
+            "last": "Derry",
             "age": 13,
             "meet": "2024 NC STAR Andrew Hartle Invite",
             "date": "2024-06-01"
@@ -6019,12 +6064,12 @@
           },
           {
             "rank": 10,
-            "time": "3:48.62",
-            "first": "Court",
-            "last": "Yarnoz",
+            "time": "3:25.46",
+            "first": "Philip",
+            "last": "Brown",
             "age": 13,
-            "meet": "2024 NC STAR Andrew Hartle Invite",
-            "date": "2024-06-01"
+            "meet": "2019 SC Schools Out Summer Cel",
+            "date": "2019-06-02"
           }
         ],
         "200 Fly": [
@@ -9120,6 +9165,15 @@
           },
           {
             "rank": 6,
+            "time": "31.71",
+            "first": "Madi",
+            "last": "Joy",
+            "age": 18,
+            "meet": "2024 CT MAC Spring Invite 2024",
+            "date": "2024-05-31"
+          },
+          {
+            "rank": 7,
             "time": "33.61",
             "first": "Sophie",
             "last": "Wert",
@@ -9128,7 +9182,7 @@
             "date": "2026-06-19"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "time": "34.39",
             "first": "Sophie",
             "last": "Wert",
@@ -9137,7 +9191,7 @@
             "date": "2026-04-25"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "34.47",
             "first": "Sophie",
             "last": "Wert",
@@ -9146,22 +9200,13 @@
             "date": "2026-06-19"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "36.51",
             "first": "Camren Grace",
             "last": "Reaves",
             "age": 17,
             "meet": "2025 GCST MARK MCCAW SUMMER",
             "date": "2025-06-21"
-          },
-          {
-            "rank": 10,
-            "time": "36.89",
-            "first": "Carson",
-            "last": "Major",
-            "age": 18,
-            "meet": "2024 NC WAVE Sprint into Long Course",
-            "date": "2024-04-27"
           }
         ],
         "50 Breast": [
@@ -9277,6 +9322,15 @@
           },
           {
             "rank": 5,
+            "time": "30.34",
+            "first": "Madi",
+            "last": "Joy",
+            "age": 18,
+            "meet": "2024 CT MAC Spring Invite 2024",
+            "date": "2024-05-31"
+          },
+          {
+            "rank": 6,
             "time": "31.43",
             "first": "Camren Grace",
             "last": "Reaves",
@@ -9285,7 +9339,7 @@
             "date": "2026-07-10"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "time": "31.72",
             "first": "Sophie",
             "last": "Wert",
@@ -9294,7 +9348,7 @@
             "date": "2026-06-19"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "time": "31.81",
             "first": "Sophie",
             "last": "Wert",
@@ -9303,7 +9357,7 @@
             "date": "2026-06-19"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "32.61",
             "first": "Carson",
             "last": "Major",
@@ -9312,22 +9366,13 @@
             "date": "2024-04-27"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "33.18",
             "first": "Sophie",
             "last": "Wert",
             "age": 17,
             "meet": "2026 NC WAVE Sprint into LC",
             "date": "2026-04-25"
-          },
-          {
-            "rank": 10,
-            "time": "33.46",
-            "first": "Violet",
-            "last": "Derry",
-            "age": 17,
-            "meet": "2026 NC NCS LC Senior Championships",
-            "date": "2026-07-10"
           }
         ],
         "100 Free": [
@@ -9997,6 +10042,15 @@
           },
           {
             "rank": 6,
+            "time": "2:36.91",
+            "first": "Madi",
+            "last": "Joy",
+            "age": 18,
+            "meet": "2024 CT MAC Spring Invite 2024",
+            "date": "2024-06-01"
+          },
+          {
+            "rank": 7,
             "time": "2:42.54",
             "first": "Sophie",
             "last": "Wert",
@@ -10005,7 +10059,7 @@
             "date": "2026-06-12"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "time": "2:47.62",
             "first": "Camren Grace",
             "last": "Reaves",
@@ -10014,7 +10068,7 @@
             "date": "2025-06-22"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "2:54.90",
             "first": "Camren Grace",
             "last": "Reaves",
@@ -10023,22 +10077,13 @@
             "date": "2025-04-26"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "2:57.40",
             "first": "Madelyn",
             "last": "McNeill",
             "age": 17,
             "meet": "2024 NC STAR Andrew Hartle Invite",
             "date": "2024-06-02"
-          },
-          {
-            "rank": 10,
-            "time": "3:10.47",
-            "first": "Olivia",
-            "last": "King",
-            "age": 17,
-            "meet": "2021 NC STAR Spring Splash",
-            "date": "2021-05-22"
           }
         ],
         "400 Free": [
@@ -10416,6 +10461,15 @@
           },
           {
             "rank": 7,
+            "time": "26.97",
+            "first": "Bryson",
+            "last": "Edwards",
+            "age": 17,
+            "meet": "2025 GCST MARK MCCAW SUMMER",
+            "date": "2025-06-20"
+          },
+          {
+            "rank": 8,
             "time": "27.00",
             "first": "Bryson",
             "last": "Edwards",
@@ -10424,7 +10478,7 @@
             "date": "2026-06-19"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "27.21",
             "first": "Bryson",
             "last": "Edwards",
@@ -10433,22 +10487,13 @@
             "date": "2026-04-25"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "27.24",
             "first": "Bryson",
             "last": "Edwards",
             "age": 17,
             "meet": "2025 Futures Championships - Ocala",
             "date": "2025-07-24"
-          },
-          {
-            "rank": 10,
-            "time": "27.72",
-            "first": "Bryson",
-            "last": "Edwards",
-            "age": 18,
-            "meet": "2026 GCST MARK MCCAW SUMMER INVITE",
-            "date": "2026-06-19"
           }
         ],
         "100 Free": [
@@ -10885,6 +10930,15 @@
           },
           {
             "rank": 8,
+            "time": "2:07.76",
+            "first": "Bryson",
+            "last": "Edwards",
+            "age": 17,
+            "meet": "2025 GCST MARK MCCAW SUMMER",
+            "date": "2025-06-21"
+          },
+          {
+            "rank": 9,
             "time": "2:08.54",
             "first": "Evan",
             "last": "Sevast",
@@ -10893,22 +10947,13 @@
             "date": "2025-07-11"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "2:08.60",
             "first": "Bryson",
             "last": "Edwards",
             "age": 18,
             "meet": "2026 SC Gamecock Aquatics Summer Classic",
             "date": "2026-06-13"
-          },
-          {
-            "rank": 10,
-            "time": "2:12.46",
-            "first": "Laith",
-            "last": "Ausband",
-            "age": 18,
-            "meet": "2025 SC GAME Summer Classic",
-            "date": "2025-06-14"
           }
         ],
         "200 Back": [
@@ -11230,6 +11275,15 @@
           },
           {
             "rank": 3,
+            "time": "4:56.21",
+            "first": "Bryson",
+            "last": "Edwards",
+            "age": 17,
+            "meet": "2025 GCST MARK MCCAW SUMMER",
+            "date": "2025-06-21"
+          },
+          {
+            "rank": 4,
             "time": "4:56.82",
             "first": "Bryson",
             "last": "Edwards",
@@ -11238,7 +11292,16 @@
             "date": "2025-07-11"
           },
           {
-            "rank": 4,
+            "rank": 5,
+            "time": "4:57.18",
+            "first": "Bryson",
+            "last": "Edwards",
+            "age": 17,
+            "meet": "2025 GCST MARK MCCAW SUMMER",
+            "date": "2025-06-21"
+          },
+          {
+            "rank": 6,
             "time": "4:58.70",
             "first": "Bryson",
             "last": "Edwards",
@@ -11247,7 +11310,7 @@
             "date": "2025-07-11"
           },
           {
-            "rank": 5,
+            "rank": 7,
             "time": "4:59.32",
             "first": "Bryson",
             "last": "Edwards",
@@ -11256,7 +11319,7 @@
             "date": "2026-05-15"
           },
           {
-            "rank": 6,
+            "rank": 8,
             "time": "4:59.39",
             "first": "Bryson",
             "last": "Edwards",
@@ -11265,7 +11328,7 @@
             "date": "2026-06-19"
           },
           {
-            "rank": 7,
+            "rank": 9,
             "time": "5:00.16",
             "first": "Bryson",
             "last": "Edwards",
@@ -11274,22 +11337,13 @@
             "date": "2025-06-14"
           },
           {
-            "rank": 8,
+            "rank": 10,
             "time": "5:02.77",
             "first": "Bryson",
             "last": "Edwards",
             "age": 18,
             "meet": "2026 NC NCS LC Senior Championships",
             "date": "2026-07-10"
-          },
-          {
-            "rank": 9,
-            "time": "5:06.72",
-            "first": "Bryson",
-            "last": "Edwards",
-            "age": 17,
-            "meet": "2025 SC GAME Summer Classic",
-            "date": "2025-06-14"
           }
         ]
       }
@@ -11463,21 +11517,21 @@
           },
           {
             "rank": 9,
+            "time": "31.71",
+            "first": "Madi",
+            "last": "Joy",
+            "age": 18,
+            "meet": "2024 CT MAC Spring Invite 2024",
+            "date": "2024-05-31"
+          },
+          {
+            "rank": 10,
             "time": "31.78r",
             "first": "Madi",
             "last": "Joy",
             "age": 16,
             "meet": "2022 SC Carolina Crown",
             "date": "2022-04-23"
-          },
-          {
-            "rank": 10,
-            "time": "32.05",
-            "first": "Gentry",
-            "last": "Witmer",
-            "age": 14,
-            "meet": "2026 NC NCS LC Senior Championships",
-            "date": "2026-07-11"
           }
         ],
         "50 Breast": [
@@ -11629,6 +11683,15 @@
           },
           {
             "rank": 7,
+            "time": "30.34",
+            "first": "Madi",
+            "last": "Joy",
+            "age": 18,
+            "meet": "2024 CT MAC Spring Invite 2024",
+            "date": "2024-05-31"
+          },
+          {
+            "rank": 8,
             "time": "31.06",
             "first": "Violet",
             "last": "Derry",
@@ -11637,7 +11700,7 @@
             "date": "2025-04-26"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "31.43",
             "first": "Camren Grace",
             "last": "Reaves",
@@ -11646,22 +11709,13 @@
             "date": "2026-07-10"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "31.72",
             "first": "Sophie",
             "last": "Wert",
             "age": 17,
             "meet": "2026 GCST MARK MCCAW SUMMER INVITE",
             "date": "2026-06-19"
-          },
-          {
-            "rank": 10,
-            "time": "31.76",
-            "first": "Sophie",
-            "last": "Wert",
-            "age": 16,
-            "meet": "2025 GCST MARK MCCAW SUMMER",
-            "date": "2025-06-20"
           }
         ],
         "100 Free": [
@@ -12466,6 +12520,15 @@
           },
           {
             "rank": 8,
+            "time": "2:36.91",
+            "first": "Madi",
+            "last": "Joy",
+            "age": 18,
+            "meet": "2024 CT MAC Spring Invite 2024",
+            "date": "2024-06-01"
+          },
+          {
+            "rank": 9,
             "time": "2:38.11",
             "first": "Gentry",
             "last": "Witmer",
@@ -12474,19 +12537,10 @@
             "date": "2025-07-13"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "2:40.59",
             "first": "Sophie",
             "last": "Wert",
-            "age": 16,
-            "meet": "2025 NC NCS LC Senior Championships",
-            "date": "2025-07-13"
-          },
-          {
-            "rank": 10,
-            "time": "2:41.84",
-            "first": "Violet",
-            "last": "Derry",
             "age": 16,
             "meet": "2025 NC NCS LC Senior Championships",
             "date": "2025-07-13"
@@ -13087,6 +13141,15 @@
           },
           {
             "rank": 7,
+            "time": "26.97",
+            "first": "Bryson",
+            "last": "Edwards",
+            "age": 17,
+            "meet": "2025 GCST MARK MCCAW SUMMER",
+            "date": "2025-06-20"
+          },
+          {
+            "rank": 8,
             "time": "27.00",
             "first": "Bryson",
             "last": "Edwards",
@@ -13095,7 +13158,7 @@
             "date": "2026-06-19"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "27.10",
             "first": "Cole",
             "last": "Witmer",
@@ -13104,22 +13167,13 @@
             "date": "2023-05-18"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "27.21",
             "first": "Bryson",
             "last": "Edwards",
             "age": 18,
             "meet": "2026 NC WAVE Sprint into LC",
             "date": "2026-04-25"
-          },
-          {
-            "rank": 10,
-            "time": "27.24",
-            "first": "Bryson",
-            "last": "Edwards",
-            "age": 17,
-            "meet": "2025 Futures Championships - Ocala",
-            "date": "2025-07-24"
           }
         ],
         "100 Free": [
@@ -14063,6 +14117,15 @@
           },
           {
             "rank": 3,
+            "time": "4:56.21",
+            "first": "Bryson",
+            "last": "Edwards",
+            "age": 17,
+            "meet": "2025 GCST MARK MCCAW SUMMER",
+            "date": "2025-06-21"
+          },
+          {
+            "rank": 4,
             "time": "4:56.36",
             "first": "Ryker",
             "last": "Eder",
@@ -14071,7 +14134,7 @@
             "date": "2023-07-21"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "time": "4:56.82",
             "first": "Bryson",
             "last": "Edwards",
@@ -14080,7 +14143,16 @@
             "date": "2025-07-11"
           },
           {
-            "rank": 5,
+            "rank": 6,
+            "time": "4:57.18",
+            "first": "Bryson",
+            "last": "Edwards",
+            "age": 17,
+            "meet": "2025 GCST MARK MCCAW SUMMER",
+            "date": "2025-06-21"
+          },
+          {
+            "rank": 7,
             "time": "4:58.70",
             "first": "Bryson",
             "last": "Edwards",
@@ -14089,7 +14161,7 @@
             "date": "2025-07-11"
           },
           {
-            "rank": 6,
+            "rank": 8,
             "time": "4:59.32",
             "first": "Bryson",
             "last": "Edwards",
@@ -14098,7 +14170,7 @@
             "date": "2026-05-15"
           },
           {
-            "rank": 7,
+            "rank": 9,
             "time": "4:59.39",
             "first": "Bryson",
             "last": "Edwards",
@@ -14107,31 +14179,13 @@
             "date": "2026-06-19"
           },
           {
-            "rank": 8,
+            "rank": 10,
             "time": "5:00.16",
             "first": "Bryson",
             "last": "Edwards",
             "age": 17,
             "meet": "2025 SC GAME Summer Classic",
             "date": "2025-06-14"
-          },
-          {
-            "rank": 9,
-            "time": "5:01.49",
-            "first": "Ryker",
-            "last": "Eder",
-            "age": 15,
-            "meet": "2023 NC NCS LC SR Champs (STAR2)",
-            "date": "2023-07-21"
-          },
-          {
-            "rank": 10,
-            "time": "5:02.77",
-            "first": "Bryson",
-            "last": "Edwards",
-            "age": 18,
-            "meet": "2026 NC NCS LC Senior Championships",
-            "date": "2026-07-10"
           }
         ]
       }
@@ -14305,21 +14359,21 @@
           },
           {
             "rank": 9,
+            "time": "31.71",
+            "first": "Madi",
+            "last": "Joy",
+            "age": 18,
+            "meet": "2024 CT MAC Spring Invite 2024",
+            "date": "2024-05-31"
+          },
+          {
+            "rank": 10,
             "time": "31.78r",
             "first": "Madi",
             "last": "Joy",
             "age": 16,
             "meet": "2022 SC Carolina Crown",
             "date": "2022-04-23"
-          },
-          {
-            "rank": 10,
-            "time": "32.05",
-            "first": "Gentry",
-            "last": "Witmer",
-            "age": 14,
-            "meet": "2026 NC NCS LC Senior Championships",
-            "date": "2026-07-11"
           }
         ],
         "50 Breast": [
@@ -14471,6 +14525,15 @@
           },
           {
             "rank": 7,
+            "time": "30.34",
+            "first": "Madi",
+            "last": "Joy",
+            "age": 18,
+            "meet": "2024 CT MAC Spring Invite 2024",
+            "date": "2024-05-31"
+          },
+          {
+            "rank": 8,
             "time": "31.06",
             "first": "Violet",
             "last": "Derry",
@@ -14479,7 +14542,7 @@
             "date": "2025-04-26"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "31.43",
             "first": "Camren Grace",
             "last": "Reaves",
@@ -14488,22 +14551,13 @@
             "date": "2026-07-10"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "31.72",
             "first": "Sophie",
             "last": "Wert",
             "age": 17,
             "meet": "2026 GCST MARK MCCAW SUMMER INVITE",
             "date": "2026-06-19"
-          },
-          {
-            "rank": 10,
-            "time": "31.76",
-            "first": "Sophie",
-            "last": "Wert",
-            "age": 16,
-            "meet": "2025 GCST MARK MCCAW SUMMER",
-            "date": "2025-06-20"
           }
         ],
         "100 Free": [
@@ -15308,6 +15362,15 @@
           },
           {
             "rank": 8,
+            "time": "2:36.91",
+            "first": "Madi",
+            "last": "Joy",
+            "age": 18,
+            "meet": "2024 CT MAC Spring Invite 2024",
+            "date": "2024-06-01"
+          },
+          {
+            "rank": 9,
             "time": "2:38.11",
             "first": "Gentry",
             "last": "Witmer",
@@ -15316,19 +15379,10 @@
             "date": "2025-07-13"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "2:40.59",
             "first": "Sophie",
             "last": "Wert",
-            "age": 16,
-            "meet": "2025 NC NCS LC Senior Championships",
-            "date": "2025-07-13"
-          },
-          {
-            "rank": 10,
-            "time": "2:41.84",
-            "first": "Violet",
-            "last": "Derry",
             "age": 16,
             "meet": "2025 NC NCS LC Senior Championships",
             "date": "2025-07-13"
@@ -15929,6 +15983,15 @@
           },
           {
             "rank": 7,
+            "time": "26.97",
+            "first": "Bryson",
+            "last": "Edwards",
+            "age": 17,
+            "meet": "2025 GCST MARK MCCAW SUMMER",
+            "date": "2025-06-20"
+          },
+          {
+            "rank": 8,
             "time": "27.00",
             "first": "Bryson",
             "last": "Edwards",
@@ -15937,7 +16000,7 @@
             "date": "2026-06-19"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "time": "27.10",
             "first": "Cole",
             "last": "Witmer",
@@ -15946,22 +16009,13 @@
             "date": "2023-05-18"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "time": "27.21",
             "first": "Bryson",
             "last": "Edwards",
             "age": 18,
             "meet": "2026 NC WAVE Sprint into LC",
             "date": "2026-04-25"
-          },
-          {
-            "rank": 10,
-            "time": "27.24",
-            "first": "Bryson",
-            "last": "Edwards",
-            "age": 17,
-            "meet": "2025 Futures Championships - Ocala",
-            "date": "2025-07-24"
           }
         ],
         "100 Free": [
@@ -16905,6 +16959,15 @@
           },
           {
             "rank": 3,
+            "time": "4:56.21",
+            "first": "Bryson",
+            "last": "Edwards",
+            "age": 17,
+            "meet": "2025 GCST MARK MCCAW SUMMER",
+            "date": "2025-06-21"
+          },
+          {
+            "rank": 4,
             "time": "4:56.36",
             "first": "Ryker",
             "last": "Eder",
@@ -16913,7 +16976,7 @@
             "date": "2023-07-21"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "time": "4:56.82",
             "first": "Bryson",
             "last": "Edwards",
@@ -16922,7 +16985,16 @@
             "date": "2025-07-11"
           },
           {
-            "rank": 5,
+            "rank": 6,
+            "time": "4:57.18",
+            "first": "Bryson",
+            "last": "Edwards",
+            "age": 17,
+            "meet": "2025 GCST MARK MCCAW SUMMER",
+            "date": "2025-06-21"
+          },
+          {
+            "rank": 7,
             "time": "4:58.70",
             "first": "Bryson",
             "last": "Edwards",
@@ -16931,7 +17003,7 @@
             "date": "2025-07-11"
           },
           {
-            "rank": 6,
+            "rank": 8,
             "time": "4:59.32",
             "first": "Bryson",
             "last": "Edwards",
@@ -16940,7 +17012,7 @@
             "date": "2026-05-15"
           },
           {
-            "rank": 7,
+            "rank": 9,
             "time": "4:59.39",
             "first": "Bryson",
             "last": "Edwards",
@@ -16949,31 +17021,13 @@
             "date": "2026-06-19"
           },
           {
-            "rank": 8,
+            "rank": 10,
             "time": "5:00.16",
             "first": "Bryson",
             "last": "Edwards",
             "age": 17,
             "meet": "2025 SC GAME Summer Classic",
             "date": "2025-06-14"
-          },
-          {
-            "rank": 9,
-            "time": "5:01.49",
-            "first": "Ryker",
-            "last": "Eder",
-            "age": 15,
-            "meet": "2023 NC NCS LC SR Champs (STAR2)",
-            "date": "2023-07-21"
-          },
-          {
-            "rank": 10,
-            "time": "5:02.77",
-            "first": "Bryson",
-            "last": "Edwards",
-            "age": 18,
-            "meet": "2026 NC NCS LC Senior Championships",
-            "date": "2026-07-10"
           }
         ]
       }
