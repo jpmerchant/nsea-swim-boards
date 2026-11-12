@@ -1,0 +1,6352 @@
+{
+ "M|10 & U|200 Free": [
+  {
+   "time": "3:13.59",
+   "holder": "Gavin Derry",
+   "age": 10,
+   "date": "2021-05-23",
+   "meet": "2021 NC STAR Spring Splash"
+  }
+ ],
+ "M|11-12|200 Free": [
+  {
+   "time": "2:26.08",
+   "holder": "Nathan Neu",
+   "age": 12,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 4.48
+  },
+  {
+   "time": "2:30.56",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-07-27",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 36.32
+  },
+  {
+   "time": "3:06.88",
+   "holder": "Ryker Eder",
+   "age": 11,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|13-14|200 Free": [
+  {
+   "time": "2:13.38",
+   "holder": "Laith Ausband",
+   "age": 14,
+   "date": "2022-06-04",
+   "meet": "2022 STAR Andrew E Hartle Invi",
+   "drop": 6.87
+  },
+  {
+   "time": "2:20.25",
+   "holder": "Laith Ausband",
+   "age": 13,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 3.0
+  },
+  {
+   "time": "2:23.25",
+   "holder": "Laith Ausband",
+   "age": 13,
+   "date": "2021-05-23",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 13.37
+  },
+  {
+   "time": "2:36.62",
+   "holder": "Philip Brown III",
+   "age": 14,
+   "date": "2019-07-27",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 1.29
+  },
+  {
+   "time": "2:37.91",
+   "holder": "Alex Hill",
+   "age": 14,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|15-16|200 Free": [
+  {
+   "time": "1:59.32",
+   "holder": "Clem Camacho",
+   "age": 16,
+   "date": "2024-07-24",
+   "meet": "2024 Futures Championships - Austin",
+   "drop": 6.84
+  },
+  {
+   "time": "2:06.16",
+   "holder": "Cole Witmer",
+   "age": 16,
+   "date": "2023-05-19",
+   "meet": "2023 Martha McKee Charlotte Op"
+  }
+ ],
+ "M|17-18|200 Free": [
+  {
+   "time": "1:52.91",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-07-23",
+   "meet": "2025 TYR FUTURES OCALA",
+   "drop": 3.7
+  },
+  {
+   "time": "1:56.61",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-06-12",
+   "meet": "2025 Summer Classic",
+   "drop": 0.32
+  },
+  {
+   "time": "1:56.93",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2024-07-24",
+   "meet": "2024 Futures Championships - Austin",
+   "drop": 5.19
+  },
+  {
+   "time": "2:02.12",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2024-06-23",
+   "meet": "2024 GOLD Summer Splash"
+  }
+ ],
+ "M|Open|200 Free": [
+  {
+   "time": "1:52.91",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-07-23",
+   "meet": "2025 TYR FUTURES OCALA",
+   "drop": 3.7
+  },
+  {
+   "time": "1:56.61",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-06-12",
+   "meet": "2025 Summer Classic",
+   "drop": 0.32
+  },
+  {
+   "time": "1:56.93",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2024-07-24",
+   "meet": "2024 Futures Championships - Austin",
+   "drop": 5.19
+  },
+  {
+   "time": "2:02.12",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2024-06-23",
+   "meet": "2024 GOLD Summer Splash",
+   "drop": 4.04
+  },
+  {
+   "time": "2:06.16",
+   "holder": "Cole Witmer",
+   "age": 16,
+   "date": "2023-05-19",
+   "meet": "2023 Martha McKee Charlotte Op",
+   "drop": 7.22
+  },
+  {
+   "time": "2:13.38",
+   "holder": "Laith Ausband",
+   "age": 14,
+   "date": "2022-06-04",
+   "meet": "2022 STAR Andrew E Hartle Invi",
+   "drop": 6.87
+  },
+  {
+   "time": "2:20.25",
+   "holder": "Laith Ausband",
+   "age": 13,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 3.0
+  },
+  {
+   "time": "2:23.25",
+   "holder": "Laith Ausband",
+   "age": 13,
+   "date": "2021-05-23",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 7.31
+  },
+  {
+   "time": "2:30.56",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-07-27",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 7.35
+  },
+  {
+   "time": "2:37.91",
+   "holder": "Alex Hill",
+   "age": 14,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|10 & U|100 Breast": [
+  {
+   "time": "1:38.58",
+   "holder": "Everett Cassidy",
+   "age": 10,
+   "date": "2026-07-16",
+   "meet": "2026 NCS LC AG Championships",
+   "drop": 2.72
+  },
+  {
+   "time": "1:41.30",
+   "holder": "Hance Mayo",
+   "age": 10,
+   "date": "2021-07-17",
+   "meet": "2021 NC NCS LC AG Champs",
+   "drop": 19.26
+  },
+  {
+   "time": "2:00.56",
+   "holder": "Gavin Derry",
+   "age": 10,
+   "date": "2021-06-12",
+   "meet": "NC21102 TAC TITANS Triangle Cl"
+  }
+ ],
+ "M|11-12|100 Breast": [
+  {
+   "time": "1:23.14",
+   "holder": "Behr Petroff",
+   "age": 12,
+   "date": "2022-07-16",
+   "meet": "2022 NC LC AG CHAMPS",
+   "drop": 0.63
+  },
+  {
+   "time": "1:23.77",
+   "holder": "Behr Petroff",
+   "age": 12,
+   "date": "2022-06-04",
+   "meet": "2022 STAR Andrew E Hartle Invi",
+   "drop": 1.73
+  },
+  {
+   "time": "1:25.50",
+   "holder": "Nathan Neu",
+   "age": 12,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 22.1
+  },
+  {
+   "time": "1:47.60",
+   "holder": "Ryker Eder",
+   "age": 11,
+   "date": "2019-07-26",
+   "meet": "NC HPSC Tar Heel States",
+   "drop": 1.0
+  },
+  {
+   "time": "1:48.60",
+   "holder": "Ryker Eder",
+   "age": 11,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|13-14|100 Breast": [
+  {
+   "time": "1:16.56",
+   "holder": "Ryker Eder",
+   "age": 14,
+   "date": "2022-07-15",
+   "meet": "2022 NC LC AG CHAMPS",
+   "drop": 2.46
+  },
+  {
+   "time": "1:19.02",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 3.48
+  },
+  {
+   "time": "1:22.50",
+   "holder": "Clem Camacho",
+   "age": 13,
+   "date": "2021-05-23",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 9.32
+  },
+  {
+   "time": "1:31.82",
+   "holder": "Philip Brown III",
+   "age": 14,
+   "date": "2019-07-26",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 0.46
+  },
+  {
+   "time": "1:32.28",
+   "holder": "Philip Brown III",
+   "age": 13,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|15-16|100 Breast": [
+  {
+   "time": "1:07.65",
+   "holder": "Behr Petroff",
+   "age": 16,
+   "date": "2026-05-14",
+   "meet": "2026 Charlotte Open",
+   "drop": 0.64
+  },
+  {
+   "time": "1:08.29",
+   "holder": "Behr Petroff",
+   "age": 16,
+   "date": "2026-04-25",
+   "meet": "2026 WAVE Sprint Into LC",
+   "drop": 0.81
+  },
+  {
+   "time": "1:09.10",
+   "holder": "Behr Petroff",
+   "age": 15,
+   "date": "2025-07-10",
+   "meet": "2025 NC LC SR Championships",
+   "drop": 1.37
+  },
+  {
+   "time": "1:10.47",
+   "holder": "Ryker Eder",
+   "age": 16,
+   "date": "2024-07-24",
+   "meet": "2024 Futures Championships - Austin",
+   "drop": 2.49
+  },
+  {
+   "time": "1:12.96",
+   "holder": "Ryker Eder",
+   "age": 16,
+   "date": "2024-05-16",
+   "meet": "2024 Charlotte Open",
+   "drop": 1.81
+  },
+  {
+   "time": "1:14.77",
+   "holder": "Ryker Eder",
+   "age": 16,
+   "date": "2024-04-28",
+   "meet": "2024 SC Carolina Crown Swim Challenge",
+   "drop": 1.23
+  },
+  {
+   "time": "1:16.00",
+   "holder": "Bryson Edwards",
+   "age": 16,
+   "date": "2024-04-27",
+   "meet": "2024 WAVE Sprint Into LC",
+   "drop": 0.96
+  },
+  {
+   "time": "1:16.96",
+   "holder": "Ryker Eder",
+   "age": 15,
+   "date": "2023-06-30",
+   "meet": "2023 CW Eric Namesnik Memorial",
+   "drop": 2.79
+  },
+  {
+   "time": "1:19.75",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-06-12",
+   "meet": "2022 Swim Collegiate Series",
+   "drop": 0.24
+  },
+  {
+   "time": "1:19.99",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-04-30",
+   "meet": "2022 WAVE Sprint Into LC"
+  }
+ ],
+ "M|17-18|100 Breast": [
+  {
+   "time": "1:07.07",
+   "holder": "Behr Petroff",
+   "age": 17,
+   "date": "2026-07-29",
+   "meet": "2026 Futures Championship - Knoxville",
+   "drop": 1.38
+  },
+  {
+   "time": "1:08.45",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-07-23",
+   "meet": "2025 TYR FUTURES OCALA",
+   "drop": 0.13
+  },
+  {
+   "time": "1:08.58",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-07-10",
+   "meet": "2025 NC LC SR Championships",
+   "drop": 0.16
+  },
+  {
+   "time": "1:08.74",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-06-12",
+   "meet": "2025 Summer Classic",
+   "drop": 4.02
+  },
+  {
+   "time": "1:12.76",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-05-15",
+   "meet": "2025 Charlotte Open",
+   "drop": 2.74
+  },
+  {
+   "time": "1:15.50",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2024-06-22",
+   "meet": "2024 GOLD Summer Splash",
+   "drop": 26.28
+  },
+  {
+   "time": "1:41.78",
+   "holder": "Walter Monical",
+   "age": 17,
+   "date": "2024-04-27",
+   "meet": "2024 WAVE Sprint Into LC"
+  }
+ ],
+ "M|Open|100 Breast": [
+  {
+   "time": "1:07.07",
+   "holder": "Behr Petroff",
+   "age": 17,
+   "date": "2026-07-29",
+   "meet": "2026 Futures Championship - Knoxville",
+   "drop": 0.58
+  },
+  {
+   "time": "1:07.65",
+   "holder": "Behr Petroff",
+   "age": 16,
+   "date": "2026-05-14",
+   "meet": "2026 Charlotte Open",
+   "drop": 0.64
+  },
+  {
+   "time": "1:08.29",
+   "holder": "Behr Petroff",
+   "age": 16,
+   "date": "2026-04-25",
+   "meet": "2026 WAVE Sprint Into LC",
+   "drop": 0.16
+  },
+  {
+   "time": "1:08.45",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-07-23",
+   "meet": "2025 TYR FUTURES OCALA",
+   "drop": 0.13
+  },
+  {
+   "time": "1:08.58",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-07-10",
+   "meet": "2025 NC LC SR Championships",
+   "drop": 0.16
+  },
+  {
+   "time": "1:08.74",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-06-12",
+   "meet": "2025 Summer Classic",
+   "drop": 1.73
+  },
+  {
+   "time": "1:10.47",
+   "holder": "Ryker Eder",
+   "age": 16,
+   "date": "2024-07-24",
+   "meet": "2024 Futures Championships - Austin",
+   "drop": 2.49
+  },
+  {
+   "time": "1:12.96",
+   "holder": "Ryker Eder",
+   "age": 16,
+   "date": "2024-05-16",
+   "meet": "2024 Charlotte Open",
+   "drop": 1.81
+  },
+  {
+   "time": "1:14.77",
+   "holder": "Ryker Eder",
+   "age": 16,
+   "date": "2024-04-28",
+   "meet": "2024 SC Carolina Crown Swim Challenge",
+   "drop": 1.23
+  },
+  {
+   "time": "1:16.00",
+   "holder": "Bryson Edwards",
+   "age": 16,
+   "date": "2024-04-27",
+   "meet": "2024 WAVE Sprint Into LC",
+   "drop": 0.56
+  },
+  {
+   "time": "1:16.56",
+   "holder": "Ryker Eder",
+   "age": 14,
+   "date": "2022-07-15",
+   "meet": "2022 NC LC AG CHAMPS",
+   "drop": 2.46
+  },
+  {
+   "time": "1:19.02",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 3.48
+  },
+  {
+   "time": "1:22.50",
+   "holder": "Clem Camacho",
+   "age": 13,
+   "date": "2021-05-23",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 9.32
+  },
+  {
+   "time": "1:31.82",
+   "holder": "Philip Brown III",
+   "age": 14,
+   "date": "2019-07-26",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 0.46
+  },
+  {
+   "time": "1:32.28",
+   "holder": "Philip Brown III",
+   "age": 13,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|10 & U|100 Fly": [
+  {
+   "time": "2:05.42",
+   "holder": "Kai Farrell",
+   "age": 9,
+   "date": "2026-04-25",
+   "meet": "2026 WAVE Sprint Into LC"
+  }
+ ],
+ "M|11-12|100 Fly": [
+  {
+   "time": "1:12.99",
+   "holder": "Hance Mayo",
+   "age": 12,
+   "date": "2023-04-29",
+   "meet": "2023 WAVE Sprint Into LC",
+   "drop": 1.38
+  },
+  {
+   "time": "1:14.37",
+   "holder": "Nathan Neu",
+   "age": 12,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 2.36
+  },
+  {
+   "time": "1:16.73",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-06-22",
+   "meet": "2019 NC NC YSST Bob Pratt Invite"
+  }
+ ],
+ "M|13-14|100 Fly": [
+  {
+   "time": "1:03.49",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-07-15",
+   "meet": "2021 NC NCS LC AG Champs",
+   "drop": 1.95
+  },
+  {
+   "time": "1:05.44",
+   "holder": "Clem Camacho",
+   "age": 13,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 5.17
+  },
+  {
+   "time": "1:10.61",
+   "holder": "Alex Hill",
+   "age": 14,
+   "date": "2019-07-07",
+   "meet": "2019 NC TAC TITANS July Qualif",
+   "drop": 4.73
+  },
+  {
+   "time": "1:15.34",
+   "holder": "Alex Hill",
+   "age": 14,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|15-16|100 Fly": [
+  {
+   "time": "56.35",
+   "holder": "Clem Camacho",
+   "age": 16,
+   "date": "2024-07-24",
+   "meet": "2024 Futures Championships - Austin",
+   "drop": 4.55
+  },
+  {
+   "time": "1:00.90",
+   "holder": "Ryker Eder",
+   "age": 15,
+   "date": "2023-07-20",
+   "meet": "2023 NCS LC SR CHAMPS",
+   "drop": 0.82
+  },
+  {
+   "time": "1:01.72",
+   "holder": "Cole Witmer",
+   "age": 16,
+   "date": "2023-05-19",
+   "meet": "2023 Martha McKee Charlotte Op",
+   "drop": 0.21
+  },
+  {
+   "time": "1:01.93",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-07-22",
+   "meet": "2022 NCS LC SR CHAMPS",
+   "drop": 3.52
+  },
+  {
+   "time": "1:05.45",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-05-01",
+   "meet": "2022 WAVE Sprint Into LC"
+  }
+ ],
+ "M|17-18|100 Fly": [
+  {
+   "time": "55.24",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-07-23",
+   "meet": "2025 TYR FUTURES OCALA",
+   "drop": 1.16
+  },
+  {
+   "time": "56.40",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-06-12",
+   "meet": "2025 Summer Classic",
+   "drop": 1.03
+  },
+  {
+   "time": "57.43",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2024-07-26",
+   "meet": "2024 Futures Championships - A",
+   "drop": 5.03
+  },
+  {
+   "time": "1:02.46",
+   "holder": "Laith Ausband",
+   "age": 17,
+   "date": "2024-07-18",
+   "meet": "2024 NCS LC SR CHAMPS",
+   "drop": 2.81
+  },
+  {
+   "time": "1:05.27",
+   "holder": "Laith Ausband",
+   "age": 17,
+   "date": "2024-06-22",
+   "meet": "2024 GOLD Summer Splash",
+   "drop": 11.76
+  },
+  {
+   "time": "1:17.03",
+   "holder": "Walter Monical",
+   "age": 17,
+   "date": "2024-04-27",
+   "meet": "2024 WAVE Sprint Into LC"
+  }
+ ],
+ "M|Open|100 Fly": [
+  {
+   "time": "55.24",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-07-23",
+   "meet": "2025 TYR FUTURES OCALA",
+   "drop": 1.11
+  },
+  {
+   "time": "56.35",
+   "holder": "Clem Camacho",
+   "age": 16,
+   "date": "2024-07-24",
+   "meet": "2024 Futures Championships - Austin",
+   "drop": 4.55
+  },
+  {
+   "time": "1:00.90",
+   "holder": "Ryker Eder",
+   "age": 15,
+   "date": "2023-07-20",
+   "meet": "2023 NCS LC SR CHAMPS",
+   "drop": 0.82
+  },
+  {
+   "time": "1:01.72",
+   "holder": "Cole Witmer",
+   "age": 16,
+   "date": "2023-05-19",
+   "meet": "2023 Martha McKee Charlotte Op",
+   "drop": 0.21
+  },
+  {
+   "time": "1:01.93",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-07-22",
+   "meet": "2022 NCS LC SR CHAMPS",
+   "drop": 1.56
+  },
+  {
+   "time": "1:03.49",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-07-15",
+   "meet": "2021 NC NCS LC AG Champs",
+   "drop": 1.95
+  },
+  {
+   "time": "1:05.44",
+   "holder": "Clem Camacho",
+   "age": 13,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 5.17
+  },
+  {
+   "time": "1:10.61",
+   "holder": "Alex Hill",
+   "age": 14,
+   "date": "2019-07-07",
+   "meet": "2019 NC TAC TITANS July Qualif",
+   "drop": 4.73
+  },
+  {
+   "time": "1:15.34",
+   "holder": "Alex Hill",
+   "age": 14,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|10 & U|100 Free": [
+  {
+   "time": "1:11.19",
+   "holder": "Hance Mayo",
+   "age": 10,
+   "date": "2021-07-18",
+   "meet": "2021 NC NCS LC AG Champs",
+   "drop": 2.15
+  },
+  {
+   "time": "1:13.34",
+   "holder": "Hance Mayo",
+   "age": 10,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 16.82
+  },
+  {
+   "time": "1:30.16",
+   "holder": "Gavin Derry",
+   "age": 10,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 73.08
+  },
+  {
+   "time": "2:43.24",
+   "holder": "William Forbes",
+   "age": 7,
+   "date": "2019-07-26",
+   "meet": "NC HPSC Tar Heel States"
+  }
+ ],
+ "M|11-12|100 Free": [
+  {
+   "time": "1:03.69",
+   "holder": "Hance Mayo",
+   "age": 12,
+   "date": "2023-04-29",
+   "meet": "2023 WAVE Sprint Into LC",
+   "drop": 3.26
+  },
+  {
+   "time": "1:06.95",
+   "holder": "Hance Mayo",
+   "age": 11,
+   "date": "2022-07-17",
+   "meet": "2022 NC LC AG CHAMPS",
+   "drop": 0.57
+  },
+  {
+   "time": "1:07.52",
+   "holder": "Hance Mayo",
+   "age": 11,
+   "date": "2022-04-30",
+   "meet": "2022 WAVE Sprint Into LC",
+   "drop": 1.7
+  },
+  {
+   "time": "1:09.22",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-06-23",
+   "meet": "2019 NC NC YSST Bob Pratt Invite",
+   "drop": 17.42
+  },
+  {
+   "time": "1:26.64",
+   "holder": "Ryker Eder",
+   "age": 11,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|13-14|100 Free": [
+  {
+   "time": "59.16",
+   "holder": "Laith Ausband",
+   "age": 14,
+   "date": "2022-06-05",
+   "meet": "2022 STAR Andrew E Hartle Invi",
+   "drop": 0.17
+  },
+  {
+   "time": "59.33",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 2.23
+  },
+  {
+   "time": "1:01.56",
+   "holder": "Clem Camacho",
+   "age": 13,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 3.92
+  },
+  {
+   "time": "1:05.48",
+   "holder": "Alex Hill",
+   "age": 14,
+   "date": "2019-07-26",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 0.12
+  },
+  {
+   "time": "1:05.60",
+   "holder": "Philip Brown III",
+   "age": 14,
+   "date": "2019-06-22",
+   "meet": "2019 NC NC YSST Bob Pratt Invite",
+   "drop": 1.48
+  },
+  {
+   "time": "1:07.08",
+   "holder": "Philip Brown III",
+   "age": 13,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|15-16|100 Free": [
+  {
+   "time": "53.97",
+   "holder": "Behr Petroff",
+   "age": 16,
+   "date": "2026-07-09",
+   "meet": "2026 NC LC SR Championships - copied",
+   "drop": 1.13
+  },
+  {
+   "time": "55.10",
+   "holder": "Behr Petroff",
+   "age": 16,
+   "date": "2026-05-14",
+   "meet": "2026 Charlotte Open",
+   "drop": 0.26
+  },
+  {
+   "time": "55.36",
+   "holder": "Cole Witmer",
+   "age": 16,
+   "date": "2023-07-23",
+   "meet": "2023 NCS LC SR CHAMPS",
+   "drop": 2.79
+  },
+  {
+   "time": "58.15",
+   "holder": "Laith Ausband",
+   "age": 15,
+   "date": "2022-07-24",
+   "meet": "2022 NCS LC SR CHAMPS",
+   "drop": 2.8
+  },
+  {
+   "time": "1:00.95",
+   "holder": "Alex Hill",
+   "age": 16,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic"
+  }
+ ],
+ "M|17-18|100 Free": [
+  {
+   "time": "52.66",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-07-10",
+   "meet": "2025 NC LC SR Championships",
+   "leadoff": true,
+   "drop": 0.7
+  },
+  {
+   "time": "53.36",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2024-07-24",
+   "meet": "2024 Futures Championships - Austin",
+   "drop": 2.26
+  },
+  {
+   "time": "55.62",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2024-06-23",
+   "meet": "2024 GOLD Summer Splash",
+   "drop": 12.03
+  },
+  {
+   "time": "1:07.65",
+   "holder": "Walter Monical",
+   "age": 17,
+   "date": "2024-04-27",
+   "meet": "2024 WAVE Sprint Into LC"
+  }
+ ],
+ "M|Open|100 Free": [
+  {
+   "time": "52.66",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-07-10",
+   "meet": "2025 NC LC SR Championships",
+   "leadoff": true,
+   "drop": 0.7
+  },
+  {
+   "time": "53.36",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2024-07-24",
+   "meet": "2024 Futures Championships - Austin",
+   "drop": 2.0
+  },
+  {
+   "time": "55.36",
+   "holder": "Cole Witmer",
+   "age": 16,
+   "date": "2023-07-23",
+   "meet": "2023 NCS LC SR CHAMPS",
+   "drop": 2.79
+  },
+  {
+   "time": "58.15",
+   "holder": "Laith Ausband",
+   "age": 15,
+   "date": "2022-07-24",
+   "meet": "2022 NCS LC SR CHAMPS",
+   "drop": 1.01
+  },
+  {
+   "time": "59.16",
+   "holder": "Laith Ausband",
+   "age": 14,
+   "date": "2022-06-05",
+   "meet": "2022 STAR Andrew E Hartle Invi",
+   "drop": 0.17
+  },
+  {
+   "time": "59.33",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 2.23
+  },
+  {
+   "time": "1:01.56",
+   "holder": "Clem Camacho",
+   "age": 13,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 3.92
+  },
+  {
+   "time": "1:05.48",
+   "holder": "Alex Hill",
+   "age": 14,
+   "date": "2019-07-26",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 0.12
+  },
+  {
+   "time": "1:05.60",
+   "holder": "Philip Brown III",
+   "age": 14,
+   "date": "2019-06-22",
+   "meet": "2019 NC NC YSST Bob Pratt Invite",
+   "drop": 1.48
+  },
+  {
+   "time": "1:07.08",
+   "holder": "Philip Brown III",
+   "age": 13,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|10 & U|50 Free": [
+  {
+   "time": "30.62",
+   "holder": "Hance Mayo",
+   "age": 10,
+   "date": "2021-07-16",
+   "meet": "2021 NC NCS LC AG Champs",
+   "drop": 1.39
+  },
+  {
+   "time": "32.01",
+   "holder": "Hance Mayo",
+   "age": 10,
+   "date": "2021-06-13",
+   "meet": "NC21102 TAC TITANS Triangle Cl",
+   "drop": 8.93
+  },
+  {
+   "time": "40.94",
+   "holder": "Gavin Derry",
+   "age": 10,
+   "date": "2021-05-23",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 32.75
+  },
+  {
+   "time": "1:13.69",
+   "holder": "William Forbes",
+   "age": 7,
+   "date": "2019-06-21",
+   "meet": "NC YSST 13th Annual  Bob Pratt",
+   "drop": 2.96
+  },
+  {
+   "time": "1:16.65",
+   "holder": "William Forbes",
+   "age": 7,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|11-12|50 Free": [
+  {
+   "time": "27.78",
+   "holder": "Hance Mayo",
+   "age": 12,
+   "date": "2023-07-13",
+   "meet": "2023 NCS LC AG Champs",
+   "drop": 0.32
+  },
+  {
+   "time": "28.10",
+   "holder": "Hance Mayo",
+   "age": 12,
+   "date": "2023-04-29",
+   "meet": "2023 WAVE Sprint Into LC",
+   "drop": 1.4
+  },
+  {
+   "time": "29.50",
+   "holder": "Hance Mayo",
+   "age": 11,
+   "date": "2022-07-15",
+   "meet": "2022 NC LC AG CHAMPS",
+   "drop": 0.34
+  },
+  {
+   "time": "29.84",
+   "holder": "Nathan Neu",
+   "age": 12,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 0.33
+  },
+  {
+   "time": "30.17",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-07-07",
+   "meet": "2019 NC TAC TITANS July Qualif",
+   "drop": 0.53
+  },
+  {
+   "time": "30.70",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-06-22",
+   "meet": "2019 NC NC YSST Bob Pratt Invite",
+   "drop": 9.23
+  },
+  {
+   "time": "39.93",
+   "holder": "Ryker Eder",
+   "age": 11,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|13-14|50 Free": [
+  {
+   "time": "26.41",
+   "holder": "Laith Ausband",
+   "age": 14,
+   "date": "2022-06-04",
+   "meet": "2022 STAR Andrew E Hartle Invi",
+   "drop": 0.2
+  },
+  {
+   "time": "26.61",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-07-15",
+   "meet": "2021 NC NCS LC AG Champs",
+   "drop": 0.68
+  },
+  {
+   "time": "27.29",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 0.73
+  },
+  {
+   "time": "28.02",
+   "holder": "Clem Camacho",
+   "age": 13,
+   "date": "2021-05-23",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 0.16
+  },
+  {
+   "time": "28.18",
+   "holder": "Alex Hill",
+   "age": 14,
+   "date": "2019-07-07",
+   "meet": "2019 NC TAC TITANS July Qualif",
+   "drop": 0.57
+  },
+  {
+   "time": "28.75",
+   "holder": "Philip Brown III",
+   "age": 14,
+   "date": "2019-06-23",
+   "meet": "2019 NC NC YSST Bob Pratt Invite"
+  }
+ ],
+ "M|15-16|50 Free": [
+  {
+   "time": "24.38",
+   "holder": "Behr Petroff",
+   "age": 16,
+   "date": "2026-07-09",
+   "meet": "2026 NC LC SR Championships - copied",
+   "drop": 0.21
+  },
+  {
+   "time": "24.59",
+   "holder": "Behr Petroff",
+   "age": 16,
+   "date": "2026-06-12",
+   "meet": "2026 SC GAME Summer Classic",
+   "drop": 0.16
+  },
+  {
+   "time": "24.75",
+   "holder": "Clem Camacho",
+   "age": 15,
+   "date": "2025-04-13",
+   "meet": "10th Annual Carolina Crown 202",
+   "drop": 0.43
+  },
+  {
+   "time": "25.18",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-07-23",
+   "meet": "2022 NCS LC SR CHAMPS",
+   "drop": 0.95
+  },
+  {
+   "time": "26.13",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-06-12",
+   "meet": "2022 Swim Collegiate Series",
+   "drop": 0.06
+  },
+  {
+   "time": "26.19",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-05-01",
+   "meet": "2022 WAVE Sprint Into LC",
+   "drop": 1.59
+  },
+  {
+   "time": "27.78",
+   "holder": "Alex Hill",
+   "age": 16,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic"
+  }
+ ],
+ "M|17-18|50 Free": [
+  {
+   "time": "24.50",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-06-12",
+   "meet": "2025 Summer Classic",
+   "drop": 0.04
+  },
+  {
+   "time": "24.54",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2024-07-24",
+   "meet": "2024 Futures Championships - Austin",
+   "drop": 0.21
+  },
+  {
+   "time": "24.75",
+   "holder": "Laith Ausband",
+   "age": 17,
+   "date": "2024-07-18",
+   "meet": "2024 NCS LC SR CHAMPS",
+   "drop": 0.11
+  },
+  {
+   "time": "24.86",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2023-07-31",
+   "meet": "2023 TT Speedo Junior National Championships"
+  }
+ ],
+ "M|Open|50 Free": [
+  {
+   "time": "24.38",
+   "holder": "Behr Petroff",
+   "age": 16,
+   "date": "2026-07-09",
+   "meet": "2026 NC LC SR Championships - copied",
+   "drop": 0.12
+  },
+  {
+   "time": "24.50",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-06-12",
+   "meet": "2025 Summer Classic",
+   "drop": 0.04
+  },
+  {
+   "time": "24.54",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2024-07-24",
+   "meet": "2024 Futures Championships - Austin",
+   "drop": 0.21
+  },
+  {
+   "time": "24.75",
+   "holder": "Laith Ausband",
+   "age": 17,
+   "date": "2024-07-18",
+   "meet": "2024 NCS LC SR CHAMPS",
+   "drop": 0.11
+  },
+  {
+   "time": "24.86",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2023-07-31",
+   "meet": "2023 TT Speedo Junior National Championships",
+   "drop": 0.32
+  },
+  {
+   "time": "25.18",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-07-23",
+   "meet": "2022 NCS LC SR CHAMPS",
+   "drop": 0.95
+  },
+  {
+   "time": "26.13",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-06-12",
+   "meet": "2022 Swim Collegiate Series",
+   "drop": 0.06
+  },
+  {
+   "time": "26.19",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-05-01",
+   "meet": "2022 WAVE Sprint Into LC",
+   "drop": 0.42
+  },
+  {
+   "time": "26.61",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-07-15",
+   "meet": "2021 NC NCS LC AG Champs",
+   "drop": 0.68
+  },
+  {
+   "time": "27.29",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 0.73
+  },
+  {
+   "time": "28.02",
+   "holder": "Clem Camacho",
+   "age": 13,
+   "date": "2021-05-23",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 0.16
+  },
+  {
+   "time": "28.18",
+   "holder": "Alex Hill",
+   "age": 14,
+   "date": "2019-07-07",
+   "meet": "2019 NC TAC TITANS July Qualif",
+   "drop": 0.57
+  },
+  {
+   "time": "28.75",
+   "holder": "Philip Brown III",
+   "age": 14,
+   "date": "2019-06-23",
+   "meet": "2019 NC NC YSST Bob Pratt Invite",
+   "drop": 11.18
+  },
+  {
+   "time": "39.93",
+   "holder": "Ryker Eder",
+   "age": 11,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|10 & U|200 IM": [
+  {
+   "time": "3:06.66",
+   "holder": "Hance Mayo",
+   "age": 10,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 26.49
+  },
+  {
+   "time": "3:33.15",
+   "holder": "Gavin Derry",
+   "age": 10,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash"
+  }
+ ],
+ "M|11-12|200 IM": [
+  {
+   "time": "2:54.71",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-07-26",
+   "meet": "2019 NC HPSC Tar Heel States"
+  }
+ ],
+ "M|13-14|200 IM": [
+  {
+   "time": "2:23.77",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-07-15",
+   "meet": "2021 NC NCS LC AG Champs",
+   "drop": 3.85
+  },
+  {
+   "time": "2:27.62",
+   "holder": "Clem Camacho",
+   "age": 13,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 28.42
+  },
+  {
+   "time": "2:56.04",
+   "holder": "Philip Brown III",
+   "age": 14,
+   "date": "2019-07-26",
+   "meet": "2019 NC HPSC Tar Heel States"
+  }
+ ],
+ "M|15-16|200 IM": [
+  {
+   "time": "2:09.41",
+   "holder": "Clem Camacho",
+   "age": 16,
+   "date": "2024-07-24",
+   "meet": "2024 Futures Championships - Austin",
+   "drop": 6.87
+  },
+  {
+   "time": "2:16.28",
+   "holder": "Cole Witmer",
+   "age": 16,
+   "date": "2023-07-09",
+   "meet": "2023 TAC TITANS July Qualifier",
+   "drop": 1.1
+  },
+  {
+   "time": "2:17.38",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-07-24",
+   "meet": "2022 NCS LC SR CHAMPS"
+  }
+ ],
+ "M|17-18|200 IM": [
+  {
+   "time": "2:05.27",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-07-23",
+   "meet": "2025 TYR FUTURES OCALA",
+   "drop": 4.94
+  },
+  {
+   "time": "2:10.21",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-06-12",
+   "meet": "2025 Summer Classic",
+   "drop": 5.58
+  },
+  {
+   "time": "2:15.79",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2024-06-22",
+   "meet": "2024 GOLD Summer Splash"
+  }
+ ],
+ "M|Open|200 IM": [
+  {
+   "time": "2:05.27",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-07-23",
+   "meet": "2025 TYR FUTURES OCALA",
+   "drop": 4.14
+  },
+  {
+   "time": "2:09.41",
+   "holder": "Clem Camacho",
+   "age": 16,
+   "date": "2024-07-24",
+   "meet": "2024 Futures Championships - Austin",
+   "drop": 6.38
+  },
+  {
+   "time": "2:15.79",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2024-06-22",
+   "meet": "2024 GOLD Summer Splash",
+   "drop": 0.49
+  },
+  {
+   "time": "2:16.28",
+   "holder": "Cole Witmer",
+   "age": 16,
+   "date": "2023-07-09",
+   "meet": "2023 TAC TITANS July Qualifier",
+   "drop": 1.1
+  },
+  {
+   "time": "2:17.38",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-07-24",
+   "meet": "2022 NCS LC SR CHAMPS",
+   "drop": 6.39
+  },
+  {
+   "time": "2:23.77",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-07-15",
+   "meet": "2021 NC NCS LC AG Champs",
+   "drop": 3.85
+  },
+  {
+   "time": "2:27.62",
+   "holder": "Clem Camacho",
+   "age": 13,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 27.09
+  },
+  {
+   "time": "2:54.71",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-07-26",
+   "meet": "2019 NC HPSC Tar Heel States"
+  }
+ ],
+ "M|11-12|200 Back": [
+  {
+   "time": "2:36.49",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-07-12",
+   "meet": "2019 NC LC AG Championships",
+   "drop": 3.86
+  },
+  {
+   "time": "2:40.35",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-06-22",
+   "meet": "2019 NC NC YSST Bob Pratt Invite"
+  }
+ ],
+ "M|13-14|200 Back": [
+  {
+   "time": "2:18.73",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-07-15",
+   "meet": "2021 NC NCS LC AG Champs",
+   "drop": 4.12
+  },
+  {
+   "time": "2:22.85",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 6.29
+  },
+  {
+   "time": "2:29.14",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 20.92
+  },
+  {
+   "time": "2:50.06",
+   "holder": "Alex Hill",
+   "age": 14,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|15-16|200 Back": [
+  {
+   "time": "2:08.08",
+   "holder": "Cole Witmer",
+   "age": 16,
+   "date": "2023-05-21",
+   "meet": "2023 Martha McKee Charl-Finals",
+   "drop": 1.99
+  },
+  {
+   "time": "2:10.07",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-07-24",
+   "meet": "2022 NCS LC SR CHAMPS",
+   "drop": 28.14
+  },
+  {
+   "time": "2:38.21",
+   "holder": "Alex Hill",
+   "age": 16,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic"
+  }
+ ],
+ "M|17-18|200 Back": [
+  {
+   "time": "2:02.73",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2024-05-19",
+   "meet": "2024 Charlotte Open",
+   "drop": 0.4
+  },
+  {
+   "time": "2:03.13",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2024-03-10",
+   "meet": "2024 Speedo ESSZ Spring SC Cha",
+   "drop": 1.67
+  },
+  {
+   "time": "2:04.80",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2023-12-02",
+   "meet": "2023 Toyota US Open Championsh",
+   "drop": 0.82
+  },
+  {
+   "time": "2:05.62",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2023-08-02",
+   "meet": "2023 Speedo Junior National Ch"
+  }
+ ],
+ "M|Open|200 Back": [
+  {
+   "time": "2:02.73",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2024-05-19",
+   "meet": "2024 Charlotte Open",
+   "drop": 0.4
+  },
+  {
+   "time": "2:03.13",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2024-03-10",
+   "meet": "2024 Speedo ESSZ Spring SC Cha",
+   "drop": 1.67
+  },
+  {
+   "time": "2:04.80",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2023-12-02",
+   "meet": "2023 Toyota US Open Championsh",
+   "drop": 0.82
+  },
+  {
+   "time": "2:05.62",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2023-08-02",
+   "meet": "2023 Speedo Junior National Ch",
+   "drop": 2.46
+  },
+  {
+   "time": "2:08.08",
+   "holder": "Cole Witmer",
+   "age": 16,
+   "date": "2023-05-21",
+   "meet": "2023 Martha McKee Charl-Finals",
+   "drop": 1.99
+  },
+  {
+   "time": "2:10.07",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-07-24",
+   "meet": "2022 NCS LC SR CHAMPS",
+   "drop": 8.66
+  },
+  {
+   "time": "2:18.73",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-07-15",
+   "meet": "2021 NC NCS LC AG Champs",
+   "drop": 4.12
+  },
+  {
+   "time": "2:22.85",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 6.29
+  },
+  {
+   "time": "2:29.14",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 7.35
+  },
+  {
+   "time": "2:36.49",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-07-12",
+   "meet": "2019 NC LC AG Championships",
+   "drop": 3.86
+  },
+  {
+   "time": "2:40.35",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-06-22",
+   "meet": "2019 NC NC YSST Bob Pratt Invite",
+   "drop": 9.71
+  },
+  {
+   "time": "2:50.06",
+   "holder": "Alex Hill",
+   "age": 14,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|10 & U|100 Back": [
+  {
+   "time": "1:17.72",
+   "holder": "Hance Mayo",
+   "age": 10,
+   "date": "2021-07-17",
+   "meet": "2021 NC NCS LC AG Champs",
+   "drop": 1.56
+  },
+  {
+   "time": "1:19.28",
+   "holder": "Hance Mayo",
+   "age": 10,
+   "date": "2021-06-13",
+   "meet": "NC21102 TAC TITANS Triangle Cl",
+   "drop": 41.83
+  },
+  {
+   "time": "2:01.11",
+   "holder": "Court Yarnoz",
+   "age": 10,
+   "date": "2021-05-23",
+   "meet": "2021 NC STAR Spring Splash"
+  }
+ ],
+ "M|11-12|100 Back": [
+  {
+   "time": "1:09.62",
+   "holder": "Hance Mayo",
+   "age": 12,
+   "date": "2023-07-13",
+   "meet": "2023 NCS LC AG Champs",
+   "drop": 2.5
+  },
+  {
+   "time": "1:12.12",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-07-13",
+   "meet": "2019 NC LC AG Championships",
+   "drop": 6.02
+  },
+  {
+   "time": "1:18.14",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-06-23",
+   "meet": "2019 NC NC YSST Bob Pratt Invite",
+   "drop": 28.39
+  },
+  {
+   "time": "1:46.53",
+   "holder": "Ryker Eder",
+   "age": 11,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|13-14|100 Back": [
+  {
+   "time": "1:03.31",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-07-15",
+   "meet": "2021 NC NCS LC AG Champs",
+   "drop": 3.9
+  },
+  {
+   "time": "1:07.21",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 9.68
+  },
+  {
+   "time": "1:16.89",
+   "holder": "Alex Hill",
+   "age": 14,
+   "date": "2019-07-27",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 0.67
+  },
+  {
+   "time": "1:17.56",
+   "holder": "Alex Hill",
+   "age": 14,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|15-16|100 Back": [
+  {
+   "time": "57.61",
+   "holder": "Clem Camacho",
+   "age": 16,
+   "date": "2024-07-24",
+   "meet": "2024 Futures Championships - Austin",
+   "drop": 0.29
+  },
+  {
+   "time": "57.90",
+   "holder": "Cole Witmer",
+   "age": 16,
+   "date": "2023-07-08",
+   "meet": "2023 TAC TITANS July Qualifier",
+   "drop": 0.6
+  },
+  {
+   "time": "58.50",
+   "holder": "Cole Witmer",
+   "age": 16,
+   "date": "2023-05-20",
+   "meet": "2023 Martha McKee Charlotte Op",
+   "drop": 0.49
+  },
+  {
+   "time": "58.99",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-07-23",
+   "meet": "2022 NCS LC SR CHAMPS",
+   "drop": 2.65
+  },
+  {
+   "time": "1:01.64",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-06-12",
+   "meet": "2022 Swim Collegiate Series",
+   "drop": 9.0
+  },
+  {
+   "time": "1:10.64",
+   "holder": "Alex Hill",
+   "age": 16,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic"
+  }
+ ],
+ "M|17-18|100 Back": [
+  {
+   "time": "55.72",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2024-03-09",
+   "meet": "2024 Speedo ESSZ Spring SC Cha",
+   "drop": 0.68
+  },
+  {
+   "time": "56.40",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2023-12-01",
+   "meet": "2023 Toyota US Open Championsh",
+   "drop": 0.43
+  },
+  {
+   "time": "56.83",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2023-08-03",
+   "meet": "2023 Speedo Junior National Ch"
+  }
+ ],
+ "M|Open|100 Back": [
+  {
+   "time": "55.72",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2024-03-09",
+   "meet": "2024 Speedo ESSZ Spring SC Cha",
+   "drop": 0.68
+  },
+  {
+   "time": "56.40",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2023-12-01",
+   "meet": "2023 Toyota US Open Championsh",
+   "drop": 0.43
+  },
+  {
+   "time": "56.83",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2023-08-03",
+   "meet": "2023 Speedo Junior National Ch",
+   "drop": 1.07
+  },
+  {
+   "time": "57.90",
+   "holder": "Cole Witmer",
+   "age": 16,
+   "date": "2023-07-08",
+   "meet": "2023 TAC TITANS July Qualifier",
+   "drop": 0.6
+  },
+  {
+   "time": "58.50",
+   "holder": "Cole Witmer",
+   "age": 16,
+   "date": "2023-05-20",
+   "meet": "2023 Martha McKee Charlotte Op",
+   "drop": 0.49
+  },
+  {
+   "time": "58.99",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-07-23",
+   "meet": "2022 NCS LC SR CHAMPS",
+   "drop": 2.65
+  },
+  {
+   "time": "1:01.64",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-06-12",
+   "meet": "2022 Swim Collegiate Series",
+   "drop": 1.67
+  },
+  {
+   "time": "1:03.31",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-07-15",
+   "meet": "2021 NC NCS LC AG Champs",
+   "drop": 3.9
+  },
+  {
+   "time": "1:07.21",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 4.91
+  },
+  {
+   "time": "1:12.12",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-07-13",
+   "meet": "2019 NC LC AG Championships",
+   "drop": 5.44
+  },
+  {
+   "time": "1:17.56",
+   "holder": "Alex Hill",
+   "age": 14,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|10 & U|50 Fly": [
+  {
+   "time": "34.54",
+   "holder": "Hance Mayo",
+   "age": 10,
+   "date": "2021-07-18",
+   "meet": "2021 NC NCS LC AG Champs",
+   "drop": 1.72
+  },
+  {
+   "time": "36.26",
+   "holder": "Hance Mayo",
+   "age": 10,
+   "date": "2021-06-12",
+   "meet": "NC21102 TAC TITANS Triangle Cl"
+  }
+ ],
+ "M|11-12|50 Fly": [
+  {
+   "time": "29.52",
+   "holder": "Hance Mayo",
+   "age": 12,
+   "date": "2023-04-29",
+   "meet": "2023 WAVE Sprint Into LC",
+   "drop": 1.12
+  },
+  {
+   "time": "30.64",
+   "holder": "Hance Mayo",
+   "age": 11,
+   "date": "2022-07-17",
+   "meet": "2022 NC LC AG CHAMPS",
+   "drop": 1.45
+  },
+  {
+   "time": "32.09",
+   "holder": "Nathan Neu",
+   "age": 12,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 0.68
+  },
+  {
+   "time": "32.77",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-07-07",
+   "meet": "2019 NC TAC TITANS July Qualif",
+   "drop": 1.37
+  },
+  {
+   "time": "34.14",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-06-23",
+   "meet": "2019 NC NC YSST Bob Pratt Invite"
+  }
+ ],
+ "M|13-14|50 Fly": [
+  {
+   "time": "28.87",
+   "holder": "Hance Mayo",
+   "age": 13,
+   "date": "2024-04-27",
+   "meet": "2024 WAVE Sprint Into LC",
+   "drop": 0.58
+  },
+  {
+   "time": "29.45",
+   "holder": "Bryson Edwards",
+   "age": 14,
+   "date": "2022-04-30",
+   "meet": "2022 WAVE Sprint Into LC",
+   "drop": 1.87
+  },
+  {
+   "time": "31.32",
+   "holder": "Alex Hill",
+   "age": 14,
+   "date": "2019-07-26",
+   "meet": "2019 NC HPSC Tar Heel States"
+  }
+ ],
+ "M|15-16|50 Fly": [
+  {
+   "time": "27.10",
+   "holder": "Cole Witmer",
+   "age": 16,
+   "date": "2023-05-18",
+   "meet": "2023 Martha McKee Charlotte Open",
+   "drop": 1.45
+  },
+  {
+   "time": "28.55",
+   "holder": "Bryson Edwards",
+   "age": 15,
+   "date": "2023-04-29",
+   "meet": "2023 WAVE Sprint Into LC",
+   "drop": 0.1
+  },
+  {
+   "time": "28.65",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-04-30",
+   "meet": "2022 WAVE Sprint Into LC"
+  }
+ ],
+ "M|17-18|50 Fly": [
+  {
+   "time": "25.06",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-07-23",
+   "meet": "2025 TYR FUTURES OCALA",
+   "drop": 1.28
+  },
+  {
+   "time": "26.34",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-05-15",
+   "meet": "2025 Charlotte Open",
+   "drop": 0.34
+  },
+  {
+   "time": "26.68",
+   "holder": "Bryson Edwards",
+   "age": 17,
+   "date": "2025-04-26",
+   "meet": "2025 RSA Warm Up to Long Course Invitational",
+   "drop": 1.24
+  },
+  {
+   "time": "27.92",
+   "holder": "Laith Ausband",
+   "age": 17,
+   "date": "2025-04-13",
+   "meet": "10th Annual Carolina Crown 202",
+   "drop": 3.52
+  },
+  {
+   "time": "31.44",
+   "holder": "Walter Monical",
+   "age": 17,
+   "date": "2024-04-27",
+   "meet": "2024 WAVE Sprint Into LC"
+  }
+ ],
+ "M|Open|50 Fly": [
+  {
+   "time": "25.06",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-07-23",
+   "meet": "2025 TYR FUTURES OCALA",
+   "drop": 1.28
+  },
+  {
+   "time": "26.34",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-05-15",
+   "meet": "2025 Charlotte Open",
+   "drop": 0.34
+  },
+  {
+   "time": "26.68",
+   "holder": "Bryson Edwards",
+   "age": 17,
+   "date": "2025-04-26",
+   "meet": "2025 RSA Warm Up to Long Course Invitational",
+   "drop": 0.42
+  },
+  {
+   "time": "27.10",
+   "holder": "Cole Witmer",
+   "age": 16,
+   "date": "2023-05-18",
+   "meet": "2023 Martha McKee Charlotte Open",
+   "drop": 1.45
+  },
+  {
+   "time": "28.55",
+   "holder": "Bryson Edwards",
+   "age": 15,
+   "date": "2023-04-29",
+   "meet": "2023 WAVE Sprint Into LC",
+   "drop": 0.1
+  },
+  {
+   "time": "28.65",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-04-30",
+   "meet": "2022 WAVE Sprint Into LC",
+   "drop": 2.67
+  },
+  {
+   "time": "31.32",
+   "holder": "Alex Hill",
+   "age": 14,
+   "date": "2019-07-26",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 1.45
+  },
+  {
+   "time": "32.77",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-07-07",
+   "meet": "2019 NC TAC TITANS July Qualif",
+   "drop": 1.37
+  },
+  {
+   "time": "34.14",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-06-23",
+   "meet": "2019 NC NC YSST Bob Pratt Invite"
+  }
+ ],
+ "M|13-14|400 IM": [
+  {
+   "time": "5:09.59",
+   "holder": "Ryker Eder",
+   "age": 14,
+   "date": "2022-07-15",
+   "meet": "2022 NC LC AG CHAMPS",
+   "drop": 0.07
+  },
+  {
+   "time": "5:09.66",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic"
+  }
+ ],
+ "M|15-16|400 IM": [
+  {
+   "time": "4:56.36",
+   "holder": "Ryker Eder",
+   "age": 15,
+   "date": "2023-07-20",
+   "meet": "2023 NCS LC SR CHAMPS",
+   "drop": 10.49
+  },
+  {
+   "time": "5:06.85",
+   "holder": "Ryker Eder",
+   "age": 15,
+   "date": "2023-06-30",
+   "meet": "2023 CW Eric Namesnik Memorial"
+  }
+ ],
+ "M|17-18|400 IM": [
+  {
+   "time": "4:33.05",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-07-23",
+   "meet": "2025 TYR FUTURES OCALA",
+   "drop": 20.39
+  },
+  {
+   "time": "4:53.44",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-05-15",
+   "meet": "2025 Charlotte Open"
+  }
+ ],
+ "M|Open|400 IM": [
+  {
+   "time": "4:33.05",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-07-23",
+   "meet": "2025 TYR FUTURES OCALA",
+   "drop": 20.39
+  },
+  {
+   "time": "4:53.44",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-05-15",
+   "meet": "2025 Charlotte Open",
+   "drop": 2.92
+  },
+  {
+   "time": "4:56.36",
+   "holder": "Ryker Eder",
+   "age": 15,
+   "date": "2023-07-20",
+   "meet": "2023 NCS LC SR CHAMPS",
+   "drop": 10.49
+  },
+  {
+   "time": "5:06.85",
+   "holder": "Ryker Eder",
+   "age": 15,
+   "date": "2023-06-30",
+   "meet": "2023 CW Eric Namesnik Memorial",
+   "drop": 2.74
+  },
+  {
+   "time": "5:09.59",
+   "holder": "Ryker Eder",
+   "age": 14,
+   "date": "2022-07-15",
+   "meet": "2022 NC LC AG CHAMPS",
+   "drop": 0.07
+  },
+  {
+   "time": "5:09.66",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic"
+  }
+ ],
+ "M|10 & U|50 Back": [
+  {
+   "time": "35.47",
+   "holder": "Hance Mayo",
+   "age": 10,
+   "date": "2021-06-12",
+   "meet": "NC21102 TAC TITANS Triangle Cl",
+   "drop": 11.78
+  },
+  {
+   "time": "47.25",
+   "holder": "Gavin Derry",
+   "age": 10,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 33.21
+  },
+  {
+   "time": "1:20.46",
+   "holder": "William Forbes",
+   "age": 7,
+   "date": "2019-07-26",
+   "meet": "NC HPSC Tar Heel States",
+   "drop": 2.77
+  },
+  {
+   "time": "1:23.23",
+   "holder": "William Forbes",
+   "age": 7,
+   "date": "2019-06-21",
+   "meet": "NC YSST 13th Annual  Bob Pratt",
+   "drop": 1.81
+  },
+  {
+   "time": "1:25.04",
+   "holder": "William Forbes",
+   "age": 7,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|11-12|50 Back": [
+  {
+   "time": "31.79",
+   "holder": "Hance Mayo",
+   "age": 12,
+   "date": "2023-07-13",
+   "meet": "2023 NCS LC AG Champs",
+   "drop": 1.07
+  },
+  {
+   "time": "32.86",
+   "holder": "Hance Mayo",
+   "age": 12,
+   "date": "2023-04-29",
+   "meet": "2023 WAVE Sprint Into LC",
+   "drop": 0.09
+  },
+  {
+   "time": "32.95",
+   "holder": "Hance Mayo",
+   "age": 11,
+   "date": "2022-07-17",
+   "meet": "2022 NC LC AG CHAMPS",
+   "drop": 0.59
+  },
+  {
+   "time": "33.54",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-07-14",
+   "meet": "2019 NC LC AG Championships",
+   "drop": 0.28
+  },
+  {
+   "time": "33.82",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-07-07",
+   "meet": "2019 NC TAC TITANS July Qualif",
+   "drop": 1.42
+  },
+  {
+   "time": "35.24",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-06-23",
+   "meet": "2019 NC NC YSST Bob Pratt Invite",
+   "drop": 12.97
+  },
+  {
+   "time": "48.21",
+   "holder": "Ryker Eder",
+   "age": 11,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|13-14|50 Back": [
+  {
+   "time": "32.05",
+   "holder": "Hance Mayo",
+   "age": 13,
+   "date": "2024-04-27",
+   "meet": "2024 WAVE Sprint Into LC",
+   "drop": 1.21
+  },
+  {
+   "time": "33.26",
+   "holder": "Alex Hill",
+   "age": 14,
+   "date": "2019-07-26",
+   "meet": "2019 NC HPSC Tar Heel States"
+  }
+ ],
+ "M|15-16|50 Back": [
+  {
+   "time": "27.41",
+   "holder": "Cole Witmer",
+   "age": 16,
+   "date": "2023-05-18",
+   "meet": "2023 Martha McKee Charlot-Semi",
+   "drop": 0.59
+  },
+  {
+   "time": "28.00",
+   "holder": "Cole Witmer",
+   "age": 16,
+   "date": "2023-04-16",
+   "meet": "2023 Carolina Crown",
+   "leadoff": true,
+   "drop": 2.06
+  },
+  {
+   "time": "30.06",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-04-30",
+   "meet": "2022 WAVE Sprint Into LC"
+  }
+ ],
+ "M|17-18|50 Back": [
+  {
+   "time": "26.61",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2024-05-16",
+   "meet": "2024 Charlotte Open-Semi",
+   "drop": 0.16
+  },
+  {
+   "time": "26.77",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2023-11-29",
+   "meet": "TT 2023 Toyota US Open Championships"
+  }
+ ],
+ "M|Open|50 Back": [
+  {
+   "time": "26.61",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2024-05-16",
+   "meet": "2024 Charlotte Open-Semi",
+   "drop": 0.16
+  },
+  {
+   "time": "26.77",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2023-11-29",
+   "meet": "TT 2023 Toyota US Open Championships",
+   "drop": 0.64
+  },
+  {
+   "time": "27.41",
+   "holder": "Cole Witmer",
+   "age": 16,
+   "date": "2023-05-18",
+   "meet": "2023 Martha McKee Charlot-Semi",
+   "drop": 0.59
+  },
+  {
+   "time": "28.00",
+   "holder": "Cole Witmer",
+   "age": 16,
+   "date": "2023-04-16",
+   "meet": "2023 Carolina Crown",
+   "leadoff": true,
+   "drop": 2.06
+  },
+  {
+   "time": "30.06",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-04-30",
+   "meet": "2022 WAVE Sprint Into LC",
+   "drop": 3.2
+  },
+  {
+   "time": "33.26",
+   "holder": "Alex Hill",
+   "age": 14,
+   "date": "2019-07-26",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 0.28
+  },
+  {
+   "time": "33.54",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-07-14",
+   "meet": "2019 NC LC AG Championships",
+   "drop": 0.28
+  },
+  {
+   "time": "33.82",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-07-07",
+   "meet": "2019 NC TAC TITANS July Qualif",
+   "drop": 1.42
+  },
+  {
+   "time": "35.24",
+   "holder": "Cole Witmer",
+   "age": 12,
+   "date": "2019-06-23",
+   "meet": "2019 NC NC YSST Bob Pratt Invite",
+   "drop": 12.97
+  },
+  {
+   "time": "48.21",
+   "holder": "Ryker Eder",
+   "age": 11,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|10 & U|100 Free": [
+  {
+   "time": "1:20.61",
+   "holder": "Annderson Petroff",
+   "age": 10,
+   "date": "2023-06-17",
+   "meet": "2023 MOR Liberty Meet",
+   "drop": 0.44
+  },
+  {
+   "time": "1:21.05",
+   "holder": "Gentry Witmer",
+   "age": 10,
+   "date": "2022-04-30",
+   "meet": "2022 WAVE Sprint Into LC",
+   "drop": 5.38
+  },
+  {
+   "time": "1:26.43",
+   "holder": "Gentry Witmer",
+   "age": 9,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 0.88
+  },
+  {
+   "time": "1:27.31",
+   "holder": "Gentry Witmer",
+   "age": 9,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 19.1
+  },
+  {
+   "time": "1:46.41",
+   "holder": "Gentry Witmer",
+   "age": 7,
+   "date": "2019-07-26",
+   "meet": "NC HPSC Tar Heel States",
+   "drop": 5.36
+  },
+  {
+   "time": "1:51.77",
+   "holder": "Gentry Witmer",
+   "age": 7,
+   "date": "2019-06-21",
+   "meet": "NC YSST 13th Annual  Bob Pratt",
+   "drop": 4.67
+  },
+  {
+   "time": "1:56.44",
+   "holder": "Gentry Witmer",
+   "age": 7,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|11-12|100 Free": [
+  {
+   "time": "1:09.11",
+   "holder": "Keener Witmer",
+   "age": 12,
+   "date": "2019-07-07",
+   "meet": "2019 NC TAC TITANS July Qualif",
+   "drop": 0.26
+  },
+  {
+   "time": "1:09.37",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-06-21",
+   "meet": "NC YSST 13th Annual  Bob Pratt",
+   "drop": 1.04
+  },
+  {
+   "time": "1:10.41",
+   "holder": "Keener Witmer",
+   "age": 12,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|13-14|100 Free": [
+  {
+   "time": "1:03.27",
+   "holder": "Gentry Witmer",
+   "age": 14,
+   "date": "2026-06-12",
+   "meet": "2026 SC GAME Summer Classic",
+   "drop": 0.01
+  },
+  {
+   "time": "1:03.28",
+   "holder": "Gentry Witmer",
+   "age": 13,
+   "date": "2025-07-10",
+   "meet": "2025 NC LC SR Championships",
+   "drop": 1.44
+  },
+  {
+   "time": "1:04.72",
+   "holder": "Lila Paukovich",
+   "age": 14,
+   "date": "2025-06-12",
+   "meet": "2025 Summer Classic",
+   "drop": 0.57
+  },
+  {
+   "time": "1:05.29",
+   "holder": "Violet Derry",
+   "age": 14,
+   "date": "2023-06-17",
+   "meet": "2023 MOR Liberty Meet",
+   "drop": 0.11
+  },
+  {
+   "time": "1:05.40",
+   "holder": "Keener Witmer",
+   "age": 14,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 0.91
+  },
+  {
+   "time": "1:06.31",
+   "holder": "Keener Witmer",
+   "age": 14,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 6.7
+  },
+  {
+   "time": "1:13.01",
+   "holder": "Eppy Camacho",
+   "age": 14,
+   "date": "2019-07-26",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 0.65
+  },
+  {
+   "time": "1:13.66",
+   "holder": "Eppy Camacho",
+   "age": 13,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|15-16|100 Free": [
+  {
+   "time": "1:02.69",
+   "holder": "Keener Witmer",
+   "age": 16,
+   "date": "2023-07-23",
+   "meet": "2023 NCS LC SR CHAMPS",
+   "drop": 0.91
+  },
+  {
+   "time": "1:03.60",
+   "holder": "Keener Witmer",
+   "age": 16,
+   "date": "2023-07-09",
+   "meet": "2023 TAC TITANS July Qualifier",
+   "drop": 0.81
+  },
+  {
+   "time": "1:04.41",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-04-30",
+   "meet": "2022 WAVE Sprint Into LC",
+   "drop": 4.43
+  },
+  {
+   "time": "1:08.84",
+   "holder": "Riley Hubard",
+   "age": 16,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash"
+  }
+ ],
+ "F|17-18|100 Free": [
+  {
+   "time": "1:03.17",
+   "holder": "Madi Joy",
+   "age": 18,
+   "date": "2024-04-27",
+   "meet": "2024 WAVE Sprint Into LC",
+   "drop": 9.34
+  },
+  {
+   "time": "1:12.51",
+   "holder": "Olivia King",
+   "age": 17,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash"
+  }
+ ],
+ "F|Open|100 Free": [
+  {
+   "time": "1:02.69",
+   "holder": "Keener Witmer",
+   "age": 16,
+   "date": "2023-07-23",
+   "meet": "2023 NCS LC SR CHAMPS",
+   "drop": 0.91
+  },
+  {
+   "time": "1:03.60",
+   "holder": "Keener Witmer",
+   "age": 16,
+   "date": "2023-07-09",
+   "meet": "2023 TAC TITANS July Qualifier",
+   "drop": 0.81
+  },
+  {
+   "time": "1:04.41",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-04-30",
+   "meet": "2022 WAVE Sprint Into LC",
+   "drop": 0.99
+  },
+  {
+   "time": "1:05.40",
+   "holder": "Keener Witmer",
+   "age": 14,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 0.91
+  },
+  {
+   "time": "1:06.31",
+   "holder": "Keener Witmer",
+   "age": 14,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 2.8
+  },
+  {
+   "time": "1:09.11",
+   "holder": "Keener Witmer",
+   "age": 12,
+   "date": "2019-07-07",
+   "meet": "2019 NC TAC TITANS July Qualif",
+   "drop": 0.26
+  },
+  {
+   "time": "1:09.37",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-06-21",
+   "meet": "NC YSST 13th Annual  Bob Pratt",
+   "drop": 1.04
+  },
+  {
+   "time": "1:10.41",
+   "holder": "Keener Witmer",
+   "age": 12,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|10 & U|50 Free": [
+  {
+   "time": "33.33",
+   "holder": "Gentry Witmer",
+   "age": 10,
+   "date": "2022-07-15",
+   "meet": "2022 NC LC AG CHAMPS",
+   "drop": 3.22
+  },
+  {
+   "time": "36.55",
+   "holder": "Nina Crowley",
+   "age": 10,
+   "date": "2022-06-03",
+   "meet": "2022 STAR Andrew E Hartle Invitational",
+   "leadoff": true,
+   "drop": 0.27
+  },
+  {
+   "time": "36.82",
+   "holder": "Gentry Witmer",
+   "age": 10,
+   "date": "2022-05-01",
+   "meet": "2022 WAVE Sprint Into LC",
+   "drop": 1.41
+  },
+  {
+   "time": "38.23",
+   "holder": "Gentry Witmer",
+   "age": 9,
+   "date": "2021-06-13",
+   "meet": "NC21102 TAC TITANS Triangle Cl",
+   "drop": 1.49
+  },
+  {
+   "time": "39.72",
+   "holder": "Gentry Witmer",
+   "age": 9,
+   "date": "2021-05-23",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 5.4
+  },
+  {
+   "time": "45.12",
+   "holder": "Asheford R House",
+   "age": 9,
+   "date": "2019-07-27",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 1.74
+  },
+  {
+   "time": "46.86",
+   "holder": "Gentry Witmer",
+   "age": 7,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|11-12|50 Free": [
+  {
+   "time": "30.26",
+   "holder": "Keener Witmer",
+   "age": 12,
+   "date": "2019-07-07",
+   "meet": "2019 NC TAC TITANS July Qualif",
+   "drop": 0.59
+  },
+  {
+   "time": "30.85",
+   "holder": "Keener Witmer",
+   "age": 12,
+   "date": "2019-06-23",
+   "meet": "2019 NC NC YSST Bob Pratt Invite",
+   "drop": 0.02
+  },
+  {
+   "time": "30.87",
+   "holder": "Keener Witmer",
+   "age": 12,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|13-14|50 Free": [
+  {
+   "time": "29.08",
+   "holder": "Gentry Witmer",
+   "age": 13,
+   "date": "2025-07-10",
+   "meet": "2025 NC LC SR Championships",
+   "drop": 0.24
+  },
+  {
+   "time": "29.32",
+   "holder": "Lila Paukovich",
+   "age": 14,
+   "date": "2025-06-12",
+   "meet": "2025 Summer Classic",
+   "tied": true
+  },
+  {
+   "time": "29.32",
+   "holder": "Keener Witmer",
+   "age": 14,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 1.22
+  },
+  {
+   "time": "30.54",
+   "holder": "Keener Witmer",
+   "age": 14,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 3.14
+  },
+  {
+   "time": "33.68",
+   "holder": "Cadence Eder",
+   "age": 13,
+   "date": "2019-07-27",
+   "meet": "2019 NC HPSC Tar Heel States"
+  }
+ ],
+ "F|15-16|50 Free": [
+  {
+   "time": "28.44",
+   "holder": "Violet Derry",
+   "age": 15,
+   "date": "2024-07-18",
+   "meet": "2024 NCS LC SR CHAMPS",
+   "drop": 0.06
+  },
+  {
+   "time": "28.50",
+   "holder": "Keener Witmer",
+   "age": 16,
+   "date": "2023-07-22",
+   "meet": "2023 NCS LC SR CHAMPS",
+   "drop": 0.38
+  },
+  {
+   "time": "28.88",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-07-27",
+   "meet": "2022 Futures Championships - C",
+   "drop": 0.18
+  },
+  {
+   "time": "29.06",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-07-02",
+   "meet": "2022 Eric Namesnik Memorial Op",
+   "drop": 0.43
+  },
+  {
+   "time": "29.49",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-05-01",
+   "meet": "2022 WAVE Sprint Into LC",
+   "drop": 2.04
+  },
+  {
+   "time": "31.53",
+   "holder": "Riley Hubard",
+   "age": 16,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash"
+  }
+ ],
+ "F|17-18|50 Free": [
+  {
+   "time": "28.63",
+   "holder": "Sophie Wert",
+   "age": 17,
+   "date": "2026-06-19",
+   "meet": "2026 GCST MARK MCCAW SUMMER INVITE",
+   "drop": 0.05
+  },
+  {
+   "time": "28.68",
+   "holder": "Sophie Wert",
+   "age": 17,
+   "date": "2026-05-15",
+   "meet": "2026 TAC TITANS Spring Fling Meet",
+   "drop": 0.33
+  },
+  {
+   "time": "29.01",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-07-11",
+   "meet": "2021 NC TAC TITANS July Qualifier"
+  }
+ ],
+ "F|Open|50 Free": [
+  {
+   "time": "28.44",
+   "holder": "Violet Derry",
+   "age": 15,
+   "date": "2024-07-18",
+   "meet": "2024 NCS LC SR CHAMPS",
+   "drop": 0.06
+  },
+  {
+   "time": "28.50",
+   "holder": "Keener Witmer",
+   "age": 16,
+   "date": "2023-07-22",
+   "meet": "2023 NCS LC SR CHAMPS",
+   "drop": 0.38
+  },
+  {
+   "time": "28.88",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-07-27",
+   "meet": "2022 Futures Championships - C",
+   "drop": 0.13
+  },
+  {
+   "time": "29.01",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-07-11",
+   "meet": "2021 NC TAC TITANS July Qualifier",
+   "drop": 0.31
+  },
+  {
+   "time": "29.32",
+   "holder": "Keener Witmer",
+   "age": 14,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 0.94
+  },
+  {
+   "time": "30.26",
+   "holder": "Keener Witmer",
+   "age": 12,
+   "date": "2019-07-07",
+   "meet": "2019 NC TAC TITANS July Qualif",
+   "drop": 0.59
+  },
+  {
+   "time": "30.85",
+   "holder": "Keener Witmer",
+   "age": 12,
+   "date": "2019-06-23",
+   "meet": "2019 NC NC YSST Bob Pratt Invite",
+   "drop": 0.02
+  },
+  {
+   "time": "30.87",
+   "holder": "Keener Witmer",
+   "age": 12,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|10 & U|200 IM": [
+  {
+   "time": "3:11.54",
+   "holder": "Eliza Amin",
+   "age": 10,
+   "date": "2023-06-17",
+   "meet": "2023 MOR Liberty Meet",
+   "drop": 19.87
+  },
+  {
+   "time": "3:31.41",
+   "holder": "Nina Crowley",
+   "age": 10,
+   "date": "2022-06-05",
+   "meet": "2022 STAR Andrew E Hartle Invi",
+   "drop": 5.64
+  },
+  {
+   "time": "3:37.05",
+   "holder": "Gentry Witmer",
+   "age": 9,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic"
+  }
+ ],
+ "F|11-12|200 IM": [
+  {
+   "time": "2:51.71",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-07-26",
+   "meet": "NC HPSC Tar Heel States"
+  }
+ ],
+ "F|13-14|200 IM": [
+  {
+   "time": "2:36.32",
+   "holder": "Gentry Witmer",
+   "age": 14,
+   "date": "2026-07-09",
+   "meet": "2026 NC LC SR Championships - copied",
+   "drop": 1.79
+  },
+  {
+   "time": "2:38.11",
+   "holder": "Gentry Witmer",
+   "age": 13,
+   "date": "2025-07-10",
+   "meet": "2025 NC LC SR Championships",
+   "drop": 7.85
+  },
+  {
+   "time": "2:45.96",
+   "holder": "Abby Forbes",
+   "age": 14,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 16.25
+  },
+  {
+   "time": "3:02.21",
+   "holder": "Eppy Camacho",
+   "age": 14,
+   "date": "2019-07-26",
+   "meet": "2019 NC HPSC Tar Heel States"
+  }
+ ],
+ "F|15-16|200 IM": [
+  {
+   "time": "2:35.15",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-07-03",
+   "meet": "2022 Eric Namesnik Memorial Op",
+   "drop": 10.94
+  },
+  {
+   "time": "2:46.09",
+   "holder": "Eppy Camacho",
+   "age": 16,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 7.17
+  },
+  {
+   "time": "2:53.26",
+   "holder": "Eppy Camacho",
+   "age": 15,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash"
+  }
+ ],
+ "F|17-18|200 IM": [
+  {
+   "time": "2:29.28",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-07-27",
+   "meet": "2021 Southern Zone Senior Championships",
+   "drop": 2.63
+  },
+  {
+   "time": "2:31.91",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 1.6
+  },
+  {
+   "time": "2:33.51",
+   "holder": "Liza Murtagh",
+   "age": 17,
+   "date": "2021-04-24",
+   "meet": "2021 Carolina Crown"
+  }
+ ],
+ "F|Open|200 IM": [
+  {
+   "time": "2:29.28",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-07-27",
+   "meet": "2021 Southern Zone Senior Championships",
+   "drop": 2.63
+  },
+  {
+   "time": "2:31.91",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 1.6
+  },
+  {
+   "time": "2:33.51",
+   "holder": "Liza Murtagh",
+   "age": 17,
+   "date": "2021-04-24",
+   "meet": "2021 Carolina Crown",
+   "drop": 18.2
+  },
+  {
+   "time": "2:51.71",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-07-26",
+   "meet": "NC HPSC Tar Heel States"
+  }
+ ],
+ "F|10 & U|100 Back": [
+  {
+   "time": "1:28.71",
+   "holder": "Gentry Witmer",
+   "age": 10,
+   "date": "2022-07-16",
+   "meet": "2022 NC LC AG CHAMPS",
+   "drop": 2.26
+  },
+  {
+   "time": "1:30.97",
+   "holder": "Gentry Witmer",
+   "age": 10,
+   "date": "2022-05-01",
+   "meet": "2022 WAVE Sprint Into LC",
+   "drop": 7.25
+  },
+  {
+   "time": "1:38.22",
+   "holder": "Gentry Witmer",
+   "age": 9,
+   "date": "2021-05-23",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 23.42
+  },
+  {
+   "time": "2:01.64",
+   "holder": "Gentry Witmer",
+   "age": 7,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|11-12|100 Back": [
+  {
+   "time": "1:18.96",
+   "holder": "Gentry Witmer",
+   "age": 12,
+   "date": "2024-06-22",
+   "meet": "2024 GOLD Summer Splash",
+   "drop": 1.12
+  },
+  {
+   "time": "1:20.08",
+   "holder": "Gentry Witmer",
+   "age": 12,
+   "date": "2024-04-27",
+   "meet": "2024 WAVE Sprint Into LC",
+   "drop": 3.62
+  },
+  {
+   "time": "1:23.70",
+   "holder": "Violet Derry",
+   "age": 12,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 1.83
+  },
+  {
+   "time": "1:25.53",
+   "holder": "Keener Witmer",
+   "age": 12,
+   "date": "2019-07-27",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 1.25
+  },
+  {
+   "time": "1:26.78",
+   "holder": "Keener Witmer",
+   "age": 12,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|13-14|100 Back": [
+  {
+   "time": "1:11.65",
+   "holder": "Gentry Witmer",
+   "age": 14,
+   "date": "2026-06-12",
+   "meet": "2026 SC GAME Summer Classic",
+   "drop": 1.94
+  },
+  {
+   "time": "1:13.59",
+   "holder": "Gentry Witmer",
+   "age": 13,
+   "date": "2025-07-10",
+   "meet": "2025 NC LC SR Championships",
+   "drop": 1.74
+  },
+  {
+   "time": "1:15.33",
+   "holder": "Sophie Wert",
+   "age": 14,
+   "date": "2023-07-20",
+   "meet": "2023 NCS LC SR CHAMPS",
+   "drop": 1.68
+  },
+  {
+   "time": "1:17.01",
+   "holder": "Violet Derry",
+   "age": 14,
+   "date": "2023-05-19",
+   "meet": "2023 SFSC LC May Memorial Invitational",
+   "drop": 0.85
+  },
+  {
+   "time": "1:17.86",
+   "holder": "Keener Witmer",
+   "age": 14,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 2.6
+  },
+  {
+   "time": "1:20.46",
+   "holder": "Abby Forbes",
+   "age": 14,
+   "date": "2021-05-23",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 8.34
+  },
+  {
+   "time": "1:28.80",
+   "holder": "Cadence Eder",
+   "age": 13,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|15-16|100 Back": [
+  {
+   "time": "1:06.29",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-07-28",
+   "meet": "2022 Futures Championships - C",
+   "drop": 0.33
+  },
+  {
+   "time": "1:06.62",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-07-02",
+   "meet": "2022 Eric Namesnik Memorial Op",
+   "drop": 0.5
+  },
+  {
+   "time": "1:07.12",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-05-21",
+   "meet": "2022 Martha McKee Charlotte Op",
+   "drop": 1.25
+  },
+  {
+   "time": "1:08.37",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-04-23",
+   "meet": "2022 SC Carolina Crown",
+   "drop": 11.44
+  },
+  {
+   "time": "1:19.81",
+   "holder": "Leah Murtagh",
+   "age": 16,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 4.26
+  },
+  {
+   "time": "1:24.07",
+   "holder": "Cadence Eder",
+   "age": 15,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash"
+  }
+ ],
+ "F|17-18|100 Back": [
+  {
+   "time": "1:04.71",
+   "holder": "Madi Joy",
+   "age": 17,
+   "date": "2023-07-26",
+   "meet": "2023 Futures Championships - OCALA",
+   "drop": 0.44
+  },
+  {
+   "time": "1:05.15",
+   "holder": "Madi Joy",
+   "age": 17,
+   "date": "2023-07-01",
+   "meet": "2023 CW Eric Namesnik Memorial",
+   "drop": 0.86
+  },
+  {
+   "time": "1:06.01",
+   "holder": "Madi Joy",
+   "age": 17,
+   "date": "2023-05-18",
+   "meet": "2023 Martha McKee Charlotte Open",
+   "drop": 2.05
+  },
+  {
+   "time": "1:08.06",
+   "holder": "Madi Joy",
+   "age": 17,
+   "date": "2023-04-16",
+   "meet": "2023 Carolina Crown"
+  }
+ ],
+ "F|Open|100 Back": [
+  {
+   "time": "1:04.26",
+   "holder": "Sami Rydzewski",
+   "age": 19,
+   "date": "2025-07-10",
+   "meet": "2025 NC LC SR Championships",
+   "drop": 0.15
+  },
+  {
+   "time": "1:04.41",
+   "holder": "Sami Rydzewski",
+   "age": 19,
+   "date": "2025-05-15",
+   "meet": "2025 Charlotte Open",
+   "drop": 0.3
+  },
+  {
+   "time": "1:04.71",
+   "holder": "Madi Joy",
+   "age": 17,
+   "date": "2023-07-26",
+   "meet": "2023 Futures Championships - OCALA",
+   "drop": 0.44
+  },
+  {
+   "time": "1:05.15",
+   "holder": "Madi Joy",
+   "age": 17,
+   "date": "2023-07-01",
+   "meet": "2023 CW Eric Namesnik Memorial",
+   "drop": 0.86
+  },
+  {
+   "time": "1:06.01",
+   "holder": "Madi Joy",
+   "age": 17,
+   "date": "2023-05-18",
+   "meet": "2023 Martha McKee Charlotte Open",
+   "drop": 0.28
+  },
+  {
+   "time": "1:06.29",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-07-28",
+   "meet": "2022 Futures Championships - C",
+   "drop": 0.33
+  },
+  {
+   "time": "1:06.62",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-07-02",
+   "meet": "2022 Eric Namesnik Memorial Op",
+   "drop": 0.5
+  },
+  {
+   "time": "1:07.12",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-05-21",
+   "meet": "2022 Martha McKee Charlotte Op",
+   "drop": 1.25
+  },
+  {
+   "time": "1:08.37",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-04-23",
+   "meet": "2022 SC Carolina Crown",
+   "drop": 9.49
+  },
+  {
+   "time": "1:17.86",
+   "holder": "Keener Witmer",
+   "age": 14,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 2.6
+  },
+  {
+   "time": "1:20.46",
+   "holder": "Abby Forbes",
+   "age": 14,
+   "date": "2021-05-23",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 5.07
+  },
+  {
+   "time": "1:25.53",
+   "holder": "Keener Witmer",
+   "age": 12,
+   "date": "2019-07-27",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 1.25
+  },
+  {
+   "time": "1:26.78",
+   "holder": "Keener Witmer",
+   "age": 12,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|10 & U|100 Fly": [
+  {
+   "time": "1:34.56",
+   "holder": "Annderson Petroff",
+   "age": 10,
+   "date": "2023-07-13",
+   "meet": "2023 NCS LC AG Champs",
+   "drop": 1.5
+  },
+  {
+   "time": "1:36.06",
+   "holder": "Eliza Amin",
+   "age": 10,
+   "date": "2023-04-29",
+   "meet": "2023 WAVE Sprint Into LC",
+   "drop": 1.67
+  },
+  {
+   "time": "1:37.73",
+   "holder": "Gentry Witmer",
+   "age": 10,
+   "date": "2022-07-15",
+   "meet": "2022 NC LC AG CHAMPS",
+   "drop": 13.08
+  },
+  {
+   "time": "1:50.81",
+   "holder": "Annderson Petroff",
+   "age": 9,
+   "date": "2022-05-01",
+   "meet": "2022 WAVE Sprint Into LC"
+  }
+ ],
+ "F|11-12|100 Fly": [
+  {
+   "time": "1:13.20",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-07-12",
+   "meet": "2019 NC LC AG Championships",
+   "drop": 4.16
+  },
+  {
+   "time": "1:17.36",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-06-21",
+   "meet": "NC YSST 13th Annual  Bob Pratt",
+   "drop": 9.93
+  },
+  {
+   "time": "1:27.29",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|13-14|100 Fly": [
+  {
+   "time": "1:08.21",
+   "holder": "Gentry Witmer",
+   "age": 14,
+   "date": "2026-07-09",
+   "meet": "2026 NC LC SR Championships - copied",
+   "drop": 1.43
+  },
+  {
+   "time": "1:09.64",
+   "holder": "Gentry Witmer",
+   "age": 14,
+   "date": "2026-06-12",
+   "meet": "2026 SC GAME Summer Classic",
+   "drop": 0.36
+  },
+  {
+   "time": "1:10.00",
+   "holder": "Gentry Witmer",
+   "age": 13,
+   "date": "2025-07-10",
+   "meet": "2025 NC LC SR Championships",
+   "drop": 1.28
+  },
+  {
+   "time": "1:11.28",
+   "holder": "Abby Forbes",
+   "age": 14,
+   "date": "2021-07-16",
+   "meet": "2021 NC NCS LC AG Champs",
+   "drop": 0.96
+  },
+  {
+   "time": "1:12.24",
+   "holder": "Abby Forbes",
+   "age": 14,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash"
+  }
+ ],
+ "F|15-16|100 Fly": [
+  {
+   "time": "1:07.16",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-07-29",
+   "meet": "2022 Futures Championships - C",
+   "drop": 0.8
+  },
+  {
+   "time": "1:07.96",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-05-20",
+   "meet": "2022 Martha McKee Charlotte Op",
+   "drop": 3.38
+  },
+  {
+   "time": "1:11.34",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-05-01",
+   "meet": "2022 WAVE Sprint Into LC",
+   "drop": 2.91
+  },
+  {
+   "time": "1:14.25",
+   "holder": "Abby Forbes",
+   "age": 15,
+   "date": "2022-04-23",
+   "meet": "2022 SC Carolina Crown"
+  }
+ ],
+ "F|17-18|100 Fly": [
+  {
+   "time": "1:03.97",
+   "holder": "Madi Joy",
+   "age": 17,
+   "date": "2023-07-26",
+   "meet": "2023 Futures Championships - OCALA",
+   "drop": 0.74
+  },
+  {
+   "time": "1:04.71",
+   "holder": "Madi Joy",
+   "age": 17,
+   "date": "2023-06-30",
+   "meet": "2023 CW Eric Namesnik Memorial",
+   "drop": 2.26
+  },
+  {
+   "time": "1:06.97",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-07-27",
+   "meet": "2021 Southern Zone Senior Championships"
+  }
+ ],
+ "F|Open|100 Fly": [
+  {
+   "time": "1:03.97",
+   "holder": "Madi Joy",
+   "age": 17,
+   "date": "2023-07-26",
+   "meet": "2023 Futures Championships - OCALA",
+   "drop": 0.74
+  },
+  {
+   "time": "1:04.71",
+   "holder": "Madi Joy",
+   "age": 17,
+   "date": "2023-06-30",
+   "meet": "2023 CW Eric Namesnik Memorial",
+   "drop": 2.26
+  },
+  {
+   "time": "1:06.97",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-07-27",
+   "meet": "2021 Southern Zone Senior Championships",
+   "drop": 4.31
+  },
+  {
+   "time": "1:11.28",
+   "holder": "Abby Forbes",
+   "age": 14,
+   "date": "2021-07-16",
+   "meet": "2021 NC NCS LC AG Champs",
+   "drop": 0.96
+  },
+  {
+   "time": "1:12.24",
+   "holder": "Abby Forbes",
+   "age": 14,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 0.96
+  },
+  {
+   "time": "1:13.20",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-07-12",
+   "meet": "2019 NC LC AG Championships",
+   "drop": 4.16
+  },
+  {
+   "time": "1:17.36",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-06-21",
+   "meet": "NC YSST 13th Annual  Bob Pratt",
+   "drop": 9.93
+  },
+  {
+   "time": "1:27.29",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|10 & U|100 Breast": [
+  {
+   "time": "1:39.81",
+   "holder": "Eliza Amin",
+   "age": 10,
+   "date": "2023-07-13",
+   "meet": "2023 NCS LC AG Champs",
+   "drop": 0.87
+  },
+  {
+   "time": "1:40.68",
+   "holder": "Eliza Amin",
+   "age": 10,
+   "date": "2023-04-29",
+   "meet": "2023 WAVE Sprint Into LC",
+   "drop": 9.59
+  },
+  {
+   "time": "1:50.27",
+   "holder": "Nina Crowley",
+   "age": 10,
+   "date": "2022-04-30",
+   "meet": "2022 WAVE Sprint Into LC",
+   "drop": 12.41
+  },
+  {
+   "time": "2:02.68",
+   "holder": "Nina Crowley",
+   "age": 9,
+   "date": "2021-06-12",
+   "meet": "NC21102 TAC TITANS Triangle Cl",
+   "drop": 10.43
+  },
+  {
+   "time": "2:13.11",
+   "holder": "Eliza Amin",
+   "age": 8,
+   "date": "2021-05-23",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 5.5
+  },
+  {
+   "time": "2:18.61",
+   "holder": "Gentry Witmer",
+   "age": 7,
+   "date": "2019-07-26",
+   "meet": "NC HPSC Tar Heel States",
+   "drop": 7.41
+  },
+  {
+   "time": "2:26.02",
+   "holder": "Gentry Witmer",
+   "age": 7,
+   "date": "2019-06-21",
+   "meet": "NC YSST 13th Annual  Bob Pratt",
+   "drop": 0.08
+  },
+  {
+   "time": "2:26.10",
+   "holder": "Gentry Witmer",
+   "age": 7,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|11-12|100 Breast": [
+  {
+   "time": "1:28.53",
+   "holder": "Olivia Crowley",
+   "age": 12,
+   "date": "2021-07-11",
+   "meet": "2021 NC TAC TITANS July Qualifier",
+   "drop": 7.23
+  },
+  {
+   "time": "1:35.76",
+   "holder": "Olivia Crowley",
+   "age": 12,
+   "date": "2021-06-13",
+   "meet": "NC21102 TAC TITANS Triangle Cl",
+   "drop": 2.08
+  },
+  {
+   "time": "1:37.84",
+   "holder": "Olivia Crowley",
+   "age": 12,
+   "date": "2021-05-23",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 5.56
+  },
+  {
+   "time": "1:43.40",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-07-26",
+   "meet": "NC HPSC Tar Heel States",
+   "drop": 6.09
+  },
+  {
+   "time": "1:49.49",
+   "holder": "Emmie N Backman",
+   "age": 12,
+   "date": "2019-06-23",
+   "meet": "2019 NC NC YSST Bob Pratt Invite",
+   "drop": 3.08
+  },
+  {
+   "time": "1:52.57",
+   "holder": "Sallie Brown",
+   "age": 11,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|13-14|100 Breast": [
+  {
+   "time": "1:23.50",
+   "holder": "Abigail Blair",
+   "age": 14,
+   "date": "2026-07-09",
+   "meet": "2026 NC LC SR Championships - copied",
+   "drop": 1.05
+  },
+  {
+   "time": "1:24.55",
+   "holder": "Abigail Blair",
+   "age": 14,
+   "date": "2026-06-19",
+   "meet": "2026 GCST MARK MCCAW SUMMER INVITE",
+   "drop": 0.64
+  },
+  {
+   "time": "1:25.19",
+   "holder": "Abigail Blair",
+   "age": 14,
+   "date": "2026-05-15",
+   "meet": "2026 TAC TITANS Spring Fling Meet",
+   "drop": 2.57
+  },
+  {
+   "time": "1:27.76",
+   "holder": "Olivia Crowley",
+   "age": 14,
+   "date": "2023-04-29",
+   "meet": "2023 WAVE Sprint Into LC",
+   "drop": 2.25
+  },
+  {
+   "time": "1:30.01",
+   "holder": "Olivia Crowley",
+   "age": 13,
+   "date": "2022-04-30",
+   "meet": "2022 WAVE Sprint Into LC",
+   "drop": 0.79
+  },
+  {
+   "time": "1:30.80",
+   "holder": "Eppy Camacho",
+   "age": 13,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|15-16|100 Breast": [
+  {
+   "time": "1:22.13",
+   "holder": "Sophie Wert",
+   "age": 16,
+   "date": "2025-07-10",
+   "meet": "2025 NC LC SR Championships",
+   "drop": 0.33
+  },
+  {
+   "time": "1:22.46",
+   "holder": "Sophie Wert",
+   "age": 16,
+   "date": "2025-06-20",
+   "meet": "2025 GCST MARK MCCAW SUMMER",
+   "drop": 0.84
+  },
+  {
+   "time": "1:23.30",
+   "holder": "Eppy Camacho",
+   "age": 16,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 1.98
+  },
+  {
+   "time": "1:25.28",
+   "holder": "Eppy Camacho",
+   "age": 15,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash"
+  }
+ ],
+ "F|17-18|100 Breast": [
+  {
+   "time": "1:18.48",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-07-27",
+   "meet": "2021 Southern Zone Senior Championships",
+   "drop": 0.43
+  },
+  {
+   "time": "1:18.91",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 2.11
+  },
+  {
+   "time": "1:21.02",
+   "holder": "Liza Murtagh",
+   "age": 17,
+   "date": "2021-04-24",
+   "meet": "2021 Carolina Crown"
+  }
+ ],
+ "F|Open|100 Breast": [
+  {
+   "time": "1:18.48",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-07-27",
+   "meet": "2021 Southern Zone Senior Championships",
+   "drop": 0.43
+  },
+  {
+   "time": "1:18.91",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 2.11
+  },
+  {
+   "time": "1:21.02",
+   "holder": "Liza Murtagh",
+   "age": 17,
+   "date": "2021-04-24",
+   "meet": "2021 Carolina Crown",
+   "drop": 9.78
+  },
+  {
+   "time": "1:30.80",
+   "holder": "Eppy Camacho",
+   "age": 13,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|11-12|200 Breast": [
+  {
+   "time": "3:04.23",
+   "holder": "Behr Petroff",
+   "age": 12,
+   "date": "2022-07-17",
+   "meet": "2022 NC LC AG CHAMPS",
+   "drop": 18.69
+  },
+  {
+   "time": "3:22.92",
+   "holder": "Behr Petroff",
+   "age": 11,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 20.94
+  },
+  {
+   "time": "3:43.86",
+   "holder": "Ryker Eder",
+   "age": 11,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|13-14|200 Breast": [
+  {
+   "time": "2:47.28",
+   "holder": "Ryker Eder",
+   "age": 14,
+   "date": "2022-07-16",
+   "meet": "2022 NC LC AG CHAMPS",
+   "drop": 9.04
+  },
+  {
+   "time": "2:56.32",
+   "holder": "Ryker Eder",
+   "age": 14,
+   "date": "2022-06-12",
+   "meet": "2022 Swim Collegiate Series",
+   "drop": 5.78
+  },
+  {
+   "time": "3:02.10",
+   "holder": "Ryker Eder",
+   "age": 13,
+   "date": "2021-06-12",
+   "meet": "NC21102 TAC TITANS Triangle Cl",
+   "drop": 2.09
+  },
+  {
+   "time": "3:04.19",
+   "holder": "Ryker Eder",
+   "age": 13,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 16.86
+  },
+  {
+   "time": "3:21.05",
+   "holder": "Philip Brown III",
+   "age": 14,
+   "date": "2019-06-23",
+   "meet": "2019 NC NC YSST Bob Pratt Invite",
+   "drop": 4.41
+  },
+  {
+   "time": "3:25.46",
+   "holder": "Philip Brown III",
+   "age": 13,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|15-16|200 Breast": [
+  {
+   "time": "2:32.41",
+   "holder": "Behr Petroff",
+   "age": 16,
+   "date": "2026-07-09",
+   "meet": "2026 NC LC SR Championships - copied",
+   "drop": 0.45
+  },
+  {
+   "time": "2:32.86",
+   "holder": "Behr Petroff",
+   "age": 16,
+   "date": "2026-05-14",
+   "meet": "2026 Charlotte Open",
+   "drop": 5.23
+  },
+  {
+   "time": "2:38.09",
+   "holder": "Ryker Eder",
+   "age": 16,
+   "date": "2024-07-24",
+   "meet": "2024 Futures Championships - Austin",
+   "drop": 3.31
+  },
+  {
+   "time": "2:41.40",
+   "holder": "Ryker Eder",
+   "age": 16,
+   "date": "2024-05-16",
+   "meet": "2024 Charlotte Open",
+   "drop": 1.12
+  },
+  {
+   "time": "2:42.52",
+   "holder": "Ryker Eder",
+   "age": 15,
+   "date": "2023-07-20",
+   "meet": "2023 NCS LC SR CHAMPS",
+   "drop": 4.43
+  },
+  {
+   "time": "2:46.95",
+   "holder": "Ryker Eder",
+   "age": 15,
+   "date": "2023-07-01",
+   "meet": "2023 CW Eric Namesnik Memorial",
+   "drop": 14.01
+  },
+  {
+   "time": "3:00.96",
+   "holder": "Ryker Eder",
+   "age": 15,
+   "date": "2023-04-16",
+   "meet": "2023 Carolina Crown"
+  }
+ ],
+ "M|17-18|200 Breast": [
+  {
+   "time": "2:37.49",
+   "holder": "Ryker Eder",
+   "age": 18,
+   "date": "2026-07-29",
+   "meet": "2026 Futures Championship - Knoxville",
+   "drop": 0.31
+  },
+  {
+   "time": "2:37.80",
+   "holder": "Ryker Eder",
+   "age": 17,
+   "date": "2025-07-10",
+   "meet": "2025 NC LC SR Championships",
+   "drop": 2.73
+  },
+  {
+   "time": "2:40.53",
+   "holder": "Ryker Eder",
+   "age": 17,
+   "date": "2025-06-12",
+   "meet": "2025 Summer Classic",
+   "drop": 5.56
+  },
+  {
+   "time": "2:46.09",
+   "holder": "Cole Witmer",
+   "age": 17,
+   "date": "2024-06-23",
+   "meet": "2024 GOLD Summer Splash"
+  }
+ ],
+ "M|Open|200 Breast": [
+  {
+   "time": "2:32.41",
+   "holder": "Behr Petroff",
+   "age": 16,
+   "date": "2026-07-09",
+   "meet": "2026 NC LC SR Championships - copied",
+   "drop": 0.45
+  },
+  {
+   "time": "2:32.86",
+   "holder": "Behr Petroff",
+   "age": 16,
+   "date": "2026-05-14",
+   "meet": "2026 Charlotte Open",
+   "drop": 4.94
+  },
+  {
+   "time": "2:37.80",
+   "holder": "Ryker Eder",
+   "age": 17,
+   "date": "2025-07-10",
+   "meet": "2025 NC LC SR Championships",
+   "drop": 0.29
+  },
+  {
+   "time": "2:38.09",
+   "holder": "Ryker Eder",
+   "age": 16,
+   "date": "2024-07-24",
+   "meet": "2024 Futures Championships - Austin",
+   "drop": 3.31
+  },
+  {
+   "time": "2:41.40",
+   "holder": "Ryker Eder",
+   "age": 16,
+   "date": "2024-05-16",
+   "meet": "2024 Charlotte Open",
+   "drop": 1.12
+  },
+  {
+   "time": "2:42.52",
+   "holder": "Ryker Eder",
+   "age": 15,
+   "date": "2023-07-20",
+   "meet": "2023 NCS LC SR CHAMPS",
+   "drop": 4.43
+  },
+  {
+   "time": "2:46.95",
+   "holder": "Ryker Eder",
+   "age": 15,
+   "date": "2023-07-01",
+   "meet": "2023 CW Eric Namesnik Memorial",
+   "drop": 0.33
+  },
+  {
+   "time": "2:47.28",
+   "holder": "Ryker Eder",
+   "age": 14,
+   "date": "2022-07-16",
+   "meet": "2022 NC LC AG CHAMPS",
+   "drop": 9.04
+  },
+  {
+   "time": "2:56.32",
+   "holder": "Ryker Eder",
+   "age": 14,
+   "date": "2022-06-12",
+   "meet": "2022 Swim Collegiate Series",
+   "drop": 5.78
+  },
+  {
+   "time": "3:02.10",
+   "holder": "Ryker Eder",
+   "age": 13,
+   "date": "2021-06-12",
+   "meet": "NC21102 TAC TITANS Triangle Cl",
+   "drop": 2.09
+  },
+  {
+   "time": "3:04.19",
+   "holder": "Ryker Eder",
+   "age": 13,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 16.86
+  },
+  {
+   "time": "3:21.05",
+   "holder": "Philip Brown III",
+   "age": 14,
+   "date": "2019-06-23",
+   "meet": "2019 NC NC YSST Bob Pratt Invite",
+   "drop": 4.41
+  },
+  {
+   "time": "3:25.46",
+   "holder": "Philip Brown III",
+   "age": 13,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|13-14|200 Fly": [
+  {
+   "time": "2:26.12",
+   "holder": "Ryker Eder",
+   "age": 14,
+   "date": "2022-07-16",
+   "meet": "2022 NC LC AG CHAMPS",
+   "drop": 8.16
+  },
+  {
+   "time": "2:34.28",
+   "holder": "Clem Camacho",
+   "age": 13,
+   "date": "2021-05-23",
+   "meet": "2021 NC STAR Spring Splash"
+  }
+ ],
+ "M|15-16|200 Fly": [
+  {
+   "time": "2:19.22",
+   "holder": "Ryker Eder",
+   "age": 15,
+   "date": "2023-07-20",
+   "meet": "2023 NCS LC SR CHAMPS",
+   "drop": 9.16
+  },
+  {
+   "time": "2:28.38",
+   "holder": "Bryson Edwards",
+   "age": 15,
+   "date": "2023-05-19",
+   "meet": "2023 SFSC LC May Memorial Invitational"
+  }
+ ],
+ "M|17-18|200 Fly": [
+  {
+   "time": "2:20.80",
+   "holder": "Bryson Edwards",
+   "age": 17,
+   "date": "2025-06-12",
+   "meet": "2025 Summer Classic"
+  }
+ ],
+ "M|Open|200 Fly": [
+  {
+   "time": "2:19.22",
+   "holder": "Ryker Eder",
+   "age": 15,
+   "date": "2023-07-20",
+   "meet": "2023 NCS LC SR CHAMPS",
+   "drop": 6.9
+  },
+  {
+   "time": "2:26.12",
+   "holder": "Ryker Eder",
+   "age": 14,
+   "date": "2022-07-16",
+   "meet": "2022 NC LC AG CHAMPS",
+   "drop": 8.16
+  },
+  {
+   "time": "2:34.28",
+   "holder": "Clem Camacho",
+   "age": 13,
+   "date": "2021-05-23",
+   "meet": "2021 NC STAR Spring Splash"
+  }
+ ],
+ "F|10 & U|200 Free": [
+  {
+   "time": "2:49.94",
+   "holder": "Gentry Witmer",
+   "age": 10,
+   "date": "2022-07-16",
+   "meet": "2022 NC LC AG CHAMPS",
+   "drop": 26.19
+  },
+  {
+   "time": "3:16.13",
+   "holder": "Gentry Witmer",
+   "age": 9,
+   "date": "2021-05-23",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 64.48
+  },
+  {
+   "time": "4:20.61",
+   "holder": "Gentry Witmer",
+   "age": 7,
+   "date": "2019-06-21",
+   "meet": "NC YSST 13th Annual  Bob Pratt"
+  }
+ ],
+ "F|11-12|200 Free": [
+  {
+   "time": "2:29.40",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-07-27",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 3.24
+  },
+  {
+   "time": "2:32.64",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|13-14|200 Free": [
+  {
+   "time": "2:21.36",
+   "holder": "Keener Witmer",
+   "age": 14,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 6.82
+  },
+  {
+   "time": "2:28.18",
+   "holder": "Keener Witmer",
+   "age": 14,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 7.72
+  },
+  {
+   "time": "2:35.90",
+   "holder": "Cadence Eder",
+   "age": 13,
+   "date": "2019-07-27",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 0.6
+  },
+  {
+   "time": "2:36.50",
+   "holder": "Eppy Camacho",
+   "age": 13,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|15-16|200 Free": [
+  {
+   "time": "2:17.50",
+   "holder": "Keener Witmer",
+   "age": 16,
+   "date": "2023-07-21",
+   "meet": "2023 NCS LC SR CHAMPS",
+   "drop": 3.52
+  },
+  {
+   "time": "2:21.02",
+   "holder": "Keener Witmer",
+   "age": 15,
+   "date": "2022-07-22",
+   "meet": "2022 NCS LC SR CHAMPS",
+   "drop": 1.86
+  },
+  {
+   "time": "2:22.88",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-07-09",
+   "meet": "2022 MOR Long Course Qualifier",
+   "drop": 4.9
+  },
+  {
+   "time": "2:27.78",
+   "holder": "Eppy Camacho",
+   "age": 16,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 0.85
+  },
+  {
+   "time": "2:28.63",
+   "holder": "Riley Hubard",
+   "age": 16,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash"
+  }
+ ],
+ "F|17-18|200 Free": [
+  {
+   "time": "2:17.35",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-07-11",
+   "meet": "2021 NC TAC TITANS July Qualifier"
+  }
+ ],
+ "F|Open|200 Free": [
+  {
+   "time": "2:06.45",
+   "holder": "Sami Rydzewski",
+   "age": 19,
+   "date": "2025-06-12",
+   "meet": "2025 Summer Classic",
+   "drop": 10.9
+  },
+  {
+   "time": "2:17.35",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-07-11",
+   "meet": "2021 NC TAC TITANS July Qualifier",
+   "drop": 4.01
+  },
+  {
+   "time": "2:21.36",
+   "holder": "Keener Witmer",
+   "age": 14,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 6.82
+  },
+  {
+   "time": "2:28.18",
+   "holder": "Keener Witmer",
+   "age": 14,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 1.22
+  },
+  {
+   "time": "2:29.40",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-07-27",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 3.24
+  },
+  {
+   "time": "2:32.64",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|11-12|200 Breast": [
+  {
+   "time": "3:37.90",
+   "holder": "Sophie Wert",
+   "age": 12,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 9.6
+  },
+  {
+   "time": "3:47.50",
+   "holder": "Sallie Brown",
+   "age": 12,
+   "date": "2019-07-28",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 10.45
+  },
+  {
+   "time": "3:57.95",
+   "holder": "Emmie N Backman",
+   "age": 12,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|13-14|200 Breast": [
+  {
+   "time": "2:59.54",
+   "holder": "Abigail Blair",
+   "age": 14,
+   "date": "2026-06-19",
+   "meet": "2026 GCST MARK MCCAW SUMMER INVITE",
+   "drop": 13.32
+  },
+  {
+   "time": "3:12.86",
+   "holder": "Eppy Camacho",
+   "age": 14,
+   "date": "2019-07-28",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 6.55
+  },
+  {
+   "time": "3:19.41",
+   "holder": "Eppy Camacho",
+   "age": 13,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|15-16|200 Breast": [
+  {
+   "time": "2:59.25",
+   "holder": "Sophie Wert",
+   "age": 16,
+   "date": "2025-06-21",
+   "meet": "2025 GCST MARK MCCAW SUMMER",
+   "drop": 4.14
+  },
+  {
+   "time": "3:03.39",
+   "holder": "Eppy Camacho",
+   "age": 15,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash"
+  }
+ ],
+ "F|17-18|200 Breast": [
+  {
+   "time": "2:46.76",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-07-27",
+   "meet": "2021 Southern Zone Senior Championships",
+   "drop": 3.68
+  },
+  {
+   "time": "2:50.44",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 2.77
+  },
+  {
+   "time": "2:53.21",
+   "holder": "Liza Murtagh",
+   "age": 17,
+   "date": "2021-04-24",
+   "meet": "2021 Carolina Crown"
+  }
+ ],
+ "F|Open|200 Breast": [
+  {
+   "time": "2:46.76",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-07-27",
+   "meet": "2021 Southern Zone Senior Championships",
+   "drop": 3.68
+  },
+  {
+   "time": "2:50.44",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 2.77
+  },
+  {
+   "time": "2:53.21",
+   "holder": "Liza Murtagh",
+   "age": 17,
+   "date": "2021-04-24",
+   "meet": "2021 Carolina Crown",
+   "drop": 19.65
+  },
+  {
+   "time": "3:12.86",
+   "holder": "Eppy Camacho",
+   "age": 14,
+   "date": "2019-07-28",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 6.55
+  },
+  {
+   "time": "3:19.41",
+   "holder": "Eppy Camacho",
+   "age": 13,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|11-12|400 Free": [
+  {
+   "time": "5:36.35",
+   "holder": "Hance Mayo",
+   "age": 11,
+   "date": "2022-06-18",
+   "meet": "2022 MOR Liberty Meet",
+   "drop": 39.16
+  },
+  {
+   "time": "6:15.51",
+   "holder": "Ryker Eder",
+   "age": 11,
+   "date": "2019-07-28",
+   "meet": "2019 NC HPSC Tar Heel States"
+  }
+ ],
+ "M|13-14|400 Free": [
+  {
+   "time": "4:44.17",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 59.69
+  },
+  {
+   "time": "5:43.86",
+   "holder": "Philip Brown III",
+   "age": 14,
+   "date": "2019-07-28",
+   "meet": "2019 NC HPSC Tar Heel States"
+  }
+ ],
+ "M|15-16|400 Free": [
+  {
+   "time": "4:36.64",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-06-12",
+   "meet": "2022 Swim Collegiate Series"
+  }
+ ],
+ "M|17-18|400 Free": [
+  {
+   "time": "4:17.96",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-05-15",
+   "meet": "2025 Charlotte Open",
+   "drop": 29.68
+  },
+  {
+   "time": "4:47.64",
+   "holder": "Laith Ausband",
+   "age": 17,
+   "date": "2024-06-22",
+   "meet": "2024 GOLD Summer Splash"
+  }
+ ],
+ "M|Open|400 Free": [
+  {
+   "time": "4:17.96",
+   "holder": "Clem Camacho",
+   "age": 17,
+   "date": "2025-05-15",
+   "meet": "2025 Charlotte Open",
+   "drop": 18.68
+  },
+  {
+   "time": "4:36.64",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-06-12",
+   "meet": "2022 Swim Collegiate Series",
+   "drop": 7.53
+  },
+  {
+   "time": "4:44.17",
+   "holder": "Cole Witmer",
+   "age": 14,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 59.69
+  },
+  {
+   "time": "5:43.86",
+   "holder": "Philip Brown III",
+   "age": 14,
+   "date": "2019-07-28",
+   "meet": "2019 NC HPSC Tar Heel States"
+  }
+ ],
+ "F|10 & U|50 Fly": [
+  {
+   "time": "38.95",
+   "holder": "Eliza Amin",
+   "age": 10,
+   "date": "2023-04-29",
+   "meet": "2023 WAVE Sprint Into LC",
+   "drop": 1.2
+  },
+  {
+   "time": "40.15",
+   "holder": "Gentry Witmer",
+   "age": 10,
+   "date": "2022-04-30",
+   "meet": "2022 WAVE Sprint Into LC",
+   "drop": 6.64
+  },
+  {
+   "time": "46.79",
+   "holder": "Gentry Witmer",
+   "age": 9,
+   "date": "2021-06-12",
+   "meet": "NC21102 TAC TITANS Triangle Cl",
+   "drop": 28.04
+  },
+  {
+   "time": "1:14.83",
+   "holder": "Mila Yarnoz",
+   "age": 10,
+   "date": "2021-05-23",
+   "meet": "2021 NC STAR Spring Splash"
+  }
+ ],
+ "F|11-12|50 Fly": [
+  {
+   "time": "32.83",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-07-07",
+   "meet": "2019 NC TAC TITANS July Qualif",
+   "drop": 0.99
+  },
+  {
+   "time": "33.82",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-06-21",
+   "meet": "NC YSST 13th Annual  Bob Pratt",
+   "drop": 0.8
+  },
+  {
+   "time": "34.62",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|13-14|50 Fly": [
+  {
+   "time": "32.13",
+   "holder": "Violet Derry",
+   "age": 14,
+   "date": "2023-04-29",
+   "meet": "2023 WAVE Sprint Into LC",
+   "drop": 0.71
+  },
+  {
+   "time": "32.84",
+   "holder": "Violet Derry",
+   "age": 13,
+   "date": "2022-04-30",
+   "meet": "2022 WAVE Sprint Into LC"
+  }
+ ],
+ "F|15-16|50 Fly": [
+  {
+   "time": "29.72",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-05-19",
+   "meet": "2022 Martha McKee Charlotte Open",
+   "drop": 2.16
+  },
+  {
+   "time": "31.88",
+   "holder": "Keener Witmer",
+   "age": 15,
+   "date": "2022-04-30",
+   "meet": "2022 WAVE Sprint Into LC"
+  }
+ ],
+ "F|17-18|50 Fly": [
+  {
+   "time": "29.02",
+   "holder": "Madi Joy",
+   "age": 18,
+   "date": "2024-05-16",
+   "meet": "2024 Charlotte Open",
+   "drop": 0.7
+  },
+  {
+   "time": "29.72",
+   "holder": "Madi Joy",
+   "age": 17,
+   "date": "2023-05-18",
+   "meet": "2023 Martha McKee Charlotte Open"
+  }
+ ],
+ "F|Open|50 Fly": [
+  {
+   "time": "29.02",
+   "holder": "Madi Joy",
+   "age": 18,
+   "date": "2024-05-16",
+   "meet": "2024 Charlotte Open",
+   "drop": 0.7
+  },
+  {
+   "time": "29.72",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-05-19",
+   "meet": "2022 Martha McKee Charlotte Open",
+   "drop": 2.16
+  },
+  {
+   "time": "31.88",
+   "holder": "Keener Witmer",
+   "age": 15,
+   "date": "2022-04-30",
+   "meet": "2022 WAVE Sprint Into LC",
+   "drop": 0.95
+  },
+  {
+   "time": "32.83",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-07-07",
+   "meet": "2019 NC TAC TITANS July Qualif",
+   "drop": 0.99
+  },
+  {
+   "time": "33.82",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-06-21",
+   "meet": "NC YSST 13th Annual  Bob Pratt",
+   "drop": 0.8
+  },
+  {
+   "time": "34.62",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|10 & U|50 Back": [
+  {
+   "time": "41.60",
+   "holder": "Gentry Witmer",
+   "age": 10,
+   "date": "2022-04-30",
+   "meet": "2022 WAVE Sprint Into LC",
+   "drop": 4.42
+  },
+  {
+   "time": "46.02",
+   "holder": "Gentry Witmer",
+   "age": 9,
+   "date": "2021-06-12",
+   "meet": "NC21102 TAC TITANS Triangle Cl",
+   "drop": 9.58
+  },
+  {
+   "time": "55.60",
+   "holder": "Gentry Witmer",
+   "age": 7,
+   "date": "2019-06-21",
+   "meet": "NC YSST 13th Annual  Bob Pratt",
+   "drop": 3.83
+  },
+  {
+   "time": "59.43",
+   "holder": "Gentry Witmer",
+   "age": 7,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|11-12|50 Back": [
+  {
+   "time": "34.20",
+   "holder": "Gentry Witmer",
+   "age": 12,
+   "date": "2024-07-11",
+   "meet": "2024 NCS LC AG Champs",
+   "drop": 2.56
+  },
+  {
+   "time": "36.76",
+   "holder": "Gentry Witmer",
+   "age": 12,
+   "date": "2024-04-27",
+   "meet": "2024 WAVE Sprint Into LC",
+   "drop": 0.65
+  },
+  {
+   "time": "37.41",
+   "holder": "Gentry Witmer",
+   "age": 11,
+   "date": "2023-07-08",
+   "meet": "2023 TAC TITANS July Qualifier",
+   "drop": 0.65
+  },
+  {
+   "time": "38.06",
+   "holder": "Sophie Wert",
+   "age": 12,
+   "date": "2021-07-11",
+   "meet": "2021 NC TAC TITANS July Qualifier",
+   "drop": 1.44
+  },
+  {
+   "time": "39.50",
+   "holder": "Keener Witmer",
+   "age": 12,
+   "date": "2019-06-23",
+   "meet": "2019 NC NC YSST Bob Pratt Invite",
+   "drop": 8.78
+  },
+  {
+   "time": "48.28",
+   "holder": "Sallie Brown",
+   "age": 11,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|13-14|50 Back": [
+  {
+   "time": "32.05",
+   "holder": "Gentry Witmer",
+   "age": 14,
+   "date": "2026-07-09",
+   "meet": "2026 NC LC SR Championships - copied",
+   "drop": 2.71
+  },
+  {
+   "time": "34.76",
+   "holder": "Gentry Witmer",
+   "age": 14,
+   "date": "2026-04-25",
+   "meet": "2026 WAVE Sprint Into LC",
+   "drop": 2.3
+  },
+  {
+   "time": "37.06",
+   "holder": "Sophie Wert",
+   "age": 13,
+   "date": "2022-04-30",
+   "meet": "2022 WAVE Sprint Into LC"
+  }
+ ],
+ "F|15-16|50 Back": [
+  {
+   "time": "30.86",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-05-19",
+   "meet": "2022 Martha McKee Charlotte Open",
+   "drop": 0.92
+  },
+  {
+   "time": "31.78",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-04-23",
+   "meet": "2022 SC Carolina Crown",
+   "leadoff": true
+  }
+ ],
+ "F|17-18|50 Back": [
+  {
+   "time": "30.68",
+   "holder": "Madi Joy",
+   "age": 17,
+   "date": "2023-05-18",
+   "meet": "2023 Martha McKee Charlotte Open"
+  }
+ ],
+ "F|Open|50 Back": [
+  {
+   "time": "30.68",
+   "holder": "Madi Joy",
+   "age": 17,
+   "date": "2023-05-18",
+   "meet": "2023 Martha McKee Charlotte Open",
+   "drop": 0.18
+  },
+  {
+   "time": "30.86",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-05-19",
+   "meet": "2022 Martha McKee Charlotte Open",
+   "drop": 0.92
+  },
+  {
+   "time": "31.78",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-04-23",
+   "meet": "2022 SC Carolina Crown",
+   "leadoff": true,
+   "drop": 6.28
+  },
+  {
+   "time": "38.06",
+   "holder": "Sophie Wert",
+   "age": 12,
+   "date": "2021-07-11",
+   "meet": "2021 NC TAC TITANS July Qualifier",
+   "drop": 1.44
+  },
+  {
+   "time": "39.50",
+   "holder": "Keener Witmer",
+   "age": 12,
+   "date": "2019-06-23",
+   "meet": "2019 NC NC YSST Bob Pratt Invite",
+   "drop": 8.78
+  },
+  {
+   "time": "48.28",
+   "holder": "Sallie Brown",
+   "age": 11,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|10 & U|50 Breast": [
+  {
+   "time": "48.57",
+   "holder": "Eliza Amin",
+   "age": 10,
+   "date": "2023-04-29",
+   "meet": "2023 WAVE Sprint Into LC",
+   "drop": 1.58
+  },
+  {
+   "time": "50.15",
+   "holder": "Gentry Witmer",
+   "age": 10,
+   "date": "2022-05-01",
+   "meet": "2022 WAVE Sprint Into LC",
+   "drop": 8.04
+  },
+  {
+   "time": "58.19",
+   "holder": "Gentry Witmer",
+   "age": 9,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 6.86
+  },
+  {
+   "time": "1:05.05",
+   "holder": "Asheford R House",
+   "age": 9,
+   "date": "2019-07-27",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 4.88
+  },
+  {
+   "time": "1:09.93",
+   "holder": "Gentry Witmer",
+   "age": 7,
+   "date": "2019-06-21",
+   "meet": "NC YSST 13th Annual  Bob Pratt",
+   "drop": 2.36
+  },
+  {
+   "time": "1:12.29",
+   "holder": "Gentry Witmer",
+   "age": 7,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|11-12|50 Breast": [
+  {
+   "time": "41.37",
+   "holder": "Olivia Crowley",
+   "age": 12,
+   "date": "2021-07-11",
+   "meet": "2021 NC TAC TITANS July Qualif",
+   "drop": 2.51
+  },
+  {
+   "time": "43.88",
+   "holder": "Violet Derry",
+   "age": 12,
+   "date": "2021-06-12",
+   "meet": "NC21102 TAC TITANS Triangle Cl",
+   "drop": 0.74
+  },
+  {
+   "time": "44.62",
+   "holder": "Olivia Crowley",
+   "age": 12,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 4.29
+  },
+  {
+   "time": "48.91",
+   "holder": "Keener Witmer",
+   "age": 12,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|13-14|50 Breast": [
+  {
+   "time": "37.62",
+   "holder": "Abigail Blair",
+   "age": 14,
+   "date": "2026-06-19",
+   "meet": "2026 GCST MARK MCCAW SUMMER INVITE",
+   "drop": 2.16
+  },
+  {
+   "time": "39.78",
+   "holder": "Piper Cockman",
+   "age": 14,
+   "date": "2026-04-25",
+   "meet": "2026 WAVE Sprint Into LC",
+   "drop": 0.23
+  },
+  {
+   "time": "40.01",
+   "holder": "Eppy Camacho",
+   "age": 14,
+   "date": "2019-07-27",
+   "meet": "2019 NC HPSC Tar Heel States"
+  }
+ ],
+ "F|15-16|50 Breast": [
+  {
+   "time": "36.92",
+   "holder": "Sophie Wert",
+   "age": 16,
+   "date": "2025-06-22",
+   "meet": "2025 GCST MARK MCCAW SUMMER",
+   "drop": 1.19
+  },
+  {
+   "time": "38.11",
+   "holder": "Sophie Wert",
+   "age": 16,
+   "date": "2025-04-26",
+   "meet": "2025 RSA Warm Up to Long Course Invitational",
+   "drop": 1.48
+  },
+  {
+   "time": "39.59",
+   "holder": "Sophie Wert",
+   "age": 15,
+   "date": "2024-04-27",
+   "meet": "2024 WAVE Sprint Into LC",
+   "drop": 1.79
+  },
+  {
+   "time": "41.38",
+   "holder": "Addison Hicks",
+   "age": 15,
+   "date": "2023-04-29",
+   "meet": "2023 WAVE Sprint Into LC",
+   "drop": 0.53
+  },
+  {
+   "time": "41.91",
+   "holder": "Cadence Eder",
+   "age": 16,
+   "date": "2022-05-01",
+   "meet": "2022 WAVE Sprint Into LC"
+  }
+ ],
+ "F|17-18|50 Breast": [
+  {
+   "time": "36.47",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-07-27",
+   "meet": "2021 Southern Zone Senior Championships"
+  }
+ ],
+ "F|Open|50 Breast": [
+  {
+   "time": "36.47",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-07-27",
+   "meet": "2021 Southern Zone Senior Championships",
+   "drop": 3.54
+  },
+  {
+   "time": "40.01",
+   "holder": "Eppy Camacho",
+   "age": 14,
+   "date": "2019-07-27",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 8.9
+  },
+  {
+   "time": "48.91",
+   "holder": "Keener Witmer",
+   "age": 12,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|10 & U|50 Breast": [
+  {
+   "time": "44.51",
+   "holder": "Everett Cassidy",
+   "age": 10,
+   "date": "2026-07-16",
+   "meet": "2026 NCS LC AG Championships",
+   "drop": 2.02
+  },
+  {
+   "time": "46.53",
+   "holder": "Hance Mayo",
+   "age": 10,
+   "date": "2021-07-16",
+   "meet": "2021 NC NCS LC AG Champs",
+   "drop": 11.43
+  },
+  {
+   "time": "57.96",
+   "holder": "Gavin Derry",
+   "age": 10,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 5.9
+  },
+  {
+   "time": "1:03.86",
+   "holder": "Court Yarnoz",
+   "age": 10,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash"
+  }
+ ],
+ "M|11-12|50 Breast": [
+  {
+   "time": "36.45",
+   "holder": "Behr Petroff",
+   "age": 12,
+   "date": "2022-07-15",
+   "meet": "2022 NC LC AG CHAMPS",
+   "drop": 0.84
+  },
+  {
+   "time": "37.29",
+   "holder": "Behr Petroff",
+   "age": 12,
+   "date": "2022-06-05",
+   "meet": "2022 STAR Andrew E Hartle Invi",
+   "drop": 1.55
+  },
+  {
+   "time": "38.84",
+   "holder": "Nathan Neu",
+   "age": 12,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 10.29
+  },
+  {
+   "time": "49.13",
+   "holder": "Ryker Eder",
+   "age": 11,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "M|13-14|50 Breast": [
+  {
+   "time": "35.68",
+   "holder": "Behr Petroff",
+   "age": 13,
+   "date": "2023-04-29",
+   "meet": "2023 WAVE Sprint Into LC",
+   "drop": 0.94
+  },
+  {
+   "time": "36.62",
+   "holder": "Ryker Eder",
+   "age": 14,
+   "date": "2022-05-01",
+   "meet": "2022 WAVE Sprint Into LC",
+   "drop": 3.4
+  },
+  {
+   "time": "40.02",
+   "holder": "Philip Brown III",
+   "age": 14,
+   "date": "2019-07-27",
+   "meet": "2019 NC HPSC Tar Heel States"
+  }
+ ],
+ "M|15-16|50 Breast": [
+  {
+   "time": "30.08",
+   "holder": "Behr Petroff",
+   "age": 16,
+   "date": "2026-05-14",
+   "meet": "2026 Charlotte Open",
+   "drop": 0.99
+  },
+  {
+   "time": "31.07",
+   "holder": "Behr Petroff",
+   "age": 16,
+   "date": "2026-04-25",
+   "meet": "2026 WAVE Sprint Into LC",
+   "drop": 2.01
+  },
+  {
+   "time": "33.08",
+   "holder": "Behr Petroff",
+   "age": 15,
+   "date": "2025-04-26",
+   "meet": "2025 RSA Warm Up to Long Course Invitational",
+   "drop": 0.34
+  },
+  {
+   "time": "33.42",
+   "holder": "Ryker Eder",
+   "age": 16,
+   "date": "2024-04-28",
+   "meet": "2024 SC Carolina Crown Swim Challenge",
+   "drop": 2.59
+  },
+  {
+   "time": "36.01",
+   "holder": "Bryson Edwards",
+   "age": 16,
+   "date": "2024-04-27",
+   "meet": "2024 WAVE Sprint Into LC",
+   "drop": 1.29
+  },
+  {
+   "time": "37.30",
+   "holder": "Cole Witmer",
+   "age": 15,
+   "date": "2022-05-01",
+   "meet": "2022 WAVE Sprint Into LC"
+  }
+ ],
+ "M|17-18|50 Breast": [
+  {
+   "time": "29.98",
+   "holder": "Behr Petroff",
+   "age": 17,
+   "date": "2026-07-29",
+   "meet": "2026 Futures Championship - Knoxville",
+   "drop": 3.14
+  },
+  {
+   "time": "33.12",
+   "holder": "Ryker Eder",
+   "age": 18,
+   "date": "2026-07-09",
+   "meet": "2026 NC LC SR Championships - copied",
+   "drop": 0.15
+  },
+  {
+   "time": "33.27",
+   "holder": "Ryker Eder",
+   "age": 18,
+   "date": "2026-05-14",
+   "meet": "2026 Charlotte Open",
+   "drop": 0.22
+  },
+  {
+   "time": "33.49",
+   "holder": "Ryker Eder",
+   "age": 18,
+   "date": "2026-04-25",
+   "meet": "2026 WAVE Sprint Into LC",
+   "drop": 0.93
+  },
+  {
+   "time": "34.42",
+   "holder": "Ryker Eder",
+   "age": 17,
+   "date": "2025-04-13",
+   "meet": "10th Annual Carolina Crown 202",
+   "drop": 16.01
+  },
+  {
+   "time": "50.43",
+   "holder": "Walter Monical",
+   "age": 17,
+   "date": "2024-04-27",
+   "meet": "2024 WAVE Sprint Into LC"
+  }
+ ],
+ "M|Open|50 Breast": [
+  {
+   "time": "29.98",
+   "holder": "Behr Petroff",
+   "age": 17,
+   "date": "2026-07-29",
+   "meet": "2026 Futures Championship - Knoxville",
+   "drop": 0.1
+  },
+  {
+   "time": "30.08",
+   "holder": "Behr Petroff",
+   "age": 16,
+   "date": "2026-05-14",
+   "meet": "2026 Charlotte Open",
+   "drop": 0.99
+  },
+  {
+   "time": "31.07",
+   "holder": "Behr Petroff",
+   "age": 16,
+   "date": "2026-04-25",
+   "meet": "2026 WAVE Sprint Into LC",
+   "drop": 2.01
+  },
+  {
+   "time": "33.08",
+   "holder": "Behr Petroff",
+   "age": 15,
+   "date": "2025-04-26",
+   "meet": "2025 RSA Warm Up to Long Course Invitational",
+   "drop": 0.34
+  },
+  {
+   "time": "33.42",
+   "holder": "Ryker Eder",
+   "age": 16,
+   "date": "2024-04-28",
+   "meet": "2024 SC Carolina Crown Swim Challenge",
+   "drop": 2.26
+  },
+  {
+   "time": "35.68",
+   "holder": "Behr Petroff",
+   "age": 13,
+   "date": "2023-04-29",
+   "meet": "2023 WAVE Sprint Into LC",
+   "drop": 0.77
+  },
+  {
+   "time": "36.45",
+   "holder": "Behr Petroff",
+   "age": 12,
+   "date": "2022-07-15",
+   "meet": "2022 NC LC AG CHAMPS",
+   "drop": 0.17
+  },
+  {
+   "time": "36.62",
+   "holder": "Ryker Eder",
+   "age": 14,
+   "date": "2022-05-01",
+   "meet": "2022 WAVE Sprint Into LC",
+   "drop": 2.22
+  },
+  {
+   "time": "38.84",
+   "holder": "Nathan Neu",
+   "age": 12,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 1.18
+  },
+  {
+   "time": "40.02",
+   "holder": "Philip Brown III",
+   "age": 14,
+   "date": "2019-07-27",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 9.11
+  },
+  {
+   "time": "49.13",
+   "holder": "Ryker Eder",
+   "age": 11,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|11-12|400 IM": [
+  {
+   "time": "6:08.83",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-07-28",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 21.03
+  },
+  {
+   "time": "6:29.86",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|13-14|400 IM": [
+  {
+   "time": "5:48.58",
+   "holder": "Abby Forbes",
+   "age": 14,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic"
+  }
+ ],
+ "F|15-16|400 IM": [
+  {
+   "time": "5:53.31",
+   "holder": "Violet Derry",
+   "age": 16,
+   "date": "2025-06-12",
+   "meet": "2025 Summer Classic",
+   "drop": 3.91
+  },
+  {
+   "time": "5:57.22",
+   "holder": "Abby Forbes",
+   "age": 15,
+   "date": "2022-06-12",
+   "meet": "2022 Swim Collegiate Series",
+   "drop": 16.03
+  },
+  {
+   "time": "6:13.25",
+   "holder": "Cadence Eder",
+   "age": 15,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic"
+  }
+ ],
+ "F|17-18|400 IM": [
+  {
+   "time": "5:21.60",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-07-27",
+   "meet": "2021 Southern Zone Senior Championships",
+   "drop": 3.22
+  },
+  {
+   "time": "5:24.82",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic"
+  }
+ ],
+ "F|Open|400 IM": [
+  {
+   "time": "5:21.60",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-07-27",
+   "meet": "2021 Southern Zone Senior Championships",
+   "drop": 3.22
+  },
+  {
+   "time": "5:24.82",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 44.01
+  },
+  {
+   "time": "6:08.83",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-07-28",
+   "meet": "2019 NC HPSC Tar Heel States",
+   "drop": 21.03
+  },
+  {
+   "time": "6:29.86",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|11-12|200 Back": [
+  {
+   "time": "3:17.74",
+   "holder": "Lillian Amin",
+   "age": 11,
+   "date": "2021-06-13",
+   "meet": "NC21102 TAC TITANS Triangle Cl"
+  }
+ ],
+ "F|13-14|200 Back": [
+  {
+   "time": "2:43.58",
+   "holder": "Sophie Wert",
+   "age": 14,
+   "date": "2023-07-08",
+   "meet": "2023 TAC TITANS July Qualifier",
+   "drop": 2.54
+  },
+  {
+   "time": "2:46.12",
+   "holder": "Sophie Wert",
+   "age": 14,
+   "date": "2023-06-17",
+   "meet": "2023 MOR Liberty Meet",
+   "drop": 0.26
+  },
+  {
+   "time": "2:46.38",
+   "holder": "Keener Witmer",
+   "age": 14,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 3.28
+  },
+  {
+   "time": "2:49.66",
+   "holder": "Keener Witmer",
+   "age": 14,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 16.65
+  },
+  {
+   "time": "3:06.31",
+   "holder": "Cadence Eder",
+   "age": 13,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|15-16|200 Back": [
+  {
+   "time": "2:30.76",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-07-30",
+   "meet": "2022 Futures Championships - C",
+   "drop": 0.65
+  },
+  {
+   "time": "2:31.41",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-07-03",
+   "meet": "2022 Eric Namesnik Memorial Op",
+   "drop": 2.05
+  },
+  {
+   "time": "2:33.46",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-05-22",
+   "meet": "2022 Martha McKee Charlotte Op",
+   "drop": 2.33
+  },
+  {
+   "time": "2:35.79",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-04-23",
+   "meet": "2022 SC Carolina Crown",
+   "drop": 13.69
+  },
+  {
+   "time": "2:49.48",
+   "holder": "Leah Murtagh",
+   "age": 16,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 4.85
+  },
+  {
+   "time": "2:54.33",
+   "holder": "Cadence Eder",
+   "age": 15,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash"
+  }
+ ],
+ "F|17-18|200 Back": [
+  {
+   "time": "2:23.53",
+   "holder": "Madi Joy",
+   "age": 17,
+   "date": "2023-07-26",
+   "meet": "2023 Futures Championships - OCALA",
+   "drop": 1.67
+  },
+  {
+   "time": "2:25.20",
+   "holder": "Madi Joy",
+   "age": 17,
+   "date": "2023-07-02",
+   "meet": "2023 CW Eric Namesnik Memorial",
+   "drop": 3.24
+  },
+  {
+   "time": "2:28.44",
+   "holder": "Madi Joy",
+   "age": 17,
+   "date": "2023-05-18",
+   "meet": "2023 Martha McKee Charlotte Open",
+   "drop": 5.84
+  },
+  {
+   "time": "2:34.28",
+   "holder": "Madi Joy",
+   "age": 17,
+   "date": "2023-04-16",
+   "meet": "2023 Carolina Crown",
+   "drop": 7.18
+  },
+  {
+   "time": "2:41.46",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 24.24
+  },
+  {
+   "time": "3:05.70",
+   "holder": "Olivia King",
+   "age": 17,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash"
+  }
+ ],
+ "F|Open|200 Back": [
+  {
+   "time": "2:17.10",
+   "holder": "Sami Rydzewski",
+   "age": 19,
+   "date": "2025-07-10",
+   "meet": "2025 NC LC SR Championships",
+   "drop": 2.26
+  },
+  {
+   "time": "2:19.36",
+   "holder": "Sami Rydzewski",
+   "age": 19,
+   "date": "2025-05-15",
+   "meet": "2025 Charlotte Open",
+   "drop": 4.17
+  },
+  {
+   "time": "2:23.53",
+   "holder": "Madi Joy",
+   "age": 17,
+   "date": "2023-07-26",
+   "meet": "2023 Futures Championships - OCALA",
+   "drop": 1.67
+  },
+  {
+   "time": "2:25.20",
+   "holder": "Madi Joy",
+   "age": 17,
+   "date": "2023-07-02",
+   "meet": "2023 CW Eric Namesnik Memorial",
+   "drop": 3.24
+  },
+  {
+   "time": "2:28.44",
+   "holder": "Madi Joy",
+   "age": 17,
+   "date": "2023-05-18",
+   "meet": "2023 Martha McKee Charlotte Open",
+   "drop": 2.32
+  },
+  {
+   "time": "2:30.76",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-07-30",
+   "meet": "2022 Futures Championships - C",
+   "drop": 0.65
+  },
+  {
+   "time": "2:31.41",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-07-03",
+   "meet": "2022 Eric Namesnik Memorial Op",
+   "drop": 2.05
+  },
+  {
+   "time": "2:33.46",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-05-22",
+   "meet": "2022 Martha McKee Charlotte Op",
+   "drop": 2.33
+  },
+  {
+   "time": "2:35.79",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-04-23",
+   "meet": "2022 SC Carolina Crown",
+   "drop": 5.67
+  },
+  {
+   "time": "2:41.46",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 8.2
+  },
+  {
+   "time": "2:49.66",
+   "holder": "Keener Witmer",
+   "age": 14,
+   "date": "2021-05-22",
+   "meet": "2021 NC STAR Spring Splash",
+   "drop": 16.65
+  },
+  {
+   "time": "3:06.31",
+   "holder": "Cadence Eder",
+   "age": 13,
+   "date": "2019-06-01",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|11-12|200 Fly": [
+  {
+   "time": "2:39.94",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-07-13",
+   "meet": "2019 NC LC AG Championships",
+   "drop": 6.42
+  },
+  {
+   "time": "2:46.36",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-07-07",
+   "meet": "2019 NC TAC TITANS July Qualif",
+   "drop": 12.48
+  },
+  {
+   "time": "2:58.84",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|13-14|200 Fly": [
+  {
+   "time": "2:36.33",
+   "holder": "Abby Forbes",
+   "age": 14,
+   "date": "2021-06-13",
+   "meet": "NC21102 TAC TITANS Triangle Cl",
+   "drop": 5.88
+  },
+  {
+   "time": "2:42.21",
+   "holder": "Abby Forbes",
+   "age": 14,
+   "date": "2021-05-23",
+   "meet": "2021 NC STAR Spring Splash"
+  }
+ ],
+ "F|15-16|200 Fly": [
+  {
+   "time": "2:34.55",
+   "holder": "Abby Forbes",
+   "age": 16,
+   "date": "2023-07-20",
+   "meet": "2023 NCS LC SR CHAMPS",
+   "drop": 0.38
+  },
+  {
+   "time": "2:34.93",
+   "holder": "Abby Forbes",
+   "age": 15,
+   "date": "2022-07-23",
+   "meet": "2022 NCS LC SR CHAMPS",
+   "drop": 7.53
+  },
+  {
+   "time": "2:42.46",
+   "holder": "Abby Forbes",
+   "age": 15,
+   "date": "2022-07-02",
+   "meet": "2022 Eric Namesnik Memorial Op",
+   "drop": 1.51
+  },
+  {
+   "time": "2:43.97",
+   "holder": "Abby Forbes",
+   "age": 15,
+   "date": "2022-04-23",
+   "meet": "2022 SC Carolina Crown"
+  }
+ ],
+ "F|17-18|200 Fly": [
+  {
+   "time": "2:42.75",
+   "holder": "Camren Grace Reaves",
+   "age": 17,
+   "date": "2025-06-22",
+   "meet": "2025 GCST MARK MCCAW SUMMER",
+   "drop": 17.55
+  },
+  {
+   "time": "3:00.30",
+   "holder": "Abby Forbes",
+   "age": 17,
+   "date": "2024-05-31",
+   "meet": "2024 STAR Andrew E Hartle Invitational"
+  }
+ ],
+ "F|Open|200 Fly": [
+  {
+   "time": "2:34.55",
+   "holder": "Abby Forbes",
+   "age": 16,
+   "date": "2023-07-20",
+   "meet": "2023 NCS LC SR CHAMPS",
+   "drop": 0.38
+  },
+  {
+   "time": "2:34.93",
+   "holder": "Abby Forbes",
+   "age": 15,
+   "date": "2022-07-23",
+   "meet": "2022 NCS LC SR CHAMPS",
+   "drop": 1.4
+  },
+  {
+   "time": "2:36.33",
+   "holder": "Abby Forbes",
+   "age": 14,
+   "date": "2021-06-13",
+   "meet": "NC21102 TAC TITANS Triangle Cl",
+   "drop": 3.61
+  },
+  {
+   "time": "2:39.94",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-07-13",
+   "meet": "2019 NC LC AG Championships",
+   "drop": 6.42
+  },
+  {
+   "time": "2:46.36",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-07-07",
+   "meet": "2019 NC TAC TITANS July Qualif",
+   "drop": 12.48
+  },
+  {
+   "time": "2:58.84",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-06-02",
+   "meet": "2019 SC Schools Out Summer Cel"
+  }
+ ],
+ "F|11-12|400 Free": [
+  {
+   "time": "5:02.51",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-07-12",
+   "meet": "2019 NC LC AG Championships",
+   "drop": 8.37
+  },
+  {
+   "time": "5:10.88",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-07-07",
+   "meet": "2019 NC TAC TITANS July Qualif",
+   "drop": 6.84
+  },
+  {
+   "time": "5:17.72",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-06-21",
+   "meet": "NC YSST 13th Annual  Bob Pratt"
+  }
+ ],
+ "F|13-14|400 Free": [
+  {
+   "time": "5:01.44",
+   "holder": "Abby Forbes",
+   "age": 14,
+   "date": "2021-06-12",
+   "meet": "NC21102 TAC TITANS Triangle Cl",
+   "drop": 25.73
+  },
+  {
+   "time": "5:27.17",
+   "holder": "Eppy Camacho",
+   "age": 14,
+   "date": "2019-07-28",
+   "meet": "2019 NC HPSC Tar Heel States"
+  }
+ ],
+ "F|15-16|400 Free": [
+  {
+   "time": "5:00.38",
+   "holder": "Abby Forbes",
+   "age": 15,
+   "date": "2022-07-23",
+   "meet": "2022 NCS LC SR CHAMPS",
+   "drop": 1.58
+  },
+  {
+   "time": "5:01.96",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-07-09",
+   "meet": "2022 MOR Long Course Qualifier",
+   "drop": 4.66
+  },
+  {
+   "time": "5:06.62",
+   "holder": "Abby Forbes",
+   "age": 15,
+   "date": "2022-06-12",
+   "meet": "2022 Swim Collegiate Series",
+   "drop": 1.34
+  },
+  {
+   "time": "5:07.96",
+   "holder": "Madi Joy",
+   "age": 16,
+   "date": "2022-04-23",
+   "meet": "2022 SC Carolina Crown",
+   "drop": 2.68
+  },
+  {
+   "time": "5:10.64",
+   "holder": "Eppy Camacho",
+   "age": 16,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic"
+  }
+ ],
+ "F|17-18|400 Free": [
+  {
+   "time": "4:54.20",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic"
+  }
+ ],
+ "F|Open|400 Free": [
+  {
+   "time": "4:28.74",
+   "holder": "Sami Rydzewski",
+   "age": 19,
+   "date": "2025-05-17",
+   "meet": "2025 Charlotte Open",
+   "drop": 25.46
+  },
+  {
+   "time": "4:54.20",
+   "holder": "Liza Murtagh",
+   "age": 18,
+   "date": "2021-06-11",
+   "meet": "NC21102 TAC TITANS Triangle Classic",
+   "drop": 8.31
+  },
+  {
+   "time": "5:02.51",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-07-12",
+   "meet": "2019 NC LC AG Championships",
+   "drop": 8.37
+  },
+  {
+   "time": "5:10.88",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-07-07",
+   "meet": "2019 NC TAC TITANS July Qualif",
+   "drop": 6.84
+  },
+  {
+   "time": "5:17.72",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-06-21",
+   "meet": "NC YSST 13th Annual  Bob Pratt"
+  }
+ ],
+ "F|13-14|800 Free": [
+  {
+   "time": "10:12.65",
+   "holder": "Abby Forbes",
+   "age": 14,
+   "date": "2021-07-15",
+   "meet": "2021 NC NCS LC AG Champs",
+   "drop": 14.04
+  },
+  {
+   "time": "10:26.69",
+   "holder": "Abby Forbes",
+   "age": 14,
+   "date": "2021-07-11",
+   "meet": "2021 NC TAC TITANS July Qualifier"
+  }
+ ],
+ "F|15-16|800 Free": [
+  {
+   "time": "10:09.63",
+   "holder": "Abby Forbes",
+   "age": 15,
+   "date": "2022-07-21",
+   "meet": "2022 NCS LC SR CHAMPS"
+  }
+ ],
+ "F|Open|800 Free": [
+  {
+   "time": "10:09.63",
+   "holder": "Abby Forbes",
+   "age": 15,
+   "date": "2022-07-21",
+   "meet": "2022 NCS LC SR CHAMPS",
+   "drop": 3.02
+  },
+  {
+   "time": "10:12.65",
+   "holder": "Abby Forbes",
+   "age": 14,
+   "date": "2021-07-15",
+   "meet": "2021 NC NCS LC AG Champs",
+   "drop": 14.04
+  },
+  {
+   "time": "10:26.69",
+   "holder": "Abby Forbes",
+   "age": 14,
+   "date": "2021-07-11",
+   "meet": "2021 NC TAC TITANS July Qualifier"
+  }
+ ],
+ "F|11-12|1500 Free": [
+  {
+   "time": "21:28.09",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-06-21",
+   "meet": "NC YSST 13th Annual  Bob Pratt"
+  }
+ ],
+ "F|13-14|1500 Free": [
+  {
+   "time": "19:49.60",
+   "holder": "Abby Forbes",
+   "age": 14,
+   "date": "2021-07-18",
+   "meet": "2021 NC NCS LC AG Champs"
+  }
+ ],
+ "F|15-16|1500 Free": [
+  {
+   "time": "19:39.07",
+   "holder": "Abby Forbes",
+   "age": 15,
+   "date": "2022-07-03",
+   "meet": "2022 Eric Namesnik Memorial Op"
+  }
+ ],
+ "F|Open|1500 Free": [
+  {
+   "time": "19:39.07",
+   "holder": "Abby Forbes",
+   "age": 15,
+   "date": "2022-07-03",
+   "meet": "2022 Eric Namesnik Memorial Op",
+   "drop": 10.53
+  },
+  {
+   "time": "19:49.60",
+   "holder": "Abby Forbes",
+   "age": 14,
+   "date": "2021-07-18",
+   "meet": "2021 NC NCS LC AG Champs",
+   "drop": 98.49
+  },
+  {
+   "time": "21:28.09",
+   "holder": "Abby Forbes",
+   "age": 12,
+   "date": "2019-06-21",
+   "meet": "NC YSST 13th Annual  Bob Pratt"
+  }
+ ]
+}
