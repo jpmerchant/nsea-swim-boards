@@ -49,7 +49,29 @@
   tr.new-record .time{ color:var(--coral); }
   .flag{ display:inline-block; font-family:'Space Mono',monospace; font-size:9px; font-weight:700; letter-spacing:0.07em; color:#fff; background:var(--coral); padding:2px 6px; border-radius:4px; margin-left:7px; vertical-align:middle; }
   .loading{ text-align:center; color:var(--gray-light); padding:40px 0; font-size:13px; }
-  @media (max-width:640px){ thead th:nth-child(4), td.meet{ display:none; } td.ev{ width:auto; } .stats-strip{ gap:24px; } }
+  td.hist{ width:40px; padding:4px 4px; text-align:right; vertical-align:middle; }
+  .hist-btn{ display:inline-flex; align-items:center; justify-content:center; width:32px; height:32px; border-radius:50%; border:1.5px solid var(--line); background:var(--white); color:var(--teal); cursor:pointer; padding:0; transition:all .15s ease; }
+  .hist-btn:hover, .hist-btn:focus-visible{ border-color:var(--teal); background:var(--teal); color:var(--white); outline:none; }
+  .hist-btn[aria-expanded="true"]{ border-color:var(--teal); background:var(--teal); color:var(--white); }
+  .hist-btn svg{ width:16px; height:16px; }
+  tr.hist-row{ background:var(--panel); }
+  tr.hist-row > td{ padding:4px 8px 14px; }
+  .hist-box{ border-left:3px solid var(--teal); padding:8px 0 0 14px; }
+  .hist-title{ font-family:'Space Mono',monospace; font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:0.09em; color:var(--teal-dark); margin-bottom:6px; }
+  .hist-list{ list-style:none; margin:0; padding:0; }
+  .hist-list li{ display:grid; grid-template-columns:76px minmax(0,1fr) auto; gap:4px 12px; padding:7px 0; border-bottom:1px dashed var(--line); font-size:13px; align-items:baseline; }
+  .hist-list li:last-child{ border-bottom:none; }
+  .hist-list .h-time{ font-family:'Space Mono',monospace; font-weight:700; color:var(--teal-dark); }
+  .hist-list li.current .h-time{ color:var(--coral); }
+  .hist-list .h-who{ color:var(--ink); }
+  .hist-list .h-who small{ color:var(--gray-light); font-size:11.5px; }
+  .hist-list .h-meet{ display:block; color:var(--gray); font-size:12px; }
+  .hist-list .h-side{ text-align:right; font-family:'Space Mono',monospace; font-size:11px; color:var(--gray-light); white-space:nowrap; }
+  .hist-list .h-drop{ display:block; color:var(--teal); font-weight:700; }
+  .tag{ display:inline-block; font-family:'Space Mono',monospace; font-size:9px; font-weight:700; letter-spacing:0.06em; text-transform:uppercase; padding:1px 5px; border-radius:4px; margin-left:6px; vertical-align:middle; border:1px solid var(--line); color:var(--gray); background:var(--white); }
+  .tag.cur{ border-color:var(--coral); color:var(--coral); }
+  .hist-note{ font-size:11.5px; color:var(--gray-light); margin-top:8px; line-height:1.5; }
+  @media (max-width:640px){ thead th:nth-child(4), td.meet{ display:none; } td.ev{ width:auto; } .stats-strip{ gap:24px; } .hist-list li{ grid-template-columns:64px minmax(0,1fr); } .hist-list .h-side{ grid-column:2; text-align:left; } .hist-list .h-drop{ display:inline; margin-left:8px; } }
 </style>
 </head>
 <body>
@@ -81,10 +103,14 @@
   nsea-swim-boards Claude skill, which generates this file for you.
 */
 const DATA_URL = './data/records-traditional-scy.json';
+const HISTORY_URL = './data/records-history-scy.json';   /* record progression, built by the results database (build_records_history.py) */
 
 let DATA = null;
 let SEASON = null;
 let currentGender = 'Female';
+let HISTORY = null, historyLoad = null;
+const HIST_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 4v4.5h4.5"/><path d="M12 7.5V12l3 2"/></svg>';
+const COLS = 6;
 
 /* Season highlight window: cutoff_iso .. cutoff_end_iso (inclusive). If no end date is set, highlights run to present. */
 function seasonWindow(json){
@@ -115,17 +141,19 @@ function renderTabs(){
   });
 }
 
-function eventRowHtml(e){
+function eventRowHtml(e, age){
   if(e.noRecord){
-    return `<tr class="no-record"><td class="ev">${e.event}</td><td colspan="4">No qualifying mark on file yet</td></tr>`;
+    return `<tr class="no-record"><td class="ev">${e.event}</td><td colspan="5">No qualifying mark on file yet</td></tr>`;
   }
   const nw = isNew(e.date);
+  const key = (currentGender === 'Female' ? 'F' : 'M') + '|' + age + '|' + e.event;
   return `<tr class="${nw ? 'new-record' : ''}">
     <td class="ev">${e.event}</td>
     <td class="time">${e.time}${nw ? '<span class="flag">NEW</span>' : ''}</td>
     <td class="name">${e.holder}</td>
     <td class="meet">${e.meet || ''}</td>
     <td class="date">${e.date || ''}</td>
+    <td class="hist"><button type="button" class="hist-btn" data-key="${key}" aria-expanded="false" aria-label="Record history: ${age} ${e.event}" title="Record history">${HIST_ICON}</button></td>
   </tr>`;
 }
 
@@ -137,6 +165,7 @@ function relayRowHtml(r){
     <td class="name">${r.swimmers}</td>
     <td class="meet">${r.meet || ''}</td>
     <td class="date">${r.date || ''}</td>
+    <td></td>
   </tr>`;
 }
 
@@ -174,8 +203,8 @@ function render(){
         <span class="count">${ag.events.filter(e=>!e.noRecord).length} events on record</span>
       </div>
       <div class="table-scroll"><table>
-        <thead><tr><th>Event</th><th>Time</th><th>Record Holder</th><th>Meet</th><th>Date</th></tr></thead>
-        <tbody>${ag.events.map(eventRowHtml).join('')}</tbody>
+        <thead><tr><th>Event</th><th>Time</th><th>Record Holder</th><th>Meet</th><th>Date</th><th><span style="position:absolute;left:-9999px">History</span></th></tr></thead>
+        <tbody>${ag.events.map(e => eventRowHtml(e, ag.age)).join('')}</tbody>
       </table></div>
     </section>
   `).join('');
@@ -187,7 +216,7 @@ function render(){
         <span class="count">${g.relays.length} on record</span>
       </div>
       <div class="table-scroll"><table>
-        <thead><tr><th>Relay</th><th>Time</th><th>Swimmers</th><th>Meet</th><th>Date</th></tr></thead>
+        <thead><tr><th>Relay</th><th>Time</th><th>Swimmers</th><th>Meet</th><th>Date</th><th></th></tr></thead>
         <tbody>${g.relays.map(relayRowHtml).join('')}</tbody>
       </table></div>
     </section>
@@ -195,6 +224,41 @@ function render(){
 
   boardEl.innerHTML = ageSections + relaySection;
 }
+
+/* ---------- Record history (loaded the first time someone opens one) ---------- */
+function loadHistory(){
+  if(!historyLoad) historyLoad = fetch(HISTORY_URL, {cache: 'no-store'}).then(r => r.json()).then(j => (HISTORY = j));
+  return historyLoad;
+}
+function esc(t){ return String(t == null ? '' : t).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+function historyHtml(list){
+  if(!list || !list.length) return '<div class="hist-note">No history on file for this record yet.</div>';
+  const items = list.map((h, i) => `
+    <li class="${i === 0 ? 'current' : ''}">
+      <span class="h-time">${esc(h.time)}</span>
+      <span class="h-who">${esc(h.holder)} <small>(${esc(h.age)})</small>${i === 0 ? '<span class="tag cur">Current</span>' : ''}${h.tied ? '<span class="tag">Tied</span>' : ''}${h.leadoff ? '<span class="tag">Relay lead-off</span>' : ''}<span class="h-meet">${esc(h.meet)}</span></span>
+      <span class="h-side">${esc(h.date)}${h.drop ? `<span class="h-drop">&minus;${h.drop.toFixed(2)}</span>` : (i === list.length - 1 ? '<span class="h-drop" style="color:var(--gray-light);font-weight:400">First mark</span>' : '')}</span>
+    </li>`).join('');
+  const n = list.length;
+  return `<div class="hist-title">Record history &middot; ${n} ${n === 1 ? 'mark' : 'marks'}</div>
+    <ol class="hist-list">${items}</ol>
+    <div class="hist-note">Each time this record was broken (or tied by another swimmer), newest first. Counts NSEA swims from the club's founding in June 2019; the time drop is how much the swim took off the record before it.</div>`;
+}
+document.getElementById('board').addEventListener('click', ev => {
+  const btn = ev.target.closest('.hist-btn');
+  if(!btn) return;
+  const row = btn.closest('tr');
+  const open = row.nextElementSibling && row.nextElementSibling.classList.contains('hist-row');
+  if(open){ row.nextElementSibling.remove(); btn.setAttribute('aria-expanded', 'false'); return; }
+  const hr = document.createElement('tr');
+  hr.className = 'hist-row';
+  hr.innerHTML = `<td colspan="${COLS}"><div class="hist-box"><div class="hist-note">Loading history…</div></div></td>`;
+  row.after(hr);
+  btn.setAttribute('aria-expanded', 'true');
+  loadHistory()
+    .then(H => { hr.querySelector('.hist-box').innerHTML = historyHtml(H[btn.dataset.key]); })
+    .catch(err => { hr.querySelector('.hist-box').innerHTML = '<div class="hist-note">Could not load record history.</div>'; console.error('Failed to load', HISTORY_URL, err); });
+});
 
 fetch(DATA_URL, {cache: 'no-store'})
   .then(r => r.json())
