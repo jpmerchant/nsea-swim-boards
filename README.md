@@ -25,6 +25,7 @@ it loads from `/data/` should change when new results come in.
    records-relays-scy.html
    records-relays-lcm.html
    imx-imr-scy.html
+   top-times.html
    data/
      top10-performers-scy.json
      top10-performers-lcm.json
@@ -38,6 +39,7 @@ it loads from `/data/` should change when new results come in.
      records-relays-scy.json
      records-relays-lcm.json
      imx-imr-scy.json
+     times-explorer.json
    ```
    Easiest way if you're not comfortable with git command line: on the
    repo's GitHub page, use **Add file → Upload files** and drag the whole
@@ -299,3 +301,16 @@ pages compare them directly against the cutoff date in the browser.
   faster and much lower-risk mid-season.
 - Everything here is plain static files; no build step, server, or paid
   hosting required.
+
+## Top Times Explorer (`top-times.html`)
+
+A query version of the Top 10 boards: pick course, event (or all events), gender (or both), age at the swim
+(groups, single ages or a custom range), time window (all-time, a season, or a date range), performers or
+performances, and how many to show. Every view is a shareable link (the filters live in the URL `#` part),
+and the list can be downloaded as CSV or printed.
+
+Data: `data/times-explorer.json`, built by `build_times_explorer.py` in nsea-results-db from the local
+results database plus any swim that is on the live Top 10 boards but not in the database, so the explorer's
+Top 10 always agrees with the boards. Same scope rules as the boards (NSEA-era swims only; relay lead-offs and
+Unattached high-school swims included and flagged). No birthdates or USA IDs are in the file.
+Rebuild it after each meet, right after the Top 10 boards are updated.

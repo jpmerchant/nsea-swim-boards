@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>NSEA Swim — Top Times Explorer</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{--teal:#008675;--teal-dark:#006A5C;--teal-light:#E6F3F1;--coral:#ee492f;--coral-light:#FCE7E3;--gray:#676d70;--gray-light:#9BA0A3;--line:#E4E7E8;--ink:#1B2325;--white:#fff;--panel:#FAFBFB}
+*{box-sizing:border-box}
+body{margin:0;background:var(--white);color:var(--ink);font-family:'Inter',Arial,sans-serif;padding-bottom:50px}
+main{max-width:1200px;margin:0 auto;padding:0 16px}
+.intro{text-align:center;padding:16px 0 6px;color:var(--gray);font-size:13px;line-height:1.5}
+.presets{display:flex;gap:6px;flex-wrap:wrap;justify-content:center;margin:8px 0 14px}
+.presets button{font:600 12px 'Inter',Arial,sans-serif;padding:6px 12px;border-radius:999px;border:1px solid var(--line);background:var(--panel);color:var(--teal-dark);cursor:pointer}
+.presets button:hover{border-color:var(--teal)}
+.panel{border:1px solid var(--line);border-radius:10px;background:var(--panel);padding:14px 16px;display:grid;grid-template-columns:repeat(auto-fit,minmax(min(170px,100%),1fr));gap:12px 14px}
+.f label{display:block;font:700 10px 'Space Mono',monospace;text-transform:uppercase;letter-spacing:.08em;color:var(--gray);margin-bottom:4px}
+.f select,.f input[type=date],.f input[type=number],.f input[type=search]{width:100%;font:500 14px 'Inter',Arial,sans-serif;padding:8px 9px;border:1px solid #c5cfd1;border-radius:7px;background:#fff;color:var(--ink)}
+.seg{display:flex;border:1.5px solid var(--teal);border-radius:8px;overflow:hidden}
+.seg button{flex:1;min-width:0;font:700 11px 'Space Mono',monospace;text-transform:uppercase;letter-spacing:0;padding:8px 2px;border:0;background:#fff;color:var(--teal-dark);cursor:pointer}
+.seg button+button{border-left:1px solid var(--teal)}
+.seg button.on{background:var(--teal);color:#fff}
+.row2{display:flex;gap:6px}.row2>*{flex:1;min-width:0}
+.hidden{display:none!important}
+.opts{grid-column:1/-1;display:flex;gap:8px 20px;flex-wrap:wrap;font-size:13px;color:var(--gray);align-items:center}
+.opts label{display:flex;gap:6px;align-items:center;cursor:pointer}
+.opts .sp{flex:1}
+.btn{font:700 11px 'Space Mono',monospace;text-transform:uppercase;letter-spacing:.05em;padding:7px 12px;border-radius:7px;border:1.5px solid var(--teal);background:#fff;color:var(--teal-dark);cursor:pointer}
+.btn:hover{background:var(--teal-light)}
+.summary{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px;margin:20px 0 6px;border-bottom:2px solid var(--ink);padding-bottom:6px}
+.summary h2{font:600 20px 'Oswald',Arial,sans-serif;text-transform:uppercase;letter-spacing:.02em;margin:0}
+.summary .meta{font:11px 'Space Mono',monospace;color:var(--gray-light);text-transform:uppercase;letter-spacing:.05em}
+.hl{background:var(--teal-light);border-left:4px solid var(--teal);border-radius:6px;padding:9px 14px;font-size:13px;margin:10px 0;line-height:1.6}
+.ev{margin:0 0 28px}
+.ev h3{font:600 17px 'Oswald',Arial,sans-serif;text-transform:uppercase;margin:18px 0 6px;letter-spacing:.02em;display:flex;justify-content:space-between;align-items:baseline;border-bottom:1px solid var(--ink);padding-bottom:4px}
+.ev h3 span{font:11px 'Space Mono',monospace;color:var(--gray-light);text-transform:uppercase}
+.ev h3 a{color:inherit;text-decoration:none;cursor:pointer}.ev h3 a:hover{color:var(--teal)}
+.scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+table{width:100%;border-collapse:collapse}
+th{text-align:left;font:700 10px 'Space Mono',monospace;text-transform:uppercase;letter-spacing:.08em;color:var(--gray-light);padding:8px;border-bottom:1px solid var(--line);white-space:nowrap}
+td{padding:9px 8px;font-size:13.5px;border-bottom:1px solid var(--line)}
+td.rk{font:700 15px 'Oswald',Arial,sans-serif;color:var(--gray-light);width:40px}
+td.tm{font:700 14px 'Space Mono',monospace;color:var(--teal-dark);white-space:nowrap}
+td.nm{font-weight:600}td.nm a{color:inherit;text-decoration:none;cursor:pointer}td.nm a:hover{color:var(--teal)}
+td.mt{color:var(--gray);font-size:12px}
+td.dt,td.ss{font:11.5px 'Space Mono',monospace;color:var(--gray-light);white-space:nowrap}
+tr.r1 td.rk,tr.r1 td.tm{color:var(--teal-dark)}tr.r1 td.tm{font:700 18px 'Oswald',Arial,sans-serif}
+tr.me{background:linear-gradient(90deg,var(--coral-light),rgba(252,231,227,.2))}tr.me td.tm{color:var(--coral)}
+tr.gap td{text-align:center;color:var(--gray-light);font:11px 'Space Mono',monospace;padding:4px}
+.tag{display:inline-block;font:700 9px 'Space Mono',monospace;letter-spacing:.06em;padding:2px 5px;border-radius:4px;margin-left:6px;vertical-align:middle;background:var(--line);color:var(--gray)}
+.tag.sx-F{background:#F3E8EC;color:#8a3b55}.tag.sx-M{background:#E5EEF6;color:#2f5a80}
+.empty{text-align:center;color:var(--gray-light);padding:30px 0;font-size:13px}
+.note{color:var(--gray-light);font-size:11.5px;line-height:1.55;margin-top:24px;text-align:center}
+.legend{font-size:12px;color:var(--gray);margin:4px 0 10px}
+.toast{position:fixed;bottom:18px;left:50%;transform:translateX(-50%);background:var(--ink);color:#fff;padding:8px 16px;border-radius:8px;font-size:13px;opacity:0;transition:opacity .2s;pointer-events:none}.toast.on{opacity:1}
+@media (max-width:640px){th.c-mt,td.mt,th.c-ss,td.ss{display:none}td{padding:8px 5px}}
+@media print{.panel,.presets,.opts,.btn,.intro{display:none!important}tr.me{background:none}}
+</style>
+</head>
+<body>
+<main>
+<p class="intro">Build any top-times list from every NSEA swim on file. Pick the event, course, age, gender and time window, or start from one of these:</p>
+<div class="presets" id="presets"></div>
+
+<div class="panel">
+  <div class="f"><label>Course</label><div class="seg" id="course"><button type="button" data-v="Y">SCY</button><button type="button" data-v="L">LCM</button></div></div>
+  <div class="f"><label for="event">Event</label><select id="event"></select></div>
+  <div class="f"><label>Gender</label><div class="seg" id="sex"><button type="button" data-v="F">Women</button><button type="button" data-v="M">Men</button><button type="button" data-v="X">Both</button></div></div>
+  <div class="f"><label for="age">Age at the swim</label><select id="age"></select>
+    <div class="row2 hidden" id="ageCustom" style="margin-top:6px"><input type="number" id="ageLo" min="5" max="25" placeholder="from"><input type="number" id="ageHi" min="5" max="25" placeholder="to"></div></div>
+  <div class="f"><label for="when">Time window</label><select id="when"></select>
+    <div class="row2 hidden" id="whenCustom" style="margin-top:6px"><input type="date" id="dFrom" aria-label="From"><input type="date" id="dTo" aria-label="To"></div></div>
+  <div class="f"><label>List</label><div class="seg" id="kind"><button type="button" data-v="performers" title="Each swimmer's single fastest swim">Performers</button><button type="button" data-v="performances" title="Every swim; a swimmer can appear more than once">Performances</button></div></div>
+  <div class="f"><label for="topn">How many</label><select id="topn"></select></div>
+  <div class="f"><label for="who">Find a swimmer</label><input type="search" id="who" list="whoList" placeholder="Type a name"><datalist id="whoList"></datalist></div>
+  <div class="opts">
+    <label><input type="checkbox" id="optLead" checked> Relay lead-offs</label>
+    <label><input type="checkbox" id="optHS" checked> Unattached high-school swims</label>
+    <label><input type="checkbox" id="optActive"> Current swimmers only</label>
+    <span class="sp"></span>
+    <button class="btn" id="bLink" type="button">Copy link</button>
+    <button class="btn" id="bCsv" type="button">Download CSV</button>
+    <button class="btn" id="bPrint" type="button">Print</button>
+  </div>
+</div>
+
+<div id="out"><div class="empty">Loading swims…</div></div>
+<p class="note" id="note"></p>
+</main>
+<div class="toast" id="toast"></div>
+<script>
+/* Renders ./data/times-explorer.json (built by nsea-results-db build_times_explorer.py). Update = JSON swap, not an HTML edit.
+   Swim row: [swimmerIdx, eventCode(dist*10+stroke), course Y/L, time hundredths, date, meetIdx, age at swim, round, flags(1 lead-off,2 HS unattached,4 live-board only)] */
+const DATA_URL='./data/times-explorer.json';
+const $=id=>document.getElementById(id);
+const SN={1:'Free',2:'Back',3:'Breast',4:'Fly',5:'IM'};
+const EVENTS={Y:[251,252,253,254,501,502,503,504,1001,1002,1003,1004,1005,2001,2002,2003,2004,2005,4005,5001,10001,16501],
+              L:[501,502,503,504,1001,1002,1003,1004,2001,2002,2003,2004,2005,4001,4005,8001,15001]};
+const AGES=[['all','All ages',0,99],['8u','8 & Under',0,8],['910','9-10',9,10],['10u','10 & Under',0,10],['1112','11-12',11,12],['1314','13-14',13,14],['1516','15-16',15,16],['1718','17-18',17,18],['18u','18 & Under',0,18],['19o','19 & Over',19,99]];
+const evName=c=>Math.floor(c/10)+' '+SN[c%10];
+const fmt=cs=>{const m=Math.floor(cs/6000),s=(cs%6000)/100;return m?m+':'+(s<10?'0':'')+s.toFixed(2):s.toFixed(2)};
+const seasonOf=d=>{const y=+d.slice(0,4),m=+d.slice(5,7);return m>=9?y:y-1};
+const sLbl=y=>y+'–'+String(y+1).slice(2);
+const dfmt=d=>d?new Date(d+'T12:00:00').toLocaleDateString('en-US',{month:'numeric',day:'numeric',year:'numeric'}):'';
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+let D;
+const DEF={course:'Y',event:'all',sex:'F',age:'all',ageLo:'',ageHi:'',when:'all',dFrom:'',dTo:'',kind:'performers',topn:'10',who:'',lead:true,hs:true,active:false};
+let st={...DEF};
+const PRESETS=[
+ ['Team Top 10, every event',{event:'all',age:'all',when:'all',kind:'performers',topn:'10'}],
+ ['Top 8 · 10 & Under girls 50 Free · 2020–21',{course:'Y',event:501,sex:'F',age:'10u',when:'s2020',kind:'performers',topn:'8'}],
+ ['Top 30 all-time · 100 Back · all ages',{course:'Y',event:1002,age:'all',when:'all',kind:'performers',topn:'30'}],
+ ['Top 10 all-time · 200 Fly · men & women',{course:'Y',event:2004,sex:'X',age:'all',when:'all',kind:'performers',topn:'10'}],
+ ['This season, every event',{event:'all',age:'all',when:'cur',kind:'performers',topn:'10'}],
+ ['25 fastest 50 Free swims ever',{course:'Y',event:501,sex:'X',age:'all',when:'all',kind:'performances',topn:'25'}]];
+function seg(id,key){$(id).querySelectorAll('button').forEach(b=>b.onclick=()=>{st[key]=b.dataset.v;if(key==='course')fillEvents();sync();run()})}
+function paintSeg(id,v){$(id).querySelectorAll('button').forEach(b=>b.classList.toggle('on',b.dataset.v===String(v)))}
+function fillEvents(){const ev=$('event');let h='<option value="all">All events</option>';
+ for(const s of[1,2,3,4,5]){const L=EVENTS[st.course].filter(c=>c%10===s);if(L.length)h+=`<optgroup label="${SN[s]}">`+L.map(c=>`<option value="${c}">${evName(c)}</option>`).join('')+'</optgroup>'}
+ ev.innerHTML=h;if(st.event!=='all'&&!EVENTS[st.course].includes(+st.event))st.event='all';ev.value=String(st.event)}
+function init(){
+ $('age').innerHTML=AGES.map(a=>`<option value="${a[0]}">${a[1]}</option>`).join('')+'<optgroup label="Single age">'+Array.from({length:14},(_,i)=>i+6).map(a=>`<option value="a${a}">${a}</option>`).join('')+'</optgroup><option value="custom">Custom range…</option>';
+ const seasons=[...new Set(D.swims.map(x=>seasonOf(x[4])))].sort((a,b)=>b-a);D.curSeason=seasonOf(D.built||D.asOf);
+ if(!seasons.includes(D.curSeason))seasons.unshift(D.curSeason);
+ $('when').innerHTML='<option value="all">All-time</option><option value="cur">This season ('+sLbl(D.curSeason)+')</option><optgroup label="Season (Sep 1 – Aug 31)">'+seasons.map(y=>`<option value="s${y}">${sLbl(y)}</option>`).join('')+'</optgroup><option value="custom">Date range…</option>';
+ $('topn').innerHTML=[3,5,8,10,16,20,25,30,50,100].map(n=>`<option value="${n}">Top ${n}</option>`).join('')+'<option value="all">Everyone</option>';
+ $('whoList').innerHTML=[...new Set(D.swimmers.map(s=>s[0]+' '+s[1]))].sort().map(n=>`<option value="${esc(n)}">`).join('');
+ $('presets').innerHTML=PRESETS.map((p,i)=>`<button type="button" data-i="${i}">${p[0]}</button>`).join('');
+ $('presets').querySelectorAll('button').forEach(b=>b.onclick=()=>{st={...DEF,course:st.course,sex:st.sex,lead:st.lead,hs:st.hs,active:st.active,...PRESETS[b.dataset.i][1]};fillEvents();sync();run()});
+ seg('course','course');seg('sex','sex');seg('kind','kind');
+ const on=(id,k,evn,f)=>$(id).addEventListener(evn||'change',e=>{const v=e.target.type==='checkbox'?e.target.checked:e.target.value;st[k]=f?f(v):v;sync();run()});
+ on('event','event','change',v=>v==='all'?'all':+v);on('age','age');on('ageLo','ageLo','input');on('ageHi','ageHi','input');on('when','when');on('dFrom','dFrom');on('dTo','dTo');on('topn','topn');on('who','who','input');
+ on('optLead','lead');on('optHS','hs');on('optActive','active');
+ $('bLink').onclick=()=>{const u=location.href.split('#')[0]+'#'+hash();(navigator.clipboard?navigator.clipboard.writeText(u):Promise.reject()).then(()=>toast('Link copied')).catch(()=>prompt('Copy this link:',u))};
+ $('bPrint').onclick=()=>window.print();$('bCsv').onclick=csv;
+ readHash();fillEvents();sync();run();
+ window.addEventListener('hashchange',()=>{if(location.hash.slice(1)===hash())return;readHash();fillEvents();sync();run()});
+ $('note').innerHTML=`Swims on file through ${dfmt(D.asOf)}. Only times swum while the swimmer was a member of NSEA count, the same rules as the Top 10 and record boards. Age is the swimmer's age on the day of the swim. Seasons run September 1 – August 31. Relay lead-off splits are official individual times and are marked <span class="tag">R</span>; Unattached swims at high-school meets are marked <span class="tag">HS</span>; prelim swims are marked <span class="tag">P</span>. Missing or wrong swim? Let a coach know.`}
+function sync(){paintSeg('course',st.course);paintSeg('sex',st.sex);paintSeg('kind',st.kind);
+ $('event').value=String(st.event);$('age').value=st.age;$('when').value=st.when;$('topn').value=st.topn;
+ $('ageCustom').classList.toggle('hidden',st.age!=='custom');$('whenCustom').classList.toggle('hidden',st.when!=='custom');
+ $('ageLo').value=st.ageLo;$('ageHi').value=st.ageHi;$('dFrom').value=st.dFrom;$('dTo').value=st.dTo;
+ if(document.activeElement!==$('who'))$('who').value=st.who;$('optLead').checked=st.lead;$('optHS').checked=st.hs;$('optActive').checked=st.active;
+ try{history.replaceState(null,'','#'+hash())}catch(e){}}
+const HK={course:'c',event:'e',sex:'g',age:'a',ageLo:'al',ageHi:'ah',when:'w',dFrom:'df',dTo:'dt',kind:'k',topn:'n',who:'s',lead:'r',hs:'hs',active:'cur'};
+function hash(){const p=new URLSearchParams();for(const k in HK){const v=st[k];if(v===DEF[k]||v==='')continue;p.set(HK[k],typeof v==='boolean'?(v?1:0):v)}return p.toString()}
+function readHash(){const p=new URLSearchParams(location.hash.slice(1));st={...DEF};for(const k in HK){if(!p.has(HK[k]))continue;const v=p.get(HK[k]);
+ if(typeof DEF[k]==='boolean')st[k]=v==='1';else if(k==='event')st[k]=v==='all'?'all':+v;else st[k]=v}
+ if(!['Y','L'].includes(st.course))st.course='Y';if(!['F','M','X'].includes(st.sex))st.sex='F';if(!['performers','performances'].includes(st.kind))st.kind='performers'}
+function ageRange(){if(st.age==='custom')return[st.ageLo===''?0:+st.ageLo,st.ageHi===''?99:+st.ageHi];if(/^a\d+$/.test(st.age))return[+st.age.slice(1),+st.age.slice(1)];const a=AGES.find(x=>x[0]===st.age)||AGES[0];return[a[2],a[3]]}
+function dateRange(){if(st.when==='all')return['0000','9999'];if(st.when==='custom')return[st.dFrom||'0000',st.dTo||'9999'];
+ const y=st.when==='cur'?D.curSeason:+st.when.slice(1);return[y+'-09-01',(y+1)+'-08-31']}
+function label(){const a=st.age==='custom'?`Ages ${st.ageLo||'any'}–${st.ageHi||'any'}`:/^a\d+$/.test(st.age)?'Age '+st.age.slice(1):(AGES.find(x=>x[0]===st.age)||AGES[0])[1];
+ const g={F:'Women',M:'Men',X:'Men & Women'}[st.sex];const w=st.when==='all'?'All-time':st.when==='cur'?sLbl(D.curSeason)+' season':st.when==='custom'?`${st.dFrom?dfmt(st.dFrom):'start'} – ${st.dTo?dfmt(st.dTo):'today'}`:sLbl(+st.when.slice(1))+' season';
+ return{n:st.topn==='all'?'All':'Top '+st.topn,a,g,w,c:st.course==='Y'?'SCY':'LCM'}}
+function filtered(){const[lo,hi]=ageRange(),[d0,d1]=dateRange();return D.swims.filter(x=>{const s=D.swimmers[x[0]];
+ if(x[2]!==st.course)return false;if(st.sex!=='X'&&s[2]!==st.sex)return false;if(x[6]==null||x[6]<lo||x[6]>hi)return false;
+ if(x[4]<d0||x[4]>d1)return false;if(!st.lead&&(x[8]&1))return false;if(!st.hs&&(x[8]&2))return false;if(st.active&&s[3]!=='a')return false;return true})}
+function rank(list){list.sort((a,b)=>a[3]-b[3]||(a[4]<b[4]?-1:a[4]>b[4]?1:0));if(st.kind==='performers'){const seen=new Set();list=list.filter(x=>!seen.has(x[0])&&seen.add(x[0]))}
+ let r=0,prev=null;return list.map((x,i)=>{if(x[3]!==prev){r=i+1;prev=x[3]}return{x,r}})}
+let LAST=[];
+function run(){if(!D)return;const L=filtered(),evs=st.event==='all'?EVENTS[st.course]:[st.event],n=st.topn==='all'?1e9:+st.topn;
+ const who=st.who.trim().toLowerCase(),lb=label();LAST=[];
+ const nm=x=>D.swimmers[x[0]][0]+' '+D.swimmers[x[0]][1];
+ const isMe=x=>who&&nm(x).toLowerCase().includes(who);
+ const unit=st.kind==='performers'?'swimmers':'swims';
+ let h=`<div class="summary"><h2>${lb.n} · ${st.event==='all'?'':evName(st.event)+' · '}${lb.a} · ${lb.g}</h2><span class="meta">${lb.c} · ${lb.w} · ${st.kind}</span></div>`;
+ const notes=[];let body='',shown=0;
+ for(const ev of evs){const R=rank(L.filter(x=>x[1]===ev));if(!R.length)continue;
+  const top=R.filter(o=>o.r<=n);const mine=who?R.filter(o=>isMe(o.x)&&o.r>n):[];
+  if(who){const f=R.filter(o=>isMe(o.x));if(f.length)notes.push(`<b>${esc(nm(f[0].x))}</b> · ${evName(ev)}: #${f[0].r} of ${R.length} ${unit} (${fmt(f[0].x[3])})`)}
+  shown++;top.concat(mine).forEach(o=>LAST.push([evName(ev),o]));
+  body+=`<section class="ev">${st.event==='all'?`<h3><a data-ev="${ev}" title="Open this event">${evName(ev)}</a><span>${R.length} ${unit}</span></h3>`:`<div class="legend">${R.length} ${unit} match these filters</div>`}
+  <div class="scroll"><table><thead><tr><th>#</th><th>Time</th><th>Swimmer</th><th>Age</th><th class="c-mt">Meet</th><th>Date</th><th class="c-ss">Season</th></tr></thead><tbody>
+  ${top.map(o=>row(o,isMe)).join('')}${mine.length?'<tr class="gap"><td colspan="7">· · ·</td></tr>'+mine.map(o=>row(o,isMe)).join(''):''}</tbody></table></div></section>`}
+ if(who&&!notes.length)notes.push(`No swims for “${esc(st.who)}” match these filters.`);
+ $('out').innerHTML=h+(notes.length?`<div class="hl">${notes.join('<br>')}</div>`:'')+(shown?body:'<div class="empty">No swims match these filters. Try widening the age group or time window.</div>');
+ $('out').querySelectorAll('[data-ev]').forEach(a=>a.onclick=()=>{st.event=+a.dataset.ev;sync();run();window.scrollTo({top:0,behavior:'smooth'})});
+ $('out').querySelectorAll('[data-sw]').forEach(a=>a.onclick=()=>{st.who=a.dataset.sw;sync();run()})}
+function row(o,isMe){const x=o.x,s=D.swimmers[x[0]],m=D.meets[x[5]]||['',''],name=s[0]+' '+s[1];
+ const tags=(st.sex==='X'?`<span class="tag sx-${s[2]}">${s[2]==='F'?'W':'M'}</span>`:'')+(x[8]&1?'<span class="tag" title="Relay lead-off">R</span>':'')+(x[8]&2?'<span class="tag" title="Unattached high-school swim">HS</span>':'')+(x[7]==='P'?'<span class="tag" title="Prelims">P</span>':x[7]==='S'?'<span class="tag" title="Swim-off">SO</span>':'');
+ return `<tr class="${o.r===1?'r1':''} ${isMe(x)?'me':''}"><td class="rk">${o.r}</td><td class="tm">${fmt(x[3])}</td><td class="nm"><a data-sw="${esc(name)}" title="Find this swimmer">${esc(name)}</a>${tags}</td><td>${x[6]??''}</td><td class="mt">${esc(m[0])}</td><td class="dt">${dfmt(x[4])}</td><td class="ss">${sLbl(seasonOf(x[4]))}</td></tr>`}
+function csv(){const q=v=>'"'+String(v??'').replace(/"/g,'""')+'"';const lines=[['Event','Rank','Time','First','Last','Sex','Age','Meet','Date','Season','Relay lead-off','HS unattached','Round'].join(',')];
+ for(const[ev,o]of LAST){const x=o.x,s=D.swimmers[x[0]];lines.push([ev,o.r,fmt(x[3]),s[0],s[1],s[2],x[6],(D.meets[x[5]]||[''])[0],x[4],sLbl(seasonOf(x[4])),x[8]&1?'Y':'',x[8]&2?'Y':'',x[7]].map(q).join(','))}
+ const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([lines.join('\n')],{type:'text/csv'}));a.download='nsea-top-times.csv';document.body.appendChild(a);a.click();a.remove()}
+function toast(t){const e=$('toast');e.textContent=t;e.classList.add('on');setTimeout(()=>e.classList.remove('on'),1600)}
+fetch(DATA_URL,{cache:'no-cache'}).then(r=>r.json()).then(j=>{D=j;init()}).catch(()=>{$('out').innerHTML='<div class="empty">Could not load swims. Please refresh.</div>'});
+</script>
+</body>
+</html>
