@@ -1369,18 +1369,6 @@
      },
      {
       "rank": 3,
-      "time": "1:35.60",
-      "swimmers": [
-       "Bryson Edwards",
-       "Clem Camacho",
-       "Ryker Eder",
-       "Laith Ausband"
-      ],
-      "meet": "2025 NC NCHSAA 4A State Championship",
-      "date": "2025-02-06"
-     },
-     {
-      "rank": 4,
       "time": "1:35.78",
       "swimmers": [
        "Hance Mayo",
@@ -1392,7 +1380,7 @@
       "date": "2026-02-20"
      },
      {
-      "rank": 5,
+      "rank": 4,
       "time": "1:36.65",
       "swimmers": [
        "Cole Witmer",
@@ -1402,6 +1390,18 @@
       ],
       "meet": "2024 NC STAR Tar Heel States",
       "date": "2024-03-17"
+     },
+     {
+      "rank": 5,
+      "time": "1:38.40",
+      "swimmers": [
+       "Cole Witmer",
+       "Ryker Eder",
+       "Bryson Edwards",
+       "Laith Ausband"
+      ],
+      "meet": "2023 NC STAR Triad Tropic",
+      "date": "2023-12-17"
      }
     ],
     "400 Free Relay": [
@@ -1941,18 +1941,6 @@
      },
      {
       "rank": 3,
-      "time": "1:35.60",
-      "swimmers": [
-       "Bryson Edwards",
-       "Clem Camacho",
-       "Ryker Eder",
-       "Laith Ausband"
-      ],
-      "meet": "2025 NC NCHSAA 4A State Championship",
-      "date": "2025-02-06"
-     },
-     {
-      "rank": 4,
       "time": "1:35.78",
       "swimmers": [
        "Hance Mayo",
@@ -1964,7 +1952,7 @@
       "date": "2026-02-20"
      },
      {
-      "rank": 5,
+      "rank": 4,
       "time": "1:36.65",
       "swimmers": [
        "Cole Witmer",
@@ -1974,6 +1962,18 @@
       ],
       "meet": "2024 NC STAR Tar Heel States",
       "date": "2024-03-17"
+     },
+     {
+      "rank": 5,
+      "time": "1:38.40",
+      "swimmers": [
+       "Cole Witmer",
+       "Ryker Eder",
+       "Bryson Edwards",
+       "Laith Ausband"
+      ],
+      "meet": "2023 NC STAR Triad Tropic",
+      "date": "2023-12-17"
      }
     ],
     "400 Free Relay": [
@@ -2685,18 +2685,6 @@
      },
      {
       "rank": 3,
-      "time": "1:35.60",
-      "swimmers": [
-       "Bryson Edwards",
-       "Clem Camacho",
-       "Ryker Eder",
-       "Laith Ausband"
-      ],
-      "meet": "2025 NC NCHSAA 4A State Championship",
-      "date": "2025-02-06"
-     },
-     {
-      "rank": 4,
       "time": "1:35.78",
       "swimmers": [
        "Hance Mayo",
@@ -2708,7 +2696,7 @@
       "date": "2026-02-20"
      },
      {
-      "rank": 5,
+      "rank": 4,
       "time": "1:36.65",
       "swimmers": [
        "Cole Witmer",
@@ -2718,6 +2706,18 @@
       ],
       "meet": "2024 NC STAR Tar Heel States",
       "date": "2024-03-17"
+     },
+     {
+      "rank": 5,
+      "time": "1:38.40",
+      "swimmers": [
+       "Cole Witmer",
+       "Ryker Eder",
+       "Bryson Edwards",
+       "Laith Ausband"
+      ],
+      "meet": "2023 NC STAR Triad Tropic",
+      "date": "2023-12-17"
      }
     ],
     "400 Free Relay": [
