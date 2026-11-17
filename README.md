@@ -25,6 +25,7 @@ it loads from `/data/` should change when new results come in.
    records-relays-scy.html
    records-relays-lcm.html
    imx-imr-scy.html
+   top-times.html
    data/
      top10-performers-scy.json
      top10-performers-lcm.json
@@ -38,6 +39,7 @@ it loads from `/data/` should change when new results come in.
      records-relays-scy.json
      records-relays-lcm.json
      imx-imr-scy.json
+     times-explorer.json
    ```
    Easiest way if you're not comfortable with git command line: on the
    repo's GitHub page, use **Add file → Upload files** and drag the whole
@@ -299,3 +301,20 @@ pages compare them directly against the cutoff date in the browser.
   faster and much lower-risk mid-season.
 - Everything here is plain static files; no build step, server, or paid
   hosting required.
+
+## Top Times Explorer (`top-times.html`)
+
+A query version of the Top 10 boards: pick course, event (or all events), gender (or both), age at the swim
+(groups, single ages or a custom range), time window (all-time, a season, or a date range), performers or
+performances, and how many to show. Every view is a shareable link (the filters live in the URL `#` part),
+and the list can be downloaded as CSV or printed.
+
+Data: `data/times-explorer.json`. Same scope rules as the boards (NSEA-era swims only; relay lead-offs and
+Unattached high-school swims included and flagged). No birthdates or USA IDs are in the file.
+
+## Where the data comes from (single source of truth, since 2026-11-17)
+
+Every file in `data/` is generated from the NSEA results database (nsea-results-db, run on JP's computer):
+`./build_all.sh` then `publish_to_live/publish.sh <this repo folder>`. Do not hand-edit the JSON here: a time, name
+or meet name is fixed at its source in the database inputs and the files are rebuilt. Fixed text per board (season
+window, disclaimers, footers, record slots) lives in nsea-results-db `publish_to_live/board_settings.json`.

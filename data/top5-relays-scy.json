@@ -147,6 +147,18 @@
      },
      {
       "rank": 2,
+      "time": "2:48.27",
+      "swimmers": [
+       "Court Yarnoz",
+       "Pace Stewart",
+       "William Forbes",
+       "Gavin Derry"
+      ],
+      "meet": "2021 NC TAC Big Southern Classic",
+      "date": "2021-11-14"
+     },
+     {
+      "rank": 3,
       "time": "3:28.20",
       "swimmers": [
        "Kirin Lee",
@@ -158,7 +170,7 @@
       "date": "2025-10-26"
      },
      {
-      "rank": 3,
+      "rank": 4,
       "time": "3:33.59",
       "swimmers": [
        "Tanner Balchin",
@@ -168,6 +180,20 @@
       ],
       "meet": "2024 NC BAC Battle at the Beach",
       "date": "2024-01-13"
+     }
+    ],
+    "200 Medley Relay": [
+     {
+      "rank": 1,
+      "time": "3:21.68",
+      "swimmers": [
+       "William Forbes",
+       "Court Yarnoz",
+       "Gavin Derry",
+       "Pace Stewart"
+      ],
+      "meet": "2021 NC TAC Big Southern Classic",
+      "date": "2021-11-13"
      }
     ]
    },
@@ -179,7 +205,7 @@
       "swimmers": [
        "Nina Crowley",
        "Liam Bascome",
-       "Mckinley Meadows",
+       "McKinley Meadows",
        "Gentry Witmer"
       ],
       "meet": "2022 NC BAC-NSEA Dual",
@@ -217,6 +243,18 @@
      },
      {
       "rank": 3,
+      "time": "1:55.29",
+      "swimmers": [
+       "Lilly Braton",
+       "Fiona Howell",
+       "Abigail Fitzgerald",
+       "Elliana Henderson"
+      ],
+      "meet": "2024 NC BAC Halloween Bash",
+      "date": "2024-10-26"
+     },
+     {
+      "rank": 4,
       "time": "1:55.62",
       "swimmers": [
        "Taylor Crane",
@@ -228,33 +266,45 @@
       "date": "2021-03-28"
      },
      {
-      "rank": 4,
-      "time": "2:00.60",
-      "swimmers": [
-       "Nina Crowley",
-       "Annderson Petroff",
-       "Lilah Taylor",
-       "Gentry Witmer"
-      ],
-      "meet": "2023 NC STAR Triad Tropic",
-      "date": "2023-12-16"
-     },
-     {
       "rank": 5,
-      "time": "2:01.85",
+      "time": "1:57.03",
       "swimmers": [
-       "Sophie Wert",
-       "Olivia Crowley",
-       "Lillian Amin",
-       "Violet Derry"
+       "Alicia Bald",
+       "Charlie Corcho",
+       "Lexi Williams",
+       "Abigail Blair"
       ],
-      "meet": "2021 NC BAC - NSEA DUAL MEET",
-      "date": "2021-09-19"
+      "meet": "2024 NC STAR Tar Heel States",
+      "date": "2024-03-16"
      }
     ],
     "200 Medley Relay": [
      {
       "rank": 1,
+      "time": "2:08.79",
+      "swimmers": [
+       "Gentry Witmer",
+       "Nina Crowley",
+       "Eliza Amin",
+       "Annderson Petroff"
+      ],
+      "meet": "2024 NC STAR Tar Heel States",
+      "date": "2024-03-17"
+     },
+     {
+      "rank": 2,
+      "time": "2:09.65",
+      "swimmers": [
+       "Gentry Witmer",
+       "Annderson Petroff",
+       "Eliza Amin",
+       "Lexi Williams"
+      ],
+      "meet": "2024 NC GOLD Gobbler Invitational",
+      "date": "2024-11-24"
+     },
+     {
+      "rank": 3,
       "time": "2:12.28",
       "swimmers": [
        "Gentry Witmer",
@@ -266,7 +316,19 @@
       "date": "2024-09-29"
      },
      {
-      "rank": 2,
+      "rank": 4,
+      "time": "2:12.82",
+      "swimmers": [
+       "Gentry Witmer",
+       "Lillian Amin",
+       "Violet Derry",
+       "Kemper Yarnoz"
+      ],
+      "meet": "2022 NC BAC Battle at the Beach",
+      "date": "2022-01-16"
+     },
+     {
+      "rank": 5,
       "time": "2:15.91",
       "swimmers": [
        "Lillian Amin",
@@ -276,42 +338,6 @@
       ],
       "meet": "2021 NC BAC - NSEA DUAL MEET",
       "date": "2021-09-18"
-     },
-     {
-      "rank": 3,
-      "time": "2:16.11",
-      "swimmers": [
-       "Gentry Witmer",
-       "Piper Cockman",
-       "Nina Crowley",
-       "Mikayla Coleman"
-      ],
-      "meet": "2023 NC BAC Halloween Bash",
-      "date": "2023-10-28"
-     },
-     {
-      "rank": 4,
-      "time": "2:18.21",
-      "swimmers": [
-       "Gentry Witmer",
-       "Nina Crowley",
-       "Annderson Petroff",
-       "Lilah Taylor"
-      ],
-      "meet": "2023 NC STAR Triad Tropic",
-      "date": "2023-12-17"
-     },
-     {
-      "rank": 5,
-      "time": "2:27.38",
-      "swimmers": [
-       "Abigail Blair",
-       "Piper Cockman",
-       "Mila Yarnoz",
-       "Nina Crowley"
-      ],
-      "meet": "2023 NC BAC Battle at the Beach",
-      "date": "2023-01-15"
      }
     ]
    },
@@ -319,6 +345,30 @@
     "200 Free Relay": [
      {
       "rank": 1,
+      "time": "1:58.48",
+      "swimmers": [
+       "Hance Mayo",
+       "Behr Petroff",
+       "Koen Hester",
+       "Nathan Neu"
+      ],
+      "meet": "2021 NC BAC SPRING BREAK CHAMPS",
+      "date": "2021-03-28"
+     },
+     {
+      "rank": 2,
+      "time": "2:02.36",
+      "swimmers": [
+       "Behr Petroff",
+       "Gavin Derry",
+       "Chace Reaves",
+       "Hance Mayo"
+      ],
+      "meet": "2022 NC BAC Battle at the Beach",
+      "date": "2022-01-15"
+     },
+     {
+      "rank": 3,
       "time": "2:05.16",
       "swimmers": [
        "Gavin Derry",
@@ -330,57 +380,45 @@
       "date": "2023-01-14"
      },
      {
-      "rank": 2,
-      "time": "2:21.96",
-      "swimmers": [
-       "Owen McNeill",
-       "Linc Jabaley",
-       "Sebastian Chilcott",
-       "Tanner Balchin"
-      ],
-      "meet": "2024 NC BAC v NSEA Dual Meet",
-      "date": "2024-09-28"
-     },
-     {
-      "rank": 3,
-      "time": "2:28.35",
-      "swimmers": [
-       "Sebastian Chilcott",
-       "William Forbes",
-       "Nate Summers",
-       "Court Yarnoz"
-      ],
-      "meet": "2023 NC BAC Halloween Bash",
-      "date": "2023-10-29"
-     },
-     {
       "rank": 4,
-      "time": "2:32.63",
+      "time": "2:08.33",
       "swimmers": [
-       "Beckett Howell",
-       "Sebastian Chilcott",
-       "Nate Summers",
-       "William Forbes"
+       "Gavin Derry",
+       "Liam Bascome",
+       "Court Yarnoz",
+       "Hance Mayo"
       ],
-      "meet": "2023 NC BAC vs NSEA Dual",
-      "date": "2023-09-23"
+      "meet": "2022 NC BAC Halloween Bash",
+      "date": "2022-10-29"
      },
      {
       "rank": 5,
-      "time": "2:32.96",
+      "time": "2:11.52",
       "swimmers": [
-       "Court Yarnoz",
-       "Nate Summers",
-       "William Forbes",
-       "Gavin Derry"
+       "Behr Petroff",
+       "Gavin Derry",
+       "Bryan Blair",
+       "Hance Mayo"
       ],
-      "meet": "2023 NC STAR Triad Tropic",
-      "date": "2023-12-16"
+      "meet": "2021 NC BAC - NSEA DUAL MEET",
+      "date": "2021-09-19"
      }
     ],
     "200 Medley Relay": [
      {
       "rank": 1,
+      "time": "2:16.01",
+      "swimmers": [
+       "Hance Mayo",
+       "Behr Petroff",
+       "Gavin Derry",
+       "Chace Reaves"
+      ],
+      "meet": "2022 NC BAC Battle at the Beach",
+      "date": "2022-01-16"
+     },
+     {
+      "rank": 2,
       "time": "2:23.45",
       "swimmers": [
        "Hance Mayo",
@@ -392,7 +430,31 @@
       "date": "2023-01-15"
      },
      {
-      "rank": 2,
+      "rank": 3,
+      "time": "2:24.56",
+      "swimmers": [
+       "Bryan Blair",
+       "Behr Petroff",
+       "Hance Mayo",
+       "Gavin Derry"
+      ],
+      "meet": "2021 NC BAC - NSEA DUAL MEET",
+      "date": "2021-09-18"
+     },
+     {
+      "rank": 4,
+      "time": "2:29.62",
+      "swimmers": [
+       "Hance Mayo",
+       "Gavin Derry",
+       "Court Yarnoz",
+       "Liam Bascome"
+      ],
+      "meet": "2022 NC BAC Halloween Bash",
+      "date": "2022-10-30"
+     },
+     {
+      "rank": 5,
       "time": "2:34.70",
       "swimmers": [
        "Linc Jabaley",
@@ -402,30 +464,6 @@
       ],
       "meet": "2024 NC BAC v NSEA Dual Meet",
       "date": "2024-09-29"
-     },
-     {
-      "rank": 3,
-      "time": "2:41.92",
-      "swimmers": [
-       "Court Yarnoz",
-       "Nate Summers",
-       "Gavin Derry",
-       "William Forbes"
-      ],
-      "meet": "2023 NC STAR Triad Tropic",
-      "date": "2023-12-17"
-     },
-     {
-      "rank": 4,
-      "time": "2:53.70",
-      "swimmers": [
-       "William Forbes",
-       "Linc Jabaley",
-       "Nate Summers",
-       "Sebastian Chilcott"
-      ],
-      "meet": "2024 NC BAC Battle at the Beach",
-      "date": "2024-01-14"
      }
     ]
    },
@@ -475,18 +513,6 @@
      },
      {
       "rank": 3,
-      "time": "1:52.01",
-      "swimmers": [
-       "Sophie Wert",
-       "Lillian Amin",
-       "Kemper Yarnoz",
-       "Violet Derry"
-      ],
-      "meet": "2023 NC BAC vs NSEA Dual",
-      "date": "2023-09-23"
-     },
-     {
-      "rank": 4,
       "time": "1:52.07",
       "swimmers": [
        "Violet Derry",
@@ -498,7 +524,7 @@
       "date": "2022-03-19"
      },
      {
-      "rank": 5,
+      "rank": 4,
       "time": "1:54.29",
       "swimmers": [
        "Keener Witmer",
@@ -508,6 +534,18 @@
       ],
       "meet": "2020 NC HPSC Polar Bear Invita",
       "date": "2020-01-05"
+     },
+     {
+      "rank": 5,
+      "time": "1:56.58",
+      "swimmers": [
+       "Piper Cockman",
+       "Lila Paukovich",
+       "Lilah Taylor",
+       "Alicia Bald"
+      ],
+      "meet": "2024 NC BAC v NSEA Dual Meet",
+      "date": "2024-09-28"
      }
     ],
     "200 Medley Relay": [
@@ -561,15 +599,15 @@
      },
      {
       "rank": 5,
-      "time": "2:08.75",
+      "time": "2:08.52",
       "swimmers": [
-       "Sophie Wert",
-       "Addison Hicks",
-       "Camren Grace Reaves",
-       "Violet Derry"
+       "Keener Witmer",
+       "Eppy Camacho",
+       "Abby Forbes",
+       "Cadence Eder"
       ],
-      "meet": "2022 NC STAR Tarheel States",
-      "date": "2022-03-20"
+      "meet": "2019 NC RMY Fall Invitational",
+      "date": "2019-10-05"
      }
     ],
     "400 Free Relay": [
@@ -637,88 +675,6 @@
      }
     ]
    },
-   "Male": {
-    "200 Free Relay": [
-     {
-      "rank": 1,
-      "time": "1:53.61",
-      "swimmers": [
-       "Gavin Derry",
-       "Court Yarnoz",
-       "Elias Howell",
-       "Hance Mayo"
-      ],
-      "meet": "2024 NC BAC v NSEA Dual Meet",
-      "date": "2024-09-28"
-     }
-    ],
-    "200 Medley Relay": [
-     {
-      "rank": 1,
-      "time": "2:09.82",
-      "swimmers": [
-       "Hance Mayo",
-       "Gavin Derry",
-       "Court Yarnoz",
-       "Elias Howell"
-      ],
-      "meet": "2024 NC BAC v NSEA Dual Meet",
-      "date": "2024-09-29"
-     },
-     {
-      "rank": 2,
-      "time": "2:12.61",
-      "swimmers": [
-       "Court Yarnoz",
-       "Beckett Howell",
-       "Wolfe Cline",
-       "Sebastian Chilcott"
-      ],
-      "meet": "2025 NC BAC Halloween Bash",
-      "date": "2025-10-25"
-     },
-     {
-      "rank": 3,
-      "time": "2:43.91",
-      "swimmers": [
-       "Nate Summers",
-       "William Forbes",
-       "Mason Hunter",
-       "Sebastian Ventura"
-      ],
-      "meet": "2024 NC BAC v NSEA Dual Meet",
-      "date": "2024-09-29"
-     }
-    ],
-    "400 Free Relay": [
-     {
-      "rank": 1,
-      "time": "3:42.74",
-      "swimmers": [
-       "Nathan Neu",
-       "Bryson Edwards",
-       "Ryker Eder",
-       "Laith Ausband"
-      ],
-      "meet": "2021 NC TAC TITANS Blizzard Blitz",
-      "date": "2021-12-10"
-     }
-    ],
-    "400 Medley Relay": [
-     {
-      "rank": 1,
-      "time": "4:03.10",
-      "swimmers": [
-       "Bryson Edwards",
-       "Ryker Eder",
-       "Nathan Neu",
-       "Laith Ausband"
-      ],
-      "meet": "2021 NC TAC TITANS Blizzard Blitz",
-      "date": "2021-12-11"
-     }
-    ]
-   },
    "Mixed": {
     "200 Free Relay": [
      {
@@ -744,6 +700,18 @@
       ],
       "meet": "2022 NC BAC-NSEA Dual",
       "date": "2022-09-25"
+     },
+     {
+      "rank": 3,
+      "time": "2:04.09",
+      "swimmers": [
+       "Emilyne Yakubovsky",
+       "Corbin Tinney",
+       "August Howell",
+       "Lexi Williams"
+      ],
+      "meet": "2026 Fall Frenzy BAC v NSEA Dual Meet",
+      "date": "2026-09-18"
      }
     ],
     "200 Medley Relay": [
@@ -824,57 +792,155 @@
       "date": "2022-09-25"
      }
     ]
-   }
-  },
-  "15-16": {
-   "Female": {
-    "200 Free Relay": [
-     {
-      "rank": 1,
-      "time": "1:46.29",
-      "swimmers": [
-       "Keener Witmer",
-       "Abby Forbes",
-       "Riley Hubard",
-       "Leah Murtagh"
-      ],
-      "meet": "2022 NC BAC Battle at the Beach",
-      "date": "2022-01-16"
-     }
-    ],
-    "200 Medley Relay": [
-     {
-      "rank": 1,
-      "time": "1:59.65",
-      "swimmers": [
-       "Keener Witmer",
-       "Leah Murtagh",
-       "Abby Forbes",
-       "Riley Hubard"
-      ],
-      "meet": "2022 NC BAC Battle at the Beach",
-      "date": "2022-01-15"
-     }
-    ],
-    "400 Free Relay": [
-     {
-      "rank": 1,
-      "time": "3:54.88",
-      "swimmers": [
-       "Leah Murtagh",
-       "Abby Forbes",
-       "Riley Hubard",
-       "Keener Witmer"
-      ],
-      "meet": "2022 NC BAC Battle at the Beach",
-      "date": "2022-01-14"
-     }
-    ]
    },
    "Male": {
     "200 Free Relay": [
      {
       "rank": 1,
+      "time": "1:53.61",
+      "swimmers": [
+       "Gavin Derry",
+       "Court Yarnoz",
+       "Elias Howell",
+       "Hance Mayo"
+      ],
+      "meet": "2024 NC BAC v NSEA Dual Meet",
+      "date": "2024-09-28"
+     }
+    ],
+    "200 Medley Relay": [
+     {
+      "rank": 1,
+      "time": "2:09.82",
+      "swimmers": [
+       "Hance Mayo",
+       "Gavin Derry",
+       "Court Yarnoz",
+       "Elias Howell"
+      ],
+      "meet": "2024 NC BAC v NSEA Dual Meet",
+      "date": "2024-09-29"
+     },
+     {
+      "rank": 2,
+      "time": "2:12.61",
+      "swimmers": [
+       "Court Yarnoz",
+       "Beckett Howell",
+       "Wolfe Cline",
+       "Sebastian Chilcott"
+      ],
+      "meet": "2025 NC BAC Halloween Bash",
+      "date": "2025-10-25"
+     },
+     {
+      "rank": 3,
+      "time": "2:26.02",
+      "swimmers": [
+       "William Forbes",
+       "Behr Petroff",
+       "Bryan Blair",
+       "Court Yarnoz"
+      ],
+      "meet": "2023 NC BAC vs NSEA Dual",
+      "date": "2023-09-24"
+     },
+     {
+      "rank": 4,
+      "time": "2:34.03",
+      "swimmers": [
+       "Jaxon Kehn",
+       "Powell Andrews",
+       "Elias Howell",
+       "Ellison Kane"
+      ],
+      "meet": "2025 NC BAC vs NSEA Dual",
+      "date": "2025-09-21"
+     },
+     {
+      "rank": 5,
+      "time": "2:43.91",
+      "swimmers": [
+       "Nate Summers",
+       "William Forbes",
+       "Mason Hunter",
+       "Sebastian Ventura"
+      ],
+      "meet": "2024 NC BAC v NSEA Dual Meet",
+      "date": "2024-09-29"
+     }
+    ],
+    "400 Free Relay": [
+     {
+      "rank": 1,
+      "time": "3:42.74",
+      "swimmers": [
+       "Nathan Neu",
+       "Bryson Edwards",
+       "Ryker Eder",
+       "Laith Ausband"
+      ],
+      "meet": "2021 NC TAC TITANS Blizzard Blitz",
+      "date": "2021-12-10"
+     }
+    ],
+    "400 Medley Relay": [
+     {
+      "rank": 1,
+      "time": "4:03.10",
+      "swimmers": [
+       "Bryson Edwards",
+       "Ryker Eder",
+       "Nathan Neu",
+       "Laith Ausband"
+      ],
+      "meet": "2021 NC TAC TITANS Blizzard Blitz",
+      "date": "2021-12-11"
+     }
+    ]
+   }
+  },
+  "15-16": {
+   "Male": {
+    "200 Free Relay": [
+     {
+      "rank": 1,
+      "time": "1:33.64",
+      "swimmers": [
+       "Philip Brown",
+       "Cole Witmer",
+       "Clem Camacho",
+       "Will Sterrett"
+      ],
+      "meet": "2021 NC BAC SPRING BREAK CHAMPS",
+      "date": "2021-03-28"
+     },
+     {
+      "rank": 2,
+      "time": "1:35.32",
+      "swimmers": [
+       "Laith Ausband",
+       "Bryson Edwards",
+       "Ryker Eder",
+       "Cole Witmer"
+      ],
+      "meet": "2022 NC BAC Halloween Bash",
+      "date": "2022-10-30"
+     },
+     {
+      "rank": 3,
+      "time": "1:36.33",
+      "swimmers": [
+       "Evan Sevast",
+       "Hance Mayo",
+       "JP Summers",
+       "Behr Petroff"
+      ],
+      "meet": "2024 NC BAC Halloween Bash",
+      "date": "2024-10-27"
+     },
+     {
+      "rank": 4,
       "time": "1:38.97",
       "swimmers": [
        "Evan Sevast",
@@ -884,11 +950,59 @@
       ],
       "meet": "2024 NC BAC v NSEA Dual Meet",
       "date": "2024-09-28"
+     },
+     {
+      "rank": 5,
+      "time": "1:42.36",
+      "swimmers": [
+       "Behr Petroff",
+       "Walter Monical",
+       "JP Summers",
+       "Hance Mayo"
+      ],
+      "meet": "2023 NC STAR Triad Tropic",
+      "date": "2023-12-16"
      }
     ],
     "200 Medley Relay": [
      {
       "rank": 1,
+      "time": "1:46.22",
+      "swimmers": [
+       "Cole Witmer",
+       "Ryker Eder",
+       "Bryson Edwards",
+       "Laith Ausband"
+      ],
+      "meet": "2022 NC BAC Halloween Bash",
+      "date": "2022-10-29"
+     },
+     {
+      "rank": 2,
+      "time": "1:46.25",
+      "swimmers": [
+       "Hance Mayo",
+       "Behr Petroff",
+       "JP Summers",
+       "Evan Sevast"
+      ],
+      "meet": "2024 NC BAC Halloween Bash",
+      "date": "2024-10-26"
+     },
+     {
+      "rank": 3,
+      "time": "1:47.04",
+      "swimmers": [
+       "Cole Witmer",
+       "Ryker Eder",
+       "Clem Camacho",
+       "Will Sterrett"
+      ],
+      "meet": "2021 NC BAC SPRING BREAK CHAMPS",
+      "date": "2021-03-27"
+     },
+     {
+      "rank": 4,
       "time": "1:50.85",
       "swimmers": [
        "Evan Sevast",
@@ -898,6 +1012,18 @@
       ],
       "meet": "2024 NC BAC v NSEA Dual Meet",
       "date": "2024-09-29"
+     },
+     {
+      "rank": 5,
+      "time": "1:51.79",
+      "swimmers": [
+       "Alex Hill",
+       "Elliott Fary",
+       "Philip Brown",
+       "Laith Ausband"
+      ],
+      "meet": "2021 NC BAC SPRING BREAK CHAMPS",
+      "date": "2021-03-27"
      }
     ],
     "400 Free Relay": [
@@ -912,6 +1038,18 @@
       ],
       "meet": "2022 NC TAC Titans Blizzard Blitz",
       "date": "2022-12-09"
+     },
+     {
+      "rank": 2,
+      "time": "3:43.97",
+      "swimmers": [
+       "Behr Petroff",
+       "Walter Monical",
+       "JP Summers",
+       "Hance Mayo"
+      ],
+      "meet": "2023 NC STAR Triad Tropic",
+      "date": "2023-12-15"
      }
     ],
     "400 Medley Relay": [
@@ -952,7 +1090,7 @@
        "Lilah Taylor",
        "Piper Cockman"
       ],
-      "meet": "2026 NC NSEA Kick Off Classic Dual",
+      "meet": "2026 Fall Frenzy BAC v NSEA Dual Meet",
       "date": "2026-09-18"
      }
     ],
@@ -998,61 +1136,11 @@
       "date": "2022-09-25"
      }
     ]
-   }
-  },
-  "15-18": {
+   },
    "Female": {
     "200 Free Relay": [
      {
       "rank": 1,
-      "time": "1:40.04",
-      "swimmers": [
-       "Madi Joy",
-       "Violet Derry",
-       "Carson Major",
-       "Keener Witmer"
-      ],
-      "meet": "2024 NC SC Senior Championships",
-      "date": "2024-02-24"
-     },
-     {
-      "rank": 2,
-      "time": "1:41.63",
-      "swimmers": [
-       "Violet Derry",
-       "Carson Major",
-       "Sophie Wert",
-       "Keener Witmer"
-      ],
-      "meet": "2024 NC STAR Tar Heel States",
-      "date": "2024-03-16"
-     },
-     {
-      "rank": 3,
-      "time": "1:41.81",
-      "swimmers": [
-       "Madi Joy",
-       "Carson Major",
-       "Sophie Wert",
-       "Keener Witmer"
-      ],
-      "meet": "2023 NC STAR Triad Tropic",
-      "date": "2023-12-16"
-     },
-     {
-      "rank": 4,
-      "time": "1:45.74",
-      "swimmers": [
-       "Abby Forbes",
-       "Camren Grace Reaves",
-       "Carson Major",
-       "Keener Witmer"
-      ],
-      "meet": "2023 NC BAC vs NSEA Dual",
-      "date": "2023-09-23"
-     },
-     {
-      "rank": 5,
       "time": "1:46.29",
       "swimmers": [
        "Keener Witmer",
@@ -1062,133 +1150,121 @@
       ],
       "meet": "2022 NC BAC Battle at the Beach",
       "date": "2022-01-16"
+     },
+     {
+      "rank": 2,
+      "time": "1:50.01",
+      "swimmers": [
+       "Leah Murtagh",
+       "Abby Forbes",
+       "Cadence Eder",
+       "Keener Witmer"
+      ],
+      "meet": "2021 NC BAC - NSEA DUAL MEET",
+      "date": "2021-09-19"
+     },
+     {
+      "rank": 3,
+      "time": "1:53.24",
+      "swimmers": [
+       "Camren Grace Reaves",
+       "Cadence Eder",
+       "Addison Hicks",
+       "Sophie Wert"
+      ],
+      "meet": "2022 NC BAC Halloween Bash",
+      "date": "2022-10-30"
+     },
+     {
+      "rank": 4,
+      "time": "1:56.06",
+      "swimmers": [
+       "Cadence Eder",
+       "Sophie Wert",
+       "Addison Hicks",
+       "Camren Grace Reaves"
+      ],
+      "meet": "2022 NC BAC Battle at the Beach",
+      "date": "2022-01-16"
+     },
+     {
+      "rank": 5,
+      "time": "1:59.36",
+      "swimmers": [
+       "Lilah Taylor",
+       "Mikayla Coleman",
+       "Sullivan Terzaken",
+       "Kemper Yarnoz"
+      ],
+      "meet": "2025 NC BAC Halloween Bash",
+      "date": "2025-10-26"
      }
     ],
     "200 Medley Relay": [
      {
       "rank": 1,
-      "time": "1:52.15",
+      "time": "1:59.65",
       "swimmers": [
-       "Madi Joy",
-       "Sophie Wert",
+       "Keener Witmer",
+       "Leah Murtagh",
        "Abby Forbes",
-       "Keener Witmer"
+       "Riley Hubard"
       ],
-      "meet": "2023 NC STAR Triad Tropic",
-      "date": "2023-12-17"
+      "meet": "2022 NC BAC Battle at the Beach",
+      "date": "2022-01-15"
      },
      {
       "rank": 2,
-      "time": "1:52.83",
+      "time": "1:59.92",
       "swimmers": [
-       "Madi Joy",
-       "Sophie Wert",
-       "Keener Witmer",
-       "Violet Derry"
+       "Lila Paukovich",
+       "Kennedy Gordon",
+       "Violet Derry",
+       "Sophie Wert"
       ],
-      "meet": "2024 NC SC Senior Championships",
-      "date": "2024-02-23"
+      "meet": "2024 NC BAC Halloween Bash",
+      "date": "2024-10-26"
      },
      {
       "rank": 3,
-      "time": "1:53.78",
+      "time": "2:03.59",
       "swimmers": [
-       "Abby Forbes",
-       "Sophie Wert",
        "Keener Witmer",
-       "Violet Derry"
+       "Olivia Crowley",
+       "Abby Forbes",
+       "Riley Hubard"
       ],
-      "meet": "2024 NC STAR Tar Heel States",
-      "date": "2024-03-17"
+      "meet": "2021 NC TAC Big Southern Classic",
+      "date": "2021-11-13"
      },
      {
       "rank": 4,
-      "time": "1:54.88",
+      "time": "2:04.89",
       "swimmers": [
-       "Violet Derry",
-       "Sophie Wert",
-       "Camren Grace Reaves",
-       "Kemper Yarnoz"
+       "Keener Witmer",
+       "Leah Murtagh",
+       "Abby Forbes",
+       "Cadence Eder"
       ],
-      "meet": "2026 NC NCS SC Senior Championships",
-      "date": "2026-02-20"
+      "meet": "2021 NC BAC - NSEA DUAL MEET",
+      "date": "2021-09-18"
      },
      {
       "rank": 5,
-      "time": "1:56.02",
+      "time": "2:10.11",
       "swimmers": [
-       "Keener Witmer",
-       "Riley Hubard",
-       "Abby Forbes",
-       "Camren Grace Reaves"
+       "Sophie Wert",
+       "Cadence Eder",
+       "Camren Grace Reaves",
+       "Mya Metzinger"
       ],
-      "meet": "2023 NC NCS Senior Short Course Champs (ATOM)",
-      "date": "2023-02-24"
+      "meet": "2021 NC TAC Big Southern Classic",
+      "date": "2021-11-13"
      }
     ],
     "400 Free Relay": [
      {
       "rank": 1,
-      "time": "3:41.75",
-      "swimmers": [
-       "Keener Witmer",
-       "Abby Forbes",
-       "Sophie Wert",
-       "Madi Joy"
-      ],
-      "meet": "2024 NC SC Senior Championships",
-      "date": "2024-02-23"
-     },
-     {
-      "rank": 2,
-      "time": "3:45.52",
-      "swimmers": [
-       "Abby Forbes",
-       "Camren Grace Reaves",
-       "Riley Hubard",
-       "Keener Witmer"
-      ],
-      "meet": "2023 NC NCS Senior Short Course Champs (ATOM)",
-      "date": "2023-02-24"
-     },
-     {
-      "rank": 3,
-      "time": "3:48.99",
-      "swimmers": [
-       "Sophie Wert",
-       "Kemper Yarnoz",
-       "Camren Grace Reaves",
-       "Violet Derry"
-      ],
-      "meet": "2026 NC NCS SC Senior Championships",
-      "date": "2026-02-20"
-     },
-     {
-      "rank": 3,
-      "time": "3:48.99",
-      "swimmers": [
-       "Keener Witmer",
-       "Abby Forbes",
-       "Riley Hubard",
-       "Madi Joy"
-      ],
-      "meet": "2022 NC TAC Titans Blizzard Blitz",
-      "date": "2022-12-09"
-     },
-     {
-      "rank": 4,
-      "time": "3:53.14",
-      "swimmers": [
-       "Carson Major",
-       "Camren Grace Reaves",
-       "Addison Hicks",
-       "Violet Derry"
-      ],
-      "meet": "2024 NC SC Senior Championships",
-      "date": "2024-02-23"
-     },
-     {
-      "rank": 5,
       "time": "3:54.88",
       "swimmers": [
        "Leah Murtagh",
@@ -1199,70 +1275,10 @@
       "meet": "2022 NC BAC Battle at the Beach",
       "date": "2022-01-14"
      }
-    ],
-    "400 Medley Relay": [
-     {
-      "rank": 1,
-      "time": "4:08.18",
-      "swimmers": [
-       "Madi Joy",
-       "Riley Hubard",
-       "Abby Forbes",
-       "Keener Witmer"
-      ],
-      "meet": "2022 NC TAC Titans Blizzard Blitz",
-      "date": "2022-12-10"
-     },
-     {
-      "rank": 2,
-      "time": "4:08.32",
-      "swimmers": [
-       "Madi Joy",
-       "Violet Derry",
-       "Abby Forbes",
-       "Keener Witmer"
-      ],
-      "meet": "2024 NC SC Senior Championships",
-      "date": "2024-02-25"
-     },
-     {
-      "rank": 3,
-      "time": "4:10.61",
-      "swimmers": [
-       "Violet Derry",
-       "Sophie Wert",
-       "Camren Grace Reaves",
-       "Kemper Yarnoz"
-      ],
-      "meet": "2026 NC NCS SC Senior Championships",
-      "date": "2026-02-22"
-     },
-     {
-      "rank": 4,
-      "time": "4:13.87",
-      "swimmers": [
-       "Keener Witmer",
-       "Riley Hubard",
-       "Abby Forbes",
-       "Camren Grace Reaves"
-      ],
-      "meet": "2023 NC NCS Senior Short Course Champs (ATOM)",
-      "date": "2023-02-26"
-     },
-     {
-      "rank": 5,
-      "time": "4:28.17",
-      "swimmers": [
-       "Sophie Wert",
-       "Addison Hicks",
-       "Camren Grace Reaves",
-       "Carson Major"
-      ],
-      "meet": "2024 NC SC Senior Championships",
-      "date": "2024-02-25"
-     }
     ]
-   },
+   }
+  },
+  "15-18": {
    "Male": {
     "200 Free Relay": [
      {
@@ -1290,7 +1306,7 @@
       "date": "2024-02-24"
      },
      {
-      "rank": 2,
+      "rank": 3,
       "time": "1:27.67",
       "swimmers": [
        "Cole Witmer",
@@ -1302,7 +1318,7 @@
       "date": "2024-03-16"
      },
      {
-      "rank": 3,
+      "rank": 4,
       "time": "1:28.60",
       "swimmers": [
        "Ryker Eder",
@@ -1314,7 +1330,7 @@
       "date": "2026-02-21"
      },
      {
-      "rank": 4,
+      "rank": 5,
       "time": "1:29.03",
       "swimmers": [
        "Laith Ausband",
@@ -1324,18 +1340,6 @@
       ],
       "meet": "2024 NC BAC v NSEA Dual Meet",
       "date": "2024-09-28"
-     },
-     {
-      "rank": 5,
-      "time": "1:29.71",
-      "swimmers": [
-       "Cole Witmer",
-       "Ryker Eder",
-       "Bryson Edwards",
-       "Laith Ausband"
-      ],
-      "meet": "2023 NC STAR Triad Tropic",
-      "date": "2023-12-16"
      }
     ],
     "200 Medley Relay": [
@@ -1365,18 +1369,6 @@
      },
      {
       "rank": 3,
-      "time": "1:35.60",
-      "swimmers": [
-       "Bryson Edwards",
-       "Clem Camacho",
-       "Ryker Eder",
-       "Laith Ausband"
-      ],
-      "meet": "2025 NC NCHSAA 4A State Championship",
-      "date": "2025-02-06"
-     },
-     {
-      "rank": 4,
       "time": "1:35.78",
       "swimmers": [
        "Hance Mayo",
@@ -1388,7 +1380,7 @@
       "date": "2026-02-20"
      },
      {
-      "rank": 5,
+      "rank": 4,
       "time": "1:36.65",
       "swimmers": [
        "Cole Witmer",
@@ -1398,6 +1390,18 @@
       ],
       "meet": "2024 NC STAR Tar Heel States",
       "date": "2024-03-17"
+     },
+     {
+      "rank": 5,
+      "time": "1:38.40",
+      "swimmers": [
+       "Cole Witmer",
+       "Ryker Eder",
+       "Bryson Edwards",
+       "Laith Ausband"
+      ],
+      "meet": "2023 NC STAR Triad Tropic",
+      "date": "2023-12-17"
      }
     ],
     "400 Free Relay": [
@@ -1517,6 +1521,18 @@
      },
      {
       "rank": 2,
+      "time": "1:55.48",
+      "swimmers": [
+       "Mikayla Coleman",
+       "Corbin Bishop",
+       "William Forbes",
+       "Sullivan Terzaken"
+      ],
+      "meet": "2026 Fall Frenzy BAC v NSEA Dual Meet",
+      "date": "2026-09-18"
+     },
+     {
+      "rank": 3,
       "time": "2:04.21",
       "swimmers": [
        "Cullen Frank",
@@ -1524,7 +1540,7 @@
        "Lilah Taylor",
        "Piper Cockman"
       ],
-      "meet": "2026 NC NSEA Kick Off Classic Dual",
+      "meet": "2026 Fall Frenzy BAC v NSEA Dual Meet",
       "date": "2026-09-18"
      }
     ],
@@ -1568,6 +1584,762 @@
       ],
       "meet": "2022 NC BAC-NSEA Dual",
       "date": "2022-09-25"
+     }
+    ]
+   },
+   "Female": {
+    "200 Free Relay": [
+     {
+      "rank": 1,
+      "time": "1:40.04",
+      "swimmers": [
+       "Madi Joy",
+       "Violet Derry",
+       "Carson Major",
+       "Keener Witmer"
+      ],
+      "meet": "2024 NC SC Senior Championships",
+      "date": "2024-02-24"
+     },
+     {
+      "rank": 2,
+      "time": "1:41.63",
+      "swimmers": [
+       "Violet Derry",
+       "Carson Major",
+       "Sophie Wert",
+       "Keener Witmer"
+      ],
+      "meet": "2024 NC STAR Tar Heel States",
+      "date": "2024-03-16"
+     },
+     {
+      "rank": 3,
+      "time": "1:41.81",
+      "swimmers": [
+       "Madi Joy",
+       "Carson Major",
+       "Sophie Wert",
+       "Keener Witmer"
+      ],
+      "meet": "2023 NC STAR Triad Tropic",
+      "date": "2023-12-16"
+     },
+     {
+      "rank": 4,
+      "time": "1:43.53",
+      "swimmers": [
+       "Violet Derry",
+       "Lila Paukovich",
+       "Camren Grace Reaves",
+       "Sophie Wert"
+      ],
+      "meet": "2025 NC SC Senior Championships",
+      "date": "2025-02-22"
+     },
+     {
+      "rank": 5,
+      "time": "1:45.20",
+      "swimmers": [
+       "Keener Witmer",
+       "Cadence Eder",
+       "Eppy Camacho",
+       "Liza Murtagh"
+      ],
+      "meet": "2021 NC BAC SPRING BREAK CHAMPS",
+      "date": "2021-03-28"
+     }
+    ],
+    "200 Medley Relay": [
+     {
+      "rank": 1,
+      "time": "1:52.15",
+      "swimmers": [
+       "Madi Joy",
+       "Sophie Wert",
+       "Abby Forbes",
+       "Keener Witmer"
+      ],
+      "meet": "2023 NC STAR Triad Tropic",
+      "date": "2023-12-17"
+     },
+     {
+      "rank": 2,
+      "time": "1:52.83",
+      "swimmers": [
+       "Madi Joy",
+       "Sophie Wert",
+       "Keener Witmer",
+       "Violet Derry"
+      ],
+      "meet": "2024 NC SC Senior Championships",
+      "date": "2024-02-23"
+     },
+     {
+      "rank": 3,
+      "time": "1:53.78",
+      "swimmers": [
+       "Abby Forbes",
+       "Sophie Wert",
+       "Keener Witmer",
+       "Violet Derry"
+      ],
+      "meet": "2024 NC STAR Tar Heel States",
+      "date": "2024-03-17"
+     },
+     {
+      "rank": 4,
+      "time": "1:54.70",
+      "swimmers": [
+       "Violet Derry",
+       "Sophie Wert",
+       "Camren Grace Reaves",
+       "Lila Paukovich"
+      ],
+      "meet": "2025 NC SC Senior Championships",
+      "date": "2025-02-21"
+     },
+     {
+      "rank": 5,
+      "time": "1:54.88",
+      "swimmers": [
+       "Violet Derry",
+       "Sophie Wert",
+       "Camren Grace Reaves",
+       "Kemper Yarnoz"
+      ],
+      "meet": "2026 NC NCS SC Senior Championships",
+      "date": "2026-02-20"
+     }
+    ],
+    "400 Free Relay": [
+     {
+      "rank": 1,
+      "time": "3:41.75",
+      "swimmers": [
+       "Keener Witmer",
+       "Abby Forbes",
+       "Sophie Wert",
+       "Madi Joy"
+      ],
+      "meet": "2024 NC SC Senior Championships",
+      "date": "2024-02-23"
+     },
+     {
+      "rank": 2,
+      "time": "3:44.92",
+      "swimmers": [
+       "Madi Joy",
+       "Camren Grace Reaves",
+       "Violet Derry",
+       "Keener Witmer"
+      ],
+      "meet": "2023 NC STAR Triad Tropic",
+      "date": "2023-12-15"
+     },
+     {
+      "rank": 3,
+      "time": "3:45.52",
+      "swimmers": [
+       "Abby Forbes",
+       "Camren Grace Reaves",
+       "Riley Hubard",
+       "Keener Witmer"
+      ],
+      "meet": "2023 NC NCS Senior Short Course Champs (ATOM)",
+      "date": "2023-02-24"
+     },
+     {
+      "rank": 4,
+      "time": "3:45.78",
+      "swimmers": [
+       "Violet Derry",
+       "Lila Paukovich",
+       "Camren Grace Reaves",
+       "Sophie Wert"
+      ],
+      "meet": "2025 NC SC Senior Championships",
+      "date": "2025-02-21"
+     },
+     {
+      "rank": 5,
+      "time": "3:48.99",
+      "swimmers": [
+       "Keener Witmer",
+       "Abby Forbes",
+       "Riley Hubard",
+       "Madi Joy"
+      ],
+      "meet": "2022 NC TAC Titans Blizzard Blitz",
+      "date": "2022-12-09"
+     },
+     {
+      "rank": 6,
+      "time": "3:48.99",
+      "swimmers": [
+       "Sophie Wert",
+       "Kemper Yarnoz",
+       "Camren Grace Reaves",
+       "Violet Derry"
+      ],
+      "meet": "2026 NC NCS SC Senior Championships",
+      "date": "2026-02-20"
+     }
+    ],
+    "400 Medley Relay": [
+     {
+      "rank": 1,
+      "time": "4:08.18",
+      "swimmers": [
+       "Madi Joy",
+       "Riley Hubard",
+       "Abby Forbes",
+       "Keener Witmer"
+      ],
+      "meet": "2022 NC TAC Titans Blizzard Blitz",
+      "date": "2022-12-10"
+     },
+     {
+      "rank": 2,
+      "time": "4:08.32",
+      "swimmers": [
+       "Madi Joy",
+       "Violet Derry",
+       "Abby Forbes",
+       "Keener Witmer"
+      ],
+      "meet": "2024 NC SC Senior Championships",
+      "date": "2024-02-25"
+     },
+     {
+      "rank": 3,
+      "time": "4:10.61",
+      "swimmers": [
+       "Violet Derry",
+       "Sophie Wert",
+       "Camren Grace Reaves",
+       "Kemper Yarnoz"
+      ],
+      "meet": "2026 NC NCS SC Senior Championships",
+      "date": "2026-02-22"
+     },
+     {
+      "rank": 4,
+      "time": "4:12.38",
+      "swimmers": [
+       "Violet Derry",
+       "Sophie Wert",
+       "Camren Grace Reaves",
+       "Lila Paukovich"
+      ],
+      "meet": "2025 NC SC Senior Championships",
+      "date": "2025-02-23"
+     },
+     {
+      "rank": 5,
+      "time": "4:13.87",
+      "swimmers": [
+       "Keener Witmer",
+       "Riley Hubard",
+       "Abby Forbes",
+       "Camren Grace Reaves"
+      ],
+      "meet": "2023 NC NCS Senior Short Course Champs (ATOM)",
+      "date": "2023-02-26"
+     }
+    ]
+   }
+  },
+  "17-18": {
+   "Male": {
+    "200 Free Relay": [
+     {
+      "rank": 1,
+      "time": "1:27.28",
+      "swimmers": [
+       "Laith Ausband",
+       "Bryson Edwards",
+       "Behr Petroff",
+       "Clem Camacho"
+      ],
+      "meet": "2025 NC SC Senior Championships",
+      "date": "2025-02-22"
+     },
+     {
+      "rank": 2,
+      "time": "1:27.67",
+      "swimmers": [
+       "Laith Ausband",
+       "Ryker Eder",
+       "Bryson Edwards",
+       "Cole Witmer"
+      ],
+      "meet": "2024 NC SC Senior Championships",
+      "date": "2024-02-24"
+     },
+     {
+      "rank": 3,
+      "time": "1:27.67",
+      "swimmers": [
+       "Cole Witmer",
+       "Ryker Eder",
+       "Bryson Edwards",
+       "Laith Ausband"
+      ],
+      "meet": "2024 NC STAR Tar Heel States",
+      "date": "2024-03-16"
+     },
+     {
+      "rank": 4,
+      "time": "1:28.60",
+      "swimmers": [
+       "Ryker Eder",
+       "Will House",
+       "Evan Sevast",
+       "Behr Petroff"
+      ],
+      "meet": "2026 NC NCS SC Senior Championships",
+      "date": "2026-02-21"
+     },
+     {
+      "rank": 5,
+      "time": "1:29.03",
+      "swimmers": [
+       "Laith Ausband",
+       "Bryson Edwards",
+       "Ryker Eder",
+       "Clem Camacho"
+      ],
+      "meet": "2024 NC BAC v NSEA Dual Meet",
+      "date": "2024-09-28"
+     }
+    ],
+    "200 Medley Relay": [
+     {
+      "rank": 1,
+      "time": "1:34.90",
+      "swimmers": [
+       "Bryson Edwards",
+       "Clem Camacho",
+       "Ryker Eder",
+       "Laith Ausband"
+      ],
+      "meet": "2025 NC SC Senior Championships",
+      "date": "2025-02-21"
+     },
+     {
+      "rank": 2,
+      "time": "1:35.25",
+      "swimmers": [
+       "Cole Witmer",
+       "Ryker Eder",
+       "Bryson Edwards",
+       "Laith Ausband"
+      ],
+      "meet": "2024 NC SC Senior Championships",
+      "date": "2024-02-23"
+     },
+     {
+      "rank": 3,
+      "time": "1:35.78",
+      "swimmers": [
+       "Hance Mayo",
+       "Ryker Eder",
+       "Evan Sevast",
+       "Behr Petroff"
+      ],
+      "meet": "2026 NC NCS SC Senior Championships",
+      "date": "2026-02-20"
+     },
+     {
+      "rank": 4,
+      "time": "1:36.65",
+      "swimmers": [
+       "Cole Witmer",
+       "Ryker Eder",
+       "Bryson Edwards",
+       "Laith Ausband"
+      ],
+      "meet": "2024 NC STAR Tar Heel States",
+      "date": "2024-03-17"
+     },
+     {
+      "rank": 5,
+      "time": "1:38.40",
+      "swimmers": [
+       "Cole Witmer",
+       "Ryker Eder",
+       "Bryson Edwards",
+       "Laith Ausband"
+      ],
+      "meet": "2023 NC STAR Triad Tropic",
+      "date": "2023-12-17"
+     }
+    ],
+    "400 Free Relay": [
+     {
+      "rank": 1,
+      "time": "3:10.45",
+      "swimmers": [
+       "Clem Camacho",
+       "Ryker Eder",
+       "Bryson Edwards",
+       "Laith Ausband"
+      ],
+      "meet": "2025 NC SC Senior Championships",
+      "date": "2025-02-21"
+     },
+     {
+      "rank": 2,
+      "time": "3:12.59",
+      "swimmers": [
+       "Laith Ausband",
+       "Ryker Eder",
+       "Bryson Edwards",
+       "Cole Witmer"
+      ],
+      "meet": "2024 NC SC Senior Championships",
+      "date": "2024-02-23"
+     },
+     {
+      "rank": 3,
+      "time": "3:16.07",
+      "swimmers": [
+       "Will House",
+       "Hance Mayo",
+       "Evan Sevast",
+       "Behr Petroff"
+      ],
+      "meet": "2026 NC NCS SC Senior Championships",
+      "date": "2026-02-20"
+     },
+     {
+      "rank": 4,
+      "time": "3:18.82",
+      "swimmers": [
+       "Cole Witmer",
+       "Ryker Eder",
+       "Bryson Edwards",
+       "Laith Ausband"
+      ],
+      "meet": "2023 NC STAR Triad Tropic",
+      "date": "2023-12-15"
+     },
+     {
+      "rank": 5,
+      "time": "3:51.88",
+      "swimmers": [
+       "Cole Witmer",
+       "Nathan Neu",
+       "Koen Hester",
+       "Will Sterrett"
+      ],
+      "meet": "2022 NC BAC Battle at the Beach",
+      "date": "2022-01-14"
+     }
+    ],
+    "400 Medley Relay": [
+     {
+      "rank": 1,
+      "time": "3:29.16",
+      "swimmers": [
+       "Bryson Edwards",
+       "Ryker Eder",
+       "Clem Camacho",
+       "Laith Ausband"
+      ],
+      "meet": "2025 NC SC Senior Championships",
+      "date": "2025-02-23"
+     },
+     {
+      "rank": 2,
+      "time": "3:30.50",
+      "swimmers": [
+       "Cole Witmer",
+       "Ryker Eder",
+       "Bryson Edwards",
+       "Laith Ausband"
+      ],
+      "meet": "2024 NC SC Senior Championships",
+      "date": "2024-02-25"
+     }
+    ]
+   },
+   "Female": {
+    "200 Free Relay": [
+     {
+      "rank": 1,
+      "time": "1:40.04",
+      "swimmers": [
+       "Madi Joy",
+       "Violet Derry",
+       "Carson Major",
+       "Keener Witmer"
+      ],
+      "meet": "2024 NC SC Senior Championships",
+      "date": "2024-02-24"
+     },
+     {
+      "rank": 2,
+      "time": "1:41.63",
+      "swimmers": [
+       "Violet Derry",
+       "Carson Major",
+       "Sophie Wert",
+       "Keener Witmer"
+      ],
+      "meet": "2024 NC STAR Tar Heel States",
+      "date": "2024-03-16"
+     },
+     {
+      "rank": 3,
+      "time": "1:41.81",
+      "swimmers": [
+       "Madi Joy",
+       "Carson Major",
+       "Sophie Wert",
+       "Keener Witmer"
+      ],
+      "meet": "2023 NC STAR Triad Tropic",
+      "date": "2023-12-16"
+     },
+     {
+      "rank": 4,
+      "time": "1:43.53",
+      "swimmers": [
+       "Violet Derry",
+       "Lila Paukovich",
+       "Camren Grace Reaves",
+       "Sophie Wert"
+      ],
+      "meet": "2025 NC SC Senior Championships",
+      "date": "2025-02-22"
+     },
+     {
+      "rank": 5,
+      "time": "1:45.20",
+      "swimmers": [
+       "Keener Witmer",
+       "Cadence Eder",
+       "Eppy Camacho",
+       "Liza Murtagh"
+      ],
+      "meet": "2021 NC BAC SPRING BREAK CHAMPS",
+      "date": "2021-03-28"
+     }
+    ],
+    "200 Medley Relay": [
+     {
+      "rank": 1,
+      "time": "1:52.15",
+      "swimmers": [
+       "Madi Joy",
+       "Sophie Wert",
+       "Abby Forbes",
+       "Keener Witmer"
+      ],
+      "meet": "2023 NC STAR Triad Tropic",
+      "date": "2023-12-17"
+     },
+     {
+      "rank": 2,
+      "time": "1:52.83",
+      "swimmers": [
+       "Madi Joy",
+       "Sophie Wert",
+       "Keener Witmer",
+       "Violet Derry"
+      ],
+      "meet": "2024 NC SC Senior Championships",
+      "date": "2024-02-23"
+     },
+     {
+      "rank": 3,
+      "time": "1:53.78",
+      "swimmers": [
+       "Abby Forbes",
+       "Sophie Wert",
+       "Keener Witmer",
+       "Violet Derry"
+      ],
+      "meet": "2024 NC STAR Tar Heel States",
+      "date": "2024-03-17"
+     },
+     {
+      "rank": 4,
+      "time": "1:54.70",
+      "swimmers": [
+       "Violet Derry",
+       "Sophie Wert",
+       "Camren Grace Reaves",
+       "Lila Paukovich"
+      ],
+      "meet": "2025 NC SC Senior Championships",
+      "date": "2025-02-21"
+     },
+     {
+      "rank": 5,
+      "time": "1:54.88",
+      "swimmers": [
+       "Violet Derry",
+       "Sophie Wert",
+       "Camren Grace Reaves",
+       "Kemper Yarnoz"
+      ],
+      "meet": "2026 NC NCS SC Senior Championships",
+      "date": "2026-02-20"
+     }
+    ],
+    "400 Free Relay": [
+     {
+      "rank": 1,
+      "time": "3:41.75",
+      "swimmers": [
+       "Keener Witmer",
+       "Abby Forbes",
+       "Sophie Wert",
+       "Madi Joy"
+      ],
+      "meet": "2024 NC SC Senior Championships",
+      "date": "2024-02-23"
+     },
+     {
+      "rank": 2,
+      "time": "3:44.92",
+      "swimmers": [
+       "Madi Joy",
+       "Camren Grace Reaves",
+       "Violet Derry",
+       "Keener Witmer"
+      ],
+      "meet": "2023 NC STAR Triad Tropic",
+      "date": "2023-12-15"
+     },
+     {
+      "rank": 3,
+      "time": "3:45.52",
+      "swimmers": [
+       "Abby Forbes",
+       "Camren Grace Reaves",
+       "Riley Hubard",
+       "Keener Witmer"
+      ],
+      "meet": "2023 NC NCS Senior Short Course Champs (ATOM)",
+      "date": "2023-02-24"
+     },
+     {
+      "rank": 4,
+      "time": "3:45.78",
+      "swimmers": [
+       "Violet Derry",
+       "Lila Paukovich",
+       "Camren Grace Reaves",
+       "Sophie Wert"
+      ],
+      "meet": "2025 NC SC Senior Championships",
+      "date": "2025-02-21"
+     },
+     {
+      "rank": 5,
+      "time": "3:48.99",
+      "swimmers": [
+       "Keener Witmer",
+       "Abby Forbes",
+       "Riley Hubard",
+       "Madi Joy"
+      ],
+      "meet": "2022 NC TAC Titans Blizzard Blitz",
+      "date": "2022-12-09"
+     },
+     {
+      "rank": 6,
+      "time": "3:48.99",
+      "swimmers": [
+       "Sophie Wert",
+       "Kemper Yarnoz",
+       "Camren Grace Reaves",
+       "Violet Derry"
+      ],
+      "meet": "2026 NC NCS SC Senior Championships",
+      "date": "2026-02-20"
+     }
+    ],
+    "400 Medley Relay": [
+     {
+      "rank": 1,
+      "time": "4:08.18",
+      "swimmers": [
+       "Madi Joy",
+       "Riley Hubard",
+       "Abby Forbes",
+       "Keener Witmer"
+      ],
+      "meet": "2022 NC TAC Titans Blizzard Blitz",
+      "date": "2022-12-10"
+     },
+     {
+      "rank": 2,
+      "time": "4:08.32",
+      "swimmers": [
+       "Madi Joy",
+       "Violet Derry",
+       "Abby Forbes",
+       "Keener Witmer"
+      ],
+      "meet": "2024 NC SC Senior Championships",
+      "date": "2024-02-25"
+     },
+     {
+      "rank": 3,
+      "time": "4:10.61",
+      "swimmers": [
+       "Violet Derry",
+       "Sophie Wert",
+       "Camren Grace Reaves",
+       "Kemper Yarnoz"
+      ],
+      "meet": "2026 NC NCS SC Senior Championships",
+      "date": "2026-02-22"
+     },
+     {
+      "rank": 4,
+      "time": "4:12.38",
+      "swimmers": [
+       "Violet Derry",
+       "Sophie Wert",
+       "Camren Grace Reaves",
+       "Lila Paukovich"
+      ],
+      "meet": "2025 NC SC Senior Championships",
+      "date": "2025-02-23"
+     },
+     {
+      "rank": 5,
+      "time": "4:13.87",
+      "swimmers": [
+       "Keener Witmer",
+       "Riley Hubard",
+       "Abby Forbes",
+       "Camren Grace Reaves"
+      ],
+      "meet": "2023 NC NCS Senior Short Course Champs (ATOM)",
+      "date": "2023-02-26"
+     }
+    ]
+   },
+   "Mixed": {
+    "200 Free Relay": [
+     {
+      "rank": 1,
+      "time": "1:55.48",
+      "swimmers": [
+       "Mikayla Coleman",
+       "Corbin Bishop",
+       "William Forbes",
+       "Sullivan Terzaken"
+      ],
+      "meet": "2026 Fall Frenzy BAC v NSEA Dual Meet",
+      "date": "2026-09-18"
      }
     ]
    }
@@ -1850,7 +2622,7 @@
       "date": "2024-02-24"
      },
      {
-      "rank": 2,
+      "rank": 3,
       "time": "1:27.67",
       "swimmers": [
        "Cole Witmer",
@@ -1862,7 +2634,7 @@
       "date": "2024-03-16"
      },
      {
-      "rank": 3,
+      "rank": 4,
       "time": "1:28.60",
       "swimmers": [
        "Ryker Eder",
@@ -1874,7 +2646,7 @@
       "date": "2026-02-21"
      },
      {
-      "rank": 4,
+      "rank": 5,
       "time": "1:29.03",
       "swimmers": [
        "Laith Ausband",
@@ -1884,18 +2656,6 @@
       ],
       "meet": "2024 NC BAC v NSEA Dual Meet",
       "date": "2024-09-28"
-     },
-     {
-      "rank": 5,
-      "time": "1:29.71",
-      "swimmers": [
-       "Cole Witmer",
-       "Ryker Eder",
-       "Bryson Edwards",
-       "Laith Ausband"
-      ],
-      "meet": "2023 NC STAR Triad Tropic",
-      "date": "2023-12-16"
      }
     ],
     "200 Medley Relay": [
@@ -1925,18 +2685,6 @@
      },
      {
       "rank": 3,
-      "time": "1:35.60",
-      "swimmers": [
-       "Bryson Edwards",
-       "Clem Camacho",
-       "Ryker Eder",
-       "Laith Ausband"
-      ],
-      "meet": "2025 NC NCHSAA 4A State Championship",
-      "date": "2025-02-06"
-     },
-     {
-      "rank": 4,
       "time": "1:35.78",
       "swimmers": [
        "Hance Mayo",
@@ -1948,7 +2696,7 @@
       "date": "2026-02-20"
      },
      {
-      "rank": 5,
+      "rank": 4,
       "time": "1:36.65",
       "swimmers": [
        "Cole Witmer",
@@ -1958,6 +2706,18 @@
       ],
       "meet": "2024 NC STAR Tar Heel States",
       "date": "2024-03-17"
+     },
+     {
+      "rank": 5,
+      "time": "1:38.40",
+      "swimmers": [
+       "Cole Witmer",
+       "Ryker Eder",
+       "Bryson Edwards",
+       "Laith Ausband"
+      ],
+      "meet": "2023 NC STAR Triad Tropic",
+      "date": "2023-12-17"
      }
     ],
     "400 Free Relay": [
@@ -2120,7 +2880,7 @@
        "William Forbes",
        "Sullivan Terzaken"
       ],
-      "meet": "2026 NC NSEA Kick Off Classic Dual",
+      "meet": "2026 Fall Frenzy BAC v NSEA Dual Meet",
       "date": "2026-09-18"
      },
      {
@@ -2132,7 +2892,7 @@
        "August Howell",
        "Lexi Williams"
       ],
-      "meet": "2026 NC NSEA Kick Off Classic Dual",
+      "meet": "2026 Fall Frenzy BAC v NSEA Dual Meet",
       "date": "2026-09-18"
      }
     ],
@@ -2248,64 +3008,6 @@
       ],
       "meet": "2022 NC BAC-NSEA Dual",
       "date": "2022-09-25"
-     }
-    ]
-   }
-  },
-  "17-18": {
-   "Male": {
-    "200 Medley Relay": [
-     {
-      "rank": 1,
-      "time": "1:34.90",
-      "swimmers": [
-       "Bryson Edwards",
-       "Clem Camacho",
-       "Ryker Eder",
-       "Laith Ausband"
-      ],
-      "meet": "2025 NC SC Senior Championships",
-      "date": "2025-02-21"
-     },
-     {
-      "rank": 2,
-      "time": "1:35.60",
-      "swimmers": [
-       "Bryson Edwards",
-       "Clem Camacho",
-       "Ryker Eder",
-       "Laith Ausband"
-      ],
-      "meet": "2025 NC NCHSAA 4A State Championship",
-      "date": "2025-02-06"
-     }
-    ],
-    "400 Free Relay": [
-     {
-      "rank": 1,
-      "time": "3:10.45",
-      "swimmers": [
-       "Clem Camacho",
-       "Ryker Eder",
-       "Bryson Edwards",
-       "Laith Ausband"
-      ],
-      "meet": "2025 NC SC Senior Championships",
-      "date": "2025-02-21"
-     }
-    ],
-    "400 Medley Relay": [
-     {
-      "rank": 1,
-      "time": "3:29.16",
-      "swimmers": [
-       "Bryson Edwards",
-       "Ryker Eder",
-       "Clem Camacho",
-       "Laith Ausband"
-      ],
-      "meet": "2025 NC SC Senior Championships",
-      "date": "2025-02-23"
      }
     ]
    }
