@@ -3,27 +3,27 @@
  "cutoff_label": "9/1/2026",
  "cutoff_end_iso": "2027-08-31",
  "cutoff_end_label": "8/31/2027",
- "season_label": "2026\u201327",
+ "season_label": "2026–27",
  "subtitle": "Ranked by number of individual NSEA team records held across LC (meters) and SCY (yards). Tap a swimmer to see every record on their card.",
- "disclaimer": "It's built entirely from the official LC and SCY team record sheets, which only capture the single fastest swim per event, per age group. Results that never became a record \u2014 or any results missing from those exports \u2014 aren't reflected here, so the true all-time leaderboard could look different. Team records do not include swims by unattached (UN) swimmers or swims at high school meets; those swims appear on the Top 10 lists only.",
- "footer": "NSEA SWIM \u00b7 DERIVED FROM LC & SCY TEAM RECORD EXPORTS \u00b7 UPDATED 2026-11-09",
+ "disclaimer": "It's built entirely from the official LC and SCY team record sheets, which only capture the single fastest swim per event, per age group. Results that never became a record — or any results missing from those exports — aren't reflected here, so the true all-time leaderboard could look different. Team records do not include swims by unattached (UN) swimmers or swims at high school meets; those swims appear on the Top 10 lists only.",
+ "footer": "NSEA SWIM · DERIVED FROM LC & SCY TEAM RECORD EXPORTS · UPDATED 2026-11-09",
  "swimmers": [
   {
    "name": "Hance Mayo",
    "records": [
     {
      "course": "SCY",
-     "event": "50 Back",
-     "time": "24.33",
-     "date": "2026-02-19",
-     "meet": "2026 NCS SC SR Champs"
+     "event": "100 Fly",
+     "time": "51.28",
+     "date": "2026-02-20",
+     "meet": "2026 NC NCS SC Senior Championships"
     },
     {
      "course": "SCY",
-     "event": "100 Fly",
-     "time": "51.28",
-     "date": "2026-02-19",
-     "meet": "2026 NCS SC SR Champs"
+     "event": "50 Back",
+     "time": "24.33",
+     "date": "2026-02-20",
+     "meet": "2026 NC NCS SC Senior Championships"
     },
     {
      "course": "SCY",
@@ -43,8 +43,8 @@
      "course": "SCY",
      "event": "50 Back",
      "time": "25.95",
-     "date": "2024-10-25",
-     "meet": "2024 BAC Halloween Bash"
+     "date": "2024-10-26",
+     "meet": "2024 NC BAC Halloween Bash"
     },
     {
      "course": "SCY",
@@ -83,24 +83,31 @@
     },
     {
      "course": "LC",
-     "event": "50 Free",
-     "time": "27.78",
-     "date": "2023-07-13",
-     "meet": "2023 NCS LC AG Champs"
-    },
-    {
-     "course": "LC",
      "event": "50 Back",
      "time": "31.79",
-     "date": "2023-07-13",
-     "meet": "2023 NCS LC AG Champs"
+     "date": "2023-07-16",
+     "meet": "2023 NC LC Age Group Champs (TAC2)"
     },
     {
      "course": "LC",
      "event": "100 Back",
      "time": "1:09.62",
-     "date": "2023-07-13",
-     "meet": "2023 NCS LC AG Champs"
+     "date": "2023-07-15",
+     "meet": "2023 NC LC Age Group Champs (TAC2)"
+    },
+    {
+     "course": "LC",
+     "event": "50 Free",
+     "time": "27.78",
+     "date": "2023-07-14",
+     "meet": "2023 NC LC Age Group Champs (TAC2)"
+    },
+    {
+     "course": "LC",
+     "event": "100 Fly",
+     "time": "1:12.99",
+     "date": "2023-04-30",
+     "meet": "2023 NC WAVE Sprint into LC"
     },
     {
      "course": "LC",
@@ -113,13 +120,6 @@
      "course": "LC",
      "event": "50 Fly",
      "time": "29.52",
-     "date": "2023-04-29",
-     "meet": "2023 WAVE Sprint Into LC"
-    },
-    {
-     "course": "LC",
-     "event": "100 Fly",
-     "time": "1:12.99",
      "date": "2023-04-29",
      "meet": "2023 WAVE Sprint Into LC"
     },
@@ -188,38 +188,38 @@
     },
     {
      "course": "LC",
-     "event": "50 Free",
-     "time": "30.62",
-     "date": "2021-07-15",
+     "event": "50 Fly",
+     "time": "34.54",
+     "date": "2021-07-18",
      "meet": "2021 NC NCS LC AG Champs"
     },
     {
      "course": "LC",
      "event": "100 Free",
      "time": "1:11.19",
-     "date": "2021-07-15",
+     "date": "2021-07-18",
      "meet": "2021 NC NCS LC AG Champs"
     },
     {
      "course": "LC",
      "event": "100 Back",
      "time": "1:17.72",
-     "date": "2021-07-15",
+     "date": "2021-07-17",
      "meet": "2021 NC NCS LC AG Champs"
     },
     {
      "course": "LC",
-     "event": "50 Fly",
-     "time": "34.54",
-     "date": "2021-07-15",
+     "event": "50 Free",
+     "time": "30.62",
+     "date": "2021-07-16",
      "meet": "2021 NC NCS LC AG Champs"
     },
     {
      "course": "LC",
      "event": "50 Back",
      "time": "35.47",
-     "date": "2021-06-11",
-     "meet": "NC21102 TAC TITANS Triangle Classic"
+     "date": "2021-06-12",
+     "meet": "2021 NC TAC TITANS Triangle Cl"
     },
     {
      "course": "LC",
@@ -258,27 +258,6 @@
     },
     {
      "course": "SCY",
-     "event": "50 Free",
-     "time": "27.97",
-     "date": "2021-03-26",
-     "meet": "NC21071 BAC SPRING BREAK CHAMPS"
-    },
-    {
-     "course": "SCY",
-     "event": "200 Free",
-     "time": "2:21.78",
-     "date": "2021-03-26",
-     "meet": "NC21071 BAC SPRING BREAK CHAMPS"
-    },
-    {
-     "course": "SCY",
-     "event": "100 IM",
-     "time": "1:13.46",
-     "date": "2021-03-26",
-     "meet": "NC21071 BAC SPRING BREAK CHAMPS"
-    },
-    {
-     "course": "SCY",
      "event": "100 Back",
      "time": "1:08.04",
      "date": "2021-03-14",
@@ -307,44 +286,9 @@
     },
     {
      "course": "SCY",
-     "event": "100 Free",
-     "time": "1:03.31",
-     "date": "2021-03-11",
-     "meet": "2021 NC TAC ESSZ SC AG Sectional"
-    },
-    {
-     "course": "SCY",
-     "event": "50 Back",
-     "time": "30.50",
-     "date": "2021-03-11",
-     "meet": "2021 NC TAC ESSZ SC AG Sectional"
-    },
-    {
-     "course": "SCY",
-     "event": "100 Back",
-     "time": "1:08.04",
-     "date": "2021-03-11",
-     "meet": "2021 NC TAC ESSZ SC AG Sectional"
-    },
-    {
-     "course": "SCY",
-     "event": "50 Fly",
-     "time": "30.38",
-     "date": "2021-03-11",
-     "meet": "2021 NC TAC ESSZ SC AG Sectional"
-    },
-    {
-     "course": "SCY",
      "event": "100 Fly",
      "time": "1:19.38",
      "date": "2020-11-21",
-     "meet": "2020 NC BAC vs NSEA DUAL"
-    },
-    {
-     "course": "SCY",
-     "event": "100 Fly",
-     "time": "1:19.38",
-     "date": "2020-11-20",
      "meet": "2020 NC BAC vs NSEA DUAL"
     }
    ]
@@ -368,31 +312,31 @@
     },
     {
      "course": "LC",
-     "event": "50 Back",
-     "time": "32.05",
-     "date": "2026-07-09",
-     "meet": "2026 NC LC SR Championships"
+     "event": "200 IM",
+     "time": "2:36.32",
+     "date": "2026-07-12",
+     "meet": "2026 NC NCS LC Senior Championships"
     },
     {
      "course": "LC",
      "event": "100 Fly",
      "time": "1:08.21",
-     "date": "2026-07-09",
-     "meet": "2026 NC LC SR Championships"
+     "date": "2026-07-11",
+     "meet": "2026 NC NCS LC Senior Championships"
     },
     {
      "course": "LC",
-     "event": "200 IM",
-     "time": "2:36.32",
-     "date": "2026-07-09",
-     "meet": "2026 NC LC SR Championships"
+     "event": "50 Back",
+     "time": "32.05",
+     "date": "2026-07-11",
+     "meet": "2026 NC NCS LC Senior Championships"
     },
     {
      "course": "LC",
      "event": "100 Free",
      "time": "1:03.27",
-     "date": "2026-06-12",
-     "meet": "2026 SC GAME Summer Classic"
+     "date": "2026-06-14",
+     "meet": "2026 SC Gamecock Aquatics Summer Classic"
     },
     {
      "course": "LC",
@@ -405,50 +349,50 @@
      "course": "SCY",
      "event": "200 Back",
      "time": "2:13.76",
-     "date": "2026-03-20",
-     "meet": "2026 STAR Tar Heel States"
-    },
-    {
-     "course": "SCY",
-     "event": "100 Free",
-     "time": "53.84",
-     "date": "2026-02-26",
-     "meet": "2026 NCS SC AG CHAMPS"
-    },
-    {
-     "course": "SCY",
-     "event": "200 Free",
-     "time": "1:59.94",
-     "date": "2026-02-26",
-     "meet": "2026 NCS SC AG CHAMPS"
-    },
-    {
-     "course": "SCY",
-     "event": "50 Back",
-     "time": "28.83",
-     "date": "2026-02-26",
-     "meet": "2026 NCS SC AG CHAMPS"
-    },
-    {
-     "course": "SCY",
-     "event": "100 Fly",
-     "time": "59.88",
-     "date": "2026-02-26",
-     "meet": "2026 NCS SC AG CHAMPS"
+     "date": "2026-03-21",
+     "meet": "2026 NC STAR Tarheel States"
     },
     {
      "course": "SCY",
      "event": "200 IM",
      "time": "2:15.91",
-     "date": "2026-02-26",
-     "meet": "2026 NCS SC AG CHAMPS"
+     "date": "2026-03-01",
+     "meet": "2026 NC NCS SC Age Group Championships"
+    },
+    {
+     "course": "SCY",
+     "event": "50 Back",
+     "time": "28.83",
+     "date": "2026-03-01",
+     "meet": "2026 NC NCS SC Age Group Championships"
+    },
+    {
+     "course": "SCY",
+     "event": "100 Free",
+     "time": "53.84",
+     "date": "2026-03-01",
+     "meet": "2026 NC NCS SC Age Group Championships"
+    },
+    {
+     "course": "SCY",
+     "event": "100 Fly",
+     "time": "59.88",
+     "date": "2026-02-27",
+     "meet": "2026 NC NCS SC Age Group Championships"
+    },
+    {
+     "course": "SCY",
+     "event": "200 Free",
+     "time": "1:59.94",
+     "date": "2026-02-27",
+     "meet": "2026 NC NCS SC Age Group Championships"
     },
     {
      "course": "SCY",
      "event": "50 Free",
      "time": "25.07",
-     "date": "2025-12-12",
-     "meet": "2025 Triad Tropic Invitational"
+     "date": "2025-12-13",
+     "meet": "2025 NC STAR Triad Tropic"
     },
     {
      "course": "LC",
@@ -461,8 +405,8 @@
      "course": "SCY",
      "event": "100 Back",
      "time": "1:03.45",
-     "date": "2025-02-13",
-     "meet": "2025 NCS SC AG Champs"
+     "date": "2025-02-15",
+     "meet": "2025 NC SC Age Group Championships"
     },
     {
      "course": "SCY",
@@ -475,15 +419,15 @@
      "course": "SCY",
      "event": "50 Back",
      "time": "29.14",
-     "date": "2024-11-22",
-     "meet": "GOLD GOBBLER"
+     "date": "2024-11-24",
+     "meet": "2024 NC GOLD Gobbler Invitational"
     },
     {
      "course": "LC",
      "event": "50 Back",
      "time": "34.20",
-     "date": "2024-07-11",
-     "meet": "2024 NCS LC AG Champs"
+     "date": "2024-07-14",
+     "meet": "2024 NC LC Age Group Championships"
     },
     {
      "course": "LC",
@@ -522,44 +466,30 @@
     },
     {
      "course": "SCY",
-     "event": "50 Back",
-     "time": "33.46",
-     "date": "2023-01-13",
-     "meet": ""
-    },
-    {
-     "course": "SCY",
      "event": "100 Free",
      "time": "1:04.17",
      "date": "2022-11-13",
      "meet": "2022 NC WOW Thanksgiving Throwdown"
     },
     {
-     "course": "SCY",
-     "event": "100 Free",
-     "time": "1:04.17",
-     "date": "2022-11-12",
-     "meet": "2022 Thanksgiving Throwdown"
-    },
-    {
      "course": "LC",
-     "event": "50 Free",
-     "time": "33.33",
-     "date": "2022-07-14",
+     "event": "100 Back",
+     "time": "1:28.71",
+     "date": "2022-07-16",
      "meet": "2022 NC LC AG CHAMPS"
     },
     {
      "course": "LC",
      "event": "200 Free",
      "time": "2:49.94",
-     "date": "2022-07-14",
+     "date": "2022-07-16",
      "meet": "2022 NC LC AG CHAMPS"
     },
     {
      "course": "LC",
-     "event": "100 Back",
-     "time": "1:28.71",
-     "date": "2022-07-14",
+     "event": "50 Free",
+     "time": "33.33",
+     "date": "2022-07-15",
      "meet": "2022 NC LC AG CHAMPS"
     },
     {
@@ -653,6 +583,34 @@
    "records": [
     {
      "course": "LC",
+     "event": "200 IM",
+     "time": "2:05.27",
+     "date": "2025-07-26",
+     "meet": "2025 Futures Championships - Ocala"
+    },
+    {
+     "course": "LC",
+     "event": "100 Fly",
+     "time": "55.24",
+     "date": "2025-07-25",
+     "meet": "2025 Futures Championships - Ocala"
+    },
+    {
+     "course": "LC",
+     "event": "400 IM",
+     "time": "4:33.05",
+     "date": "2025-07-24",
+     "meet": "2025 Futures Championships - Ocala"
+    },
+    {
+     "course": "LC",
+     "event": "50 Fly",
+     "time": "25.06",
+     "date": "2025-07-24",
+     "meet": "2025 Futures Championships - Ocala"
+    },
+    {
+     "course": "LC",
      "event": "200 Free",
      "time": "1:52.91",
      "date": "2025-07-23",
@@ -660,108 +618,80 @@
     },
     {
      "course": "LC",
-     "event": "50 Fly",
-     "time": "25.06",
-     "date": "2025-07-23",
-     "meet": "2025 TYR FUTURES OCALA"
-    },
-    {
-     "course": "LC",
-     "event": "100 Fly",
-     "time": "55.24",
-     "date": "2025-07-23",
-     "meet": "2025 TYR FUTURES OCALA"
-    },
-    {
-     "course": "LC",
-     "event": "200 IM",
-     "time": "2:05.27",
-     "date": "2025-07-23",
-     "meet": "2025 TYR FUTURES OCALA"
-    },
-    {
-     "course": "LC",
-     "event": "400 IM",
-     "time": "4:33.05",
-     "date": "2025-07-23",
-     "meet": "2025 TYR FUTURES OCALA"
-    },
-    {
-     "course": "LC",
      "event": "100 Free",
      "time": "52.66",
-     "date": "2025-07-10",
-     "meet": "2025 NC LC SR Championships"
+     "date": "2025-07-11",
+     "meet": "2025 NC NCS LC Senior Championships"
     },
     {
      "course": "LC",
      "event": "50 Free",
      "time": "24.50",
-     "date": "2025-06-12",
-     "meet": "2025 Summer Classic"
+     "date": "2025-06-13",
+     "meet": "2025 SC GAME Summer Classic"
     },
     {
      "course": "LC",
      "event": "400 Free",
      "time": "4:17.96",
-     "date": "2025-05-15",
-     "meet": "2025 Charlotte Open"
-    },
-    {
-     "course": "SCY",
-     "event": "100 Free",
-     "time": "44.71",
-     "date": "2025-02-20",
-     "meet": "2025 NCS SC SR CHAMPS"
+     "date": "2025-05-17",
+     "meet": "2025 NC SwimMAC Martha McKee Charlotte Open"
     },
     {
      "course": "SCY",
      "event": "200 IM",
      "time": "1:47.66",
-     "date": "2025-02-20",
-     "meet": "2025 NCS SC SR CHAMPS"
+     "date": "2025-02-23",
+     "meet": "2025 NC SC Senior Championships"
     },
     {
      "course": "SCY",
      "event": "400 IM",
      "time": "3:53.87",
-     "date": "2025-02-20",
-     "meet": "2025 NCS SC SR CHAMPS"
+     "date": "2025-02-21",
+     "meet": "2025 NC SC Senior Championships"
     },
     {
      "course": "SCY",
-     "event": "50 Free",
-     "time": "20.53",
-     "date": "2024-12-20",
-     "meet": "Triad Tropic Invitational"
-    },
-    {
-     "course": "SCY",
-     "event": "200 Free",
-     "time": "1:38.47",
-     "date": "2024-12-20",
-     "meet": "Triad Tropic Invitational"
-    },
-    {
-     "course": "SCY",
-     "event": "100 Breast",
-     "time": "56.28",
-     "date": "2024-12-20",
-     "meet": "Triad Tropic Invitational"
+     "event": "100 Free",
+     "time": "44.71",
+     "date": "2025-02-21",
+     "meet": "2025 NC SC Senior Championships"
     },
     {
      "course": "SCY",
      "event": "200 Fly",
      "time": "1:48.23",
-     "date": "2024-12-20",
-     "meet": "Triad Tropic Invitational"
+     "date": "2024-12-22",
+     "meet": "2024 NC STAR Triad Tropic"
+    },
+    {
+     "course": "SCY",
+     "event": "100 Breast",
+     "time": "56.28",
+     "date": "2024-12-21",
+     "meet": "2024 NC STAR Triad Tropic"
+    },
+    {
+     "course": "SCY",
+     "event": "200 Free",
+     "time": "1:38.47",
+     "date": "2024-12-21",
+     "meet": "2024 NC STAR Triad Tropic"
+    },
+    {
+     "course": "SCY",
+     "event": "50 Free",
+     "time": "20.53",
+     "date": "2024-12-21",
+     "meet": "2024 NC STAR Triad Tropic"
     },
     {
      "course": "SCY",
      "event": "100 Fly",
      "time": "48.47",
-     "date": "2024-12-04",
-     "meet": "2024 Toyota US Open Championships"
+     "date": "2024-12-06",
+     "meet": "2024 Toyota US Open"
     },
     {
      "course": "SCY",
@@ -786,45 +716,45 @@
     },
     {
      "course": "LC",
-     "event": "200 Free",
-     "time": "1:59.32",
-     "date": "2024-07-24",
-     "meet": "2024 Futures Championships - Austin"
-    },
-    {
-     "course": "LC",
-     "event": "100 Back",
-     "time": "57.61",
-     "date": "2024-07-24",
+     "event": "200 IM",
+     "time": "2:09.41",
+     "date": "2024-07-27",
      "meet": "2024 Futures Championships - Austin"
     },
     {
      "course": "LC",
      "event": "100 Fly",
      "time": "56.35",
-     "date": "2024-07-24",
-     "meet": ""
+     "date": "2024-07-26",
+     "meet": "2024 Futures Championships - Austin"
     },
     {
      "course": "LC",
-     "event": "200 IM",
-     "time": "2:09.41",
+     "event": "100 Back",
+     "time": "57.61",
+     "date": "2024-07-25",
+     "meet": "2024 Futures Championships - Austin"
+    },
+    {
+     "course": "LC",
+     "event": "200 Free",
+     "time": "1:59.32",
      "date": "2024-07-24",
      "meet": "2024 Futures Championships - Austin"
     },
     {
      "course": "SCY",
-     "event": "100 Free",
-     "time": "50.88",
-     "date": "2021-03-26",
-     "meet": "NC21071 BAC SPRING BREAK CHAMPS"
+     "event": "200 Free",
+     "time": "1:50.02",
+     "date": "2021-03-28",
+     "meet": "2021 NC BAC SPRING BREAK CHAMPS"
     },
     {
      "course": "SCY",
-     "event": "200 Free",
-     "time": "1:50.02",
-     "date": "2021-03-26",
-     "meet": "NC21071 BAC SPRING BREAK CHAMPS"
+     "event": "100 Free",
+     "time": "50.88",
+     "date": "2021-03-27",
+     "meet": "2021 NC BAC SPRING BREAK CHAMPS"
     },
     {
      "course": "SCY",
@@ -835,15 +765,22 @@
     },
     {
      "course": "SCY",
-     "event": "100 Breast",
-     "time": "1:03.19",
-     "date": "2021-03-11",
+     "event": "200 IM",
+     "time": "2:00.34",
+     "date": "2021-03-14",
      "meet": "2021 NC TAC ESSZ SC AG Sectional"
     },
     {
      "course": "SCY",
      "event": "100 Fly",
      "time": "55.09",
+     "date": "2021-03-12",
+     "meet": "2021 NC TAC ESSZ SC AG Sectional"
+    },
+    {
+     "course": "SCY",
+     "event": "100 Breast",
+     "time": "1:03.19",
      "date": "2021-03-11",
      "meet": "2021 NC TAC ESSZ SC AG Sectional"
     },
@@ -856,16 +793,16 @@
     },
     {
      "course": "SCY",
-     "event": "200 IM",
-     "time": "2:00.34",
-     "date": "2021-03-11",
-     "meet": "2021 NC TAC ESSZ SC AG Sectional"
+     "event": "200 Breast",
+     "time": "2:16.94",
+     "date": "2021-02-27",
+     "meet": "2021 NC TAC SC AG Champs"
     },
     {
      "course": "SCY",
-     "event": "200 Breast",
-     "time": "2:16.94",
-     "date": "2021-02-25",
+     "event": "400 IM",
+     "time": "4:22.43",
+     "date": "2021-02-26",
      "meet": "2021 NC TAC SC AG Champs"
     },
     {
@@ -877,10 +814,10 @@
     },
     {
      "course": "SCY",
-     "event": "400 IM",
-     "time": "4:22.43",
-     "date": "2021-02-25",
-     "meet": "2021 NC TAC SC AG Champs"
+     "event": "1650 Free",
+     "time": "17:59.51",
+     "date": "2021-01-31",
+     "meet": "2021 NC BAC Battle at the Beach"
     },
     {
      "course": "SCY",
@@ -888,26 +825,213 @@
      "time": "5:03.45",
      "date": "2021-01-29",
      "meet": "2021 NC BAC Battle at the Beach"
+    }
+   ]
+  },
+  {
+   "name": "Abby Forbes",
+   "records": [
+    {
+     "course": "LC",
+     "event": "200 Fly",
+     "time": "2:34.55",
+     "date": "2023-07-22",
+     "meet": "2023 NC NCS LC SR Champs (STAR2)"
+    },
+    {
+     "course": "SCY",
+     "event": "200 Fly",
+     "time": "2:07.92",
+     "date": "2023-03-11",
+     "meet": "2023 NC Senior SC Sectional (TAC)"
+    },
+    {
+     "course": "SCY",
+     "event": "200 Free",
+     "time": "1:58.57",
+     "date": "2023-02-24",
+     "meet": ""
+    },
+    {
+     "course": "SCY",
+     "event": "1000 Free",
+     "time": "11:05.32",
+     "date": "2023-02-23",
+     "meet": "2023 NCS SC SR Champs"
     },
     {
      "course": "SCY",
      "event": "1650 Free",
-     "time": "17:59.51",
-     "date": "2021-01-29",
-     "meet": "2021 NC BAC Battle at the Beach"
+     "time": "18:52.19",
+     "date": "2022-12-11",
+     "meet": "2022 NC TAC Titans Blizzard Blitz"
+    },
+    {
+     "course": "SCY",
+     "event": "400 IM",
+     "time": "4:52.13",
+     "date": "2022-12-09",
+     "meet": "2022 TAC TITANS Blizzard Blitz Meet"
+    },
+    {
+     "course": "LC",
+     "event": "400 Free",
+     "time": "5:00.38",
+     "date": "2022-07-23",
+     "meet": "2022 NC LC SR CHAMPS"
+    },
+    {
+     "course": "LC",
+     "event": "800 Free",
+     "time": "10:09.63",
+     "date": "2022-07-21",
+     "meet": "2022 NCS LC SR CHAMPS"
+    },
+    {
+     "course": "LC",
+     "event": "1500 Free",
+     "time": "19:39.07",
+     "date": "2022-07-03",
+     "meet": "2022 MI Eric Namesnik Memorial Open"
+    },
+    {
+     "course": "SCY",
+     "event": "500 Free",
+     "time": "5:20.80",
+     "date": "2022-01-14",
+     "meet": "2022 NC BAC Battle at the Beach"
+    },
+    {
+     "course": "LC",
+     "event": "1500 Free",
+     "time": "19:49.60",
+     "date": "2021-07-18",
+     "meet": "2021 NC NCS LC AG Champs"
+    },
+    {
+     "course": "LC",
+     "event": "800 Free",
+     "time": "10:12.65",
+     "date": "2021-07-15",
+     "meet": "2021 NC NCS LC AG Champs"
+    },
+    {
+     "course": "LC",
+     "event": "200 Fly",
+     "time": "2:36.33",
+     "date": "2021-06-13",
+     "meet": ""
+    },
+    {
+     "course": "LC",
+     "event": "400 Free",
+     "time": "5:01.44",
+     "date": "2021-06-12",
+     "meet": "2021 NC TAC TITANS Triangle Cl"
+    },
+    {
+     "course": "LC",
+     "event": "400 IM",
+     "time": "5:48.58",
+     "date": "2021-06-11",
+     "meet": ""
+    },
+    {
+     "course": "SCY",
+     "event": "1650 Free",
+     "time": "18:35.13",
+     "date": "2021-02-28",
+     "meet": "2021 NC TAC SC AG Champs"
+    },
+    {
+     "course": "SCY",
+     "event": "1000 Free",
+     "time": "11:05.32",
+     "date": "2021-02-25",
+     "meet": "2021 NC TAC SC AG Champs"
+    },
+    {
+     "course": "SCY",
+     "event": "200 Fly",
+     "time": "2:12.12",
+     "date": "2021-02-25",
+     "meet": "2021 NC TAC SC AG Champs"
+    },
+    {
+     "course": "SCY",
+     "event": "400 IM",
+     "time": "4:49.58",
+     "date": "2021-02-13",
+     "meet": "2021 NC BAC CUPID QUALIFIER"
+    },
+    {
+     "course": "SCY",
+     "event": "500 Free",
+     "time": "5:20.95",
+     "date": "2020-11-13",
+     "meet": "2020 NC TAC Big Southern Classic"
+    },
+    {
+     "course": "LC",
+     "event": "400 IM",
+     "time": "6:08.83",
+     "date": "2019-07-28",
+     "meet": "2019 NC HPSC Tar Heel States"
+    },
+    {
+     "course": "LC",
+     "event": "200 Free",
+     "time": "2:29.40",
+     "date": "2019-07-27",
+     "meet": "2019 NC HPSC Tar Heel States"
+    },
+    {
+     "course": "LC",
+     "event": "200 IM",
+     "time": "2:51.71",
+     "date": "2019-07-26",
+     "meet": "NC HPSC Tar Heel States"
+    },
+    {
+     "course": "LC",
+     "event": "200 Fly",
+     "time": "2:39.94",
+     "date": "2019-07-13",
+     "meet": "2019 NC LC AG Championships"
+    },
+    {
+     "course": "LC",
+     "event": "100 Fly",
+     "time": "1:13.20",
+     "date": "2019-07-12",
+     "meet": "2019 NC LC AG Championships"
+    },
+    {
+     "course": "LC",
+     "event": "400 Free",
+     "time": "5:02.51",
+     "date": "2019-07-12",
+     "meet": "2019 NC LC AG Championships"
+    },
+    {
+     "course": "LC",
+     "event": "50 Fly",
+     "time": "32.83",
+     "date": "2019-07-07",
+     "meet": "2019 NC TAC TITANS July Qualif"
+    },
+    {
+     "course": "LC",
+     "event": "1500 Free",
+     "time": "21:28.09",
+     "date": "2019-06-21",
+     "meet": "NC YSST 13th Annual  Bob Pratt"
     }
    ]
   },
   {
    "name": "Cole Witmer",
    "records": [
-    {
-     "course": "LC",
-     "event": "400 Free",
-     "time": "4:36.64",
-     "date": "2024-07-18",
-     "meet": ""
-    },
     {
      "course": "LC",
      "event": "200 Back",
@@ -923,13 +1047,6 @@
      "meet": "2024 Charlotte Open"
     },
     {
-     "course": "LC",
-     "event": "200 Back",
-     "time": "2:02.73",
-     "date": "2024-05-16",
-     "meet": "2024 Charlotte Open"
-    },
-    {
      "course": "SCY",
      "event": "100 Back",
      "time": "47.34",
@@ -938,17 +1055,10 @@
     },
     {
      "course": "SCY",
-     "event": "100 Back",
-     "time": "47.34",
-     "date": "2024-03-15",
-     "meet": "2024 STAR Tarheel States"
-    },
-    {
-     "course": "SCY",
      "event": "200 Back",
      "time": "1:43.46",
-     "date": "2024-03-15",
-     "meet": "2024 STAR Tarheel States"
+     "date": "2024-03-16",
+     "meet": "2024 NC STAR Tar Heel States"
     },
     {
      "course": "LC",
@@ -958,24 +1068,10 @@
      "meet": ""
     },
     {
-     "course": "LC",
-     "event": "100 Back",
-     "time": "55.72",
-     "date": "2024-03-07",
-     "meet": "2024 Speedo ESSZ Spring SC Championships"
-    },
-    {
      "course": "SCY",
      "event": "50 Back",
      "time": "22.57",
      "date": "2024-02-23",
-     "meet": ""
-    },
-    {
-     "course": "SCY",
-     "event": "200 Back",
-     "time": "1:43.46",
-     "date": "2024-01-13",
      "meet": ""
     },
     {
@@ -987,15 +1083,15 @@
     },
     {
      "course": "LC",
-     "event": "50 Back",
-     "time": "27.41",
-     "date": "2023-05-18",
-     "meet": "2023 Martha McKee Charlotte Open"
+     "event": "200 Back",
+     "time": "2:08.08",
+     "date": "2023-05-21",
+     "meet": "2023 NC SwimMAC Martha McKee Open"
     },
     {
      "course": "LC",
-     "event": "200 Back",
-     "time": "2:08.08",
+     "event": "50 Back",
+     "time": "27.41",
      "date": "2023-05-18",
      "meet": "2023 Martha McKee Charlotte Open"
     },
@@ -1050,38 +1146,45 @@
     },
     {
      "course": "LC",
-     "event": "100 Back",
-     "time": "1:03.31",
-     "date": "2021-07-15",
+     "event": "400 Free",
+     "time": "4:36.64",
+     "date": "2022-06-12",
+     "meet": "2022 NC TEAM Collegiate Series"
+    },
+    {
+     "course": "LC",
+     "event": "200 IM",
+     "time": "2:23.77",
+     "date": "2021-07-18",
      "meet": "2021 NC NCS LC AG Champs"
     },
     {
      "course": "LC",
      "event": "200 Back",
      "time": "2:18.73",
-     "date": "2021-07-15",
+     "date": "2021-07-18",
+     "meet": "2021 NC NCS LC AG Champs"
+    },
+    {
+     "course": "LC",
+     "event": "100 Back",
+     "time": "1:03.31",
+     "date": "2021-07-17",
      "meet": "2021 NC NCS LC AG Champs"
     },
     {
      "course": "LC",
      "event": "100 Fly",
      "time": "1:03.49",
-     "date": "2021-07-15",
-     "meet": "2021 NC NCS LC AG Champs"
-    },
-    {
-     "course": "LC",
-     "event": "200 IM",
-     "time": "2:23.77",
-     "date": "2021-07-15",
+     "date": "2021-07-16",
      "meet": "2021 NC NCS LC AG Champs"
     },
     {
      "course": "LC",
      "event": "400 Free",
      "time": "4:44.17",
-     "date": "2021-06-11",
-     "meet": "NC21102 TAC TITANS Triangle Classic"
+     "date": "2021-06-12",
+     "meet": "2021 NC TAC TITANS Triangle Cl"
     },
     {
      "course": "SCY",
@@ -1114,203 +1217,161 @@
    ]
   },
   {
-   "name": "Abby Forbes",
+   "name": "Madi Joy",
    "records": [
     {
      "course": "LC",
-     "event": "200 Fly",
-     "time": "2:34.55",
-     "date": "2023-07-20",
-     "meet": "2023 NCS LC SR CHAMPS"
+     "event": "50 Fly",
+     "time": "29.02",
+     "date": "2024-05-16",
+     "meet": "2024 Charlotte Open"
+    },
+    {
+     "course": "LC",
+     "event": "100 Free",
+     "time": "1:03.17",
+     "date": "2024-04-27",
+     "meet": "2024 WAVE Sprint Into LC"
     },
     {
      "course": "SCY",
-     "event": "200 Fly",
-     "time": "2:07.92",
-     "date": "2023-03-09",
-     "meet": "2023 Speedo ESSZ Spring SC Championships"
+     "event": "50 Back",
+     "time": "27.43",
+     "date": "2024-02-23",
+     "meet": "2024 NC SC Senior Championships"
     },
     {
      "course": "SCY",
-     "event": "200 Free",
-     "time": "1:58.57",
-     "date": "2023-02-24",
-     "meet": ""
+     "event": "100 IM",
+     "time": "1:00.82",
+     "date": "2024-02-22",
+     "meet": "2024 NCS SC SR CHAMPS"
     },
     {
      "course": "SCY",
-     "event": "1000 Free",
-     "time": "11:05.32",
-     "date": "2023-02-23",
-     "meet": "2023 NCS SC SR Champs"
+     "event": "200 Back",
+     "time": "2:06.48",
+     "date": "2023-12-09",
+     "meet": "2023 Speedo Winter Junior Championships - East"
     },
     {
      "course": "SCY",
-     "event": "1650 Free",
-     "time": "18:52.19",
-     "date": "2022-12-09",
-     "meet": "2022 TAC TITANS Blizzard Blitz Meet"
+     "event": "100 Fly",
+     "time": "57.82",
+     "date": "2023-12-08",
+     "meet": "2023 Speedo Winter Junior Championships - East"
     },
     {
      "course": "SCY",
-     "event": "400 IM",
-     "time": "4:52.13",
-     "date": "2022-12-09",
-     "meet": "2022 TAC TITANS Blizzard Blitz Meet"
+     "event": "100 Back",
+     "time": "56.61",
+     "date": "2023-12-08",
+     "meet": "2023 Speedo Winter Junior Championships - East"
     },
     {
      "course": "LC",
-     "event": "400 Free",
-     "time": "5:00.38",
-     "date": "2022-07-21",
-     "meet": "2022 NCS LC SR CHAMPS"
-    },
-    {
-     "course": "LC",
-     "event": "800 Free",
-     "time": "10:09.63",
-     "date": "2022-07-21",
-     "meet": "2022 NCS LC SR CHAMPS"
-    },
-    {
-     "course": "LC",
-     "event": "1500 Free",
-     "time": "19:39.07",
-     "date": "2022-07-01",
-     "meet": "2022 Eric Namesnik Memorial Open"
-    },
-    {
-     "course": "SCY",
-     "event": "500 Free",
-     "time": "5:20.80",
-     "date": "2022-01-14",
-     "meet": "2022 NC BAC Battle at the Beach"
-    },
-    {
-     "course": "LC",
-     "event": "800 Free",
-     "time": "10:12.65",
-     "date": "2021-07-15",
-     "meet": "2021 NC NCS LC AG Champs"
-    },
-    {
-     "course": "LC",
-     "event": "1500 Free",
-     "time": "19:49.60",
-     "date": "2021-07-15",
-     "meet": "2021 NC NCS LC AG Champs"
-    },
-    {
-     "course": "LC",
-     "event": "200 Fly",
-     "time": "2:36.33",
-     "date": "2021-06-13",
-     "meet": ""
-    },
-    {
-     "course": "LC",
-     "event": "400 Free",
-     "time": "5:01.44",
-     "date": "2021-06-11",
-     "meet": "NC21102 TAC TITANS Triangle Classic"
-    },
-    {
-     "course": "LC",
-     "event": "400 IM",
-     "time": "5:48.58",
-     "date": "2021-06-11",
-     "meet": ""
-    },
-    {
-     "course": "SCY",
-     "event": "1000 Free",
-     "time": "11:05.32",
-     "date": "2021-02-25",
-     "meet": "2021 NC TAC SC AG Champs"
-    },
-    {
-     "course": "SCY",
-     "event": "1650 Free",
-     "time": "18:35.13",
-     "date": "2021-02-25",
-     "meet": "2021 NC TAC SC AG Champs"
-    },
-    {
-     "course": "SCY",
-     "event": "200 Fly",
-     "time": "2:12.12",
-     "date": "2021-02-25",
-     "meet": "2021 NC TAC SC AG Champs"
-    },
-    {
-     "course": "SCY",
-     "event": "400 IM",
-     "time": "4:49.58",
-     "date": "2021-02-12",
-     "meet": "2021 NC BAC CUPID QUALIFIER"
-    },
-    {
-     "course": "SCY",
-     "event": "500 Free",
-     "time": "5:20.95",
-     "date": "2020-11-13",
-     "meet": "2020 NC TAC Big Southern Classic"
-    },
-    {
-     "course": "LC",
-     "event": "200 IM",
-     "time": "2:51.71",
-     "date": "2019-07-26",
-     "meet": "NC HPSC Tar Heel States"
-    },
-    {
-     "course": "LC",
-     "event": "200 Free",
-     "time": "2:29.40",
-     "date": "2019-07-26",
-     "meet": "NC HPSC Tar Heel States"
-    },
-    {
-     "course": "LC",
-     "event": "400 IM",
-     "time": "6:08.83",
-     "date": "2019-07-26",
-     "meet": "NC HPSC Tar Heel States"
-    },
-    {
-     "course": "LC",
-     "event": "200 Fly",
-     "time": "2:39.94",
-     "date": "2019-07-13",
-     "meet": "2019 NC LC AG Championships"
+     "event": "200 Back",
+     "time": "2:23.53",
+     "date": "2023-07-29",
+     "meet": "2023 Futures - Ocala"
     },
     {
      "course": "LC",
      "event": "100 Fly",
-     "time": "1:13.20",
-     "date": "2019-07-12",
-     "meet": "2019 NC LC AG Championships"
+     "time": "1:03.97",
+     "date": "2023-07-28",
+     "meet": "2023 Futures - Ocala"
     },
     {
      "course": "LC",
-     "event": "400 Free",
-     "time": "5:02.51",
-     "date": "2019-07-12",
-     "meet": "2019 NC LC AG Championships"
+     "event": "100 Back",
+     "time": "1:04.71",
+     "date": "2023-07-27",
+     "meet": "2023 Futures - Ocala"
+    },
+    {
+     "course": "LC",
+     "event": "50 Back",
+     "time": "30.68",
+     "date": "2023-05-18",
+     "meet": "2023 Martha McKee Charlotte Open"
+    },
+    {
+     "course": "SCY",
+     "event": "200 Back",
+     "time": "2:05.45",
+     "date": "2023-03-12",
+     "meet": "2023 NC Senior SC Sectional (TAC)"
+    },
+    {
+     "course": "SCY",
+     "event": "100 Back",
+     "time": "56.89",
+     "date": "2023-03-11",
+     "meet": "2023 NC Senior SC Sectional (TAC)"
+    },
+    {
+     "course": "SCY",
+     "event": "50 Back",
+     "time": "28.90",
+     "date": "2022-09-25",
+     "meet": "2022 NC BAC-NSEA Dual"
+    },
+    {
+     "course": "LC",
+     "event": "200 Back",
+     "time": "2:30.76",
+     "date": "2022-07-30",
+     "meet": "2022 Futures - Cary"
+    },
+    {
+     "course": "LC",
+     "event": "100 Fly",
+     "time": "1:07.16",
+     "date": "2022-07-29",
+     "meet": "2022 Futures - Cary"
+    },
+    {
+     "course": "LC",
+     "event": "100 Back",
+     "time": "1:06.29",
+     "date": "2022-07-28",
+     "meet": "2022 Futures - Cary"
+    },
+    {
+     "course": "LC",
+     "event": "200 IM",
+     "time": "2:35.15",
+     "date": "2022-07-03",
+     "meet": "2022 MI Eric Namesnik Memorial Open"
+    },
+    {
+     "course": "LC",
+     "event": "50 Back",
+     "time": "30.86",
+     "date": "2022-05-19",
+     "meet": "2022 Martha McKee Charlotte Open"
     },
     {
      "course": "LC",
      "event": "50 Fly",
-     "time": "32.83",
-     "date": "2019-07-07",
-     "meet": "2019 NC TAC TITANS July Qualif"
+     "time": "29.72",
+     "date": "2022-05-19",
+     "meet": "2022 Martha McKee Charlotte Open"
     },
     {
-     "course": "LC",
-     "event": "1500 Free",
-     "time": "21:28.09",
-     "date": "2019-06-21",
-     "meet": "NC YSST 13th Annual  Bob Pratt"
+     "course": "SCY",
+     "event": "100 Fly",
+     "time": "58.43",
+     "date": "2022-03-11",
+     "meet": "2022 Speedo ESSZ Spring SC Cha"
+    },
+    {
+     "course": "SCY",
+     "event": "200 IM",
+     "time": "2:14.41",
+     "date": "2022-02-13",
+     "meet": "2022 NC BAC CUPID QUALIFIER"
     }
    ]
   },
@@ -1328,27 +1389,6 @@
      "course": "SCY",
      "event": "50 Breast",
      "time": "39.34",
-     "date": "2024-03-17",
-     "meet": "2024 NC STAR Tar Heel States"
-    },
-    {
-     "course": "SCY",
-     "event": "100 Breast",
-     "time": "1:21.98",
-     "date": "2024-03-16",
-     "meet": "2024 NC STAR Tar Heel States"
-    },
-    {
-     "course": "SCY",
-     "event": "100 IM",
-     "time": "1:13.24",
-     "date": "2024-03-16",
-     "meet": "2024 NC STAR Tar Heel States"
-    },
-    {
-     "course": "SCY",
-     "event": "50 Breast",
-     "time": "39.34",
      "date": "2024-03-15",
      "meet": "2024 STAR Tarheel States"
     },
@@ -1365,27 +1405,6 @@
      "time": "1:13.24",
      "date": "2024-03-15",
      "meet": "2024 STAR Tarheel States"
-    },
-    {
-     "course": "SCY",
-     "event": "200 IM",
-     "time": "2:37.65",
-     "date": "2024-02-18",
-     "meet": "2024 NC SC Age Group Championships"
-    },
-    {
-     "course": "SCY",
-     "event": "50 Fly",
-     "time": "31.22",
-     "date": "2024-02-17",
-     "meet": "2024 NC SC Age Group Championships"
-    },
-    {
-     "course": "SCY",
-     "event": "100 Fly",
-     "time": "1:09.98",
-     "date": "2024-02-16",
-     "meet": "2024 NC SC Age Group Championships"
     },
     {
      "course": "SCY",
@@ -1502,215 +1521,42 @@
    ]
   },
   {
-   "name": "Madi Joy",
-   "records": [
-    {
-     "course": "LC",
-     "event": "100 Fly",
-     "time": "1:03.97",
-     "date": "2024-07-28",
-     "meet": ""
-    },
-    {
-     "course": "LC",
-     "event": "50 Fly",
-     "time": "29.02",
-     "date": "2024-05-16",
-     "meet": "2024 Charlotte Open"
-    },
-    {
-     "course": "LC",
-     "event": "100 Free",
-     "time": "1:03.17",
-     "date": "2024-04-27",
-     "meet": "2024 WAVE Sprint Into LC"
-    },
-    {
-     "course": "SCY",
-     "event": "50 Back",
-     "time": "27.43",
-     "date": "2024-02-22",
-     "meet": "2024 NCS SC SR CHAMPS"
-    },
-    {
-     "course": "SCY",
-     "event": "100 IM",
-     "time": "1:00.82",
-     "date": "2024-02-22",
-     "meet": "2024 NCS SC SR CHAMPS"
-    },
-    {
-     "course": "SCY",
-     "event": "100 Back",
-     "time": "56.61",
-     "date": "2023-12-06",
-     "meet": "2023 Speedo East Winter Junior Champs"
-    },
-    {
-     "course": "SCY",
-     "event": "200 Back",
-     "time": "2:06.48",
-     "date": "2023-12-06",
-     "meet": "2023 Speedo East Winter Junior Champs"
-    },
-    {
-     "course": "SCY",
-     "event": "100 Fly",
-     "time": "57.82",
-     "date": "2023-12-06",
-     "meet": "2023 Speedo East Winter Junior Champs"
-    },
-    {
-     "course": "LC",
-     "event": "100 Back",
-     "time": "1:04.71",
-     "date": "2023-07-26",
-     "meet": "2023 Futures Championships - OCALA"
-    },
-    {
-     "course": "LC",
-     "event": "200 Back",
-     "time": "2:23.53",
-     "date": "2023-07-26",
-     "meet": "2023 Futures Championships - OCALA"
-    },
-    {
-     "course": "LC",
-     "event": "100 Fly",
-     "time": "1:03.97",
-     "date": "2023-07-26",
-     "meet": "2023 Futures Championships - OCALA"
-    },
-    {
-     "course": "LC",
-     "event": "50 Back",
-     "time": "30.68",
-     "date": "2023-05-18",
-     "meet": "2023 Martha McKee Charlotte Open"
-    },
-    {
-     "course": "SCY",
-     "event": "100 Back",
-     "time": "56.89",
-     "date": "2023-03-09",
-     "meet": "2023 Speedo ESSZ Spring SC Championships"
-    },
-    {
-     "course": "SCY",
-     "event": "200 Back",
-     "time": "2:05.45",
-     "date": "2023-03-09",
-     "meet": "2023 Speedo ESSZ Spring SC Championships"
-    },
-    {
-     "course": "SCY",
-     "event": "50 Back",
-     "time": "28.90",
-     "date": "2022-09-25",
-     "meet": "2022 NC BAC-NSEA Dual"
-    },
-    {
-     "course": "LC",
-     "event": "100 Back",
-     "time": "1:06.29",
-     "date": "2022-07-27",
-     "meet": "2022 Futures Championships - Cary NC"
-    },
-    {
-     "course": "LC",
-     "event": "200 Back",
-     "time": "2:30.76",
-     "date": "2022-07-27",
-     "meet": "2022 Futures Championships - Cary NC"
-    },
-    {
-     "course": "LC",
-     "event": "100 Fly",
-     "time": "1:07.16",
-     "date": "2022-07-27",
-     "meet": "2022 Futures Championships - Cary NC"
-    },
-    {
-     "course": "LC",
-     "event": "200 IM",
-     "time": "2:35.15",
-     "date": "2022-07-01",
-     "meet": "2022 Eric Namesnik Memorial Open"
-    },
-    {
-     "course": "LC",
-     "event": "50 Back",
-     "time": "30.86",
-     "date": "2022-05-19",
-     "meet": "2022 Martha McKee Charlotte Open"
-    },
-    {
-     "course": "LC",
-     "event": "50 Fly",
-     "time": "29.72",
-     "date": "2022-05-19",
-     "meet": "2022 Martha McKee Charlotte Open"
-    },
-    {
-     "course": "SCY",
-     "event": "100 Fly",
-     "time": "58.43",
-     "date": "2022-03-11",
-     "meet": "2022 Speedo ESSZ Spring SC Cha"
-    },
-    {
-     "course": "SCY",
-     "event": "200 IM",
-     "time": "2:14.41",
-     "date": "2022-02-13",
-     "meet": "2022 NC BAC CUPID QUALIFIER"
-    }
-   ]
-  },
-  {
    "name": "Liza Murtagh",
    "records": [
+    {
+     "course": "LC",
+     "event": "200 IM",
+     "time": "2:29.28",
+     "date": "2021-07-31",
+     "meet": "2021-NT Southern Zone Senior Champs"
+    },
+    {
+     "course": "LC",
+     "event": "100 Breast",
+     "time": "1:18.48",
+     "date": "2021-07-30",
+     "meet": "2021-NT Southern Zone Senior Champs"
+    },
+    {
+     "course": "LC",
+     "event": "400 IM",
+     "time": "5:21.60",
+     "date": "2021-07-29",
+     "meet": "2021-NT Southern Zone Senior Champs"
+    },
+    {
+     "course": "LC",
+     "event": "50 Breast",
+     "time": "36.47",
+     "date": "2021-07-28",
+     "meet": "2021-NT Southern Zone Senior Champs"
+    },
     {
      "course": "LC",
      "event": "200 Breast",
      "time": "2:46.76",
      "date": "2021-07-28",
      "meet": ""
-    },
-    {
-     "course": "LC",
-     "event": "50 Breast",
-     "time": "36.47",
-     "date": "2021-07-27",
-     "meet": "2021 Southern Zone Senior Championships"
-    },
-    {
-     "course": "LC",
-     "event": "100 Breast",
-     "time": "1:18.48",
-     "date": "2021-07-27",
-     "meet": "2021 Southern Zone Senior Championships"
-    },
-    {
-     "course": "LC",
-     "event": "200 IM",
-     "time": "2:29.28",
-     "date": "2021-07-27",
-     "meet": "2021 Southern Zone Senior Championships"
-    },
-    {
-     "course": "LC",
-     "event": "400 IM",
-     "time": "5:21.60",
-     "date": "2021-07-27",
-     "meet": "2021 Southern Zone Senior Championships"
-    },
-    {
-     "course": "LC",
-     "event": "200 Breast",
-     "time": "2:46.76",
-     "date": "2021-07-27",
-     "meet": "2021 Southern Zone Senior Championships"
     },
     {
      "course": "LC",
@@ -1723,15 +1569,15 @@
      "course": "LC",
      "event": "400 Free",
      "time": "4:54.20",
-     "date": "2021-06-11",
-     "meet": "NC21102 TAC TITANS Triangle Classic"
+     "date": "2021-06-12",
+     "meet": "2021 NC TAC TITANS Triangle Cl"
     },
     {
      "course": "SCY",
      "event": "200 Free",
      "time": "1:55.12",
-     "date": "2021-03-27",
-     "meet": ""
+     "date": "2021-03-28",
+     "meet": "2021 NC BAC SPRING BREAK CHAMPS"
     },
     {
      "course": "SCY",
@@ -1746,20 +1592,6 @@
      "time": "4:29.40",
      "date": "2021-03-26",
      "meet": ""
-    },
-    {
-     "course": "SCY",
-     "event": "200 Free",
-     "time": "1:55.12",
-     "date": "2021-03-26",
-     "meet": "NC21071 BAC SPRING BREAK CHAMPS"
-    },
-    {
-     "course": "SCY",
-     "event": "500 Free",
-     "time": "5:14.69",
-     "date": "2021-03-26",
-     "meet": "NC21071 BAC SPRING BREAK CHAMPS"
     },
     {
      "course": "SCY",
@@ -1784,20 +1616,6 @@
     },
     {
      "course": "SCY",
-     "event": "200 Breast",
-     "time": "2:20.74",
-     "date": "2021-03-04",
-     "meet": "2021 NC TAC ESSZ SC Sectional"
-    },
-    {
-     "course": "SCY",
-     "event": "200 IM",
-     "time": "2:06.21",
-     "date": "2021-03-04",
-     "meet": "2021 NC TAC ESSZ SC Sectional"
-    },
-    {
-     "course": "SCY",
      "event": "200 Fly",
      "time": "2:09.96",
      "date": "2021-02-20",
@@ -1816,13 +1634,6 @@
      "time": "52.97",
      "date": "2020-12-06",
      "meet": ""
-    },
-    {
-     "course": "SCY",
-     "event": "100 Free",
-     "time": "52.97",
-     "date": "2020-12-04",
-     "meet": "2020 NC NCS Winter 18U Champs"
     }
    ]
   },
@@ -1833,8 +1644,8 @@
      "course": "LC",
      "event": "50 Breast",
      "time": "29.98",
-     "date": "2026-07-29",
-     "meet": "2026 Futures Championship - Knoxville"
+     "date": "2026-08-01",
+     "meet": "2026 TYR Futures Championships - Knoxville"
     },
     {
      "course": "LC",
@@ -1847,22 +1658,29 @@
      "course": "LC",
      "event": "50 Free",
      "time": "24.38",
-     "date": "2026-07-09",
-     "meet": "2026 NC LC SR Championships"
-    },
-    {
-     "course": "LC",
-     "event": "100 Free",
-     "time": "53.97",
-     "date": "2026-07-09",
-     "meet": "2026 NC LC SR Championships"
+     "date": "2026-07-12",
+     "meet": "2026 NC NCS LC Senior Championships"
     },
     {
      "course": "LC",
      "event": "200 Breast",
      "time": "2:32.41",
-     "date": "2026-07-09",
-     "meet": "2026 NC LC SR Championships"
+     "date": "2026-07-11",
+     "meet": "2026 NC NCS LC Senior Championships"
+    },
+    {
+     "course": "LC",
+     "event": "100 Free",
+     "time": "53.97",
+     "date": "2026-07-10",
+     "meet": "2026 NC NCS LC Senior Championships"
+    },
+    {
+     "course": "LC",
+     "event": "100 Breast",
+     "time": "1:07.65",
+     "date": "2026-05-15",
+     "meet": "2026 NC MAC Martha McKee Open"
     },
     {
      "course": "LC",
@@ -1872,18 +1690,11 @@
      "meet": "2026 Charlotte Open"
     },
     {
-     "course": "LC",
-     "event": "100 Breast",
-     "time": "1:07.65",
-     "date": "2026-05-14",
-     "meet": "2026 Charlotte Open"
-    },
-    {
      "course": "SCY",
      "event": "100 Free",
      "time": "47.62",
-     "date": "2026-03-20",
-     "meet": "2026 STAR Tar Heel States"
+     "date": "2026-03-22",
+     "meet": "2026 NC STAR Tarheel States"
     },
     {
      "course": "SCY",
@@ -1896,36 +1707,36 @@
      "course": "LC",
      "event": "50 Breast",
      "time": "35.68",
-     "date": "2023-04-29",
-     "meet": "2023 WAVE Sprint Into LC"
+     "date": "2023-04-30",
+     "meet": "2023 NC WAVE Sprint into LC"
     },
     {
      "course": "LC",
-     "event": "50 Breast",
-     "time": "36.45",
-     "date": "2022-07-14",
+     "event": "200 Breast",
+     "time": "3:04.23",
+     "date": "2022-07-17",
      "meet": "2022 NC LC AG CHAMPS"
     },
     {
      "course": "LC",
      "event": "100 Breast",
      "time": "1:23.14",
-     "date": "2022-07-14",
+     "date": "2022-07-16",
      "meet": "2022 NC LC AG CHAMPS"
     },
     {
      "course": "LC",
-     "event": "200 Breast",
-     "time": "3:04.23",
-     "date": "2022-07-14",
+     "event": "50 Breast",
+     "time": "36.45",
+     "date": "2022-07-15",
      "meet": "2022 NC LC AG CHAMPS"
     },
     {
      "course": "SCY",
      "event": "50 Breast",
      "time": "33.18",
-     "date": "2022-03-17",
-     "meet": "2022 TAC ESSZ AG Sectionals"
+     "date": "2022-03-19",
+     "meet": "2022 NC TAC ESSZ AG Sectionals"
     }
    ]
   },
@@ -2025,29 +1836,29 @@
      "course": "LC",
      "event": "200 Breast",
      "time": "2:37.49",
-     "date": "2026-07-29",
-     "meet": "2026 Futures Championship - Knoxville"
+     "date": "2026-07-31",
+     "meet": "2026 TYR Futures Championships - Knoxville"
     },
     {
      "course": "SCY",
      "event": "200 Breast",
      "time": "2:06.40",
-     "date": "2026-02-19",
-     "meet": "2026 NCS SC SR Champs"
-    },
-    {
-     "course": "SCY",
-     "event": "100 Breast",
-     "time": "57.88",
-     "date": "2024-03-15",
-     "meet": "2024 STAR Tarheel States"
+     "date": "2026-02-21",
+     "meet": "2026 NC NCS SC Senior Championships"
     },
     {
      "course": "SCY",
      "event": "200 Breast",
      "time": "2:08.11",
-     "date": "2024-03-15",
-     "meet": "2024 STAR Tarheel States"
+     "date": "2024-03-17",
+     "meet": "2024 NC STAR Tar Heel States"
+    },
+    {
+     "course": "SCY",
+     "event": "100 Breast",
+     "time": "57.88",
+     "date": "2024-03-16",
+     "meet": "2024 NC STAR Tar Heel States"
     },
     {
      "course": "SCY",
@@ -2060,49 +1871,49 @@
      "course": "SCY",
      "event": "1000 Free",
      "time": "10:35.38",
-     "date": "2023-10-27",
-     "meet": "2023 BAC HALLOWEEN BASH"
+     "date": "2023-10-29",
+     "meet": "2023 NC BAC Halloween Bash"
     },
     {
      "course": "LC",
      "event": "200 Fly",
      "time": "2:19.22",
-     "date": "2023-07-20",
-     "meet": "2023 NCS LC SR CHAMPS"
+     "date": "2023-07-22",
+     "meet": "2023 NC NCS LC SR Champs (STAR2)"
     },
     {
      "course": "LC",
      "event": "400 IM",
      "time": "4:56.36",
-     "date": "2023-07-20",
-     "meet": "2023 NCS LC SR CHAMPS"
+     "date": "2023-07-21",
+     "meet": "2023 NC NCS LC SR Champs (STAR2)"
     },
     {
      "course": "LC",
-     "event": "100 Breast",
-     "time": "1:16.56",
-     "date": "2022-07-14",
+     "event": "200 Fly",
+     "time": "2:26.12",
+     "date": "2022-07-16",
      "meet": "2022 NC LC AG CHAMPS"
     },
     {
      "course": "LC",
      "event": "200 Breast",
      "time": "2:47.28",
-     "date": "2022-07-14",
-     "meet": "2022 NC LC AG CHAMPS"
-    },
-    {
-     "course": "LC",
-     "event": "200 Fly",
-     "time": "2:26.12",
-     "date": "2022-07-14",
+     "date": "2022-07-16",
      "meet": "2022 NC LC AG CHAMPS"
     },
     {
      "course": "LC",
      "event": "400 IM",
      "time": "5:09.59",
-     "date": "2022-07-14",
+     "date": "2022-07-15",
+     "meet": "2022 NC LC AG CHAMPS"
+    },
+    {
+     "course": "LC",
+     "event": "100 Breast",
+     "time": "1:16.56",
+     "date": "2022-07-15",
      "meet": "2022 NC LC AG CHAMPS"
     }
    ]
@@ -2121,15 +1932,15 @@
      "course": "LC",
      "event": "50 Free",
      "time": "28.63",
-     "date": "2026-06-19",
+     "date": "2026-06-21",
      "meet": "2026 GCST MARK MCCAW SUMMER INVITE"
     },
     {
      "course": "SCY",
      "event": "50 Free",
      "time": "24.58",
-     "date": "2026-02-19",
-     "meet": "2026 NCS SC SR Champs"
+     "date": "2026-02-21",
+     "meet": "2026 NC NCS SC Senior Championships"
     },
     {
      "course": "SCY",
@@ -2142,8 +1953,8 @@
      "course": "LC",
      "event": "100 Breast",
      "time": "1:22.13",
-     "date": "2025-07-10",
-     "meet": "2025 NC LC SR Championships"
+     "date": "2025-07-11",
+     "meet": "2025 NC NCS LC Senior Championships"
     },
     {
      "course": "LC",
@@ -2189,8 +2000,8 @@
      "course": "SCY",
      "event": "100 Free",
      "time": "54.40",
-     "date": "2025-12-12",
-     "meet": "2025 Triad Tropic Invitational"
+     "date": "2025-12-14",
+     "meet": "2025 NC STAR Triad Tropic"
     },
     {
      "course": "SCY",
@@ -2203,15 +2014,15 @@
      "course": "LC",
      "event": "400 IM",
      "time": "5:53.31",
-     "date": "2025-06-12",
-     "meet": "2025 Summer Classic"
+     "date": "2025-06-14",
+     "meet": "2025 SC GAME Summer Classic"
     },
     {
      "course": "SCY",
      "event": "50 Free",
      "time": "24.61",
-     "date": "2025-03-14",
-     "meet": "Tar Heel States"
+     "date": "2025-03-15",
+     "meet": "2025 NC STAR Tarheel States"
     },
     {
      "course": "SCY",
@@ -2224,8 +2035,8 @@
      "course": "LC",
      "event": "50 Free",
      "time": "28.44",
-     "date": "2024-07-18",
-     "meet": "2024 NCS LC SR CHAMPS"
+     "date": "2024-07-20",
+     "meet": "2024 NC LC Senior Championships"
     },
     {
      "course": "LC",
@@ -2247,13 +2058,6 @@
    "name": "Keener Witmer",
    "records": [
     {
-     "course": "LC",
-     "event": "100 Free",
-     "time": "1:02.69",
-     "date": "2025-07-10",
-     "meet": ""
-    },
-    {
      "course": "SCY",
      "event": "50 Fly",
      "time": "27.87",
@@ -2271,8 +2075,8 @@
      "course": "LC",
      "event": "200 Free",
      "time": "2:17.50",
-     "date": "2023-07-20",
-     "meet": ""
+     "date": "2023-07-21",
+     "meet": "2023 NC NCS LC SR Champs (STAR2)"
     },
     {
      "course": "LC",
@@ -2304,8 +2108,8 @@
      "course": "LC",
      "event": "200 Free",
      "time": "2:26.08",
-     "date": "2021-06-11",
-     "meet": "NC21102 TAC TITANS Triangle Classic"
+     "date": "2021-06-12",
+     "meet": "2021 NC TAC TITANS Triangle Cl"
     },
     {
      "course": "SCY",
@@ -2341,53 +2145,6 @@
      "time": "1:12.49",
      "date": "2021-03-11",
      "meet": ""
-    }
-   ]
-  },
-  {
-   "name": "Will Sterrett",
-   "records": [
-    {
-     "course": "SCY",
-     "event": "1000 Free",
-     "time": "10:01.99",
-     "date": "2022-02-11",
-     "meet": ""
-    },
-    {
-     "course": "SCY",
-     "event": "1650 Free",
-     "time": "17:05.33",
-     "date": "2022-01-16",
-     "meet": ""
-    },
-    {
-     "course": "SCY",
-     "event": "1650 Free",
-     "time": "17:05.33",
-     "date": "2022-01-14",
-     "meet": "2022 NC BAC Battle at the Beach"
-    },
-    {
-     "course": "SCY",
-     "event": "200 Fly",
-     "time": "1:58.28",
-     "date": "2021-03-28",
-     "meet": ""
-    },
-    {
-     "course": "SCY",
-     "event": "500 Free",
-     "time": "4:51.83",
-     "date": "2021-03-27",
-     "meet": ""
-    },
-    {
-     "course": "SCY",
-     "event": "1650 Free",
-     "time": "17:38.19",
-     "date": "2021-01-31",
-     "meet": "2021 NC BAC Battle at the Beac"
     }
    ]
   },
@@ -2435,6 +2192,46 @@
      "time": "1:40.88",
      "date": "2025-02-01",
      "meet": "2025 NC WOW v NSEA Last Chance Dual"
+    }
+   ]
+  },
+  {
+   "name": "Will Sterrett",
+   "records": [
+    {
+     "course": "SCY",
+     "event": "1000 Free",
+     "time": "10:01.99",
+     "date": "2022-02-11",
+     "meet": ""
+    },
+    {
+     "course": "SCY",
+     "event": "1650 Free",
+     "time": "17:05.33",
+     "date": "2022-01-16",
+     "meet": ""
+    },
+    {
+     "course": "SCY",
+     "event": "200 Fly",
+     "time": "1:58.28",
+     "date": "2021-03-28",
+     "meet": ""
+    },
+    {
+     "course": "SCY",
+     "event": "500 Free",
+     "time": "4:51.83",
+     "date": "2021-03-27",
+     "meet": ""
+    },
+    {
+     "course": "SCY",
+     "event": "1650 Free",
+     "time": "17:38.19",
+     "date": "2021-01-31",
+     "meet": "2021 NC BAC Battle at the Beac"
     }
    ]
   },
@@ -2516,31 +2313,31 @@
    "records": [
     {
      "course": "LC",
-     "event": "100 Back",
-     "time": "1:04.26",
-     "date": "2025-07-10",
-     "meet": "2025 NC LC SR Championships"
+     "event": "200 Back",
+     "time": "2:17.10",
+     "date": "2025-07-13",
+     "meet": "2025 NC NCS LC Senior Championships"
     },
     {
      "course": "LC",
-     "event": "200 Back",
-     "time": "2:17.10",
-     "date": "2025-07-10",
-     "meet": "2025 NC LC SR Championships"
+     "event": "100 Back",
+     "time": "1:04.26",
+     "date": "2025-07-12",
+     "meet": "2025 NC NCS LC Senior Championships"
     },
     {
      "course": "LC",
      "event": "200 Free",
      "time": "2:06.45",
-     "date": "2025-06-12",
-     "meet": "2025 Summer Classic"
+     "date": "2025-06-14",
+     "meet": "2025 SC GAME Summer Classic"
     },
     {
      "course": "LC",
      "event": "400 Free",
      "time": "4:28.74",
-     "date": "2025-05-15",
-     "meet": "2025 Charlotte Open"
+     "date": "2025-05-17",
+     "meet": "2025 NC SwimMAC Martha McKee Charlotte Open"
     }
    ]
   },
@@ -2608,24 +2405,24 @@
    "records": [
     {
      "course": "LC",
-     "event": "50 Free",
-     "time": "26.41",
-     "date": "2022-06-03",
-     "meet": "2022 STAR Andrew E Hartle Invitational"
-    },
-    {
-     "course": "LC",
      "event": "100 Free",
      "time": "59.16",
-     "date": "2022-06-03",
-     "meet": "2022 STAR Andrew E Hartle Invitational"
+     "date": "2022-06-05",
+     "meet": "2022 NC STAR Andrew E Hartle Invite"
     },
     {
      "course": "LC",
      "event": "200 Free",
      "time": "2:13.38",
-     "date": "2022-06-03",
-     "meet": "2022 STAR Andrew E Hartle Invitational"
+     "date": "2022-06-04",
+     "meet": "2022 NC STAR Andrew E Hartle Invite"
+    },
+    {
+     "course": "LC",
+     "event": "50 Free",
+     "time": "26.41",
+     "date": "2022-06-04",
+     "meet": "2022 NC STAR Andrew E Hartle Invite"
     }
    ]
   },
@@ -2675,40 +2472,21 @@
    ]
   },
   {
-   "name": "Anderson Petroff",
-   "records": [
-    {
-     "course": "LC",
-     "event": "100 Fly",
-     "time": "1:34.56",
-     "date": "2023-07-13",
-     "meet": "2023 NCS LC AG Champs"
-    },
-    {
-     "course": "LC",
-     "event": "100 Free",
-     "time": "1:20.61",
-     "date": "2023-06-17",
-     "meet": ""
-    }
-   ]
-  },
-  {
    "name": "Olivia Crowley",
    "records": [
     {
      "course": "LC",
-     "event": "50 Breast",
-     "time": "41.37",
-     "date": "2021-06-11",
-     "meet": ""
+     "event": "100 Breast",
+     "time": "1:28.53",
+     "date": "2021-07-11",
+     "meet": "2021 NC TAC TITANS July Qualifier"
     },
     {
      "course": "LC",
-     "event": "100 Breast",
-     "time": "1:28.53",
-     "date": "2021-06-11",
-     "meet": ""
+     "event": "50 Breast",
+     "time": "41.37",
+     "date": "2021-07-11",
+     "meet": "2021 NC TAC TITANS July Qualifier"
     }
    ]
   },
@@ -2757,8 +2535,8 @@
      "course": "SCY",
      "event": "1000 Free",
      "time": "10:52.46",
-     "date": "2026-03-20",
-     "meet": "2026 STAR Tar Heel States"
+     "date": "2026-03-21",
+     "meet": "2026 NC STAR Tarheel States"
     },
     {
      "course": "LC",
@@ -2770,13 +2548,32 @@
    ]
   },
   {
+   "name": "Annderson Petroff",
+   "records": [
+    {
+     "course": "LC",
+     "event": "100 Fly",
+     "time": "1:34.56",
+     "date": "2023-07-13",
+     "meet": "2023 NC LC Age Group Champs (TAC2)"
+    },
+    {
+     "course": "LC",
+     "event": "100 Free",
+     "time": "1:20.61",
+     "date": "2023-06-17",
+     "meet": "2023 NC MOR Liberty Meet"
+    }
+   ]
+  },
+  {
    "name": "Sallie Brown",
    "records": [
     {
      "course": "SCY",
      "event": "1650 Free",
      "time": "23:27.96",
-     "date": "2020-01-25",
+     "date": "2020-01-26",
      "meet": "2020 NC BAC Battle at the Beach"
     }
    ]
@@ -2800,8 +2597,8 @@
      "course": "LC",
      "event": "200 Back",
      "time": "3:17.74",
-     "date": "2021-06-11",
-     "meet": "NC21102 TAC TITANS Triangle Classic"
+     "date": "2021-06-13",
+     "meet": "2021 NC TAC TITANS Triangle Cl"
     }
    ]
   },
@@ -2812,8 +2609,8 @@
      "course": "LC",
      "event": "200 Fly",
      "time": "2:20.80",
-     "date": "2025-06-12",
-     "meet": "2025 Summer Classic"
+     "date": "2025-06-14",
+     "meet": "2025 SC GAME Summer Classic"
     }
    ]
   }

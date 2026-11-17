@@ -309,8 +309,12 @@ A query version of the Top 10 boards: pick course, event (or all events), gender
 performances, and how many to show. Every view is a shareable link (the filters live in the URL `#` part),
 and the list can be downloaded as CSV or printed.
 
-Data: `data/times-explorer.json`, built by `build_times_explorer.py` in nsea-results-db from the local
-results database plus any swim that is on the live Top 10 boards but not in the database, so the explorer's
-Top 10 always agrees with the boards. Same scope rules as the boards (NSEA-era swims only; relay lead-offs and
+Data: `data/times-explorer.json`. Same scope rules as the boards (NSEA-era swims only; relay lead-offs and
 Unattached high-school swims included and flagged). No birthdates or USA IDs are in the file.
-Rebuild it after each meet, right after the Top 10 boards are updated.
+
+## Where the data comes from (single source of truth, since 2026-11-17)
+
+Every file in `data/` is generated from the NSEA results database (nsea-results-db, run on JP's computer):
+`./build_all.sh` then `publish_to_live/publish.sh <this repo folder>`. Do not hand-edit the JSON here: a time, name
+or meet name is fixed at its source in the database inputs and the files are rebuilt. Fixed text per board (season
+window, disclaimers, footers, record slots) lives in nsea-results-db `publish_to_live/board_settings.json`.
