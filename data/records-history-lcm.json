@@ -5464,7 +5464,15 @@
    "holder": "Sophie Wert",
    "age": 13,
    "date": "2022-04-30",
-   "meet": "2022 NC WAVE Sprint Into LC"
+   "meet": "2022 NC WAVE Sprint Into LC",
+   "drop": 3.54
+  },
+  {
+   "time": "40.60",
+   "holder": "Sara Paige Harvey",
+   "age": 13,
+   "date": "2019-07-26",
+   "meet": "2019 NC HPSC Tar Heel States"
   }
  ],
  "F|15-16|50 Back": [

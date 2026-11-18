@@ -3562,6 +3562,15 @@
      },
      {
       "rank": 8,
+      "time": "40.60",
+      "first": "Sara Paige",
+      "last": "Harvey",
+      "age": 13,
+      "meet": "2019 NC HPSC Tar Heel States",
+      "date": "2019-07-26"
+     },
+     {
+      "rank": 9,
       "time": "41.45",
       "first": "Kemper",
       "last": "Yarnoz",
@@ -3570,22 +3579,13 @@
       "date": "2024-04-27"
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "41.63",
       "first": "Sullivan",
       "last": "Terzaken",
       "age": 13,
       "meet": "2024 NC WAVE Sprint into Long Course",
       "date": "2024-04-27"
-     },
-     {
-      "rank": 10,
-      "time": "42.32",
-      "first": "Olivia",
-      "last": "Crowley",
-      "age": 13,
-      "meet": "2022 NC WAVE Sprint Into LC",
-      "date": "2022-04-30"
      }
     ],
     "50 Breast": [
@@ -4298,6 +4298,15 @@
      },
      {
       "rank": 8,
+      "time": "3:10.41",
+      "first": "Sara Paige",
+      "last": "Harvey",
+      "age": 13,
+      "meet": "2019 NC HPSC Tar Heel States",
+      "date": "2019-07-26"
+     },
+     {
+      "rank": 9,
       "time": "3:12.07",
       "first": "Eppy",
       "last": "Camacho",
@@ -4306,22 +4315,13 @@
       "date": "2019-06-01"
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "3:12.44",
       "first": "Addison",
       "last": "Hicks",
       "age": 14,
       "meet": "2022 NC STAR Andrew E Hartle Invite",
       "date": "2022-06-04"
-     },
-     {
-      "rank": 10,
-      "time": "3:13.84",
-      "first": "Mya",
-      "last": "Metzinger",
-      "age": 13,
-      "meet": "2021 NC TAC TITANS Triangle Cl",
-      "date": "2021-06-11"
      }
     ],
     "200 Breast": [

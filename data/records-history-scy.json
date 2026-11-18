@@ -2380,6 +2380,14 @@
  ],
  "F|13-14|100 Back": [
   {
+   "time": "59.32",
+   "holder": "Gentry Witmer",
+   "age": 14,
+   "date": "2026-11-14",
+   "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+   "drop": 1.5
+  },
+  {
    "time": "1:00.82",
    "holder": "Gentry Witmer",
    "age": 14,
@@ -4094,6 +4102,14 @@
   }
  ],
  "F|13-14|100 Breast": [
+  {
+   "time": "1:10.16",
+   "holder": "Abigail Blair",
+   "age": 14,
+   "date": "2026-11-14",
+   "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+   "drop": 1.3
+  },
   {
    "time": "1:11.46",
    "holder": "Abigail Blair",
@@ -8055,6 +8071,14 @@
  ],
  "F|13-14|200 IM": [
   {
+   "time": "2:12.20",
+   "holder": "Gentry Witmer",
+   "age": 14,
+   "date": "2026-11-14",
+   "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+   "drop": 3.71
+  },
+  {
    "time": "2:15.91",
    "holder": "Gentry Witmer",
    "age": 13,
@@ -8438,6 +8462,14 @@
   }
  ],
  "F|13-14|200 Free": [
+  {
+   "time": "1:57.74",
+   "holder": "Gentry Witmer",
+   "age": 14,
+   "date": "2026-11-15",
+   "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+   "drop": 2.2
+  },
   {
    "time": "1:59.94",
    "holder": "Gentry Witmer",
@@ -11999,6 +12031,14 @@
  ],
  "F|13-14|200 Back": [
   {
+   "time": "2:10.03",
+   "holder": "Gentry Witmer",
+   "age": 14,
+   "date": "2026-11-15",
+   "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+   "drop": 3.73
+  },
+  {
    "time": "2:13.76",
    "holder": "Gentry Witmer",
    "age": 14,
@@ -12849,6 +12889,14 @@
   }
  ],
  "F|13-14|200 Fly": [
+  {
+   "time": "2:09.43",
+   "holder": "Gentry Witmer",
+   "age": 14,
+   "date": "2026-11-13",
+   "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+   "drop": 2.69
+  },
   {
    "time": "2:12.12",
    "holder": "Abby Forbes",
