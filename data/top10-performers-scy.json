@@ -10286,30 +10286,30 @@
      },
      {
       "rank": 7,
-      "time": "26.57",
+      "time": "26.16",
       "first": "Abigail",
       "last": "Blair",
       "age": 14,
-      "meet": "2026 NC STAR Tarheel States",
-      "date": "2026-03-20"
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-14"
      },
      {
       "rank": 8,
+      "time": "26.64",
+      "first": "Eliza",
+      "last": "Amin",
+      "age": 13,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-14"
+     },
+     {
+      "rank": 9,
       "time": "26.67",
       "first": "Abby",
       "last": "Forbes",
       "age": 13,
       "meet": "2020 NC TAC TITANS Challenge",
       "date": "2020-08-16"
-     },
-     {
-      "rank": 9,
-      "time": "27.12",
-      "first": "Eliza",
-      "last": "Amin",
-      "age": 13,
-      "meet": "2026 NC BAC Halloween Bash",
-      "date": "2026-10-30"
      },
      {
       "rank": 10,
@@ -10636,12 +10636,12 @@
      },
      {
       "rank": 5,
-      "time": "57.65r",
+      "time": "57.19",
       "first": "Abigail",
       "last": "Blair",
       "age": 14,
-      "meet": "2026 NC NCS SC Age Group Championships",
-      "date": "2026-02-26"
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-13"
      },
      {
       "rank": 6,
@@ -10663,6 +10663,15 @@
      },
      {
       "rank": 8,
+      "time": "58.91",
+      "first": "Eliza",
+      "last": "Amin",
+      "age": 13,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-13"
+     },
+     {
+      "rank": 9,
       "time": "59.31",
       "first": "Sophie",
       "last": "Wert",
@@ -10671,33 +10680,24 @@
       "date": "2023-02-11"
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "59.45",
       "first": "Camren Grace",
       "last": "Reaves",
       "age": 14,
       "meet": "2022 NC BAC Battle at the Beach",
       "date": "2022-01-16"
-     },
-     {
-      "rank": 10,
-      "time": "1:00.81",
-      "first": "Kemper",
-      "last": "Yarnoz",
-      "age": 14,
-      "meet": "2024 NC BAC Cupid Qualifier",
-      "date": "2024-02-10"
      }
     ],
     "100 Back": [
      {
       "rank": 1,
-      "time": "1:00.82",
+      "time": "59.32",
       "first": "Gentry",
       "last": "Witmer",
       "age": 14,
-      "meet": "2026 NC BAC Halloween Bash",
-      "date": "2026-10-30"
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-14"
      },
      {
       "rank": 2,
@@ -10737,21 +10737,21 @@
      },
      {
       "rank": 6,
+      "time": "1:08.20",
+      "first": "Eliza",
+      "last": "Amin",
+      "age": 13,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-14"
+     },
+     {
+      "rank": 7,
       "time": "1:08.21",
       "first": "Abby",
       "last": "Forbes",
       "age": 14,
       "meet": "2021 NC TAC Polar Plunge",
       "date": "2021-01-16"
-     },
-     {
-      "rank": 7,
-      "time": "1:08.75",
-      "first": "Eliza",
-      "last": "Amin",
-      "age": 13,
-      "meet": "2026 NC BAC Halloween Bash",
-      "date": "2026-10-30"
      },
      {
       "rank": 8,
@@ -10784,12 +10784,12 @@
     "100 Breast": [
      {
       "rank": 1,
-      "time": "1:11.46",
+      "time": "1:10.16",
       "first": "Abigail",
       "last": "Blair",
       "age": 14,
-      "meet": "2026 NC WOW Tri-County",
-      "date": "2026-01-24"
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-14"
      },
      {
       "rank": 2,
@@ -10921,21 +10921,21 @@
      },
      {
       "rank": 6,
+      "time": "1:04.14",
+      "first": "Eliza",
+      "last": "Amin",
+      "age": 13,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-15"
+     },
+     {
+      "rank": 7,
       "time": "1:04.80",
       "first": "Camren Grace",
       "last": "Reaves",
       "age": 14,
       "meet": "2022 NC STAR Tarheel States",
       "date": "2022-03-19"
-     },
-     {
-      "rank": 7,
-      "time": "1:05.71",
-      "first": "Eliza",
-      "last": "Amin",
-      "age": 13,
-      "meet": "2026 NC BAC Halloween Bash",
-      "date": "2026-10-30"
      },
      {
       "rank": 8,
@@ -11060,12 +11060,12 @@
     "200 Free": [
      {
       "rank": 1,
-      "time": "1:59.94",
+      "time": "1:57.74",
       "first": "Gentry",
       "last": "Witmer",
-      "age": 13,
-      "meet": "2026 NC NCS SC Age Group Championships",
-      "date": "2026-02-27"
+      "age": 14,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-15"
      },
      {
       "rank": 2,
@@ -11141,23 +11141,23 @@
      },
      {
       "rank": 10,
-      "time": "2:15.20",
-      "first": "Abigail",
-      "last": "Blair",
+      "time": "2:14.99",
+      "first": "Nina",
+      "last": "Crowley",
       "age": 14,
-      "meet": "2026 NC STAR Tarheel States",
-      "date": "2026-03-20"
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-15"
      }
     ],
     "200 Back": [
      {
       "rank": 1,
-      "time": "2:13.76",
+      "time": "2:10.03",
       "first": "Gentry",
       "last": "Witmer",
       "age": 14,
-      "meet": "2026 NC STAR Tarheel States",
-      "date": "2026-03-21"
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-15"
      },
      {
       "rank": 2,
@@ -11206,6 +11206,15 @@
      },
      {
       "rank": 7,
+      "time": "2:29.69",
+      "first": "Eliza",
+      "last": "Amin",
+      "age": 13,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-15"
+     },
+     {
+      "rank": 8,
       "time": "2:30.86",
       "first": "Lila",
       "last": "Paukovich",
@@ -11214,7 +11223,7 @@
       "date": "2025-01-12"
      },
      {
-      "rank": 8,
+      "rank": 9,
       "time": "2:32.88",
       "first": "Abigail",
       "last": "Blair",
@@ -11223,22 +11232,13 @@
       "date": "2026-03-20"
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "2:33.47",
       "first": "Camren Grace",
       "last": "Reaves",
       "age": 14,
       "meet": "2021 NC TAC TITANS Blizzard Blitz",
       "date": "2021-12-12"
-     },
-     {
-      "rank": 10,
-      "time": "2:35.79",
-      "first": "Emmie",
-      "last": "Backman",
-      "age": 13,
-      "meet": "2020 NC HPSC Polar Bear Invita",
-      "date": "2020-01-05"
      }
     ],
     "200 Breast": [
@@ -11253,6 +11253,15 @@
      },
      {
       "rank": 2,
+      "time": "2:38.52",
+      "first": "Abigail",
+      "last": "Blair",
+      "age": 14,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-13"
+     },
+     {
+      "rank": 3,
       "time": "2:42.91",
       "first": "Gentry",
       "last": "Witmer",
@@ -11261,22 +11270,13 @@
       "date": "2025-12-14"
      },
      {
-      "rank": 3,
+      "rank": 4,
       "time": "2:43.04",
       "first": "Addison",
       "last": "Hicks",
       "age": 14,
       "meet": "2023 NC BAC Cupid Qualifier",
       "date": "2023-02-11"
-     },
-     {
-      "rank": 4,
-      "time": "2:44.28",
-      "first": "Abigail",
-      "last": "Blair",
-      "age": 14,
-      "meet": "2026 NC STAR Tarheel States",
-      "date": "2026-03-20"
      },
      {
       "rank": 5,
@@ -11336,21 +11336,21 @@
     "200 Fly": [
      {
       "rank": 1,
+      "time": "2:09.43",
+      "first": "Gentry",
+      "last": "Witmer",
+      "age": 14,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-13"
+     },
+     {
+      "rank": 2,
       "time": "2:12.12",
       "first": "Abby",
       "last": "Forbes",
       "age": 14,
       "meet": "2021 NC TAC SC AG Champs",
       "date": "2021-02-25"
-     },
-     {
-      "rank": 2,
-      "time": "2:12.91",
-      "first": "Gentry",
-      "last": "Witmer",
-      "age": 14,
-      "meet": "2026 NC STAR Tarheel States",
-      "date": "2026-03-22"
      },
      {
       "rank": 3,
@@ -11428,12 +11428,12 @@
     "200 IM": [
      {
       "rank": 1,
-      "time": "2:15.91",
+      "time": "2:12.20",
       "first": "Gentry",
       "last": "Witmer",
-      "age": 13,
-      "meet": "2026 NC NCS SC Age Group Championships",
-      "date": "2026-03-01"
+      "age": 14,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-14"
      },
      {
       "rank": 2,
@@ -11473,6 +11473,24 @@
      },
      {
       "rank": 6,
+      "time": "2:28.35",
+      "first": "Eliza",
+      "last": "Amin",
+      "age": 13,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-14"
+     },
+     {
+      "rank": 7,
+      "time": "2:29.55",
+      "first": "Nina",
+      "last": "Crowley",
+      "age": 14,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-14"
+     },
+     {
+      "rank": 8,
       "time": "2:29.70",
       "first": "Sophie",
       "last": "Wert",
@@ -11481,7 +11499,7 @@
       "date": "2023-01-15"
      },
      {
-      "rank": 7,
+      "rank": 9,
       "time": "2:29.91",
       "first": "Camren Grace",
       "last": "Reaves",
@@ -11490,31 +11508,13 @@
       "date": "2022-06-11"
      },
      {
-      "rank": 8,
+      "rank": 10,
       "time": "2:30.85",
       "first": "Abigail",
       "last": "Blair",
       "age": 14,
       "meet": "2026 NC STAR Tarheel States",
       "date": "2026-03-20"
-     },
-     {
-      "rank": 9,
-      "time": "2:31.68",
-      "first": "Eppy",
-      "last": "Camacho",
-      "age": 14,
-      "meet": "2020 NC BAC Battle at the Beach",
-      "date": "2020-01-26"
-     },
-     {
-      "rank": 10,
-      "time": "2:33.28",
-      "first": "Lilah",
-      "last": "Taylor",
-      "age": 14,
-      "meet": "2025 NC STAR Triad Tropic",
-      "date": "2025-12-12"
      }
     ],
     "400 IM": [
@@ -11666,6 +11666,15 @@
      },
      {
       "rank": 7,
+      "time": "5:49.51",
+      "first": "Abigail",
+      "last": "Blair",
+      "age": 14,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-14"
+     },
+     {
+      "rank": 8,
       "time": "5:54.55",
       "first": "Eppy",
       "last": "Camacho",
@@ -11674,7 +11683,7 @@
       "date": "2020-01-04"
      },
      {
-      "rank": 8,
+      "rank": 9,
       "time": "5:54.60",
       "first": "Sophie",
       "last": "Wert",
@@ -11683,22 +11692,13 @@
       "date": "2023-01-13"
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "6:02.11",
       "first": "Emmie",
       "last": "Backman",
       "age": 13,
       "meet": "2020 NC OBS NCHEAC State Champs",
       "date": "2020-02-01"
-     },
-     {
-      "rank": 10,
-      "time": "6:04.41",
-      "first": "Abigail",
-      "last": "Blair",
-      "age": 14,
-      "meet": "2026 NC STAR Tarheel States",
-      "date": "2026-03-20"
      }
     ],
     "1000 Free": [
@@ -13361,15 +13361,24 @@
      },
      {
       "rank": 6,
-      "time": "26.10",
-      "first": "Lila",
-      "last": "Paukovich",
+      "time": "26.07",
+      "first": "Piper",
+      "last": "Cockman",
       "age": 15,
-      "meet": "2026 NC BAC Halloween Bash",
-      "date": "2026-10-30"
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-14"
      },
      {
       "rank": 7,
+      "time": "26.08",
+      "first": "Lila",
+      "last": "Paukovich",
+      "age": 15,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-14"
+     },
+     {
+      "rank": 8,
       "time": "26.45r",
       "first": "Leah",
       "last": "Murtagh",
@@ -13378,22 +13387,13 @@
       "date": "2021-02-09"
      },
      {
-      "rank": 8,
+      "rank": 9,
       "time": "26.51",
       "first": "Morgan",
       "last": "Hawthorne",
       "age": 15,
       "meet": "2020 NC BAC vs NSEA DUAL",
       "date": "2020-11-21"
-     },
-     {
-      "rank": 9,
-      "time": "26.55",
-      "first": "Piper",
-      "last": "Cockman",
-      "age": 15,
-      "meet": "2026 NC BAC Halloween Bash",
-      "date": "2026-10-30"
      },
      {
       "rank": 10,
@@ -13729,6 +13729,15 @@
      },
      {
       "rank": 6,
+      "time": "57.30",
+      "first": "Lila",
+      "last": "Paukovich",
+      "age": 15,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-13"
+     },
+     {
+      "rank": 7,
       "time": "57.66",
       "first": "Leah",
       "last": "Murtagh",
@@ -13737,7 +13746,7 @@
       "date": "2021-02-09"
      },
      {
-      "rank": 7,
+      "rank": 8,
       "time": "57.88",
       "first": "Camren Grace",
       "last": "Reaves",
@@ -13746,31 +13755,22 @@
       "date": "2023-02-26"
      },
      {
-      "rank": 8,
-      "time": "58.31",
-      "first": "Lila",
-      "last": "Paukovich",
+      "rank": 9,
+      "time": "57.96",
+      "first": "Piper",
+      "last": "Cockman",
       "age": 15,
-      "meet": "2026 NC WOW Summer Spectacular",
-      "date": "2026-07-25"
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-13"
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "58.37",
       "first": "Riley",
       "last": "Hubard",
       "age": 16,
       "meet": "2022 NC 4A East NCHSAA Regional Ch",
       "date": "2022-02-05"
-     },
-     {
-      "rank": 10,
-      "time": "59.88",
-      "first": "Kemper",
-      "last": "Yarnoz",
-      "age": 15,
-      "meet": "2025 NC BAC Battle at the Beach",
-      "date": "2025-01-10"
      }
     ],
     "100 Back": [
@@ -16338,6 +16338,15 @@
      },
      {
       "rank": 3,
+      "time": "12:43.44",
+      "first": "Sebastian",
+      "last": "Ventura",
+      "age": 15,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-15"
+     },
+     {
+      "rank": 4,
       "time": "13:07.80",
       "first": "William",
       "last": "Forbes",
@@ -16732,12 +16741,12 @@
      },
      {
       "rank": 5,
-      "time": "55.17",
+      "time": "54.84",
       "first": "Violet",
       "last": "Derry",
       "age": 17,
-      "meet": "2026 NC NCS SC Senior Championships",
-      "date": "2026-02-22"
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-13"
      },
      {
       "rank": 6,
@@ -16925,21 +16934,21 @@
      },
      {
       "rank": 6,
-      "time": "1:13.93",
-      "first": "Olivia",
-      "last": "Crowley",
-      "age": 17,
-      "meet": "2026 NC STAR Tarheel States",
-      "date": "2026-03-21"
-     },
-     {
-      "rank": 7,
-      "time": "1:14.95",
+      "time": "1:13.79",
       "first": "Violet",
       "last": "Derry",
       "age": 17,
-      "meet": "2026 NC BAC Halloween Bash",
-      "date": "2026-10-30"
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-14"
+     },
+     {
+      "rank": 7,
+      "time": "1:13.92",
+      "first": "Olivia",
+      "last": "Crowley",
+      "age": 18,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-14"
      },
      {
       "rank": 8,
@@ -17044,21 +17053,21 @@
      },
      {
       "rank": 9,
+      "time": "1:05.52",
+      "first": "Kemper",
+      "last": "Yarnoz",
+      "age": 17,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-15"
+     },
+     {
+      "rank": 10,
       "time": "1:06.83",
       "first": "Cadence",
       "last": "Eder",
       "age": 17,
       "meet": "2023 NC WOW Thanksgiving Throwdown",
       "date": "2023-11-11"
-     },
-     {
-      "rank": 10,
-      "time": "1:08.81",
-      "first": "Kemper",
-      "last": "Yarnoz",
-      "age": 17,
-      "meet": "2026 NC BAC Halloween Bash",
-      "date": "2026-10-30"
      }
     ],
     "100 IM": [
@@ -17228,12 +17237,12 @@
      },
      {
       "rank": 10,
-      "time": "2:15.29",
-      "first": "Sallie",
-      "last": "Brown",
-      "age": 17,
-      "meet": "2024 NC BAC Halloween Bash",
-      "date": "2024-10-26"
+      "time": "2:14.62",
+      "first": "Olivia",
+      "last": "Crowley",
+      "age": 18,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-15"
      }
     ],
     "200 Back": [
@@ -17284,6 +17293,15 @@
      },
      {
       "rank": 6,
+      "time": "2:22.41",
+      "first": "Violet",
+      "last": "Derry",
+      "age": 17,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-15"
+     },
+     {
+      "rank": 7,
       "time": "2:22.59",
       "first": "Camren Grace",
       "last": "Reaves",
@@ -17292,7 +17310,7 @@
       "date": "2025-11-22"
      },
      {
-      "rank": 7,
+      "rank": 8,
       "time": "2:23.68",
       "first": "Abby",
       "last": "Forbes",
@@ -17301,7 +17319,7 @@
       "date": "2024-01-14"
      },
      {
-      "rank": 8,
+      "rank": 9,
       "time": "2:32.20",
       "first": "Leah",
       "last": "Murtagh",
@@ -17310,22 +17328,13 @@
       "date": "2023-01-15"
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "2:33.26",
       "first": "Sallie",
       "last": "Brown",
       "age": 17,
       "meet": "2024 NC BAC Halloween Bash",
       "date": "2024-10-27"
-     },
-     {
-      "rank": 10,
-      "time": "2:34.61",
-      "first": "Olivia",
-      "last": "King",
-      "age": 17,
-      "meet": "2021 NC BAC Battle at the Beach",
-      "date": "2021-01-29"
      }
     ],
     "200 Breast": [
@@ -17483,6 +17492,15 @@
       "age": 18,
       "meet": "2024 NC BAC Battle at the Beach",
       "date": "2024-01-14"
+     },
+     {
+      "rank": 8,
+      "time": "2:40.26",
+      "first": "Kemper",
+      "last": "Yarnoz",
+      "age": 17,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-13"
      }
     ],
     "200 IM": [
@@ -17815,21 +17833,21 @@
      },
      {
       "rank": 4,
+      "time": "21.63",
+      "first": "Behr",
+      "last": "Petroff",
+      "age": 17,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-14"
+     },
+     {
+      "rank": 5,
       "time": "21.89",
       "first": "Will",
       "last": "Sterrett",
       "age": 17,
       "meet": "2022 NC BAC CUPID QUALIFIER",
       "date": "2022-02-11"
-     },
-     {
-      "rank": 5,
-      "time": "22.07",
-      "first": "Behr",
-      "last": "Petroff",
-      "age": 17,
-      "meet": "2026 NC BAC Halloween Bash",
-      "date": "2026-10-30"
      },
      {
       "rank": 6,
@@ -18120,6 +18138,15 @@
      },
      {
       "rank": 6,
+      "time": "48.30",
+      "first": "Behr",
+      "last": "Petroff",
+      "age": 17,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-13"
+     },
+     {
+      "rank": 7,
       "time": "48.68",
       "first": "Evan",
       "last": "Sevast",
@@ -18128,7 +18155,7 @@
       "date": "2026-02-22"
      },
      {
-      "rank": 7,
+      "rank": 8,
       "time": "49.26r",
       "first": "Will",
       "last": "House",
@@ -18137,7 +18164,7 @@
       "date": "2026-02-19"
      },
      {
-      "rank": 8,
+      "rank": 9,
       "time": "49.39",
       "first": "Bryson",
       "last": "Edwards",
@@ -18146,22 +18173,13 @@
       "date": "2025-12-14"
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "54.14",
       "first": "Alex",
       "last": "Hill",
       "age": 17,
       "meet": "2021 NC BAC HALLOWEEN BASH",
       "date": "2021-10-30"
-     },
-     {
-      "rank": 10,
-      "time": "59.18",
-      "first": "Walter",
-      "last": "Monical",
-      "age": 17,
-      "meet": "2024 NC BAC Halloween Bash",
-      "date": "2024-10-27"
      }
     ],
     "100 Back": [
@@ -18277,6 +18295,15 @@
      },
      {
       "rank": 3,
+      "time": "58.21",
+      "first": "Behr",
+      "last": "Petroff",
+      "age": 17,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-14"
+     },
+     {
+      "rank": 4,
       "time": "59.74",
       "first": "Cole",
       "last": "Witmer",
@@ -18285,7 +18312,7 @@
       "date": "2023-12-16"
      },
      {
-      "rank": 4,
+      "rank": 5,
       "time": "1:01.29",
       "first": "Will",
       "last": "Sterrett",
@@ -18294,7 +18321,7 @@
       "date": "2021-12-10"
      },
      {
-      "rank": 5,
+      "rank": 6,
       "time": "1:02.71",
       "first": "Laith",
       "last": "Ausband",
@@ -18303,7 +18330,7 @@
       "date": "2024-12-21"
      },
      {
-      "rank": 6,
+      "rank": 7,
       "time": "1:05.47",
       "first": "Bryson",
       "last": "Edwards",
@@ -18312,7 +18339,7 @@
       "date": "2025-01-12"
      },
      {
-      "rank": 7,
+      "rank": 8,
       "time": "1:05.77",
       "first": "Will",
       "last": "House",
@@ -18321,7 +18348,7 @@
       "date": "2025-10-24"
      },
      {
-      "rank": 8,
+      "rank": 9,
       "time": "1:06.78",
       "first": "Evan",
       "last": "Sevast",
@@ -18330,22 +18357,13 @@
       "date": "2026-01-25"
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "1:15.13",
       "first": "Alex",
       "last": "Hill",
       "age": 17,
       "meet": "2021 NC BAC HALLOWEEN BASH",
       "date": "2021-10-30"
-     },
-     {
-      "rank": 10,
-      "time": "1:24.17",
-      "first": "Koen",
-      "last": "Hester",
-      "age": 17,
-      "meet": "2025 NC BAC Halloween Bash",
-      "date": "2025-10-24"
      }
     ],
     "100 Fly": [
@@ -18535,6 +18553,15 @@
      },
      {
       "rank": 5,
+      "time": "1:46.74",
+      "first": "Behr",
+      "last": "Petroff",
+      "age": 17,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-15"
+     },
+     {
+      "rank": 6,
       "time": "1:47.45",
       "first": "Will",
       "last": "House",
@@ -18543,7 +18570,7 @@
       "date": "2026-02-19"
      },
      {
-      "rank": 6,
+      "rank": 7,
       "time": "1:47.67",
       "first": "Evan",
       "last": "Sevast",
@@ -18552,7 +18579,7 @@
       "date": "2026-02-20"
      },
      {
-      "rank": 7,
+      "rank": 8,
       "time": "1:50.84",
       "first": "Bryson",
       "last": "Edwards",
@@ -18561,7 +18588,7 @@
       "date": "2025-12-13"
      },
      {
-      "rank": 8,
+      "rank": 9,
       "time": "1:53.96",
       "first": "Laith",
       "last": "Ausband",
@@ -18570,22 +18597,13 @@
       "date": "2025-01-11"
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "2:02.68",
       "first": "Alex",
       "last": "Hill",
       "age": 17,
       "meet": "2021 NC BAC HALLOWEEN BASH",
       "date": "2021-10-31"
-     },
-     {
-      "rank": 10,
-      "time": "2:08.14",
-      "first": "Ryan",
-      "last": "Monteith",
-      "age": 18,
-      "meet": "2021 NC BAC - NSEA DUAL MEET",
-      "date": "2021-09-18"
      }
     ],
     "200 Back": [
@@ -19943,21 +19961,21 @@
      },
      {
       "rank": 2,
+      "time": "59.32",
+      "first": "Gentry",
+      "last": "Witmer",
+      "age": 14,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-14"
+     },
+     {
+      "rank": 3,
       "time": "1:00.82",
       "first": "Liza",
       "last": "Murtagh",
       "age": 17,
       "meet": "2021 NC ATOM SC Senior Champs",
       "date": "2021-02-20"
-     },
-     {
-      "rank": 3,
-      "time": "1:00.82",
-      "first": "Gentry",
-      "last": "Witmer",
-      "age": 14,
-      "meet": "2026 NC BAC Halloween Bash",
-      "date": "2026-10-30"
      },
      {
       "rank": 4,
@@ -20053,6 +20071,15 @@
      },
      {
       "rank": 4,
+      "time": "1:10.16",
+      "first": "Abigail",
+      "last": "Blair",
+      "age": 14,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-14"
+     },
+     {
+      "rank": 5,
       "time": "1:10.95",
       "first": "Taylor",
       "last": "Crane",
@@ -20061,22 +20088,13 @@
       "date": "2021-03-11"
      },
      {
-      "rank": 5,
+      "rank": 6,
       "time": "1:11.40",
       "first": "Riley",
       "last": "Hubard",
       "age": 17,
       "meet": "2023 NC NCS Senior Short Course Champs (ATOM)",
       "date": "2023-02-24"
-     },
-     {
-      "rank": 6,
-      "time": "1:11.46",
-      "first": "Abigail",
-      "last": "Blair",
-      "age": 14,
-      "meet": "2026 NC WOW Tri-County",
-      "date": "2026-01-24"
      },
      {
       "rank": 7,
@@ -20329,6 +20347,15 @@
      },
      {
       "rank": 4,
+      "time": "1:57.74",
+      "first": "Gentry",
+      "last": "Witmer",
+      "age": 14,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-15"
+     },
+     {
+      "rank": 5,
       "time": "1:58.57",
       "first": "Abby",
       "last": "Forbes",
@@ -20337,7 +20364,7 @@
       "date": "2023-02-24"
      },
      {
-      "rank": 5,
+      "rank": 6,
       "time": "1:59.06",
       "first": "Taylor",
       "last": "Crane",
@@ -20346,22 +20373,13 @@
       "date": "2021-02-25"
      },
      {
-      "rank": 6,
+      "rank": 7,
       "time": "1:59.92",
       "first": "Camren Grace",
       "last": "Reaves",
       "age": 18,
       "meet": "2026 NC NCS SC Senior Championships",
       "date": "2026-02-20"
-     },
-     {
-      "rank": 7,
-      "time": "1:59.94",
-      "first": "Gentry",
-      "last": "Witmer",
-      "age": 13,
-      "meet": "2026 NC NCS SC Age Group Championships",
-      "date": "2026-02-27"
      },
      {
       "rank": 8,
@@ -20412,12 +20430,12 @@
      },
      {
       "rank": 3,
-      "time": "2:13.76",
+      "time": "2:10.03",
       "first": "Gentry",
       "last": "Witmer",
       "age": 14,
-      "meet": "2026 NC STAR Tarheel States",
-      "date": "2026-03-21"
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-15"
      },
      {
       "rank": 4,
@@ -20522,6 +20540,15 @@
      },
      {
       "rank": 5,
+      "time": "2:38.52",
+      "first": "Abigail",
+      "last": "Blair",
+      "age": 14,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-13"
+     },
+     {
+      "rank": 6,
       "time": "2:38.88",
       "first": "Madi",
       "last": "Joy",
@@ -20530,7 +20557,7 @@
       "date": "2023-01-14"
      },
      {
-      "rank": 6,
+      "rank": 7,
       "time": "2:39.19",
       "first": "Olivia",
       "last": "Crowley",
@@ -20539,7 +20566,7 @@
       "date": "2023-12-17"
      },
      {
-      "rank": 7,
+      "rank": 8,
       "time": "2:39.35",
       "first": "Addison",
       "last": "Hicks",
@@ -20548,7 +20575,7 @@
       "date": "2024-02-10"
      },
      {
-      "rank": 8,
+      "rank": 9,
       "time": "2:39.77",
       "first": "Riley",
       "last": "Hubard",
@@ -20557,22 +20584,13 @@
       "date": "2023-02-25"
      },
      {
-      "rank": 9,
+      "rank": 10,
       "time": "2:42.04",
       "first": "Leah",
       "last": "Murtagh",
       "age": 15,
       "meet": "2021 NC BAC Battle at the Beach",
       "date": "2021-01-30"
-     },
-     {
-      "rank": 10,
-      "time": "2:42.15",
-      "first": "Violet",
-      "last": "Derry",
-      "age": 15,
-      "meet": "2025 NC BAC Battle at the Beach",
-      "date": "2025-01-11"
      }
     ],
     "200 Fly": [
@@ -20587,6 +20605,15 @@
      },
      {
       "rank": 2,
+      "time": "2:09.43",
+      "first": "Gentry",
+      "last": "Witmer",
+      "age": 14,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-13"
+     },
+     {
+      "rank": 3,
       "time": "2:09.96",
       "first": "Liza",
       "last": "Murtagh",
@@ -20595,22 +20622,13 @@
       "date": "2021-02-20"
      },
      {
-      "rank": 3,
+      "rank": 4,
       "time": "2:12.51",
       "first": "Madi",
       "last": "Joy",
       "age": 17,
       "meet": "2023 NC STAR Triad Tropic",
       "date": "2023-12-17"
-     },
-     {
-      "rank": 4,
-      "time": "2:12.91",
-      "first": "Gentry",
-      "last": "Witmer",
-      "age": 14,
-      "meet": "2026 NC STAR Tarheel States",
-      "date": "2026-03-22"
      },
      {
       "rank": 5,
@@ -20679,21 +20697,21 @@
      },
      {
       "rank": 2,
+      "time": "2:12.20",
+      "first": "Gentry",
+      "last": "Witmer",
+      "age": 14,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-14"
+     },
+     {
+      "rank": 3,
       "time": "2:14.39",
       "first": "Madi",
       "last": "Joy",
       "age": 17,
       "meet": "2023 NC STAR Triad Tropic",
       "date": "2023-12-17"
-     },
-     {
-      "rank": 3,
-      "time": "2:15.91",
-      "first": "Gentry",
-      "last": "Witmer",
-      "age": 13,
-      "meet": "2026 NC NCS SC Age Group Championships",
-      "date": "2026-03-01"
      },
      {
       "rank": 4,
@@ -22034,12 +22052,12 @@
      },
      {
       "rank": 3,
-      "time": "58.33",
+      "time": "58.21",
       "first": "Behr",
       "last": "Petroff",
-      "age": 16,
-      "meet": "2026 NC NCS SC Senior Championships",
-      "date": "2026-02-20"
+      "age": 17,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-14"
      },
      {
       "rank": 4,
@@ -22328,6 +22346,15 @@
      },
      {
       "rank": 5,
+      "time": "1:46.74",
+      "first": "Behr",
+      "last": "Petroff",
+      "age": 17,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-15"
+     },
+     {
+      "rank": 6,
       "time": "1:47.45",
       "first": "Will",
       "last": "House",
@@ -22336,22 +22363,13 @@
       "date": "2026-02-19"
      },
      {
-      "rank": 6,
+      "rank": 7,
       "time": "1:47.67",
       "first": "Evan",
       "last": "Sevast",
       "age": 18,
       "meet": "2026 NC NCS SC Senior Championships",
       "date": "2026-02-20"
-     },
-     {
-      "rank": 7,
-      "time": "1:48.51",
-      "first": "Behr",
-      "last": "Petroff",
-      "age": 16,
-      "meet": "2026 NC STAR Tarheel States",
-      "date": "2026-03-21"
      },
      {
       "rank": 8,
@@ -22990,6 +23008,15 @@
      },
      {
       "rank": 7,
+      "time": "12:43.44",
+      "first": "Sebastian",
+      "last": "Ventura",
+      "age": 15,
+      "meet": "2026 SC GAME Thanksgiving Turkey Invite",
+      "date": "2026-11-15"
+     },
+     {
+      "rank": 8,
       "time": "13:07.80",
       "first": "William",
       "last": "Forbes",
